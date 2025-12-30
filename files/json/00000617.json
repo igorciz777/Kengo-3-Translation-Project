@@ -1,0 +1,181 @@
+{
+  "file_info": {
+    "filename": "00000617.bin",
+    "index": 617,
+    "file_size": 11264,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 27,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "%-12s",
+          "modified": "%-12s"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "%-12s",
+          "modified": "%-12s"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "%-12s",
+          "modified": "%-12s"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "%-12s",
+          "modified": "%-12s"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "%-12s",
+          "modified": "%-12s"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "%-12s",
+          "modified": "%-12s"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "%-12s",
+          "modified": "%-12s"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "%-12s",
+          "modified": "%-12s"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "%-12s",
+          "modified": "%-12s"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "%-12s",
+          "modified": "%-12s"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "%-12s",
+          "modified": "%-12s"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "%-14s : %4s",
+          "modified": "%-14s : %4s"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "熟練度 : %2s",
+          "modified": "熟練度 : %2s"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "形１",
+          "modified": "形１"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "形２",
+          "modified": "形２"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "形３",
+          "modified": "形３"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "連続技",
+          "modified": "連続技"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "抜刀技",
+          "modified": "抜刀技"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": "待　↓",
+          "modified": "待　↓"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "　　↑",
+          "modified": "　　↑"
+        },
+        {
+          "index": 20,
+          "start": 3280,
+          "original": "　　→",
+          "modified": "　　→"
+        },
+        {
+          "index": 21,
+          "start": 3440,
+          "original": "　　・ ",
+          "modified": "　　・ "
+        },
+        {
+          "index": 22,
+          "start": 3600,
+          "original": "懸　上",
+          "modified": "懸　上"
+        },
+        {
+          "index": 23,
+          "start": 3760,
+          "original": "　　下",
+          "modified": "　　下"
+        },
+        {
+          "index": 24,
+          "start": 3920,
+          "original": "　　八",
+          "modified": "　　八"
+        },
+        {
+          "index": 25,
+          "start": 4080,
+          "original": "　　正",
+          "modified": "　　正"
+        },
+        {
+          "index": 26,
+          "start": 4240,
+          "original": "　　防",
+          "modified": "　　防"
+        }
+      ]
+    }
+  ]
+}

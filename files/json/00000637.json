@@ -1,0 +1,157 @@
+{
+  "file_info": {
+    "filename": "00000637.bin",
+    "index": 637,
+    "file_size": 13312,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 23,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "土佐勤王党編",
+          "modified": "土佐勤王党編"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "達成状況　　%2d/%2d",
+          "modified": "達成状況　　%2d/%2d"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "シナリオ切替え",
+          "modified": "シナリオ切替え"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "土佐の剣客たち",
+          "modified": "土佐の剣客たち"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "二人の俊才",
+          "modified": "二人の俊才"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "明星の誓い",
+          "modified": "明星の誓い"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "志士の盟約",
+          "modified": "志士の盟約"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "武市合流",
+          "modified": "武市合流"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "土佐勤王党結成",
+          "modified": "土佐勤王党結成"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "土佐藩の障壁",
+          "modified": "土佐藩の障壁"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "暗殺・吉田東洋",
+          "modified": "暗殺・吉田東洋"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "土佐にあだたぬ者",
+          "modified": "土佐にあだたぬ者"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "岡田以蔵再び",
+          "modified": "岡田以蔵再び"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "返り討ち",
+          "modified": "返り討ち"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "昏い忠誠心",
+          "modified": "昏い忠誠心"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "天誅隊",
+          "modified": "天誅隊"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": "狂犬の最期",
+          "modified": "狂犬の最期"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "土佐勤王党解散",
+          "modified": "土佐勤王党解散"
+        },
+        {
+          "index": 20,
+          "start": 3280,
+          "original": "武市との別れ",
+          "modified": "武市との別れ"
+        },
+        {
+          "index": 21,
+          "start": 3440,
+          "original": "土佐脱出",
+          "modified": "土佐脱出"
+        },
+        {
+          "index": 22,
+          "start": 3600,
+          "original": "武市半平太切腹",
+          "modified": "武市半平太切腹"
+        }
+      ]
+    }
+  ]
+}

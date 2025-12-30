@@ -1,0 +1,169 @@
+{
+  "file_info": {
+    "filename": "00000640.bin",
+    "index": 640,
+    "file_size": 14784,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 25,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "倒幕志士編",
+          "modified": "倒幕志士編"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "達成状況　　%2d/%2d",
+          "modified": "達成状況　　%2d/%2d"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "シナリオ切替え",
+          "modified": "シナリオ切替え"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "薩長同盟締結",
+          "modified": "薩長同盟締結"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "安堵の直後に",
+          "modified": "安堵の直後に"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "海援隊結成",
+          "modified": "海援隊結成"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "大政奉還",
+          "modified": "大政奉還"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "龍馬死す",
+          "modified": "龍馬死す"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "龍馬の仇",
+          "modified": "龍馬の仇"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "新選組掃討",
+          "modified": "新選組掃討"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "決死・沖田総司",
+          "modified": "決死・沖田総司"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "最後の戦い",
+          "modified": "最後の戦い"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "龍馬死す",
+          "modified": "龍馬死す"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "龍馬の仇",
+          "modified": "龍馬の仇"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "新選組掃討",
+          "modified": "新選組掃討"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "決死・沖田総司",
+          "modified": "決死・沖田総司"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": "最後の戦い",
+          "modified": "最後の戦い"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "龍馬死す",
+          "modified": "龍馬死す"
+        },
+        {
+          "index": 20,
+          "start": 3280,
+          "original": "龍馬の仇",
+          "modified": "龍馬の仇"
+        },
+        {
+          "index": 21,
+          "start": 3440,
+          "original": "新選組掃討",
+          "modified": "新選組掃討"
+        },
+        {
+          "index": 22,
+          "start": 3600,
+          "original": "決死・沖田総司",
+          "modified": "決死・沖田総司"
+        },
+        {
+          "index": 23,
+          "start": 3760,
+          "original": "最後の戦い",
+          "modified": "最後の戦い"
+        },
+        {
+          "index": 24,
+          "start": 3920,
+          "original": "新しい時代へ",
+          "modified": "新しい時代へ"
+        }
+      ]
+    }
+  ]
+}

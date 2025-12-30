@@ -1,0 +1,43 @@
+{
+  "file_info": {
+    "filename": "00000651.bin",
+    "index": 651,
+    "file_size": 5440,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 4,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "リスト切替え",
+          "modified": "リスト切替え"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "前項 項送り 次項",
+          "modified": "前項 項送り 次項"
+        }
+      ]
+    }
+  ]
+}

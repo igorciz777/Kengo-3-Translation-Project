@@ -1,0 +1,103 @@
+{
+  "file_info": {
+    "filename": "00000688.bin",
+    "index": 688,
+    "file_size": 5120,
+    "block_count": 3
+  },
+  "blocks": [
+    {
+      "block_index": 1,
+      "type": 1,
+      "size": 140,
+      "count": 14,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 3024,
+          "original": "豪腕 %4d/%4d",
+          "modified": "豪腕 %4d/%4d"
+        },
+        {
+          "index": 1,
+          "start": 3164,
+          "original": "切れ %4d/%4d",
+          "modified": "切れ %4d/%4d"
+        },
+        {
+          "index": 2,
+          "start": 3304,
+          "original": "俊敏 %4d/%4d",
+          "modified": "俊敏 %4d/%4d"
+        },
+        {
+          "index": 3,
+          "start": 3444,
+          "original": "見切 %4d/%4d",
+          "modified": "見切 %4d/%4d"
+        },
+        {
+          "index": 4,
+          "start": 3584,
+          "original": "精神 %4d/%4d",
+          "modified": "精神 %4d/%4d"
+        },
+        {
+          "index": 5,
+          "start": 3724,
+          "original": "頑強 %4d/%4d",
+          "modified": "頑強 %4d/%4d"
+        },
+        {
+          "index": 6,
+          "start": 3864,
+          "original": "回復 %4d/%4d",
+          "modified": "回復 %4d/%4d"
+        },
+        {
+          "index": 7,
+          "start": 4004,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 8,
+          "start": 4144,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 9,
+          "start": 4284,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 10,
+          "start": 4424,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 11,
+          "start": 4564,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 12,
+          "start": 4704,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 13,
+          "start": 4844,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        }
+      ]
+    }
+  ]
+}

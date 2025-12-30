@@ -1,0 +1,109 @@
+{
+  "file_info": {
+    "filename": "00000628.bin",
+    "index": 628,
+    "file_size": 8320,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 15,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "天下無双編",
+          "modified": "天下無双編"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "達成状況　　%2d/%2d",
+          "modified": "達成状況　　%2d/%2d"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "シナリオ切替え",
+          "modified": "シナリオ切替え"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "始まり",
+          "modified": "始まり"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "剣豪の標",
+          "modified": "剣豪の標"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "武芸試合の誘い",
+          "modified": "武芸試合の誘い"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "武芸試合開催",
+          "modified": "武芸試合開催"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "旅立ち",
+          "modified": "旅立ち"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "さらば故郷",
+          "modified": "さらば故郷"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "殺人剣・活人剣",
+          "modified": "殺人剣・活人剣"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "御前試合",
+          "modified": "御前試合"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "天下無双",
+          "modified": "天下無双"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "修羅の道へ",
+          "modified": "修羅の道へ"
+        }
+      ]
+    }
+  ]
+}

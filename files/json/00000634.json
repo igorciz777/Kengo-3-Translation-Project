@@ -1,0 +1,103 @@
+{
+  "file_info": {
+    "filename": "00000634.bin",
+    "index": 634,
+    "file_size": 7552,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 14,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "音無しの剣編",
+          "modified": "音無しの剣編"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "達成状況　　%2d/%2d",
+          "modified": "達成状況　　%2d/%2d"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "シナリオ切替え",
+          "modified": "シナリオ切替え"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "静かなる来訪者",
+          "modified": "静かなる来訪者"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "音無しの剣",
+          "modified": "音無しの剣"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "孤独の人",
+          "modified": "孤独の人"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "悔恨の道",
+          "modified": "悔恨の道"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "対決・高柳又四郎",
+          "modified": "対決・高柳又四郎"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "遭遇・高柳又四郎",
+          "modified": "遭遇・高柳又四郎"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "又四郎の望み",
+          "modified": "又四郎の望み"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "対決・高柳又四郎",
+          "modified": "対決・高柳又四郎"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "凍えた剣",
+          "modified": "凍えた剣"
+        }
+      ]
+    }
+  ]
+}

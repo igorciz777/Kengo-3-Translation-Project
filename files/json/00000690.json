@@ -1,0 +1,31 @@
+{
+  "file_info": {
+    "filename": "00000690.bin",
+    "index": 690,
+    "file_size": 2752,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 2,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": ":戻る",
+          "modified": ":戻る"
+        }
+      ]
+    }
+  ]
+}

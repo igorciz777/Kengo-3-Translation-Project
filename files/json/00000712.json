@@ -1,0 +1,151 @@
+{
+  "file_info": {
+    "filename": "00000712.bin",
+    "index": 712,
+    "file_size": 11904,
+    "block_count": 3
+  },
+  "blocks": [
+    {
+      "block_index": 1,
+      "type": 1,
+      "size": 140,
+      "count": 22,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 8336,
+          "original": "銘刀取得状況　　%d/%d",
+          "modified": "銘刀取得状況　　%d/%d"
+        },
+        {
+          "index": 1,
+          "start": 8476,
+          "original": "未鑑定",
+          "modified": "未鑑定"
+        },
+        {
+          "index": 2,
+          "start": 8616,
+          "original": "未取得",
+          "modified": "未取得"
+        },
+        {
+          "index": 3,
+          "start": 8756,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 4,
+          "start": 8896,
+          "original": "%d/%d",
+          "modified": "%d/%d"
+        },
+        {
+          "index": 5,
+          "start": 9036,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 6,
+          "start": 9176,
+          "original": "%d/%d",
+          "modified": "%d/%d"
+        },
+        {
+          "index": 7,
+          "start": 9316,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 8,
+          "start": 9456,
+          "original": "%d/%d",
+          "modified": "%d/%d"
+        },
+        {
+          "index": 9,
+          "start": 9596,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 10,
+          "start": 9736,
+          "original": "%d/%d",
+          "modified": "%d/%d"
+        },
+        {
+          "index": 11,
+          "start": 9876,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 12,
+          "start": 10016,
+          "original": "%d/%d",
+          "modified": "%d/%d"
+        },
+        {
+          "index": 13,
+          "start": 10156,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 14,
+          "start": 10296,
+          "original": "%d/%d",
+          "modified": "%d/%d"
+        },
+        {
+          "index": 15,
+          "start": 10436,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 16,
+          "start": 10576,
+          "original": "%d/%d",
+          "modified": "%d/%d"
+        },
+        {
+          "index": 17,
+          "start": 10716,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 18,
+          "start": 10856,
+          "original": "%d/%d",
+          "modified": "%d/%d"
+        },
+        {
+          "index": 19,
+          "start": 10996,
+          "original": "前項",
+          "modified": "前項"
+        },
+        {
+          "index": 20,
+          "start": 11136,
+          "original": "現在2/3項",
+          "modified": "現在2/3項"
+        },
+        {
+          "index": 21,
+          "start": 11276,
+          "original": "次項",
+          "modified": "次項"
+        }
+      ]
+    }
+  ]
+}

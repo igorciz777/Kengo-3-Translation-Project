@@ -1,0 +1,67 @@
+{
+  "file_info": {
+    "filename": "00000612.bin",
+    "index": 612,
+    "file_size": 3584,
+    "block_count": 6
+  },
+  "blocks": [
+    {
+      "block_index": 2,
+      "type": 1,
+      "size": 160,
+      "count": 8,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 336,
+          "original": "口入れ屋",
+          "modified": "口入れ屋"
+        },
+        {
+          "index": 1,
+          "start": 496,
+          "original": "9999日/",
+          "modified": "9999日/"
+        },
+        {
+          "index": 2,
+          "start": 656,
+          "original": "夕方",
+          "modified": "夕方"
+        },
+        {
+          "index": 3,
+          "start": 816,
+          "original": "9999両",
+          "modified": "9999両"
+        },
+        {
+          "index": 4,
+          "start": 976,
+          "original": "9999文",
+          "modified": "9999文"
+        },
+        {
+          "index": 5,
+          "start": 1136,
+          "original": "体力",
+          "modified": "体力"
+        },
+        {
+          "index": 6,
+          "start": 1296,
+          "original": ":",
+          "modified": ":"
+        },
+        {
+          "index": 7,
+          "start": 1456,
+          "original": "999%",
+          "modified": "999%"
+        }
+      ]
+    }
+  ]
+}

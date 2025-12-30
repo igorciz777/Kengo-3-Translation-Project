@@ -1,0 +1,463 @@
+{
+  "file_info": {
+    "filename": "00000677.bin",
+    "index": 677,
+    "file_size": 25856,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 74,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "自流派",
+          "modified": "自流派"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "新形格納場所選択",
+          "modified": "新形格納場所選択"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "壱",
+          "modified": "壱"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "正眼",
+          "modified": "正眼"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "熟:%s",
+          "modified": "熟:%s"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "連続技:",
+          "modified": "連続技:"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "技名最大六字",
+          "modified": "技名最大六字"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "抜刀技:",
+          "modified": "抜刀技:"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "技名最大六字",
+          "modified": "技名最大六字"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "待:",
+          "modified": "待:"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "懸:",
+          "modified": "懸:"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "弐",
+          "modified": "弐"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "正眼",
+          "modified": "正眼"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "熟:%s",
+          "modified": "熟:%s"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "連続技:",
+          "modified": "連続技:"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "技名最大六字",
+          "modified": "技名最大六字"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "抜刀技:",
+          "modified": "抜刀技:"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "技名最大六字",
+          "modified": "技名最大六字"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": "待:",
+          "modified": "待:"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "懸:",
+          "modified": "懸:"
+        },
+        {
+          "index": 20,
+          "start": 3280,
+          "original": "参",
+          "modified": "参"
+        },
+        {
+          "index": 21,
+          "start": 3440,
+          "original": "正眼",
+          "modified": "正眼"
+        },
+        {
+          "index": 22,
+          "start": 3600,
+          "original": "熟:%s",
+          "modified": "熟:%s"
+        },
+        {
+          "index": 23,
+          "start": 3760,
+          "original": "連続技:",
+          "modified": "連続技:"
+        },
+        {
+          "index": 24,
+          "start": 3920,
+          "original": "技名最大六字",
+          "modified": "技名最大六字"
+        },
+        {
+          "index": 25,
+          "start": 4080,
+          "original": "抜刀技:",
+          "modified": "抜刀技:"
+        },
+        {
+          "index": 26,
+          "start": 4240,
+          "original": "技名最大六字",
+          "modified": "技名最大六字"
+        },
+        {
+          "index": 27,
+          "start": 4400,
+          "original": "待:",
+          "modified": "待:"
+        },
+        {
+          "index": 28,
+          "start": 4560,
+          "original": "懸:",
+          "modified": "懸:"
+        },
+        {
+          "index": 29,
+          "start": 4720,
+          "original": "四",
+          "modified": "四"
+        },
+        {
+          "index": 30,
+          "start": 4880,
+          "original": "正眼",
+          "modified": "正眼"
+        },
+        {
+          "index": 31,
+          "start": 5040,
+          "original": "熟:%s",
+          "modified": "熟:%s"
+        },
+        {
+          "index": 32,
+          "start": 5200,
+          "original": "連続技:",
+          "modified": "連続技:"
+        },
+        {
+          "index": 33,
+          "start": 5360,
+          "original": "技名最大六字",
+          "modified": "技名最大六字"
+        },
+        {
+          "index": 34,
+          "start": 5520,
+          "original": "抜刀技:",
+          "modified": "抜刀技:"
+        },
+        {
+          "index": 35,
+          "start": 5680,
+          "original": "技名最大六字",
+          "modified": "技名最大六字"
+        },
+        {
+          "index": 36,
+          "start": 5840,
+          "original": "待:",
+          "modified": "待:"
+        },
+        {
+          "index": 37,
+          "start": 6000,
+          "original": "懸:",
+          "modified": "懸:"
+        },
+        {
+          "index": 38,
+          "start": 6160,
+          "original": "五",
+          "modified": "五"
+        },
+        {
+          "index": 39,
+          "start": 6320,
+          "original": "正眼",
+          "modified": "正眼"
+        },
+        {
+          "index": 40,
+          "start": 6480,
+          "original": "熟:%s",
+          "modified": "熟:%s"
+        },
+        {
+          "index": 41,
+          "start": 6640,
+          "original": "連続技:",
+          "modified": "連続技:"
+        },
+        {
+          "index": 42,
+          "start": 6800,
+          "original": "技名最大六字",
+          "modified": "技名最大六字"
+        },
+        {
+          "index": 43,
+          "start": 6960,
+          "original": "抜刀技:",
+          "modified": "抜刀技:"
+        },
+        {
+          "index": 44,
+          "start": 7120,
+          "original": "技名最大六字",
+          "modified": "技名最大六字"
+        },
+        {
+          "index": 45,
+          "start": 7280,
+          "original": "待:",
+          "modified": "待:"
+        },
+        {
+          "index": 46,
+          "start": 7440,
+          "original": "懸:",
+          "modified": "懸:"
+        },
+        {
+          "index": 47,
+          "start": 7600,
+          "original": "六",
+          "modified": "六"
+        },
+        {
+          "index": 48,
+          "start": 7760,
+          "original": "正眼",
+          "modified": "正眼"
+        },
+        {
+          "index": 49,
+          "start": 7920,
+          "original": "熟:%s",
+          "modified": "熟:%s"
+        },
+        {
+          "index": 50,
+          "start": 8080,
+          "original": "連続技:",
+          "modified": "連続技:"
+        },
+        {
+          "index": 51,
+          "start": 8240,
+          "original": "技名最大六字",
+          "modified": "技名最大六字"
+        },
+        {
+          "index": 52,
+          "start": 8400,
+          "original": "抜刀技:",
+          "modified": "抜刀技:"
+        },
+        {
+          "index": 53,
+          "start": 8560,
+          "original": "技名最大六字",
+          "modified": "技名最大六字"
+        },
+        {
+          "index": 54,
+          "start": 8720,
+          "original": "待:",
+          "modified": "待:"
+        },
+        {
+          "index": 55,
+          "start": 8880,
+          "original": "懸:",
+          "modified": "懸:"
+        },
+        {
+          "index": 56,
+          "start": 9040,
+          "original": "七",
+          "modified": "七"
+        },
+        {
+          "index": 57,
+          "start": 9200,
+          "original": "正眼",
+          "modified": "正眼"
+        },
+        {
+          "index": 58,
+          "start": 9360,
+          "original": "熟:%s",
+          "modified": "熟:%s"
+        },
+        {
+          "index": 59,
+          "start": 9520,
+          "original": "連続技:",
+          "modified": "連続技:"
+        },
+        {
+          "index": 60,
+          "start": 9680,
+          "original": "技名最大六字",
+          "modified": "技名最大六字"
+        },
+        {
+          "index": 61,
+          "start": 9840,
+          "original": "抜刀技:",
+          "modified": "抜刀技:"
+        },
+        {
+          "index": 62,
+          "start": 10000,
+          "original": "技名最大六字",
+          "modified": "技名最大六字"
+        },
+        {
+          "index": 63,
+          "start": 10160,
+          "original": "待:",
+          "modified": "待:"
+        },
+        {
+          "index": 64,
+          "start": 10320,
+          "original": "懸:",
+          "modified": "懸:"
+        },
+        {
+          "index": 65,
+          "start": 10480,
+          "original": "八",
+          "modified": "八"
+        },
+        {
+          "index": 66,
+          "start": 10640,
+          "original": "正眼",
+          "modified": "正眼"
+        },
+        {
+          "index": 67,
+          "start": 10800,
+          "original": "熟:%s",
+          "modified": "熟:%s"
+        },
+        {
+          "index": 68,
+          "start": 10960,
+          "original": "連続技:",
+          "modified": "連続技:"
+        },
+        {
+          "index": 69,
+          "start": 11120,
+          "original": "技名最大六字",
+          "modified": "技名最大六字"
+        },
+        {
+          "index": 70,
+          "start": 11280,
+          "original": "抜刀技:",
+          "modified": "抜刀技:"
+        },
+        {
+          "index": 71,
+          "start": 11440,
+          "original": "技名最大六字",
+          "modified": "技名最大六字"
+        },
+        {
+          "index": 72,
+          "start": 11600,
+          "original": "待:",
+          "modified": "待:"
+        },
+        {
+          "index": 73,
+          "start": 11760,
+          "original": "懸:",
+          "modified": "懸:"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "file_info": {
+    "filename": "00000638.bin",
+    "index": 638,
+    "file_size": 11712,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 20,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "逃げの小五郎編",
+          "modified": "逃げの小五郎編"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "達成状況　　%2d/%2d",
+          "modified": "達成状況　　%2d/%2d"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "シナリオ切替え",
+          "modified": "シナリオ切替え"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "三道場・揃い踏み",
+          "modified": "三道場・揃い踏み"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "明星の誓い",
+          "modified": "明星の誓い"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "志士の盟約",
+          "modified": "志士の盟約"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "桂合流",
+          "modified": "桂合流"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "桂の色",
+          "modified": "桂の色"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "京の政変",
+          "modified": "京の政変"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "新選組奇襲",
+          "modified": "新選組奇襲"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "池田屋訪問",
+          "modified": "池田屋訪問"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "逃げの小五郎",
+          "modified": "逃げの小五郎"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "長州敗走",
+          "modified": "長州敗走"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "再会・坂本龍馬",
+          "modified": "再会・坂本龍馬"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "桂小五郎の決断",
+          "modified": "桂小五郎の決断"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "桂の焦り・壱",
+          "modified": "桂の焦り・壱"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": "桂の焦り・弐",
+          "modified": "桂の焦り・弐"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "桂の焦り・参",
+          "modified": "桂の焦り・参"
+        }
+      ]
+    }
+  ]
+}

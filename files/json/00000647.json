@@ -1,0 +1,475 @@
+{
+  "file_info": {
+    "filename": "00000647.bin",
+    "index": 647,
+    "file_size": 23168,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 76,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "体得状況 %2d/%2d",
+          "modified": "体得状況 %2d/%2d"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "新技開発状況",
+          "modified": "新技開発状況"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "新技",
+          "modified": "新技"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": ":",
+          "modified": ":"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": ":",
+          "modified": ":"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "最大文字数六",
+          "modified": "最大文字数六"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "最大文字数六",
+          "modified": "最大文字数六"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 20,
+          "start": 3280,
+          "original": "最大文字数六",
+          "modified": "最大文字数六"
+        },
+        {
+          "index": 21,
+          "start": 3440,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 22,
+          "start": 3600,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 23,
+          "start": 3760,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 24,
+          "start": 3920,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 25,
+          "start": 4080,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 26,
+          "start": 4240,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 27,
+          "start": 4400,
+          "original": "最大文字数六",
+          "modified": "最大文字数六"
+        },
+        {
+          "index": 28,
+          "start": 4560,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 29,
+          "start": 4720,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 30,
+          "start": 4880,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 31,
+          "start": 5040,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 32,
+          "start": 5200,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 33,
+          "start": 5360,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 34,
+          "start": 5520,
+          "original": "最大文字数六",
+          "modified": "最大文字数六"
+        },
+        {
+          "index": 35,
+          "start": 5680,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 36,
+          "start": 5840,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 37,
+          "start": 6000,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 38,
+          "start": 6160,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 39,
+          "start": 6320,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 40,
+          "start": 6480,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 41,
+          "start": 6640,
+          "original": "最大文字数六",
+          "modified": "最大文字数六"
+        },
+        {
+          "index": 42,
+          "start": 6800,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 43,
+          "start": 6960,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 44,
+          "start": 7120,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 45,
+          "start": 7280,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 46,
+          "start": 7440,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 47,
+          "start": 7600,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 48,
+          "start": 7760,
+          "original": "最大文字数六",
+          "modified": "最大文字数六"
+        },
+        {
+          "index": 49,
+          "start": 7920,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 50,
+          "start": 8080,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 51,
+          "start": 8240,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 52,
+          "start": 8400,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 53,
+          "start": 8560,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 54,
+          "start": 8720,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 55,
+          "start": 8880,
+          "original": "最大文字数六",
+          "modified": "最大文字数六"
+        },
+        {
+          "index": 56,
+          "start": 9040,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 57,
+          "start": 9200,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 58,
+          "start": 9360,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 59,
+          "start": 9520,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 60,
+          "start": 9680,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 61,
+          "start": 9840,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 62,
+          "start": 10000,
+          "original": "最大文字数六",
+          "modified": "最大文字数六"
+        },
+        {
+          "index": 63,
+          "start": 10160,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 64,
+          "start": 10320,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 65,
+          "start": 10480,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 66,
+          "start": 10640,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 67,
+          "start": 10800,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 68,
+          "start": 10960,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 69,
+          "start": 11120,
+          "original": "最大文字数六",
+          "modified": "最大文字数六"
+        },
+        {
+          "index": 70,
+          "start": 11280,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 71,
+          "start": 11440,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 72,
+          "start": 11600,
+          "original": "技名",
+          "modified": "技名"
+        },
+        {
+          "index": 73,
+          "start": 11760,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 74,
+          "start": 11920,
+          "original": "上段",
+          "modified": "上段"
+        },
+        {
+          "index": 75,
+          "start": 12080,
+          "original": "技名",
+          "modified": "技名"
+        }
+      ]
+    }
+  ]
+}

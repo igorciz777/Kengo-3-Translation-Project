@@ -1,0 +1,61 @@
+{
+  "file_info": {
+    "filename": "00000648.bin",
+    "index": 648,
+    "file_size": 5056,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 7,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "本編",
+          "modified": "本編"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "対決編",
+          "modified": "対決編"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "番外編",
+          "modified": "番外編"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "達成録",
+          "modified": "達成録"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "設定",
+          "modified": "設定"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "始めから",
+          "modified": "始めから"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "続きから",
+          "modified": "続きから"
+        }
+      ]
+    }
+  ]
+}

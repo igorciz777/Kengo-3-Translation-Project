@@ -1,0 +1,67 @@
+{
+  "file_info": {
+    "filename": "00000649.bin",
+    "index": 649,
+    "file_size": 3648,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 8,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "最大値八文字之助",
+          "modified": "最大値八文字之助"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "最大値八文字之助",
+          "modified": "最大値八文字之助"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "最大値八文字之助",
+          "modified": "最大値八文字之助"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "最大値八文字之助",
+          "modified": "最大値八文字之助"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "最大値八文字之助",
+          "modified": "最大値八文字之助"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "最大値八文字之助",
+          "modified": "最大値八文字之助"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "最大値八文字之助",
+          "modified": "最大値八文字之助"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "最大値八文字之助",
+          "modified": "最大値八文字之助"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "file_info": {
+    "filename": "00000619.bin",
+    "index": 619,
+    "file_size": 9280,
+    "block_count": 5
+  },
+  "blocks": [
+    {
+      "block_index": 1,
+      "type": 1,
+      "size": 160,
+      "count": 29,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 144,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 1,
+          "start": 304,
+          "original": "100人斬り(初級)結果",
+          "modified": "100人斬り(初級)結果"
+        },
+        {
+          "index": 2,
+          "start": 464,
+          "original": "1000人斬り(上級)結果",
+          "modified": "1000人斬り(上級)結果"
+        },
+        {
+          "index": 3,
+          "start": 624,
+          "original": "煩悩斬り(108人斬り)結果",
+          "modified": "煩悩斬り(108人斬り)結果"
+        },
+        {
+          "index": 4,
+          "start": 784,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 5,
+          "start": 944,
+          "original": "%4d人斬り達成",
+          "modified": "%4d人斬り達成"
+        },
+        {
+          "index": 6,
+          "start": 1104,
+          "original": "経過時間%02d分%02d秒%02d",
+          "modified": "経過時間%02d分%02d秒%02d"
+        },
+        {
+          "index": 7,
+          "start": 1264,
+          "original": "ネットRANKINGパスワード",
+          "modified": "ネットRANKINGパスワード"
+        },
+        {
+          "index": 8,
+          "start": 1424,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 9,
+          "start": 1584,
+          "original": "1.%-s",
+          "modified": "1.%-s"
+        },
+        {
+          "index": 10,
+          "start": 1744,
+          "original": "2.%-s",
+          "modified": "2.%-s"
+        },
+        {
+          "index": 11,
+          "start": 1904,
+          "original": "3.%-s",
+          "modified": "3.%-s"
+        },
+        {
+          "index": 12,
+          "start": 2064,
+          "original": "4.%-s",
+          "modified": "4.%-s"
+        },
+        {
+          "index": 13,
+          "start": 2224,
+          "original": "5.%-s",
+          "modified": "5.%-s"
+        },
+        {
+          "index": 14,
+          "start": 2384,
+          "original": "%4d人",
+          "modified": "%4d人"
+        },
+        {
+          "index": 15,
+          "start": 2544,
+          "original": "%4d人",
+          "modified": "%4d人"
+        },
+        {
+          "index": 16,
+          "start": 2704,
+          "original": "%4d人",
+          "modified": "%4d人"
+        },
+        {
+          "index": 17,
+          "start": 2864,
+          "original": "%4d人",
+          "modified": "%4d人"
+        },
+        {
+          "index": 18,
+          "start": 3024,
+          "original": "%4d人",
+          "modified": "%4d人"
+        },
+        {
+          "index": 19,
+          "start": 3184,
+          "original": "%02d分%02d秒%02d",
+          "modified": "%02d分%02d秒%02d"
+        },
+        {
+          "index": 20,
+          "start": 3344,
+          "original": "%02d分%02d秒%02d",
+          "modified": "%02d分%02d秒%02d"
+        },
+        {
+          "index": 21,
+          "start": 3504,
+          "original": "%02d分%02d秒%02d",
+          "modified": "%02d分%02d秒%02d"
+        },
+        {
+          "index": 22,
+          "start": 3664,
+          "original": "%02d分%02d秒%02d",
+          "modified": "%02d分%02d秒%02d"
+        },
+        {
+          "index": 23,
+          "start": 3824,
+          "original": "%02d分%02d秒%02d",
+          "modified": "%02d分%02d秒%02d"
+        },
+        {
+          "index": 24,
+          "start": 3984,
+          "original": "スコアを保存しますか？",
+          "modified": "スコアを保存しますか？"
+        },
+        {
+          "index": 25,
+          "start": 4144,
+          "original": "はい",
+          "modified": "はい"
+        },
+        {
+          "index": 26,
+          "start": 4304,
+          "original": "いいえ",
+          "modified": "いいえ"
+        },
+        {
+          "index": 27,
+          "start": 4464,
+          "original": "記録無し",
+          "modified": "記録無し"
+        },
+        {
+          "index": 28,
+          "start": 4624,
+          "original": "再挑戦しますか？",
+          "modified": "再挑戦しますか？"
+        }
+      ]
+    }
+  ]
+}

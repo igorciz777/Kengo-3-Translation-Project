@@ -1,0 +1,211 @@
+{
+  "file_info": {
+    "filename": "00000646.bin",
+    "index": 646,
+    "file_size": 10944,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 32,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "物語達成状況",
+          "modified": "物語達成状況"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "物語選択",
+          "modified": "物語選択"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "天下無双編",
+          "modified": "天下無双編"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "最強の剣豪編",
+          "modified": "最強の剣豪編"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "柳生一族の確執編",
+          "modified": "柳生一族の確執編"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "一刀斎後継者編",
+          "modified": "一刀斎後継者編"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "赤穂の浪士編",
+          "modified": "赤穂の浪士編"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "筑後の巨漢編",
+          "modified": "筑後の巨漢編"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "音無しの剣編",
+          "modified": "音無しの剣編"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "江戸三大道場編",
+          "modified": "江戸三大道場編"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "海援隊編",
+          "modified": "海援隊編"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "土佐勤王党編",
+          "modified": "土佐勤王党編"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "逃げの小五郎編",
+          "modified": "逃げの小五郎編"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "薩摩の豪傑編",
+          "modified": "薩摩の豪傑編"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "倒幕志士編",
+          "modified": "倒幕志士編"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "新選組隊士編",
+          "modified": "新選組隊士編"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": "（%2d/%2d）",
+          "modified": "（%2d/%2d）"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "（%2d/%2d）",
+          "modified": "（%2d/%2d）"
+        },
+        {
+          "index": 20,
+          "start": 3280,
+          "original": "（%2d/%2d）",
+          "modified": "（%2d/%2d）"
+        },
+        {
+          "index": 21,
+          "start": 3440,
+          "original": "（%2d/%2d）",
+          "modified": "（%2d/%2d）"
+        },
+        {
+          "index": 22,
+          "start": 3600,
+          "original": "（%2d/%2d）",
+          "modified": "（%2d/%2d）"
+        },
+        {
+          "index": 23,
+          "start": 3760,
+          "original": "（%2d/%2d）",
+          "modified": "（%2d/%2d）"
+        },
+        {
+          "index": 24,
+          "start": 3920,
+          "original": "（%2d/%2d）",
+          "modified": "（%2d/%2d）"
+        },
+        {
+          "index": 25,
+          "start": 4080,
+          "original": "（%2d/%2d）",
+          "modified": "（%2d/%2d）"
+        },
+        {
+          "index": 26,
+          "start": 4240,
+          "original": "（%2d/%2d）",
+          "modified": "（%2d/%2d）"
+        },
+        {
+          "index": 27,
+          "start": 4400,
+          "original": "（%2d/%2d）",
+          "modified": "（%2d/%2d）"
+        },
+        {
+          "index": 28,
+          "start": 4560,
+          "original": "（%2d/%2d）",
+          "modified": "（%2d/%2d）"
+        },
+        {
+          "index": 29,
+          "start": 4720,
+          "original": "（%2d/%2d）",
+          "modified": "（%2d/%2d）"
+        },
+        {
+          "index": 30,
+          "start": 4880,
+          "original": "（%2d/%2d）",
+          "modified": "（%2d/%2d）"
+        },
+        {
+          "index": 31,
+          "start": 5040,
+          "original": "（%2d/%2d）",
+          "modified": "（%2d/%2d）"
+        }
+      ]
+    }
+  ]
+}

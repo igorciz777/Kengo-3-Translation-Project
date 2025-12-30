@@ -1,0 +1,115 @@
+{
+  "file_info": {
+    "filename": "00000653.bin",
+    "index": 653,
+    "file_size": 6080,
+    "block_count": 6
+  },
+  "blocks": [
+    {
+      "block_index": 2,
+      "type": 1,
+      "size": 160,
+      "count": 16,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 336,
+          "original": "ヘルプ文字",
+          "modified": "ヘルプ文字"
+        },
+        {
+          "index": 1,
+          "start": 496,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 2,
+          "start": 656,
+          "original": ":確認",
+          "modified": ":確認"
+        },
+        {
+          "index": 3,
+          "start": 816,
+          "original": ":再生",
+          "modified": ":再生"
+        },
+        {
+          "index": 4,
+          "start": 976,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 5,
+          "start": 1136,
+          "original": ":国選択",
+          "modified": ":国選択"
+        },
+        {
+          "index": 6,
+          "start": 1296,
+          "original": ":変更",
+          "modified": ":変更"
+        },
+        {
+          "index": 7,
+          "start": 1456,
+          "original": ":選択",
+          "modified": ":選択"
+        },
+        {
+          "index": 8,
+          "start": 1616,
+          "original": ":確認",
+          "modified": ":確認"
+        },
+        {
+          "index": 9,
+          "start": 1776,
+          "original": ":頁戻し",
+          "modified": ":頁戻し"
+        },
+        {
+          "index": 10,
+          "start": 1936,
+          "original": ":頁送り",
+          "modified": ":頁送り"
+        },
+        {
+          "index": 11,
+          "start": 2096,
+          "original": "順送り",
+          "modified": "順送り"
+        },
+        {
+          "index": 12,
+          "start": 2256,
+          "original": "前項",
+          "modified": "前項"
+        },
+        {
+          "index": 13,
+          "start": 2416,
+          "original": "次項",
+          "modified": "次項"
+        },
+        {
+          "index": 14,
+          "start": 2576,
+          "original": ":確認",
+          "modified": ":確認"
+        },
+        {
+          "index": 15,
+          "start": 2736,
+          "original": ":外す",
+          "modified": ":外す"
+        }
+      ]
+    }
+  ]
+}

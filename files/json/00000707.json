@@ -1,0 +1,61 @@
+{
+  "file_info": {
+    "filename": "00000707.bin",
+    "index": 707,
+    "file_size": 4544,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 7,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": ":試合開始",
+          "modified": ":試合開始"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "主人公",
+          "modified": "主人公"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "敵１",
+          "modified": "敵１"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "敵２",
+          "modified": "敵２"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "敵３",
+          "modified": "敵３"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "敵４",
+          "modified": "敵４"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "敵５",
+          "modified": "敵５"
+        }
+      ]
+    }
+  ]
+}

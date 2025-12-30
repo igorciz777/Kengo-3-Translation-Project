@@ -1,0 +1,151 @@
+{
+  "file_info": {
+    "filename": "00000710.bin",
+    "index": 710,
+    "file_size": 6400,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 22,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "豪腕",
+          "modified": "豪腕"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "切れ",
+          "modified": "切れ"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "俊敏",
+          "modified": "俊敏"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "見切",
+          "modified": "見切"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "精神",
+          "modified": "精神"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "頑強",
+          "modified": "頑強"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "回復",
+          "modified": "回復"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "%d%%",
+          "modified": "%d%%"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 20,
+          "start": 3280,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 21,
+          "start": 3440,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "file_info": {
+    "filename": "00000675.bin",
+    "index": 675,
+    "file_size": 1152,
+    "block_count": 3
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 3,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "人類絶滅まであと365日。",
+          "modified": "人類絶滅まであと365日。"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "いざヤマトでイスカンダルへ",
+          "modified": "いざヤマトでイスカンダルへ"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "真ん中の行",
+          "modified": "真ん中の行"
+        }
+      ]
+    }
+  ]
+}

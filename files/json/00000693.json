@@ -1,0 +1,67 @@
+{
+  "file_info": {
+    "filename": "00000693.bin",
+    "index": 693,
+    "file_size": 6400,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 8,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "野袴　壱",
+          "modified": "野袴　壱"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "/",
+          "modified": "/"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "鶯茶染",
+          "modified": "鶯茶染"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "%4d",
+          "modified": "%4d"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "文",
+          "modified": "文"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "両",
+          "modified": "両"
+        }
+      ]
+    }
+  ]
+}

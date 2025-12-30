@@ -1,0 +1,187 @@
+{
+  "file_info": {
+    "filename": "00000676.bin",
+    "index": 676,
+    "file_size": 11008,
+    "block_count": 6
+  },
+  "blocks": [
+    {
+      "block_index": 2,
+      "type": 1,
+      "size": 160,
+      "count": 28,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 336,
+          "original": "全般",
+          "modified": "全般"
+        },
+        {
+          "index": 1,
+          "start": 496,
+          "original": "体力表示",
+          "modified": "体力表示"
+        },
+        {
+          "index": 2,
+          "start": 656,
+          "original": "表示",
+          "modified": "表示"
+        },
+        {
+          "index": 3,
+          "start": 816,
+          "original": "非表示",
+          "modified": "非表示"
+        },
+        {
+          "index": 4,
+          "start": 976,
+          "original": "形表示",
+          "modified": "形表示"
+        },
+        {
+          "index": 5,
+          "start": 1136,
+          "original": "表示",
+          "modified": "表示"
+        },
+        {
+          "index": 6,
+          "start": 1296,
+          "original": "非表示",
+          "modified": "非表示"
+        },
+        {
+          "index": 7,
+          "start": 1456,
+          "original": "血飛沫",
+          "modified": "血飛沫"
+        },
+        {
+          "index": 8,
+          "start": 1616,
+          "original": "有り",
+          "modified": "有り"
+        },
+        {
+          "index": 9,
+          "start": 1776,
+          "original": "無し",
+          "modified": "無し"
+        },
+        {
+          "index": 10,
+          "start": 1936,
+          "original": "音声出力",
+          "modified": "音声出力"
+        },
+        {
+          "index": 11,
+          "start": 2096,
+          "original": "ステレオ",
+          "modified": "ステレオ"
+        },
+        {
+          "index": 12,
+          "start": 2256,
+          "original": "モノラル",
+          "modified": "モノラル"
+        },
+        {
+          "index": 13,
+          "start": 2416,
+          "original": "楽曲再生",
+          "modified": "楽曲再生"
+        },
+        {
+          "index": 14,
+          "start": 2576,
+          "original": "有り",
+          "modified": "有り"
+        },
+        {
+          "index": 15,
+          "start": 2736,
+          "original": "無し",
+          "modified": "無し"
+        },
+        {
+          "index": 16,
+          "start": 2896,
+          "original": "振動機能",
+          "modified": "振動機能"
+        },
+        {
+          "index": 17,
+          "start": 3056,
+          "original": "有り",
+          "modified": "有り"
+        },
+        {
+          "index": 18,
+          "start": 3216,
+          "original": "無し",
+          "modified": "無し"
+        },
+        {
+          "index": 19,
+          "start": 3376,
+          "original": "対決編",
+          "modified": "対決編"
+        },
+        {
+          "index": 20,
+          "start": 3536,
+          "original": "勝利数",
+          "modified": "勝利数"
+        },
+        {
+          "index": 21,
+          "start": 3696,
+          "original": "1",
+          "modified": "1"
+        },
+        {
+          "index": 22,
+          "start": 3856,
+          "original": "2",
+          "modified": "2"
+        },
+        {
+          "index": 23,
+          "start": 4016,
+          "original": "3",
+          "modified": "3"
+        },
+        {
+          "index": 24,
+          "start": 4176,
+          "original": "4",
+          "modified": "4"
+        },
+        {
+          "index": 25,
+          "start": 4336,
+          "original": "5",
+          "modified": "5"
+        },
+        {
+          "index": 26,
+          "start": 4496,
+          "original": "決定",
+          "modified": "決定"
+        },
+        {
+          "index": 27,
+          "start": 4656,
+          "original": "戻る",
+          "modified": "戻る"
+        }
+      ]
+    }
+  ]
+}

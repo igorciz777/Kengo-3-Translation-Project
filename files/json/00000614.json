@@ -1,0 +1,37 @@
+{
+  "file_info": {
+    "filename": "00000614.bin",
+    "index": 614,
+    "file_size": 5184,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 3,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "出身地選択",
+          "modified": "出身地選択"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": ":戻る",
+          "modified": ":戻る"
+        }
+      ]
+    }
+  ]
+}

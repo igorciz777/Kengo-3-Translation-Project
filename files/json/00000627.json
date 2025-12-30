@@ -1,0 +1,571 @@
+{
+  "file_info": {
+    "filename": "00000627.bin",
+    "index": 627,
+    "file_size": 21504,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 92,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "成長型選択",
+          "modified": "成長型選択"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "初心者向ノ型",
+          "modified": "初心者向ノ型"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "初級標準型",
+          "modified": "初級標準型"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "体力強化型",
+          "modified": "体力強化型"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "剣技重視型",
+          "modified": "剣技重視型"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "疾風草剣型",
+          "modified": "疾風草剣型"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "剣禅一如型",
+          "modified": "剣禅一如型"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "初期自由型",
+          "modified": "初期自由型"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "中級者向ノ型",
+          "modified": "中級者向ノ型"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "中級標準型",
+          "modified": "中級標準型"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "体力強化型",
+          "modified": "体力強化型"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "剣技重視型",
+          "modified": "剣技重視型"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "疾風草剣型",
+          "modified": "疾風草剣型"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "剣禅一如型",
+          "modified": "剣禅一如型"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "中級試練型",
+          "modified": "中級試練型"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "上級者向ノ型",
+          "modified": "上級者向ノ型"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": "上級標準型",
+          "modified": "上級標準型"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "体力強化型",
+          "modified": "体力強化型"
+        },
+        {
+          "index": 20,
+          "start": 3280,
+          "original": "剣技重視型",
+          "modified": "剣技重視型"
+        },
+        {
+          "index": 21,
+          "start": 3440,
+          "original": "疾風草剣型",
+          "modified": "疾風草剣型"
+        },
+        {
+          "index": 22,
+          "start": 3600,
+          "original": "剣禅一如型",
+          "modified": "剣禅一如型"
+        },
+        {
+          "index": 23,
+          "start": 3760,
+          "original": "究極試練型",
+          "modified": "究極試練型"
+        },
+        {
+          "index": 24,
+          "start": 3920,
+          "original": "豪腕：%4d/%4d",
+          "modified": "豪腕：%4d/%4d"
+        },
+        {
+          "index": 25,
+          "start": 4080,
+          "original": "切れ：%4d/%4d",
+          "modified": "切れ：%4d/%4d"
+        },
+        {
+          "index": 26,
+          "start": 4240,
+          "original": "俊敏：%4d/%4d",
+          "modified": "俊敏：%4d/%4d"
+        },
+        {
+          "index": 27,
+          "start": 4400,
+          "original": "見切：%4d/%4d",
+          "modified": "見切：%4d/%4d"
+        },
+        {
+          "index": 28,
+          "start": 4560,
+          "original": "精神：%4d/%4d",
+          "modified": "精神：%4d/%4d"
+        },
+        {
+          "index": 29,
+          "start": 4720,
+          "original": "頑強：%4d/%4d",
+          "modified": "頑強：%4d/%4d"
+        },
+        {
+          "index": 30,
+          "start": 4880,
+          "original": "回復：%4d/%4d",
+          "modified": "回復：%4d/%4d"
+        },
+        {
+          "index": 31,
+          "start": 5040,
+          "original": "成長率：%3d％",
+          "modified": "成長率：%3d％"
+        },
+        {
+          "index": 32,
+          "start": 5200,
+          "original": "成長率：%3d％",
+          "modified": "成長率：%3d％"
+        },
+        {
+          "index": 33,
+          "start": 5360,
+          "original": "成長率：%3d％",
+          "modified": "成長率：%3d％"
+        },
+        {
+          "index": 34,
+          "start": 5520,
+          "original": "成長率：%3d％",
+          "modified": "成長率：%3d％"
+        },
+        {
+          "index": 35,
+          "start": 5680,
+          "original": "成長率：%3d％",
+          "modified": "成長率：%3d％"
+        },
+        {
+          "index": 36,
+          "start": 5840,
+          "original": "成長率：%3d％",
+          "modified": "成長率：%3d％"
+        },
+        {
+          "index": 37,
+          "start": 6000,
+          "original": "成長率：%3d％",
+          "modified": "成長率：%3d％"
+        },
+        {
+          "index": 38,
+          "start": 6160,
+          "original": "初級標準型(総和限界値 42000)",
+          "modified": "初級標準型(総和限界値 42000)"
+        },
+        {
+          "index": 39,
+          "start": 6320,
+          "original": "体力強化型(総和限界値 42000)",
+          "modified": "体力強化型(総和限界値 42000)"
+        },
+        {
+          "index": 40,
+          "start": 6480,
+          "original": "剣技重視型(総和限界値 42000)",
+          "modified": "剣技重視型(総和限界値 42000)"
+        },
+        {
+          "index": 41,
+          "start": 6640,
+          "original": "疾風草剣型(総和限界値 42000)",
+          "modified": "疾風草剣型(総和限界値 42000)"
+        },
+        {
+          "index": 42,
+          "start": 6800,
+          "original": "剣禅一如型(総和限界値 42000)",
+          "modified": "剣禅一如型(総和限界値 42000)"
+        },
+        {
+          "index": 43,
+          "start": 6960,
+          "original": "初期自由型(総和限界値 42000)",
+          "modified": "初期自由型(総和限界値 42000)"
+        },
+        {
+          "index": 44,
+          "start": 7120,
+          "original": "中級標準型(総和限界値 42000)",
+          "modified": "中級標準型(総和限界値 42000)"
+        },
+        {
+          "index": 45,
+          "start": 7280,
+          "original": "体力強化型(総和限界値 42000)",
+          "modified": "体力強化型(総和限界値 42000)"
+        },
+        {
+          "index": 46,
+          "start": 7440,
+          "original": "剣技重視型(総和限界値 42000)",
+          "modified": "剣技重視型(総和限界値 42000)"
+        },
+        {
+          "index": 47,
+          "start": 7600,
+          "original": "疾風草剣型(総和限界値 42000)",
+          "modified": "疾風草剣型(総和限界値 42000)"
+        },
+        {
+          "index": 48,
+          "start": 7760,
+          "original": "剣禅一如型(総和限界値 42000)",
+          "modified": "剣禅一如型(総和限界値 42000)"
+        },
+        {
+          "index": 49,
+          "start": 7920,
+          "original": "中級試練型(総和限界値 49000)",
+          "modified": "中級試練型(総和限界値 49000)"
+        },
+        {
+          "index": 50,
+          "start": 8080,
+          "original": "上級標準型(総和限界値 50000)",
+          "modified": "上級標準型(総和限界値 50000)"
+        },
+        {
+          "index": 51,
+          "start": 8240,
+          "original": "体力強化型(総和限界値 50000)",
+          "modified": "体力強化型(総和限界値 50000)"
+        },
+        {
+          "index": 52,
+          "start": 8400,
+          "original": "剣技重視型(総和限界値 50000)",
+          "modified": "剣技重視型(総和限界値 50000)"
+        },
+        {
+          "index": 53,
+          "start": 8560,
+          "original": "疾風草剣型(総和限界値 50000)",
+          "modified": "疾風草剣型(総和限界値 50000)"
+        },
+        {
+          "index": 54,
+          "start": 8720,
+          "original": "剣禅一如型(総和限界値 50000)",
+          "modified": "剣禅一如型(総和限界値 50000)"
+        },
+        {
+          "index": 55,
+          "start": 8880,
+          "original": "究極試練型(総和限界値 69993)",
+          "modified": "究極試練型(総和限界値 69993)"
+        },
+        {
+          "index": 56,
+          "start": 9040,
+          "original": "全能力が調和した型。",
+          "modified": "全能力が調和した型。"
+        },
+        {
+          "index": 57,
+          "start": 9200,
+          "original": "攻撃力、木刀防御力が高い。",
+          "modified": "攻撃力、木刀防御力が高い。"
+        },
+        {
+          "index": 58,
+          "start": 9360,
+          "original": "攻撃に関する能力が高い。",
+          "modified": "攻撃に関する能力が高い。"
+        },
+        {
+          "index": 59,
+          "start": 9520,
+          "original": "全ての速さだけを追求した型。",
+          "modified": "全ての速さだけを追求した型。"
+        },
+        {
+          "index": 60,
+          "start": 9680,
+          "original": "回復力、真剣防御力が高い。",
+          "modified": "回復力、真剣防御力が高い。"
+        },
+        {
+          "index": 61,
+          "start": 9840,
+          "original": "能力の初期値は低め。",
+          "modified": "能力の初期値は低め。"
+        },
+        {
+          "index": 62,
+          "start": 10000,
+          "original": "全能力が調和した型。",
+          "modified": "全能力が調和した型。"
+        },
+        {
+          "index": 63,
+          "start": 10160,
+          "original": "攻撃力、木刀防御力が高い。",
+          "modified": "攻撃力、木刀防御力が高い。"
+        },
+        {
+          "index": 64,
+          "start": 10320,
+          "original": "攻撃能力が高い攻撃重視型。",
+          "modified": "攻撃能力が高い攻撃重視型。"
+        },
+        {
+          "index": 65,
+          "start": 10480,
+          "original": "全ての速さだけを追求した型。",
+          "modified": "全ての速さだけを追求した型。"
+        },
+        {
+          "index": 66,
+          "start": 10640,
+          "original": "回復力、真剣防御力が高い。",
+          "modified": "回復力、真剣防御力が高い。"
+        },
+        {
+          "index": 67,
+          "start": 10800,
+          "original": "能力の成長率は低め。",
+          "modified": "能力の成長率は低め。"
+        },
+        {
+          "index": 68,
+          "start": 10960,
+          "original": "全能力が調和した型。",
+          "modified": "全能力が調和した型。"
+        },
+        {
+          "index": 69,
+          "start": 11120,
+          "original": "攻撃力、木刀防御力が高い。",
+          "modified": "攻撃力、木刀防御力が高い。"
+        },
+        {
+          "index": 70,
+          "start": 11280,
+          "original": "攻撃能力が高い攻撃重視型。",
+          "modified": "攻撃能力が高い攻撃重視型。"
+        },
+        {
+          "index": 71,
+          "start": 11440,
+          "original": "全ての速さだけを追求した型。",
+          "modified": "全ての速さだけを追求した型。"
+        },
+        {
+          "index": 72,
+          "start": 11600,
+          "original": "回復力、真剣防御力が高い。",
+          "modified": "回復力、真剣防御力が高い。"
+        },
+        {
+          "index": 73,
+          "start": 11760,
+          "original": "能力の初期値、成長率が最低。",
+          "modified": "能力の初期値、成長率が最低。"
+        },
+        {
+          "index": 74,
+          "start": 11920,
+          "original": "初期値が高い。",
+          "modified": "初期値が高い。"
+        },
+        {
+          "index": 75,
+          "start": 12080,
+          "original": "体力に特化した型。",
+          "modified": "体力に特化した型。"
+        },
+        {
+          "index": 76,
+          "start": 12240,
+          "original": "防御力が弱いのが難点。",
+          "modified": "防御力が弱いのが難点。"
+        },
+        {
+          "index": 77,
+          "start": 12400,
+          "original": "攻撃力、防御力は低い。",
+          "modified": "攻撃力、防御力は低い。"
+        },
+        {
+          "index": 78,
+          "start": 12560,
+          "original": "真剣戦に強く、木刀戦に弱い。",
+          "modified": "真剣戦に強く、木刀戦に弱い。"
+        },
+        {
+          "index": 79,
+          "start": 12720,
+          "original": "成長率は最速。",
+          "modified": "成長率は最速。"
+        },
+        {
+          "index": 80,
+          "start": 12880,
+          "original": "成長率が高い。",
+          "modified": "成長率が高い。"
+        },
+        {
+          "index": 81,
+          "start": 13040,
+          "original": "体力に特化した型。",
+          "modified": "体力に特化した型。"
+        },
+        {
+          "index": 82,
+          "start": 13200,
+          "original": "防御力が弱いのが難点。",
+          "modified": "防御力が弱いのが難点。"
+        },
+        {
+          "index": 83,
+          "start": 13360,
+          "original": "攻撃力、防御力は低い。",
+          "modified": "攻撃力、防御力は低い。"
+        },
+        {
+          "index": 84,
+          "start": 13520,
+          "original": "真剣戦に強く、木刀戦に弱い。",
+          "modified": "真剣戦に強く、木刀戦に弱い。"
+        },
+        {
+          "index": 85,
+          "start": 13680,
+          "original": "総和限界値が高い。",
+          "modified": "総和限界値が高い。"
+        },
+        {
+          "index": 86,
+          "start": 13840,
+          "original": "総和限界値が高い。",
+          "modified": "総和限界値が高い。"
+        },
+        {
+          "index": 87,
+          "start": 14000,
+          "original": "体力に特化した型。",
+          "modified": "体力に特化した型。"
+        },
+        {
+          "index": 88,
+          "start": 14160,
+          "original": "防御力が弱いのが難点。",
+          "modified": "防御力が弱いのが難点。"
+        },
+        {
+          "index": 89,
+          "start": 14320,
+          "original": "攻撃力、防御力は低い。",
+          "modified": "攻撃力、防御力は低い。"
+        },
+        {
+          "index": 90,
+          "start": 14480,
+          "original": "真剣戦に強く、木刀戦に弱い。",
+          "modified": "真剣戦に強く、木刀戦に弱い。"
+        },
+        {
+          "index": 91,
+          "start": 14640,
+          "original": "総和限界値が最も高い。",
+          "modified": "総和限界値が最も高い。"
+        }
+      ]
+    }
+  ]
+}

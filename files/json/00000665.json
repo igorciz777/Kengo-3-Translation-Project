@@ -1,0 +1,331 @@
+{
+  "file_info": {
+    "filename": "00000665.bin",
+    "index": 665,
+    "file_size": 15616,
+    "block_count": 5
+  },
+  "blocks": [
+    {
+      "block_index": 1,
+      "type": 1,
+      "size": 140,
+      "count": 52,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 7952,
+          "original": "全般",
+          "modified": "全般"
+        },
+        {
+          "index": 1,
+          "start": 8092,
+          "original": "体力表示",
+          "modified": "体力表示"
+        },
+        {
+          "index": 2,
+          "start": 8232,
+          "original": "表示",
+          "modified": "表示"
+        },
+        {
+          "index": 3,
+          "start": 8372,
+          "original": "非表示",
+          "modified": "非表示"
+        },
+        {
+          "index": 4,
+          "start": 8512,
+          "original": "体力表示",
+          "modified": "体力表示"
+        },
+        {
+          "index": 5,
+          "start": 8652,
+          "original": "表示",
+          "modified": "表示"
+        },
+        {
+          "index": 6,
+          "start": 8792,
+          "original": "非表示",
+          "modified": "非表示"
+        },
+        {
+          "index": 7,
+          "start": 8932,
+          "original": "形表示",
+          "modified": "形表示"
+        },
+        {
+          "index": 8,
+          "start": 9072,
+          "original": "表示",
+          "modified": "表示"
+        },
+        {
+          "index": 9,
+          "start": 9212,
+          "original": "非表示",
+          "modified": "非表示"
+        },
+        {
+          "index": 10,
+          "start": 9352,
+          "original": "形表示",
+          "modified": "形表示"
+        },
+        {
+          "index": 11,
+          "start": 9492,
+          "original": "表示",
+          "modified": "表示"
+        },
+        {
+          "index": 12,
+          "start": 9632,
+          "original": "非表示",
+          "modified": "非表示"
+        },
+        {
+          "index": 13,
+          "start": 9772,
+          "original": "血飛沫",
+          "modified": "血飛沫"
+        },
+        {
+          "index": 14,
+          "start": 9912,
+          "original": "有り",
+          "modified": "有り"
+        },
+        {
+          "index": 15,
+          "start": 10052,
+          "original": "無し",
+          "modified": "無し"
+        },
+        {
+          "index": 16,
+          "start": 10192,
+          "original": "血飛沫",
+          "modified": "血飛沫"
+        },
+        {
+          "index": 17,
+          "start": 10332,
+          "original": "有り",
+          "modified": "有り"
+        },
+        {
+          "index": 18,
+          "start": 10472,
+          "original": "無し",
+          "modified": "無し"
+        },
+        {
+          "index": 19,
+          "start": 10612,
+          "original": "音声出力",
+          "modified": "音声出力"
+        },
+        {
+          "index": 20,
+          "start": 10752,
+          "original": "ステレオ",
+          "modified": "ステレオ"
+        },
+        {
+          "index": 21,
+          "start": 10892,
+          "original": "モノラル",
+          "modified": "モノラル"
+        },
+        {
+          "index": 22,
+          "start": 11032,
+          "original": "音声出力",
+          "modified": "音声出力"
+        },
+        {
+          "index": 23,
+          "start": 11172,
+          "original": "ステレオ",
+          "modified": "ステレオ"
+        },
+        {
+          "index": 24,
+          "start": 11312,
+          "original": "モノラル",
+          "modified": "モノラル"
+        },
+        {
+          "index": 25,
+          "start": 11452,
+          "original": "音声出力",
+          "modified": "音声出力"
+        },
+        {
+          "index": 26,
+          "start": 11592,
+          "original": "有り",
+          "modified": "有り"
+        },
+        {
+          "index": 27,
+          "start": 11732,
+          "original": "無し",
+          "modified": "無し"
+        },
+        {
+          "index": 28,
+          "start": 11872,
+          "original": "音声出力",
+          "modified": "音声出力"
+        },
+        {
+          "index": 29,
+          "start": 12012,
+          "original": "有り",
+          "modified": "有り"
+        },
+        {
+          "index": 30,
+          "start": 12152,
+          "original": "無し",
+          "modified": "無し"
+        },
+        {
+          "index": 31,
+          "start": 12292,
+          "original": "振動",
+          "modified": "振動"
+        },
+        {
+          "index": 32,
+          "start": 12432,
+          "original": "有り",
+          "modified": "有り"
+        },
+        {
+          "index": 33,
+          "start": 12572,
+          "original": "無し",
+          "modified": "無し"
+        },
+        {
+          "index": 34,
+          "start": 12712,
+          "original": "振動",
+          "modified": "振動"
+        },
+        {
+          "index": 35,
+          "start": 12852,
+          "original": "有り",
+          "modified": "有り"
+        },
+        {
+          "index": 36,
+          "start": 12992,
+          "original": "無し",
+          "modified": "無し"
+        },
+        {
+          "index": 37,
+          "start": 13132,
+          "original": "対決編",
+          "modified": "対決編"
+        },
+        {
+          "index": 38,
+          "start": 13272,
+          "original": "勝利数",
+          "modified": "勝利数"
+        },
+        {
+          "index": 39,
+          "start": 13412,
+          "original": "1",
+          "modified": "1"
+        },
+        {
+          "index": 40,
+          "start": 13552,
+          "original": "2",
+          "modified": "2"
+        },
+        {
+          "index": 41,
+          "start": 13692,
+          "original": "3",
+          "modified": "3"
+        },
+        {
+          "index": 42,
+          "start": 13832,
+          "original": "4",
+          "modified": "4"
+        },
+        {
+          "index": 43,
+          "start": 13972,
+          "original": "5",
+          "modified": "5"
+        },
+        {
+          "index": 44,
+          "start": 14112,
+          "original": "勝利数",
+          "modified": "勝利数"
+        },
+        {
+          "index": 45,
+          "start": 14252,
+          "original": "1",
+          "modified": "1"
+        },
+        {
+          "index": 46,
+          "start": 14392,
+          "original": "2",
+          "modified": "2"
+        },
+        {
+          "index": 47,
+          "start": 14532,
+          "original": "3",
+          "modified": "3"
+        },
+        {
+          "index": 48,
+          "start": 14672,
+          "original": "4",
+          "modified": "4"
+        },
+        {
+          "index": 49,
+          "start": 14812,
+          "original": "5",
+          "modified": "5"
+        },
+        {
+          "index": 50,
+          "start": 14952,
+          "original": "決定",
+          "modified": "決定"
+        },
+        {
+          "index": 51,
+          "start": 15092,
+          "original": "決定",
+          "modified": "決定"
+        }
+      ]
+    }
+  ]
+}

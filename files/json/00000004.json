@@ -1,0 +1,2521 @@
+{
+  "file_info": {
+    "filename": "00000004.bin",
+    "index": 4,
+    "file_size": 333504,
+    "block_count": 39
+  },
+  "blocks": [
+    {
+      "block_index": 1,
+      "type": 1,
+      "size": 44,
+      "count": 417,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 912,
+          "original": "着物0",
+          "modified": "着物0"
+        },
+        {
+          "index": 1,
+          "start": 956,
+          "original": "着物1",
+          "modified": "着物1"
+        },
+        {
+          "index": 2,
+          "start": 1000,
+          "original": "着物2",
+          "modified": "着物2"
+        },
+        {
+          "index": 3,
+          "start": 1044,
+          "original": "着物3",
+          "modified": "着物3"
+        },
+        {
+          "index": 4,
+          "start": 1088,
+          "original": "着物4",
+          "modified": "着物4"
+        },
+        {
+          "index": 5,
+          "start": 1132,
+          "original": "着物5",
+          "modified": "着物5"
+        },
+        {
+          "index": 6,
+          "start": 1176,
+          "original": "着物6",
+          "modified": "着物6"
+        },
+        {
+          "index": 7,
+          "start": 1220,
+          "original": "着物7",
+          "modified": "着物7"
+        },
+        {
+          "index": 8,
+          "start": 1264,
+          "original": "着物8",
+          "modified": "着物8"
+        },
+        {
+          "index": 9,
+          "start": 1308,
+          "original": "着物9",
+          "modified": "着物9"
+        },
+        {
+          "index": 10,
+          "start": 1352,
+          "original": "着物10",
+          "modified": "着物10"
+        },
+        {
+          "index": 11,
+          "start": 1396,
+          "original": "着物11",
+          "modified": "着物11"
+        },
+        {
+          "index": 12,
+          "start": 1440,
+          "original": "着物12",
+          "modified": "着物12"
+        },
+        {
+          "index": 13,
+          "start": 1484,
+          "original": "着物13",
+          "modified": "着物13"
+        },
+        {
+          "index": 14,
+          "start": 1528,
+          "original": "着物14",
+          "modified": "着物14"
+        },
+        {
+          "index": 15,
+          "start": 1572,
+          "original": "着物15",
+          "modified": "着物15"
+        },
+        {
+          "index": 16,
+          "start": 1616,
+          "original": "着物16",
+          "modified": "着物16"
+        },
+        {
+          "index": 17,
+          "start": 1660,
+          "original": "着物17",
+          "modified": "着物17"
+        },
+        {
+          "index": 18,
+          "start": 1704,
+          "original": "着物18",
+          "modified": "着物18"
+        },
+        {
+          "index": 19,
+          "start": 1748,
+          "original": "着物19",
+          "modified": "着物19"
+        },
+        {
+          "index": 20,
+          "start": 1792,
+          "original": "着物20",
+          "modified": "着物20"
+        },
+        {
+          "index": 21,
+          "start": 1836,
+          "original": "着物21",
+          "modified": "着物21"
+        },
+        {
+          "index": 22,
+          "start": 1880,
+          "original": "着物22",
+          "modified": "着物22"
+        },
+        {
+          "index": 23,
+          "start": 1924,
+          "original": "着物23",
+          "modified": "着物23"
+        },
+        {
+          "index": 24,
+          "start": 1968,
+          "original": "着物24",
+          "modified": "着物24"
+        },
+        {
+          "index": 25,
+          "start": 2012,
+          "original": "着物25",
+          "modified": "着物25"
+        },
+        {
+          "index": 26,
+          "start": 2056,
+          "original": "着物26",
+          "modified": "着物26"
+        },
+        {
+          "index": 27,
+          "start": 2100,
+          "original": "着物27",
+          "modified": "着物27"
+        },
+        {
+          "index": 28,
+          "start": 2144,
+          "original": "着物28",
+          "modified": "着物28"
+        },
+        {
+          "index": 29,
+          "start": 2188,
+          "original": "着物29",
+          "modified": "着物29"
+        },
+        {
+          "index": 30,
+          "start": 2232,
+          "original": "着物30",
+          "modified": "着物30"
+        },
+        {
+          "index": 31,
+          "start": 2276,
+          "original": "着物31",
+          "modified": "着物31"
+        },
+        {
+          "index": 32,
+          "start": 2320,
+          "original": "着物32",
+          "modified": "着物32"
+        },
+        {
+          "index": 33,
+          "start": 2364,
+          "original": "着物33",
+          "modified": "着物33"
+        },
+        {
+          "index": 34,
+          "start": 2408,
+          "original": "着物34",
+          "modified": "着物34"
+        },
+        {
+          "index": 35,
+          "start": 2452,
+          "original": "着物35",
+          "modified": "着物35"
+        },
+        {
+          "index": 36,
+          "start": 2496,
+          "original": "着物36",
+          "modified": "着物36"
+        },
+        {
+          "index": 37,
+          "start": 2540,
+          "original": "着物37",
+          "modified": "着物37"
+        },
+        {
+          "index": 38,
+          "start": 2584,
+          "original": "着物38",
+          "modified": "着物38"
+        },
+        {
+          "index": 39,
+          "start": 2628,
+          "original": "着物39",
+          "modified": "着物39"
+        },
+        {
+          "index": 40,
+          "start": 2672,
+          "original": "着物40",
+          "modified": "着物40"
+        },
+        {
+          "index": 41,
+          "start": 2716,
+          "original": "着物41",
+          "modified": "着物41"
+        },
+        {
+          "index": 42,
+          "start": 2760,
+          "original": "着物42",
+          "modified": "着物42"
+        },
+        {
+          "index": 43,
+          "start": 2804,
+          "original": "着物43",
+          "modified": "着物43"
+        },
+        {
+          "index": 44,
+          "start": 2848,
+          "original": "着物44",
+          "modified": "着物44"
+        },
+        {
+          "index": 45,
+          "start": 2892,
+          "original": "着物45",
+          "modified": "着物45"
+        },
+        {
+          "index": 46,
+          "start": 2936,
+          "original": "着物46",
+          "modified": "着物46"
+        },
+        {
+          "index": 47,
+          "start": 2980,
+          "original": "着物47",
+          "modified": "着物47"
+        },
+        {
+          "index": 48,
+          "start": 3024,
+          "original": "着物48",
+          "modified": "着物48"
+        },
+        {
+          "index": 49,
+          "start": 3068,
+          "original": "着物49",
+          "modified": "着物49"
+        },
+        {
+          "index": 50,
+          "start": 3112,
+          "original": "着物50",
+          "modified": "着物50"
+        },
+        {
+          "index": 51,
+          "start": 3156,
+          "original": "着物51",
+          "modified": "着物51"
+        },
+        {
+          "index": 52,
+          "start": 3200,
+          "original": "着物52",
+          "modified": "着物52"
+        },
+        {
+          "index": 53,
+          "start": 3244,
+          "original": "着物53",
+          "modified": "着物53"
+        },
+        {
+          "index": 54,
+          "start": 3288,
+          "original": "着物54",
+          "modified": "着物54"
+        },
+        {
+          "index": 55,
+          "start": 3332,
+          "original": "着物55",
+          "modified": "着物55"
+        },
+        {
+          "index": 56,
+          "start": 3376,
+          "original": "着物56",
+          "modified": "着物56"
+        },
+        {
+          "index": 57,
+          "start": 3420,
+          "original": "着物57",
+          "modified": "着物57"
+        },
+        {
+          "index": 58,
+          "start": 3464,
+          "original": "着物58",
+          "modified": "着物58"
+        },
+        {
+          "index": 59,
+          "start": 3508,
+          "original": "着物59",
+          "modified": "着物59"
+        },
+        {
+          "index": 60,
+          "start": 3552,
+          "original": "着物60",
+          "modified": "着物60"
+        },
+        {
+          "index": 61,
+          "start": 3596,
+          "original": "着物61",
+          "modified": "着物61"
+        },
+        {
+          "index": 62,
+          "start": 3640,
+          "original": "着物62",
+          "modified": "着物62"
+        },
+        {
+          "index": 63,
+          "start": 3684,
+          "original": "着物63",
+          "modified": "着物63"
+        },
+        {
+          "index": 64,
+          "start": 3728,
+          "original": "着物64",
+          "modified": "着物64"
+        },
+        {
+          "index": 65,
+          "start": 3772,
+          "original": "着物65",
+          "modified": "着物65"
+        },
+        {
+          "index": 66,
+          "start": 3816,
+          "original": "着物66",
+          "modified": "着物66"
+        },
+        {
+          "index": 67,
+          "start": 3860,
+          "original": "着物67",
+          "modified": "着物67"
+        },
+        {
+          "index": 68,
+          "start": 3904,
+          "original": "着物68",
+          "modified": "着物68"
+        },
+        {
+          "index": 69,
+          "start": 3948,
+          "original": "着物69",
+          "modified": "着物69"
+        },
+        {
+          "index": 70,
+          "start": 3992,
+          "original": "着物70",
+          "modified": "着物70"
+        },
+        {
+          "index": 71,
+          "start": 4036,
+          "original": "着物71",
+          "modified": "着物71"
+        },
+        {
+          "index": 72,
+          "start": 4080,
+          "original": "着物72",
+          "modified": "着物72"
+        },
+        {
+          "index": 73,
+          "start": 4124,
+          "original": "着物73",
+          "modified": "着物73"
+        },
+        {
+          "index": 74,
+          "start": 4168,
+          "original": "着物74",
+          "modified": "着物74"
+        },
+        {
+          "index": 75,
+          "start": 4212,
+          "original": "着物75",
+          "modified": "着物75"
+        },
+        {
+          "index": 76,
+          "start": 4256,
+          "original": "着物76",
+          "modified": "着物76"
+        },
+        {
+          "index": 77,
+          "start": 4300,
+          "original": "着物77",
+          "modified": "着物77"
+        },
+        {
+          "index": 78,
+          "start": 4344,
+          "original": "着物78",
+          "modified": "着物78"
+        },
+        {
+          "index": 79,
+          "start": 4388,
+          "original": "着物79",
+          "modified": "着物79"
+        },
+        {
+          "index": 80,
+          "start": 4432,
+          "original": "着物80",
+          "modified": "着物80"
+        },
+        {
+          "index": 81,
+          "start": 4476,
+          "original": "着物81",
+          "modified": "着物81"
+        },
+        {
+          "index": 82,
+          "start": 4520,
+          "original": "着物82",
+          "modified": "着物82"
+        },
+        {
+          "index": 83,
+          "start": 4564,
+          "original": "着物83",
+          "modified": "着物83"
+        },
+        {
+          "index": 84,
+          "start": 4608,
+          "original": "着物84",
+          "modified": "着物84"
+        },
+        {
+          "index": 85,
+          "start": 4652,
+          "original": "着物85",
+          "modified": "着物85"
+        },
+        {
+          "index": 86,
+          "start": 4696,
+          "original": "着物86",
+          "modified": "着物86"
+        },
+        {
+          "index": 87,
+          "start": 4740,
+          "original": "着物87",
+          "modified": "着物87"
+        },
+        {
+          "index": 88,
+          "start": 4784,
+          "original": "着物88",
+          "modified": "着物88"
+        },
+        {
+          "index": 89,
+          "start": 4828,
+          "original": "着物89",
+          "modified": "着物89"
+        },
+        {
+          "index": 90,
+          "start": 4872,
+          "original": "着物90",
+          "modified": "着物90"
+        },
+        {
+          "index": 91,
+          "start": 4916,
+          "original": "着物91",
+          "modified": "着物91"
+        },
+        {
+          "index": 92,
+          "start": 4960,
+          "original": "着物92",
+          "modified": "着物92"
+        },
+        {
+          "index": 93,
+          "start": 5004,
+          "original": "着物93",
+          "modified": "着物93"
+        },
+        {
+          "index": 94,
+          "start": 5048,
+          "original": "着物93",
+          "modified": "着物93"
+        },
+        {
+          "index": 95,
+          "start": 5092,
+          "original": "着物94",
+          "modified": "着物94"
+        },
+        {
+          "index": 96,
+          "start": 5136,
+          "original": "着物95",
+          "modified": "着物95"
+        },
+        {
+          "index": 97,
+          "start": 5180,
+          "original": "着物96",
+          "modified": "着物96"
+        },
+        {
+          "index": 98,
+          "start": 5224,
+          "original": "着物97",
+          "modified": "着物97"
+        },
+        {
+          "index": 99,
+          "start": 5268,
+          "original": "着物98",
+          "modified": "着物98"
+        },
+        {
+          "index": 100,
+          "start": 5312,
+          "original": "着物99",
+          "modified": "着物99"
+        },
+        {
+          "index": 101,
+          "start": 5356,
+          "original": "着物100",
+          "modified": "着物100"
+        },
+        {
+          "index": 102,
+          "start": 5400,
+          "original": "着物101",
+          "modified": "着物101"
+        },
+        {
+          "index": 103,
+          "start": 5444,
+          "original": "着物102",
+          "modified": "着物102"
+        },
+        {
+          "index": 104,
+          "start": 5488,
+          "original": "着物103",
+          "modified": "着物103"
+        },
+        {
+          "index": 105,
+          "start": 5532,
+          "original": "着物104",
+          "modified": "着物104"
+        },
+        {
+          "index": 106,
+          "start": 5576,
+          "original": "着物105",
+          "modified": "着物105"
+        },
+        {
+          "index": 107,
+          "start": 5620,
+          "original": "着物106",
+          "modified": "着物106"
+        },
+        {
+          "index": 108,
+          "start": 5664,
+          "original": "着物107",
+          "modified": "着物107"
+        },
+        {
+          "index": 109,
+          "start": 5708,
+          "original": "着物108",
+          "modified": "着物108"
+        },
+        {
+          "index": 110,
+          "start": 5752,
+          "original": "着物109",
+          "modified": "着物109"
+        },
+        {
+          "index": 111,
+          "start": 5796,
+          "original": "着物109",
+          "modified": "着物109"
+        },
+        {
+          "index": 112,
+          "start": 5840,
+          "original": "着物110",
+          "modified": "着物110"
+        },
+        {
+          "index": 113,
+          "start": 5884,
+          "original": "着物111",
+          "modified": "着物111"
+        },
+        {
+          "index": 114,
+          "start": 5928,
+          "original": "鶯茶染",
+          "modified": "鶯茶染"
+        },
+        {
+          "index": 115,
+          "start": 5972,
+          "original": "潤朱染",
+          "modified": "潤朱染"
+        },
+        {
+          "index": 116,
+          "start": 6016,
+          "original": "紺藍染",
+          "modified": "紺藍染"
+        },
+        {
+          "index": 117,
+          "start": 6060,
+          "original": "白練染",
+          "modified": "白練染"
+        },
+        {
+          "index": 118,
+          "start": 6104,
+          "original": "黒曜染",
+          "modified": "黒曜染"
+        },
+        {
+          "index": 119,
+          "start": 6148,
+          "original": "桧皮染",
+          "modified": "桧皮染"
+        },
+        {
+          "index": 120,
+          "start": 6192,
+          "original": "青藍染",
+          "modified": "青藍染"
+        },
+        {
+          "index": 121,
+          "start": 6236,
+          "original": "滅紫染",
+          "modified": "滅紫染"
+        },
+        {
+          "index": 122,
+          "start": 6280,
+          "original": "茶鼠染",
+          "modified": "茶鼠染"
+        },
+        {
+          "index": 123,
+          "start": 6324,
+          "original": "白茶染",
+          "modified": "白茶染"
+        },
+        {
+          "index": 124,
+          "start": 6368,
+          "original": "紅梅檜染",
+          "modified": "紅梅檜染"
+        },
+        {
+          "index": 125,
+          "start": 6412,
+          "original": "紺桔梗染",
+          "modified": "紺桔梗染"
+        },
+        {
+          "index": 126,
+          "start": 6456,
+          "original": "伽羅豹染",
+          "modified": "伽羅豹染"
+        },
+        {
+          "index": 127,
+          "start": 6500,
+          "original": "香群青染",
+          "modified": "香群青染"
+        },
+        {
+          "index": 128,
+          "start": 6544,
+          "original": "紫桔梗染",
+          "modified": "紫桔梗染"
+        },
+        {
+          "index": 129,
+          "start": 6588,
+          "original": "唐麹塵染",
+          "modified": "唐麹塵染"
+        },
+        {
+          "index": 130,
+          "start": 6632,
+          "original": "唐小豆染",
+          "modified": "唐小豆染"
+        },
+        {
+          "index": 131,
+          "start": 6676,
+          "original": "唐枇杷染",
+          "modified": "唐枇杷染"
+        },
+        {
+          "index": 132,
+          "start": 6720,
+          "original": "唐葡萄染",
+          "modified": "唐葡萄染"
+        },
+        {
+          "index": 133,
+          "start": 6764,
+          "original": "唐釈迦染",
+          "modified": "唐釈迦染"
+        },
+        {
+          "index": 134,
+          "start": 6808,
+          "original": "唐瑪瑙染",
+          "modified": "唐瑪瑙染"
+        },
+        {
+          "index": 135,
+          "start": 6852,
+          "original": "唐金剛染",
+          "modified": "唐金剛染"
+        },
+        {
+          "index": 136,
+          "start": 6896,
+          "original": "蛇牡丹染",
+          "modified": "蛇牡丹染"
+        },
+        {
+          "index": 137,
+          "start": 6940,
+          "original": "紺瑠璃染",
+          "modified": "紺瑠璃染"
+        },
+        {
+          "index": 138,
+          "start": 6984,
+          "original": "蛇琥珀染",
+          "modified": "蛇琥珀染"
+        },
+        {
+          "index": 139,
+          "start": 7028,
+          "original": "草藍地",
+          "modified": "草藍地"
+        },
+        {
+          "index": 140,
+          "start": 7072,
+          "original": "緋麻地",
+          "modified": "緋麻地"
+        },
+        {
+          "index": 141,
+          "start": 7116,
+          "original": "紺晶地",
+          "modified": "紺晶地"
+        },
+        {
+          "index": 142,
+          "start": 7160,
+          "original": "紫焔地",
+          "modified": "紫焔地"
+        },
+        {
+          "index": 143,
+          "start": 7204,
+          "original": "白磐地",
+          "modified": "白磐地"
+        },
+        {
+          "index": 144,
+          "start": 7248,
+          "original": "輝樟地",
+          "modified": "輝樟地"
+        },
+        {
+          "index": 145,
+          "start": 7292,
+          "original": "暁麻地",
+          "modified": "暁麻地"
+        },
+        {
+          "index": 146,
+          "start": 7336,
+          "original": "琉紋地",
+          "modified": "琉紋地"
+        },
+        {
+          "index": 147,
+          "start": 7380,
+          "original": "芭銀地",
+          "modified": "芭銀地"
+        },
+        {
+          "index": 148,
+          "start": 7424,
+          "original": "武麻地",
+          "modified": "武麻地"
+        },
+        {
+          "index": 149,
+          "start": 7468,
+          "original": "孤浪織",
+          "modified": "孤浪織"
+        },
+        {
+          "index": 150,
+          "start": 7512,
+          "original": "紅陣織",
+          "modified": "紅陣織"
+        },
+        {
+          "index": 151,
+          "start": 7556,
+          "original": "翠藍織",
+          "modified": "翠藍織"
+        },
+        {
+          "index": 152,
+          "start": 7600,
+          "original": "呉梅織",
+          "modified": "呉梅織"
+        },
+        {
+          "index": 153,
+          "start": 7644,
+          "original": "緑珀織",
+          "modified": "緑珀織"
+        },
+        {
+          "index": 154,
+          "start": 7688,
+          "original": "七宝霧織",
+          "modified": "七宝霧織"
+        },
+        {
+          "index": 155,
+          "start": 7732,
+          "original": "七宝松織",
+          "modified": "七宝松織"
+        },
+        {
+          "index": 156,
+          "start": 7776,
+          "original": "獅子錦織",
+          "modified": "獅子錦織"
+        },
+        {
+          "index": 157,
+          "start": 7820,
+          "original": "緋柳煎織",
+          "modified": "緋柳煎織"
+        },
+        {
+          "index": 158,
+          "start": 7864,
+          "original": "鬼時雨織",
+          "modified": "鬼時雨織"
+        },
+        {
+          "index": 159,
+          "start": 7908,
+          "original": "涼風磐織",
+          "modified": "涼風磐織"
+        },
+        {
+          "index": 160,
+          "start": 7952,
+          "original": "炬琵琶織",
+          "modified": "炬琵琶織"
+        },
+        {
+          "index": 161,
+          "start": 7996,
+          "original": "蒼飛翔織",
+          "modified": "蒼飛翔織"
+        },
+        {
+          "index": 162,
+          "start": 8040,
+          "original": "柑麒麟織",
+          "modified": "柑麒麟織"
+        },
+        {
+          "index": 163,
+          "start": 8084,
+          "original": "藍瑠璃織",
+          "modified": "藍瑠璃織"
+        },
+        {
+          "index": 164,
+          "start": 8128,
+          "original": "漆黒染",
+          "modified": "漆黒染"
+        },
+        {
+          "index": 165,
+          "start": 8172,
+          "original": "胡桃染",
+          "modified": "胡桃染"
+        },
+        {
+          "index": 166,
+          "start": 8216,
+          "original": "紫黒染",
+          "modified": "紫黒染"
+        },
+        {
+          "index": 167,
+          "start": 8260,
+          "original": "伽羅染",
+          "modified": "伽羅染"
+        },
+        {
+          "index": 168,
+          "start": 8304,
+          "original": "藍市染",
+          "modified": "藍市染"
+        },
+        {
+          "index": 169,
+          "start": 8348,
+          "original": "向鶴菱",
+          "modified": "向鶴菱"
+        },
+        {
+          "index": 170,
+          "start": 8392,
+          "original": "菊華紋",
+          "modified": "菊華紋"
+        },
+        {
+          "index": 171,
+          "start": 8436,
+          "original": "亀甲紋",
+          "modified": "亀甲紋"
+        },
+        {
+          "index": 172,
+          "start": 8480,
+          "original": "琥水紋",
+          "modified": "琥水紋"
+        },
+        {
+          "index": 173,
+          "start": 8524,
+          "original": "蒼紅葉",
+          "modified": "蒼紅葉"
+        },
+        {
+          "index": 174,
+          "start": 8568,
+          "original": "菊麗紋",
+          "modified": "菊麗紋"
+        },
+        {
+          "index": 175,
+          "start": 8612,
+          "original": "狂巴紋",
+          "modified": "狂巴紋"
+        },
+        {
+          "index": 176,
+          "start": 8656,
+          "original": "翠格子",
+          "modified": "翠格子"
+        },
+        {
+          "index": 177,
+          "start": 8700,
+          "original": "水輪紋",
+          "modified": "水輪紋"
+        },
+        {
+          "index": 178,
+          "start": 8744,
+          "original": "紅椿紋",
+          "modified": "紅椿紋"
+        },
+        {
+          "index": 179,
+          "start": 8788,
+          "original": "梅麻紬",
+          "modified": "梅麻紬"
+        },
+        {
+          "index": 180,
+          "start": 8832,
+          "original": "褐鼠紬",
+          "modified": "褐鼠紬"
+        },
+        {
+          "index": 181,
+          "start": 8876,
+          "original": "韓樺紬",
+          "modified": "韓樺紬"
+        },
+        {
+          "index": 182,
+          "start": 8920,
+          "original": "旭藍紬",
+          "modified": "旭藍紬"
+        },
+        {
+          "index": 183,
+          "start": 8964,
+          "original": "暁菱紬",
+          "modified": "暁菱紬"
+        },
+        {
+          "index": 184,
+          "start": 9008,
+          "original": "蒼菱紬",
+          "modified": "蒼菱紬"
+        },
+        {
+          "index": 185,
+          "start": 9052,
+          "original": "焔菱紬",
+          "modified": "焔菱紬"
+        },
+        {
+          "index": 186,
+          "start": 9096,
+          "original": "虎菱紬",
+          "modified": "虎菱紬"
+        },
+        {
+          "index": 187,
+          "start": 9140,
+          "original": "巴曜紬",
+          "modified": "巴曜紬"
+        },
+        {
+          "index": 188,
+          "start": 9184,
+          "original": "錦雀紬",
+          "modified": "錦雀紬"
+        },
+        {
+          "index": 189,
+          "start": 9228,
+          "original": "浅葱染",
+          "modified": "浅葱染"
+        },
+        {
+          "index": 190,
+          "start": 9272,
+          "original": "緋藍染",
+          "modified": "緋藍染"
+        },
+        {
+          "index": 191,
+          "start": 9316,
+          "original": "琥墨染",
+          "modified": "琥墨染"
+        },
+        {
+          "index": 192,
+          "start": 9360,
+          "original": "亜麻染",
+          "modified": "亜麻染"
+        },
+        {
+          "index": 193,
+          "start": 9404,
+          "original": "鳶松染",
+          "modified": "鳶松染"
+        },
+        {
+          "index": 194,
+          "start": 9448,
+          "original": "鶯茶染",
+          "modified": "鶯茶染"
+        },
+        {
+          "index": 195,
+          "start": 9492,
+          "original": "紅桜染",
+          "modified": "紅桜染"
+        },
+        {
+          "index": 196,
+          "start": 9536,
+          "original": "琥珀染",
+          "modified": "琥珀染"
+        },
+        {
+          "index": 197,
+          "start": 9580,
+          "original": "桧皮染",
+          "modified": "桧皮染"
+        },
+        {
+          "index": 198,
+          "start": 9624,
+          "original": "茶鼠染",
+          "modified": "茶鼠染"
+        },
+        {
+          "index": 199,
+          "start": 9668,
+          "original": "梅軒弟子専用",
+          "modified": "梅軒弟子専用"
+        },
+        {
+          "index": 200,
+          "start": 9712,
+          "original": "白浪織",
+          "modified": "白浪織"
+        },
+        {
+          "index": 201,
+          "start": 9756,
+          "original": "空藍織",
+          "modified": "空藍織"
+        },
+        {
+          "index": 202,
+          "start": 9800,
+          "original": "桃露織",
+          "modified": "桃露織"
+        },
+        {
+          "index": 203,
+          "start": 9844,
+          "original": "漆黒染",
+          "modified": "漆黒染"
+        },
+        {
+          "index": 204,
+          "start": 9888,
+          "original": "緋市染",
+          "modified": "緋市染"
+        },
+        {
+          "index": 205,
+          "start": 9932,
+          "original": "向鶴菱",
+          "modified": "向鶴菱"
+        },
+        {
+          "index": 206,
+          "start": 9976,
+          "original": "紅椿紋",
+          "modified": "紅椿紋"
+        },
+        {
+          "index": 207,
+          "start": 10020,
+          "original": "水輪紋",
+          "modified": "水輪紋"
+        },
+        {
+          "index": 208,
+          "start": 10064,
+          "original": "狂巴紋",
+          "modified": "狂巴紋"
+        },
+        {
+          "index": 209,
+          "start": 10108,
+          "original": "菊麗紋",
+          "modified": "菊麗紋"
+        },
+        {
+          "index": 210,
+          "start": 10152,
+          "original": "亀甲紋",
+          "modified": "亀甲紋"
+        },
+        {
+          "index": 211,
+          "start": 10196,
+          "original": "菊華紋",
+          "modified": "菊華紋"
+        },
+        {
+          "index": 212,
+          "start": 10240,
+          "original": "浅葱染",
+          "modified": "浅葱染"
+        },
+        {
+          "index": 213,
+          "start": 10284,
+          "original": "呉藍染",
+          "modified": "呉藍染"
+        },
+        {
+          "index": 214,
+          "start": 10328,
+          "original": "着物222",
+          "modified": "着物222"
+        },
+        {
+          "index": 215,
+          "start": 10372,
+          "original": "着物223",
+          "modified": "着物223"
+        },
+        {
+          "index": 216,
+          "start": 10416,
+          "original": "着物224",
+          "modified": "着物224"
+        },
+        {
+          "index": 217,
+          "start": 10460,
+          "original": "着物225",
+          "modified": "着物225"
+        },
+        {
+          "index": 218,
+          "start": 10504,
+          "original": "着物226",
+          "modified": "着物226"
+        },
+        {
+          "index": 219,
+          "start": 10548,
+          "original": "着物227",
+          "modified": "着物227"
+        },
+        {
+          "index": 220,
+          "start": 10592,
+          "original": "着物228",
+          "modified": "着物228"
+        },
+        {
+          "index": 221,
+          "start": 10636,
+          "original": "着物229",
+          "modified": "着物229"
+        },
+        {
+          "index": 222,
+          "start": 10680,
+          "original": "着物230",
+          "modified": "着物230"
+        },
+        {
+          "index": 223,
+          "start": 10724,
+          "original": "着物231",
+          "modified": "着物231"
+        },
+        {
+          "index": 224,
+          "start": 10768,
+          "original": "着物232",
+          "modified": "着物232"
+        },
+        {
+          "index": 225,
+          "start": 10812,
+          "original": "着物233",
+          "modified": "着物233"
+        },
+        {
+          "index": 226,
+          "start": 10856,
+          "original": "着物234",
+          "modified": "着物234"
+        },
+        {
+          "index": 227,
+          "start": 10900,
+          "original": "着物235",
+          "modified": "着物235"
+        },
+        {
+          "index": 228,
+          "start": 10944,
+          "original": "着物236",
+          "modified": "着物236"
+        },
+        {
+          "index": 229,
+          "start": 10988,
+          "original": "着物237",
+          "modified": "着物237"
+        },
+        {
+          "index": 230,
+          "start": 11032,
+          "original": "着物238",
+          "modified": "着物238"
+        },
+        {
+          "index": 231,
+          "start": 11076,
+          "original": "着物239",
+          "modified": "着物239"
+        },
+        {
+          "index": 232,
+          "start": 11120,
+          "original": "着物240",
+          "modified": "着物240"
+        },
+        {
+          "index": 233,
+          "start": 11164,
+          "original": "着物241",
+          "modified": "着物241"
+        },
+        {
+          "index": 234,
+          "start": 11208,
+          "original": "着物242",
+          "modified": "着物242"
+        },
+        {
+          "index": 235,
+          "start": 11252,
+          "original": "着物243",
+          "modified": "着物243"
+        },
+        {
+          "index": 236,
+          "start": 11296,
+          "original": "着物244",
+          "modified": "着物244"
+        },
+        {
+          "index": 237,
+          "start": 11340,
+          "original": "着物245",
+          "modified": "着物245"
+        },
+        {
+          "index": 238,
+          "start": 11384,
+          "original": "着物246",
+          "modified": "着物246"
+        },
+        {
+          "index": 239,
+          "start": 11428,
+          "original": "着物247",
+          "modified": "着物247"
+        },
+        {
+          "index": 240,
+          "start": 11472,
+          "original": "着物248",
+          "modified": "着物248"
+        },
+        {
+          "index": 241,
+          "start": 11516,
+          "original": "着物249",
+          "modified": "着物249"
+        },
+        {
+          "index": 242,
+          "start": 11560,
+          "original": "着物250",
+          "modified": "着物250"
+        },
+        {
+          "index": 243,
+          "start": 11604,
+          "original": "着物251",
+          "modified": "着物251"
+        },
+        {
+          "index": 244,
+          "start": 11648,
+          "original": "着物252",
+          "modified": "着物252"
+        },
+        {
+          "index": 245,
+          "start": 11692,
+          "original": "着物253",
+          "modified": "着物253"
+        },
+        {
+          "index": 246,
+          "start": 11736,
+          "original": "着物254",
+          "modified": "着物254"
+        },
+        {
+          "index": 247,
+          "start": 11780,
+          "original": "着物255",
+          "modified": "着物255"
+        },
+        {
+          "index": 248,
+          "start": 11824,
+          "original": "着物256",
+          "modified": "着物256"
+        },
+        {
+          "index": 249,
+          "start": 11868,
+          "original": "着物257",
+          "modified": "着物257"
+        },
+        {
+          "index": 250,
+          "start": 11912,
+          "original": "着物258",
+          "modified": "着物258"
+        },
+        {
+          "index": 251,
+          "start": 11956,
+          "original": "着物259",
+          "modified": "着物259"
+        },
+        {
+          "index": 252,
+          "start": 12000,
+          "original": "着物260",
+          "modified": "着物260"
+        },
+        {
+          "index": 253,
+          "start": 12044,
+          "original": "着物261",
+          "modified": "着物261"
+        },
+        {
+          "index": 254,
+          "start": 12088,
+          "original": "着物262",
+          "modified": "着物262"
+        },
+        {
+          "index": 255,
+          "start": 12132,
+          "original": "着物263",
+          "modified": "着物263"
+        },
+        {
+          "index": 256,
+          "start": 12176,
+          "original": "着物264",
+          "modified": "着物264"
+        },
+        {
+          "index": 257,
+          "start": 12220,
+          "original": "着物265",
+          "modified": "着物265"
+        },
+        {
+          "index": 258,
+          "start": 12264,
+          "original": "着物266",
+          "modified": "着物266"
+        },
+        {
+          "index": 259,
+          "start": 12308,
+          "original": "着物267",
+          "modified": "着物267"
+        },
+        {
+          "index": 260,
+          "start": 12352,
+          "original": "着物268",
+          "modified": "着物268"
+        },
+        {
+          "index": 261,
+          "start": 12396,
+          "original": "着物269",
+          "modified": "着物269"
+        },
+        {
+          "index": 262,
+          "start": 12440,
+          "original": "着物270",
+          "modified": "着物270"
+        },
+        {
+          "index": 263,
+          "start": 12484,
+          "original": "着物271",
+          "modified": "着物271"
+        },
+        {
+          "index": 264,
+          "start": 12528,
+          "original": "着物272",
+          "modified": "着物272"
+        },
+        {
+          "index": 265,
+          "start": 12572,
+          "original": "着物273",
+          "modified": "着物273"
+        },
+        {
+          "index": 266,
+          "start": 12616,
+          "original": "着物274",
+          "modified": "着物274"
+        },
+        {
+          "index": 267,
+          "start": 12660,
+          "original": "着物275",
+          "modified": "着物275"
+        },
+        {
+          "index": 268,
+          "start": 12704,
+          "original": "着物276",
+          "modified": "着物276"
+        },
+        {
+          "index": 269,
+          "start": 12748,
+          "original": "着物277",
+          "modified": "着物277"
+        },
+        {
+          "index": 270,
+          "start": 12792,
+          "original": "着物278",
+          "modified": "着物278"
+        },
+        {
+          "index": 271,
+          "start": 12836,
+          "original": "着物279",
+          "modified": "着物279"
+        },
+        {
+          "index": 272,
+          "start": 12880,
+          "original": "着物280",
+          "modified": "着物280"
+        },
+        {
+          "index": 273,
+          "start": 12924,
+          "original": "着物281",
+          "modified": "着物281"
+        },
+        {
+          "index": 274,
+          "start": 12968,
+          "original": "着物282",
+          "modified": "着物282"
+        },
+        {
+          "index": 275,
+          "start": 13012,
+          "original": "着物283",
+          "modified": "着物283"
+        },
+        {
+          "index": 276,
+          "start": 13056,
+          "original": "着物284",
+          "modified": "着物284"
+        },
+        {
+          "index": 277,
+          "start": 13100,
+          "original": "着物285",
+          "modified": "着物285"
+        },
+        {
+          "index": 278,
+          "start": 13144,
+          "original": "着物286",
+          "modified": "着物286"
+        },
+        {
+          "index": 279,
+          "start": 13188,
+          "original": "着物287",
+          "modified": "着物287"
+        },
+        {
+          "index": 280,
+          "start": 13232,
+          "original": "着物288",
+          "modified": "着物288"
+        },
+        {
+          "index": 281,
+          "start": 13276,
+          "original": "着物289",
+          "modified": "着物289"
+        },
+        {
+          "index": 282,
+          "start": 13320,
+          "original": "着物290",
+          "modified": "着物290"
+        },
+        {
+          "index": 283,
+          "start": 13364,
+          "original": "着物291",
+          "modified": "着物291"
+        },
+        {
+          "index": 284,
+          "start": 13408,
+          "original": "着物292",
+          "modified": "着物292"
+        },
+        {
+          "index": 285,
+          "start": 13452,
+          "original": "着物293",
+          "modified": "着物293"
+        },
+        {
+          "index": 286,
+          "start": 13496,
+          "original": "着物294",
+          "modified": "着物294"
+        },
+        {
+          "index": 287,
+          "start": 13540,
+          "original": "着物295",
+          "modified": "着物295"
+        },
+        {
+          "index": 288,
+          "start": 13584,
+          "original": "着物296",
+          "modified": "着物296"
+        },
+        {
+          "index": 289,
+          "start": 13628,
+          "original": "着物297",
+          "modified": "着物297"
+        },
+        {
+          "index": 290,
+          "start": 13672,
+          "original": "着物298",
+          "modified": "着物298"
+        },
+        {
+          "index": 291,
+          "start": 13716,
+          "original": "着物299",
+          "modified": "着物299"
+        },
+        {
+          "index": 292,
+          "start": 13760,
+          "original": "着物300",
+          "modified": "着物300"
+        },
+        {
+          "index": 293,
+          "start": 13804,
+          "original": "着物301",
+          "modified": "着物301"
+        },
+        {
+          "index": 294,
+          "start": 13848,
+          "original": "着物302",
+          "modified": "着物302"
+        },
+        {
+          "index": 295,
+          "start": 13892,
+          "original": "着物303",
+          "modified": "着物303"
+        },
+        {
+          "index": 296,
+          "start": 13936,
+          "original": "着物304",
+          "modified": "着物304"
+        },
+        {
+          "index": 297,
+          "start": 13980,
+          "original": "着物305",
+          "modified": "着物305"
+        },
+        {
+          "index": 298,
+          "start": 14024,
+          "original": "着物306",
+          "modified": "着物306"
+        },
+        {
+          "index": 299,
+          "start": 14068,
+          "original": "着物307",
+          "modified": "着物307"
+        },
+        {
+          "index": 300,
+          "start": 14112,
+          "original": "着物308",
+          "modified": "着物308"
+        },
+        {
+          "index": 301,
+          "start": 14156,
+          "original": "着物309",
+          "modified": "着物309"
+        },
+        {
+          "index": 302,
+          "start": 14200,
+          "original": "着物310",
+          "modified": "着物310"
+        },
+        {
+          "index": 303,
+          "start": 14244,
+          "original": "着物311",
+          "modified": "着物311"
+        },
+        {
+          "index": 304,
+          "start": 14288,
+          "original": "着物312",
+          "modified": "着物312"
+        },
+        {
+          "index": 305,
+          "start": 14332,
+          "original": "着物313",
+          "modified": "着物313"
+        },
+        {
+          "index": 306,
+          "start": 14376,
+          "original": "着物314",
+          "modified": "着物314"
+        },
+        {
+          "index": 307,
+          "start": 14420,
+          "original": "着物315",
+          "modified": "着物315"
+        },
+        {
+          "index": 308,
+          "start": 14464,
+          "original": "着物316",
+          "modified": "着物316"
+        },
+        {
+          "index": 309,
+          "start": 14508,
+          "original": "着物317",
+          "modified": "着物317"
+        },
+        {
+          "index": 310,
+          "start": 14552,
+          "original": "着物318",
+          "modified": "着物318"
+        },
+        {
+          "index": 311,
+          "start": 14596,
+          "original": "着物319",
+          "modified": "着物319"
+        },
+        {
+          "index": 312,
+          "start": 14640,
+          "original": "着物320",
+          "modified": "着物320"
+        },
+        {
+          "index": 313,
+          "start": 14684,
+          "original": "着物321",
+          "modified": "着物321"
+        },
+        {
+          "index": 314,
+          "start": 14728,
+          "original": "着物322",
+          "modified": "着物322"
+        },
+        {
+          "index": 315,
+          "start": 14772,
+          "original": "着物323",
+          "modified": "着物323"
+        },
+        {
+          "index": 316,
+          "start": 14816,
+          "original": "着物324",
+          "modified": "着物324"
+        },
+        {
+          "index": 317,
+          "start": 14860,
+          "original": "着物325",
+          "modified": "着物325"
+        },
+        {
+          "index": 318,
+          "start": 14904,
+          "original": "着物326",
+          "modified": "着物326"
+        },
+        {
+          "index": 319,
+          "start": 14948,
+          "original": "着物327",
+          "modified": "着物327"
+        },
+        {
+          "index": 320,
+          "start": 14992,
+          "original": "着物328",
+          "modified": "着物328"
+        },
+        {
+          "index": 321,
+          "start": 15036,
+          "original": "着物329",
+          "modified": "着物329"
+        },
+        {
+          "index": 322,
+          "start": 15080,
+          "original": "着物330",
+          "modified": "着物330"
+        },
+        {
+          "index": 323,
+          "start": 15124,
+          "original": "着物331",
+          "modified": "着物331"
+        },
+        {
+          "index": 324,
+          "start": 15168,
+          "original": "着物332",
+          "modified": "着物332"
+        },
+        {
+          "index": 325,
+          "start": 15212,
+          "original": "着物333",
+          "modified": "着物333"
+        },
+        {
+          "index": 326,
+          "start": 15256,
+          "original": "着物334",
+          "modified": "着物334"
+        },
+        {
+          "index": 327,
+          "start": 15300,
+          "original": "着物335",
+          "modified": "着物335"
+        },
+        {
+          "index": 328,
+          "start": 15344,
+          "original": "着物336",
+          "modified": "着物336"
+        },
+        {
+          "index": 329,
+          "start": 15388,
+          "original": "着物337",
+          "modified": "着物337"
+        },
+        {
+          "index": 330,
+          "start": 15432,
+          "original": "着物338",
+          "modified": "着物338"
+        },
+        {
+          "index": 331,
+          "start": 15476,
+          "original": "着物339",
+          "modified": "着物339"
+        },
+        {
+          "index": 332,
+          "start": 15520,
+          "original": "着物340",
+          "modified": "着物340"
+        },
+        {
+          "index": 333,
+          "start": 15564,
+          "original": "着物341",
+          "modified": "着物341"
+        },
+        {
+          "index": 334,
+          "start": 15608,
+          "original": "着物342",
+          "modified": "着物342"
+        },
+        {
+          "index": 335,
+          "start": 15652,
+          "original": "着物343",
+          "modified": "着物343"
+        },
+        {
+          "index": 336,
+          "start": 15696,
+          "original": "着物344",
+          "modified": "着物344"
+        },
+        {
+          "index": 337,
+          "start": 15740,
+          "original": "着物345",
+          "modified": "着物345"
+        },
+        {
+          "index": 338,
+          "start": 15784,
+          "original": "着物346",
+          "modified": "着物346"
+        },
+        {
+          "index": 339,
+          "start": 15828,
+          "original": "着物347",
+          "modified": "着物347"
+        },
+        {
+          "index": 340,
+          "start": 15872,
+          "original": "着物348",
+          "modified": "着物348"
+        },
+        {
+          "index": 341,
+          "start": 15916,
+          "original": "着物349",
+          "modified": "着物349"
+        },
+        {
+          "index": 342,
+          "start": 15960,
+          "original": "着物350",
+          "modified": "着物350"
+        },
+        {
+          "index": 343,
+          "start": 16004,
+          "original": "着物351",
+          "modified": "着物351"
+        },
+        {
+          "index": 344,
+          "start": 16048,
+          "original": "着物352",
+          "modified": "着物352"
+        },
+        {
+          "index": 345,
+          "start": 16092,
+          "original": "着物353",
+          "modified": "着物353"
+        },
+        {
+          "index": 346,
+          "start": 16136,
+          "original": "着物354",
+          "modified": "着物354"
+        },
+        {
+          "index": 347,
+          "start": 16180,
+          "original": "着物355",
+          "modified": "着物355"
+        },
+        {
+          "index": 348,
+          "start": 16224,
+          "original": "着物356",
+          "modified": "着物356"
+        },
+        {
+          "index": 349,
+          "start": 16268,
+          "original": "着物357",
+          "modified": "着物357"
+        },
+        {
+          "index": 350,
+          "start": 16312,
+          "original": "着物358",
+          "modified": "着物358"
+        },
+        {
+          "index": 351,
+          "start": 16356,
+          "original": "着物359",
+          "modified": "着物359"
+        },
+        {
+          "index": 352,
+          "start": 16400,
+          "original": "着物360",
+          "modified": "着物360"
+        },
+        {
+          "index": 353,
+          "start": 16444,
+          "original": "着物361",
+          "modified": "着物361"
+        },
+        {
+          "index": 354,
+          "start": 16488,
+          "original": "着物362",
+          "modified": "着物362"
+        },
+        {
+          "index": 355,
+          "start": 16532,
+          "original": "着物363",
+          "modified": "着物363"
+        },
+        {
+          "index": 356,
+          "start": 16576,
+          "original": "着物364",
+          "modified": "着物364"
+        },
+        {
+          "index": 357,
+          "start": 16620,
+          "original": "着物365",
+          "modified": "着物365"
+        },
+        {
+          "index": 358,
+          "start": 16664,
+          "original": "着物366",
+          "modified": "着物366"
+        },
+        {
+          "index": 359,
+          "start": 16708,
+          "original": "着物367",
+          "modified": "着物367"
+        },
+        {
+          "index": 360,
+          "start": 16752,
+          "original": "着物368",
+          "modified": "着物368"
+        },
+        {
+          "index": 361,
+          "start": 16796,
+          "original": "着物369",
+          "modified": "着物369"
+        },
+        {
+          "index": 362,
+          "start": 16840,
+          "original": "着物370",
+          "modified": "着物370"
+        },
+        {
+          "index": 363,
+          "start": 16884,
+          "original": "着物371",
+          "modified": "着物371"
+        },
+        {
+          "index": 364,
+          "start": 16928,
+          "original": "着物372",
+          "modified": "着物372"
+        },
+        {
+          "index": 365,
+          "start": 16972,
+          "original": "着物373",
+          "modified": "着物373"
+        },
+        {
+          "index": 366,
+          "start": 17016,
+          "original": "着物374",
+          "modified": "着物374"
+        },
+        {
+          "index": 367,
+          "start": 17060,
+          "original": "着物375",
+          "modified": "着物375"
+        },
+        {
+          "index": 368,
+          "start": 17104,
+          "original": "着物376",
+          "modified": "着物376"
+        },
+        {
+          "index": 369,
+          "start": 17148,
+          "original": "着物377",
+          "modified": "着物377"
+        },
+        {
+          "index": 370,
+          "start": 17192,
+          "original": "着物378",
+          "modified": "着物378"
+        },
+        {
+          "index": 371,
+          "start": 17236,
+          "original": "着物379",
+          "modified": "着物379"
+        },
+        {
+          "index": 372,
+          "start": 17280,
+          "original": "着物380",
+          "modified": "着物380"
+        },
+        {
+          "index": 373,
+          "start": 17324,
+          "original": "着物381",
+          "modified": "着物381"
+        },
+        {
+          "index": 374,
+          "start": 17368,
+          "original": "着物382",
+          "modified": "着物382"
+        },
+        {
+          "index": 375,
+          "start": 17412,
+          "original": "着物383",
+          "modified": "着物383"
+        },
+        {
+          "index": 376,
+          "start": 17456,
+          "original": "着物384",
+          "modified": "着物384"
+        },
+        {
+          "index": 377,
+          "start": 17500,
+          "original": "着物385",
+          "modified": "着物385"
+        },
+        {
+          "index": 378,
+          "start": 17544,
+          "original": "着物386",
+          "modified": "着物386"
+        },
+        {
+          "index": 379,
+          "start": 17588,
+          "original": "着物387",
+          "modified": "着物387"
+        },
+        {
+          "index": 380,
+          "start": 17632,
+          "original": "着物388",
+          "modified": "着物388"
+        },
+        {
+          "index": 381,
+          "start": 17676,
+          "original": "着物389",
+          "modified": "着物389"
+        },
+        {
+          "index": 382,
+          "start": 17720,
+          "original": "着物390",
+          "modified": "着物390"
+        },
+        {
+          "index": 383,
+          "start": 17764,
+          "original": "着物391",
+          "modified": "着物391"
+        },
+        {
+          "index": 384,
+          "start": 17808,
+          "original": "着物392",
+          "modified": "着物392"
+        },
+        {
+          "index": 385,
+          "start": 17852,
+          "original": "着物393",
+          "modified": "着物393"
+        },
+        {
+          "index": 386,
+          "start": 17896,
+          "original": "着物394",
+          "modified": "着物394"
+        },
+        {
+          "index": 387,
+          "start": 17940,
+          "original": "着物395",
+          "modified": "着物395"
+        },
+        {
+          "index": 388,
+          "start": 17984,
+          "original": "着物396",
+          "modified": "着物396"
+        },
+        {
+          "index": 389,
+          "start": 18028,
+          "original": "着物397",
+          "modified": "着物397"
+        },
+        {
+          "index": 390,
+          "start": 18072,
+          "original": "着物398",
+          "modified": "着物398"
+        },
+        {
+          "index": 391,
+          "start": 18116,
+          "original": "着物399",
+          "modified": "着物399"
+        },
+        {
+          "index": 392,
+          "start": 18160,
+          "original": "着物400",
+          "modified": "着物400"
+        },
+        {
+          "index": 393,
+          "start": 18204,
+          "original": "着物401",
+          "modified": "着物401"
+        },
+        {
+          "index": 394,
+          "start": 18248,
+          "original": "着物402",
+          "modified": "着物402"
+        },
+        {
+          "index": 395,
+          "start": 18292,
+          "original": "着物403",
+          "modified": "着物403"
+        },
+        {
+          "index": 396,
+          "start": 18336,
+          "original": "着物404",
+          "modified": "着物404"
+        },
+        {
+          "index": 397,
+          "start": 18380,
+          "original": "着物405",
+          "modified": "着物405"
+        },
+        {
+          "index": 398,
+          "start": 18424,
+          "original": "着物406",
+          "modified": "着物406"
+        },
+        {
+          "index": 399,
+          "start": 18468,
+          "original": "着物407",
+          "modified": "着物407"
+        },
+        {
+          "index": 400,
+          "start": 18512,
+          "original": "着物408",
+          "modified": "着物408"
+        },
+        {
+          "index": 401,
+          "start": 18556,
+          "original": "着物409",
+          "modified": "着物409"
+        },
+        {
+          "index": 402,
+          "start": 18600,
+          "original": "着物410",
+          "modified": "着物410"
+        },
+        {
+          "index": 403,
+          "start": 18644,
+          "original": "着物411",
+          "modified": "着物411"
+        },
+        {
+          "index": 404,
+          "start": 18688,
+          "original": "着物412",
+          "modified": "着物412"
+        },
+        {
+          "index": 405,
+          "start": 18732,
+          "original": "着物413",
+          "modified": "着物413"
+        },
+        {
+          "index": 406,
+          "start": 18776,
+          "original": "着物414",
+          "modified": "着物414"
+        },
+        {
+          "index": 407,
+          "start": 18820,
+          "original": "着物415",
+          "modified": "着物415"
+        },
+        {
+          "index": 408,
+          "start": 18864,
+          "original": "着物416",
+          "modified": "着物416"
+        },
+        {
+          "index": 409,
+          "start": 18908,
+          "original": "着物417",
+          "modified": "着物417"
+        },
+        {
+          "index": 410,
+          "start": 18952,
+          "original": "着物418",
+          "modified": "着物418"
+        },
+        {
+          "index": 411,
+          "start": 18996,
+          "original": "着物419",
+          "modified": "着物419"
+        },
+        {
+          "index": 412,
+          "start": 19040,
+          "original": "着物420",
+          "modified": "着物420"
+        },
+        {
+          "index": 413,
+          "start": 19084,
+          "original": "着物421",
+          "modified": "着物421"
+        },
+        {
+          "index": 414,
+          "start": 19128,
+          "original": "着物422",
+          "modified": "着物422"
+        },
+        {
+          "index": 415,
+          "start": 19172,
+          "original": "着物423",
+          "modified": "着物423"
+        },
+        {
+          "index": 416,
+          "start": 19216,
+          "original": "着物424",
+          "modified": "着物424"
+        }
+      ]
+    }
+  ]
+}

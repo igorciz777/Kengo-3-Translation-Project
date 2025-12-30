@@ -1,0 +1,61 @@
+{
+  "file_info": {
+    "filename": "00000685.bin",
+    "index": 685,
+    "file_size": 2880,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 7,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "試合開始",
+          "modified": "試合開始"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "一行目",
+          "modified": "一行目"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "二行目",
+          "modified": "二行目"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "三行目",
+          "modified": "三行目"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "四行目",
+          "modified": "四行目"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "五行目",
+          "modified": "五行目"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "六行目",
+          "modified": "六行目"
+        }
+      ]
+    }
+  ]
+}

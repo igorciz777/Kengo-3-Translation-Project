@@ -1,0 +1,55 @@
+{
+  "file_info": {
+    "filename": "00000626.bin",
+    "index": 626,
+    "file_size": 3648,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 6,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "対決場選択",
+          "modified": "対決場選択"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "ノーマル",
+          "modified": "ノーマル"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "イベント",
+          "modified": "イベント"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "道場",
+          "modified": "道場"
+        }
+      ]
+    }
+  ]
+}

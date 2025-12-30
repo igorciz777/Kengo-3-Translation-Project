@@ -1,0 +1,307 @@
+{
+  "file_info": {
+    "filename": "00000625.bin",
+    "index": 625,
+    "file_size": 15936,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 48,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "セーブ",
+          "modified": "セーブ"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "ロード",
+          "modified": "ロード"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "育ての親選択",
+          "modified": "育ての親選択"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "%-s",
+          "modified": "%-s"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "%-s",
+          "modified": "%-s"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "%-s",
+          "modified": "%-s"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "%-s",
+          "modified": "%-s"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "%-s",
+          "modified": "%-s"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "%-s",
+          "modified": "%-s"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "%-s",
+          "modified": "%-s"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "%-s",
+          "modified": "%-s"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "%-s",
+          "modified": "%-s"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "%-s",
+          "modified": "%-s"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "%02d年%02d月%02d日",
+          "modified": "%02d年%02d月%02d日"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "%02d年%02d月%02d日",
+          "modified": "%02d年%02d月%02d日"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "%02d年%02d月%02d日",
+          "modified": "%02d年%02d月%02d日"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": "%02d年%02d月%02d日",
+          "modified": "%02d年%02d月%02d日"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "%02d年%02d月%02d日",
+          "modified": "%02d年%02d月%02d日"
+        },
+        {
+          "index": 20,
+          "start": 3280,
+          "original": "%02d年%02d月%02d日",
+          "modified": "%02d年%02d月%02d日"
+        },
+        {
+          "index": 21,
+          "start": 3440,
+          "original": "%02d年%02d月%02d日",
+          "modified": "%02d年%02d月%02d日"
+        },
+        {
+          "index": 22,
+          "start": 3600,
+          "original": "%02d年%02d月%02d日",
+          "modified": "%02d年%02d月%02d日"
+        },
+        {
+          "index": 23,
+          "start": 3760,
+          "original": "%02d年%02d月%02d日",
+          "modified": "%02d年%02d月%02d日"
+        },
+        {
+          "index": 24,
+          "start": 3920,
+          "original": "%02d年%02d月%02d日",
+          "modified": "%02d年%02d月%02d日"
+        },
+        {
+          "index": 25,
+          "start": 4080,
+          "original": "%02d:%02d",
+          "modified": "%02d:%02d"
+        },
+        {
+          "index": 26,
+          "start": 4240,
+          "original": "%02d:%02d",
+          "modified": "%02d:%02d"
+        },
+        {
+          "index": 27,
+          "start": 4400,
+          "original": "%02d:%02d",
+          "modified": "%02d:%02d"
+        },
+        {
+          "index": 28,
+          "start": 4560,
+          "original": "%02d:%02d",
+          "modified": "%02d:%02d"
+        },
+        {
+          "index": 29,
+          "start": 4720,
+          "original": "%02d:%02d",
+          "modified": "%02d:%02d"
+        },
+        {
+          "index": 30,
+          "start": 4880,
+          "original": "%02d:%02d",
+          "modified": "%02d:%02d"
+        },
+        {
+          "index": 31,
+          "start": 5040,
+          "original": "%02d:%02d",
+          "modified": "%02d:%02d"
+        },
+        {
+          "index": 32,
+          "start": 5200,
+          "original": "%02d:%02d",
+          "modified": "%02d:%02d"
+        },
+        {
+          "index": 33,
+          "start": 5360,
+          "original": "%02d:%02d",
+          "modified": "%02d:%02d"
+        },
+        {
+          "index": 34,
+          "start": 5520,
+          "original": "%02d:%02d",
+          "modified": "%02d:%02d"
+        },
+        {
+          "index": 35,
+          "start": 5680,
+          "original": "新規保存",
+          "modified": "新規保存"
+        },
+        {
+          "index": 36,
+          "start": 5840,
+          "original": "ファイルが壊れています",
+          "modified": "ファイルが壊れています"
+        },
+        {
+          "index": 37,
+          "start": 6000,
+          "original": "ゲームデータがありません",
+          "modified": "ゲームデータがありません"
+        },
+        {
+          "index": 38,
+          "start": 6160,
+          "original": "クリアデータがありません",
+          "modified": "クリアデータがありません"
+        },
+        {
+          "index": 39,
+          "start": 6320,
+          "original": "データNo.%02d",
+          "modified": "データNo.%02d"
+        },
+        {
+          "index": 40,
+          "start": 6480,
+          "original": "%-s",
+          "modified": "%-s"
+        },
+        {
+          "index": 41,
+          "start": 6640,
+          "original": "出身地:%-s",
+          "modified": "出身地:%-s"
+        },
+        {
+          "index": 42,
+          "start": 6800,
+          "original": "現在地:%-s",
+          "modified": "現在地:%-s"
+        },
+        {
+          "index": 43,
+          "start": 6960,
+          "original": "%-s流",
+          "modified": "%-s流"
+        },
+        {
+          "index": 44,
+          "start": 7120,
+          "original": "%4d日",
+          "modified": "%4d日"
+        },
+        {
+          "index": 45,
+          "start": 7280,
+          "original": "%-s",
+          "modified": "%-s"
+        },
+        {
+          "index": 46,
+          "start": 7440,
+          "original": "プレイ時間",
+          "modified": "プレイ時間"
+        },
+        {
+          "index": 47,
+          "start": 7600,
+          "original": "%4d時間%02d分",
+          "modified": "%4d時間%02d分"
+        }
+      ]
+    }
+  ]
+}

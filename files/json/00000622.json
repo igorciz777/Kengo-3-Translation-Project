@@ -1,0 +1,67 @@
+{
+  "file_info": {
+    "filename": "00000622.bin",
+    "index": 622,
+    "file_size": 6528,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 8,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "剣士選択",
+          "modified": "剣士選択"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "前項",
+          "modified": "前項"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "現在",
+          "modified": "現在"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "項",
+          "modified": "項"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "次項",
+          "modified": "次項"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "%1d/%1d",
+          "modified": "%1d/%1d"
+        }
+      ]
+    }
+  ]
+}

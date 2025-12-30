@@ -1,0 +1,55 @@
+{
+  "file_info": {
+    "filename": "00000659.bin",
+    "index": 659,
+    "file_size": 1984,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 6,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "性能比較",
+          "modified": "性能比較"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "選択中の刀：",
+          "modified": "選択中の刀："
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "和泉守藤原兼定",
+          "modified": "和泉守藤原兼定"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "現在の帯刀：",
+          "modified": "現在の帯刀："
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "和泉守藤原兼定",
+          "modified": "和泉守藤原兼定"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "極上業物",
+          "modified": "極上業物"
+        }
+      ]
+    }
+  ]
+}

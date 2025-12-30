@@ -1,0 +1,169 @@
+{
+  "file_info": {
+    "filename": "00000631.bin",
+    "index": 631,
+    "file_size": 13952,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 25,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "一刀斎後継者編",
+          "modified": "一刀斎後継者編"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "達成状況　　%2d/%2d",
+          "modified": "達成状況　　%2d/%2d"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "シナリオ切替え",
+          "modified": "シナリオ切替え"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "お相手つかまつる",
+          "modified": "お相手つかまつる"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "挑戦者",
+          "modified": "挑戦者"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "その名は一刀斎",
+          "modified": "その名は一刀斎"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "入門",
+          "modified": "入門"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "兄弟弟子・典膳",
+          "modified": "兄弟弟子・典膳"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "一刀斎の教え",
+          "modified": "一刀斎の教え"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "老いの兆し",
+          "modified": "老いの兆し"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "一刀を継ぐもの",
+          "modified": "一刀を継ぐもの"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "袂を分かつ時",
+          "modified": "袂を分かつ時"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "迷いの夜",
+          "modified": "迷いの夜"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "相弟子対決",
+          "modified": "相弟子対決"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "師の道、我が道",
+          "modified": "師の道、我が道"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "さらば一刀斎",
+          "modified": "さらば一刀斎"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": "対決・一刀斎",
+          "modified": "対決・一刀斎"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "典膳との再会",
+          "modified": "典膳との再会"
+        },
+        {
+          "index": 20,
+          "start": 3280,
+          "original": "典膳と小野忠明",
+          "modified": "典膳と小野忠明"
+        },
+        {
+          "index": 21,
+          "start": 3440,
+          "original": "決戦、時を越え",
+          "modified": "決戦、時を越え"
+        },
+        {
+          "index": 22,
+          "start": 3600,
+          "original": "出会い・小野忠明",
+          "modified": "出会い・小野忠明"
+        },
+        {
+          "index": 23,
+          "start": 3760,
+          "original": "一刀、これひとつ",
+          "modified": "一刀、これひとつ"
+        },
+        {
+          "index": 24,
+          "start": 3920,
+          "original": "対決・小野忠明",
+          "modified": "対決・小野忠明"
+        }
+      ]
+    }
+  ]
+}

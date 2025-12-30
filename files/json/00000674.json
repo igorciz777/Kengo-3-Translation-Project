@@ -1,0 +1,49 @@
+{
+  "file_info": {
+    "filename": "00000674.bin",
+    "index": 674,
+    "file_size": 2240,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 5,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "個人名最大八文字",
+          "modified": "個人名最大八文字"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "最大文字数二十四文字最大文字数二十四文字でござる",
+          "modified": "最大文字数二十四文字最大文字数二十四文字でござる"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "最大文字数二十四文字最大文字数二十四文字でござる",
+          "modified": "最大文字数二十四文字最大文字数二十四文字でござる"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "最大文字数二十四文字最大文字数二十四文字でござる",
+          "modified": "最大文字数二十四文字最大文字数二十四文字でござる"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "▽",
+          "modified": "▽"
+        }
+      ]
+    }
+  ]
+}

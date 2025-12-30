@@ -1,0 +1,433 @@
+{
+  "file_info": {
+    "filename": "00000623.bin",
+    "index": 623,
+    "file_size": 12672,
+    "block_count": 3
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 69,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "はい",
+          "modified": "はい"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "いいえ",
+          "modified": "いいえ"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "/",
+          "modified": "/"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "メモリーカード(PS2)がメモリーカード",
+          "modified": "メモリーカード(PS2)がメモリーカード"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "差込口%dに差されていません。",
+          "modified": "差込口%dに差されていません。"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "このゲームのデータをセーブするには%dKB",
+          "modified": "このゲームのデータをセーブするには%dKB"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "以上必要です。このままで開始しますか？",
+          "modified": "以上必要です。このままで開始しますか？"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "メモリーカード差込口%dのメモリーカード(PS2)が",
+          "modified": "メモリーカード差込口%dのメモリーカード(PS2)が"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "フォーマットされていません。",
+          "modified": "フォーマットされていません。"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "このままで開始しますか？",
+          "modified": "このままで開始しますか？"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "メモリーカード差込口%dのメモリーカード(PS2)の",
+          "modified": "メモリーカード差込口%dのメモリーカード(PS2)の"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "空き容量が不足しています。",
+          "modified": "空き容量が不足しています。"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "剣豪３のゲームデータをセーブするには",
+          "modified": "剣豪３のゲームデータをセーブするには"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "%dKB以上の空き容量が必要です。",
+          "modified": "%dKB以上の空き容量が必要です。"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "このままで開始しますか？",
+          "modified": "このままで開始しますか？"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "メモリーカード差込口%dのメモリーカード(PS2)の",
+          "modified": "メモリーカード差込口%dのメモリーカード(PS2)の"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "剣豪３のファイルが壊れています。",
+          "modified": "剣豪３のファイルが壊れています。"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "このままで開始しますか？",
+          "modified": "このままで開始しますか？"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": "メモリーカード差込口%dの",
+          "modified": "メモリーカード差込口%dの"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "メモリーカード(PS2)をチェックしています。",
+          "modified": "メモリーカード(PS2)をチェックしています。"
+        },
+        {
+          "index": 20,
+          "start": 3280,
+          "original": "メモリーカード(PS2)を抜かないでください。",
+          "modified": "メモリーカード(PS2)を抜かないでください。"
+        },
+        {
+          "index": 21,
+          "start": 3440,
+          "original": "メモリーカード差込口%dの",
+          "modified": "メモリーカード差込口%dの"
+        },
+        {
+          "index": 22,
+          "start": 3600,
+          "original": "剣豪３のゲームデータをロード中です。",
+          "modified": "剣豪３のゲームデータをロード中です。"
+        },
+        {
+          "index": 23,
+          "start": 3760,
+          "original": "メモリーカード(PS2)を抜かないでください。",
+          "modified": "メモリーカード(PS2)を抜かないでください。"
+        },
+        {
+          "index": 24,
+          "start": 3920,
+          "original": "メモリーカード差込口%dのメモリーカード(PS2)が",
+          "modified": "メモリーカード差込口%dのメモリーカード(PS2)が"
+        },
+        {
+          "index": 25,
+          "start": 4080,
+          "original": "フォーマットされていません。",
+          "modified": "フォーマットされていません。"
+        },
+        {
+          "index": 26,
+          "start": 4240,
+          "original": "フォーマットしてから剣豪３のゲームデータを",
+          "modified": "フォーマットしてから剣豪３のゲームデータを"
+        },
+        {
+          "index": 27,
+          "start": 4400,
+          "original": "作成してよろしいですか？",
+          "modified": "作成してよろしいですか？"
+        },
+        {
+          "index": 28,
+          "start": 4560,
+          "original": "フォーマット中です。メモリーカード差込口%dの",
+          "modified": "フォーマット中です。メモリーカード差込口%dの"
+        },
+        {
+          "index": 29,
+          "start": 4720,
+          "original": "メモリーカード(PS2)を抜かないでください。",
+          "modified": "メモリーカード(PS2)を抜かないでください。"
+        },
+        {
+          "index": 30,
+          "start": 4880,
+          "original": "フォーマットに失敗しました。",
+          "modified": "フォーマットに失敗しました。"
+        },
+        {
+          "index": 31,
+          "start": 5040,
+          "original": "剣豪３のゲームデータをセーブ中です。",
+          "modified": "剣豪３のゲームデータをセーブ中です。"
+        },
+        {
+          "index": 32,
+          "start": 5200,
+          "original": "メモリーカード差込口%dのメモリーカード(PS2)を",
+          "modified": "メモリーカード差込口%dのメモリーカード(PS2)を"
+        },
+        {
+          "index": 33,
+          "start": 5360,
+          "original": "抜かないでください。",
+          "modified": "抜かないでください。"
+        },
+        {
+          "index": 34,
+          "start": 5520,
+          "original": "剣豪３のゲームデータを作成しています。",
+          "modified": "剣豪３のゲームデータを作成しています。"
+        },
+        {
+          "index": 35,
+          "start": 5680,
+          "original": "メモリーカード差込口%dのメモリーカード(PS2)を",
+          "modified": "メモリーカード差込口%dのメモリーカード(PS2)を"
+        },
+        {
+          "index": 36,
+          "start": 5840,
+          "original": "抜かないでください。",
+          "modified": "抜かないでください。"
+        },
+        {
+          "index": 37,
+          "start": 6000,
+          "original": "剣豪３のゲームデータの作成に失敗しました。",
+          "modified": "剣豪３のゲームデータの作成に失敗しました。"
+        },
+        {
+          "index": 38,
+          "start": 6160,
+          "original": "剣豪３のゲームデータのセーブに失敗しました。",
+          "modified": "剣豪３のゲームデータのセーブに失敗しました。"
+        },
+        {
+          "index": 39,
+          "start": 6320,
+          "original": "セーブが終了しました。",
+          "modified": "セーブが終了しました。"
+        },
+        {
+          "index": 40,
+          "start": 6480,
+          "original": "メモリーカード差込口%dのメモリーカード(PS2)の",
+          "modified": "メモリーカード差込口%dのメモリーカード(PS2)の"
+        },
+        {
+          "index": 41,
+          "start": 6640,
+          "original": "空き容量が不足しています。",
+          "modified": "空き容量が不足しています。"
+        },
+        {
+          "index": 42,
+          "start": 6800,
+          "original": "剣豪３のゲームデータをセーブするには",
+          "modified": "剣豪３のゲームデータをセーブするには"
+        },
+        {
+          "index": 43,
+          "start": 6960,
+          "original": "%dKB以上の空き容量が必要です。",
+          "modified": "%dKB以上の空き容量が必要です。"
+        },
+        {
+          "index": 44,
+          "start": 7120,
+          "original": "メモリーカード差込口%dのメモリーカード(PS2)に",
+          "modified": "メモリーカード差込口%dのメモリーカード(PS2)に"
+        },
+        {
+          "index": 45,
+          "start": 7280,
+          "original": "新しく剣豪３のゲームデータを作成します。",
+          "modified": "新しく剣豪３のゲームデータを作成します。"
+        },
+        {
+          "index": 46,
+          "start": 7440,
+          "original": "よろしいですか？",
+          "modified": "よろしいですか？"
+        },
+        {
+          "index": 47,
+          "start": 7600,
+          "original": "メモリーカード差込口%dのメモリーカード(PS2)",
+          "modified": "メモリーカード差込口%dのメモリーカード(PS2)"
+        },
+        {
+          "index": 48,
+          "start": 7760,
+          "original": "には、剣豪３のゲームデータが既に存在します。",
+          "modified": "には、剣豪３のゲームデータが既に存在します。"
+        },
+        {
+          "index": 49,
+          "start": 7920,
+          "original": "上書きしてよろしいですか？",
+          "modified": "上書きしてよろしいですか？"
+        },
+        {
+          "index": 50,
+          "start": 8080,
+          "original": "メモリーカード差込口%dのメモリーカード(PS2)の",
+          "modified": "メモリーカード差込口%dのメモリーカード(PS2)の"
+        },
+        {
+          "index": 51,
+          "start": 8240,
+          "original": "剣豪３のファイルが壊れています。",
+          "modified": "剣豪３のファイルが壊れています。"
+        },
+        {
+          "index": 52,
+          "start": 8400,
+          "original": "上書きしてよろしいですか？",
+          "modified": "上書きしてよろしいですか？"
+        },
+        {
+          "index": 53,
+          "start": 8560,
+          "original": "メモリーカード差込口%dのメモリーカード(PS2)の",
+          "modified": "メモリーカード差込口%dのメモリーカード(PS2)の"
+        },
+        {
+          "index": 54,
+          "start": 8720,
+          "original": "剣豪３のファイルが壊れています。",
+          "modified": "剣豪３のファイルが壊れています。"
+        },
+        {
+          "index": 55,
+          "start": 8880,
+          "original": "上書きしてよろしいですか？",
+          "modified": "上書きしてよろしいですか？"
+        },
+        {
+          "index": 56,
+          "start": 9040,
+          "original": "メモリーカード差込口%dのメモリーカード(PS2)から",
+          "modified": "メモリーカード差込口%dのメモリーカード(PS2)から"
+        },
+        {
+          "index": 57,
+          "start": 9200,
+          "original": "剣豪３のゲームデータをロードします。",
+          "modified": "剣豪３のゲームデータをロードします。"
+        },
+        {
+          "index": 58,
+          "start": 9360,
+          "original": "よろしいですか？",
+          "modified": "よろしいですか？"
+        },
+        {
+          "index": 59,
+          "start": 9520,
+          "original": "剣豪３のゲームデータをロード中です。",
+          "modified": "剣豪３のゲームデータをロード中です。"
+        },
+        {
+          "index": 60,
+          "start": 9680,
+          "original": "メモリーカード差込口%dのメモリーカード(PS2)を",
+          "modified": "メモリーカード差込口%dのメモリーカード(PS2)を"
+        },
+        {
+          "index": 61,
+          "start": 9840,
+          "original": "抜かないでください。",
+          "modified": "抜かないでください。"
+        },
+        {
+          "index": 62,
+          "start": 10000,
+          "original": "ロードが終了しました。",
+          "modified": "ロードが終了しました。"
+        },
+        {
+          "index": 63,
+          "start": 10160,
+          "original": "メモリーカード差込口%dの",
+          "modified": "メモリーカード差込口%dの"
+        },
+        {
+          "index": 64,
+          "start": 10320,
+          "original": "ロードに失敗しました。",
+          "modified": "ロードに失敗しました。"
+        },
+        {
+          "index": 65,
+          "start": 10480,
+          "original": "このファイルは壊れています。",
+          "modified": "このファイルは壊れています。"
+        },
+        {
+          "index": 66,
+          "start": 10640,
+          "original": "アナログコントローラ(DUALSHOCK 2)が接続されていません。",
+          "modified": "アナログコントローラ(DUALSHOCK 2)が接続されていません。"
+        },
+        {
+          "index": 67,
+          "start": 10800,
+          "original": "コントローラー端子%dにアナログコントローラ(DUALSHOCK 2)",
+          "modified": "コントローラー端子%dにアナログコントローラ(DUALSHOCK 2)"
+        },
+        {
+          "index": 68,
+          "start": 10960,
+          "original": "を正しく接続しなおしてから○ボタンを押してください。",
+          "modified": "を正しく接続しなおしてから○ボタンを押してください。"
+        }
+      ]
+    }
+  ]
+}

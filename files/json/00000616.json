@@ -1,0 +1,49 @@
+{
+  "file_info": {
+    "filename": "00000616.bin",
+    "index": 616,
+    "file_size": 3456,
+    "block_count": 5
+  },
+  "blocks": [
+    {
+      "block_index": 1,
+      "type": 1,
+      "size": 160,
+      "count": 5,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 144,
+          "original": "質問１行目",
+          "modified": "質問１行目"
+        },
+        {
+          "index": 1,
+          "start": 304,
+          "original": "質問２行目",
+          "modified": "質問２行目"
+        },
+        {
+          "index": 2,
+          "start": 464,
+          "original": "解答１つ目",
+          "modified": "解答１つ目"
+        },
+        {
+          "index": 3,
+          "start": 624,
+          "original": "解答２つ目",
+          "modified": "解答２つ目"
+        },
+        {
+          "index": 4,
+          "start": 784,
+          "original": "解答３つ目",
+          "modified": "解答３つ目"
+        }
+      ]
+    }
+  ]
+}

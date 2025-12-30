@@ -1,0 +1,187 @@
+{
+  "file_info": {
+    "filename": "00000708.bin",
+    "index": 708,
+    "file_size": 22464,
+    "block_count": 78
+  },
+  "blocks": [
+    {
+      "block_index": 75,
+      "type": 1,
+      "size": 160,
+      "count": 28,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 10192,
+          "original": "タイトル",
+          "modified": "タイトル"
+        },
+        {
+          "index": 1,
+          "start": 10352,
+          "original": "項目壱",
+          "modified": "項目壱"
+        },
+        {
+          "index": 2,
+          "start": 10512,
+          "original": "項目弐",
+          "modified": "項目弐"
+        },
+        {
+          "index": 3,
+          "start": 10672,
+          "original": "項目参",
+          "modified": "項目参"
+        },
+        {
+          "index": 4,
+          "start": 10832,
+          "original": "項目四",
+          "modified": "項目四"
+        },
+        {
+          "index": 5,
+          "start": 10992,
+          "original": "項目伍",
+          "modified": "項目伍"
+        },
+        {
+          "index": 6,
+          "start": 11152,
+          "original": "項目六",
+          "modified": "項目六"
+        },
+        {
+          "index": 7,
+          "start": 11312,
+          "original": "項目七",
+          "modified": "項目七"
+        },
+        {
+          "index": 8,
+          "start": 11472,
+          "original": "項目八",
+          "modified": "項目八"
+        },
+        {
+          "index": 9,
+          "start": 11632,
+          "original": "項目九",
+          "modified": "項目九"
+        },
+        {
+          "index": 10,
+          "start": 11792,
+          "original": "項目十",
+          "modified": "項目十"
+        },
+        {
+          "index": 11,
+          "start": 11952,
+          "original": "項目十一",
+          "modified": "項目十一"
+        },
+        {
+          "index": 12,
+          "start": 12112,
+          "original": "項目十二",
+          "modified": "項目十二"
+        },
+        {
+          "index": 13,
+          "start": 12272,
+          "original": "項目十三",
+          "modified": "項目十三"
+        },
+        {
+          "index": 14,
+          "start": 12432,
+          "original": "項目十四",
+          "modified": "項目十四"
+        },
+        {
+          "index": 15,
+          "start": 12592,
+          "original": "項目十五",
+          "modified": "項目十五"
+        },
+        {
+          "index": 16,
+          "start": 12752,
+          "original": "項目十六",
+          "modified": "項目十六"
+        },
+        {
+          "index": 17,
+          "start": 12912,
+          "original": "項目十七",
+          "modified": "項目十七"
+        },
+        {
+          "index": 18,
+          "start": 13072,
+          "original": "項目十八",
+          "modified": "項目十八"
+        },
+        {
+          "index": 19,
+          "start": 13232,
+          "original": "項目十九",
+          "modified": "項目十九"
+        },
+        {
+          "index": 20,
+          "start": 13392,
+          "original": "項目二十",
+          "modified": "項目二十"
+        },
+        {
+          "index": 21,
+          "start": 13552,
+          "original": "項目二十一",
+          "modified": "項目二十一"
+        },
+        {
+          "index": 22,
+          "start": 13712,
+          "original": "項目二十二",
+          "modified": "項目二十二"
+        },
+        {
+          "index": 23,
+          "start": 13872,
+          "original": "項目二十三",
+          "modified": "項目二十三"
+        },
+        {
+          "index": 24,
+          "start": 14032,
+          "original": "項目二十四",
+          "modified": "項目二十四"
+        },
+        {
+          "index": 25,
+          "start": 14192,
+          "original": "項目二十五",
+          "modified": "項目二十五"
+        },
+        {
+          "index": 26,
+          "start": 14352,
+          "original": "項目二十六",
+          "modified": "項目二十六"
+        },
+        {
+          "index": 27,
+          "start": 14512,
+          "original": "項目二十七",
+          "modified": "項目二十七"
+        }
+      ]
+    }
+  ]
+}

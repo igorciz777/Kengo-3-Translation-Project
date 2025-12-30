@@ -1,0 +1,37 @@
+{
+  "file_info": {
+    "filename": "00000669.bin",
+    "index": 669,
+    "file_size": 1984,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 3,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "報酬",
+          "modified": "報酬"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "999両",
+          "modified": "999両"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "危険度",
+          "modified": "危険度"
+        }
+      ]
+    }
+  ]
+}

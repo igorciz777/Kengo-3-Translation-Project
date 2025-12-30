@@ -1,0 +1,18 @@
+{
+  "file_info": {
+    "filename": "00000613.bin",
+    "index": 613,
+    "file_size": 2240,
+    "block_count": 3
+  },
+  "blocks": [
+    {
+      "block_index": 1,
+      "type": 1,
+      "size": 140,
+      "count": 0,
+      "padding": 16,
+      "texts": []
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "file_info": {
+    "filename": "00000630.bin",
+    "index": 630,
+    "file_size": 26944,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 49,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "柳生一族の確執編",
+          "modified": "柳生一族の確執編"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "達成状況　　%2d/%2d",
+          "modified": "達成状況　　%2d/%2d"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "シナリオ切替え",
+          "modified": "シナリオ切替え"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "門前払い",
+          "modified": "門前払い"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "柳生の森",
+          "modified": "柳生の森"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "柳生道場再び",
+          "modified": "柳生道場再び"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "柳生道場訪問",
+          "modified": "柳生道場訪問"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "出会い・兵庫助",
+          "modified": "出会い・兵庫助"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "隻眼の放浪者",
+          "modified": "隻眼の放浪者"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "十兵衛再会",
+          "modified": "十兵衛再会"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "似たもの",
+          "modified": "似たもの"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "十兵衛帰参",
+          "modified": "十兵衛帰参"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "十兵衛試し打ち",
+          "modified": "十兵衛試し打ち"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "荒木又右衛門",
+          "modified": "荒木又右衛門"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "又右衛門再び",
+          "modified": "又右衛門再び"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "助太刀の人",
+          "modified": "助太刀の人"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": "友との因縁",
+          "modified": "友との因縁"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "鍵屋の辻",
+          "modified": "鍵屋の辻"
+        },
+        {
+          "index": 20,
+          "start": 3280,
+          "original": "いつの日か",
+          "modified": "いつの日か"
+        },
+        {
+          "index": 21,
+          "start": 3440,
+          "original": "隻眼の挑戦者",
+          "modified": "隻眼の挑戦者"
+        },
+        {
+          "index": 22,
+          "start": 3600,
+          "original": "十兵衛弟子入り",
+          "modified": "十兵衛弟子入り"
+        },
+        {
+          "index": 23,
+          "start": 3760,
+          "original": "修行の成果",
+          "modified": "修行の成果"
+        },
+        {
+          "index": 24,
+          "start": 3920,
+          "original": "又右衛門の噂",
+          "modified": "又右衛門の噂"
+        },
+        {
+          "index": 25,
+          "start": 4080,
+          "original": "再会・又右衛門",
+          "modified": "再会・又右衛門"
+        },
+        {
+          "index": 26,
+          "start": 4240,
+          "original": "待ち望んだ対決",
+          "modified": "待ち望んだ対決"
+        },
+        {
+          "index": 27,
+          "start": 4400,
+          "original": "旗本の遺恨",
+          "modified": "旗本の遺恨"
+        },
+        {
+          "index": 28,
+          "start": 4560,
+          "original": "荒木又右衛門暗殺",
+          "modified": "荒木又右衛門暗殺"
+        },
+        {
+          "index": 29,
+          "start": 4720,
+          "original": "仇討ち十兵衛",
+          "modified": "仇討ち十兵衛"
+        },
+        {
+          "index": 30,
+          "start": 4880,
+          "original": "不穏の兆し",
+          "modified": "不穏の兆し"
+        },
+        {
+          "index": 31,
+          "start": 5040,
+          "original": "尾張の謀反者",
+          "modified": "尾張の謀反者"
+        },
+        {
+          "index": 32,
+          "start": 5200,
+          "original": "父子の確執",
+          "modified": "父子の確執"
+        },
+        {
+          "index": 33,
+          "start": 5360,
+          "original": "疑惑",
+          "modified": "疑惑"
+        },
+        {
+          "index": 34,
+          "start": 5520,
+          "original": "新たなる対立",
+          "modified": "新たなる対立"
+        },
+        {
+          "index": 35,
+          "start": 5680,
+          "original": "兵庫助の決意",
+          "modified": "兵庫助の決意"
+        },
+        {
+          "index": 36,
+          "start": 5840,
+          "original": "決戦・裏柳生",
+          "modified": "決戦・裏柳生"
+        },
+        {
+          "index": 37,
+          "start": 6000,
+          "original": "静寂再び",
+          "modified": "静寂再び"
+        },
+        {
+          "index": 38,
+          "start": 6160,
+          "original": "宗矩との謁見",
+          "modified": "宗矩との謁見"
+        },
+        {
+          "index": 39,
+          "start": 6320,
+          "original": "十兵衛の真意",
+          "modified": "十兵衛の真意"
+        },
+        {
+          "index": 40,
+          "start": 6480,
+          "original": "夜明けと共に",
+          "modified": "夜明けと共に"
+        },
+        {
+          "index": 41,
+          "start": 6640,
+          "original": "決戦・裏柳生",
+          "modified": "決戦・裏柳生"
+        },
+        {
+          "index": 42,
+          "start": 6800,
+          "original": "執念",
+          "modified": "執念"
+        },
+        {
+          "index": 43,
+          "start": 6960,
+          "original": "兵庫助の苦悩",
+          "modified": "兵庫助の苦悩"
+        },
+        {
+          "index": 44,
+          "start": 7120,
+          "original": "兵庫助との対決",
+          "modified": "兵庫助との対決"
+        },
+        {
+          "index": 45,
+          "start": 7280,
+          "original": "謎の刺客",
+          "modified": "謎の刺客"
+        },
+        {
+          "index": 46,
+          "start": 7440,
+          "original": "宗矩の陰謀",
+          "modified": "宗矩の陰謀"
+        },
+        {
+          "index": 47,
+          "start": 7600,
+          "original": "江戸柳生の刺客",
+          "modified": "江戸柳生の刺客"
+        },
+        {
+          "index": 48,
+          "start": 7760,
+          "original": "宗矩との決着",
+          "modified": "宗矩との決着"
+        }
+      ]
+    }
+  ]
+}

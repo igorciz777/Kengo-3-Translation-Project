@@ -1,0 +1,271 @@
+{
+  "file_info": {
+    "filename": "00000663.bin",
+    "index": 663,
+    "file_size": 10240,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 42,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "登場剣豪状況　　%d/%d",
+          "modified": "登場剣豪状況　　%d/%d"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "%-14s　%-8s　%-8s　%-8s",
+          "modified": "%-14s　%-8s　%-8s　%-8s"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "%-14s　%-8s　%-8s　%-8s",
+          "modified": "%-14s　%-8s　%-8s　%-8s"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "%-14s　%-8s　%-8s　%-8s",
+          "modified": "%-14s　%-8s　%-8s　%-8s"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "%-14s　%-8s　%-8s　%-8s",
+          "modified": "%-14s　%-8s　%-8s　%-8s"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "%-14s　%-8s　%-8s　%-8s",
+          "modified": "%-14s　%-8s　%-8s　%-8s"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "%-14s　%-8s　%-8s　%-8s",
+          "modified": "%-14s　%-8s　%-8s　%-8s"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "%-14s　%-8s　%-8s　%-8s",
+          "modified": "%-14s　%-8s　%-8s　%-8s"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "%-14s　%-8s　%-8s　%-8s",
+          "modified": "%-14s　%-8s　%-8s　%-8s"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "死亡(全形取得)",
+          "modified": "死亡(全形取得)"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "良好",
+          "modified": "良好"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "荒木又右衛門",
+          "modified": "荒木又右衛門"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "面識無し",
+          "modified": "面識無し"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "良好",
+          "modified": "良好"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "面識無し",
+          "modified": "面識無し"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "良好",
+          "modified": "良好"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": "荒木又右衛門",
+          "modified": "荒木又右衛門"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "面識無し",
+          "modified": "面識無し"
+        },
+        {
+          "index": 20,
+          "start": 3280,
+          "original": "良好",
+          "modified": "良好"
+        },
+        {
+          "index": 21,
+          "start": 3440,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 22,
+          "start": 3600,
+          "original": "死亡(全形取得)",
+          "modified": "死亡(全形取得)"
+        },
+        {
+          "index": 23,
+          "start": 3760,
+          "original": "良好",
+          "modified": "良好"
+        },
+        {
+          "index": 24,
+          "start": 3920,
+          "original": "荒木又右衛門",
+          "modified": "荒木又右衛門"
+        },
+        {
+          "index": 25,
+          "start": 4080,
+          "original": "死亡(全形取得)",
+          "modified": "死亡(全形取得)"
+        },
+        {
+          "index": 26,
+          "start": 4240,
+          "original": "良好",
+          "modified": "良好"
+        },
+        {
+          "index": 27,
+          "start": 4400,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 28,
+          "start": 4560,
+          "original": "面識無し",
+          "modified": "面識無し"
+        },
+        {
+          "index": 29,
+          "start": 4720,
+          "original": "良好",
+          "modified": "良好"
+        },
+        {
+          "index": 30,
+          "start": 4880,
+          "original": "荒木又右衛門",
+          "modified": "荒木又右衛門"
+        },
+        {
+          "index": 31,
+          "start": 5040,
+          "original": "面識無し",
+          "modified": "面識無し"
+        },
+        {
+          "index": 32,
+          "start": 5200,
+          "original": "良好",
+          "modified": "良好"
+        },
+        {
+          "index": 33,
+          "start": 5360,
+          "original": "佐々木小次郎",
+          "modified": "佐々木小次郎"
+        },
+        {
+          "index": 34,
+          "start": 5520,
+          "original": "面識無し",
+          "modified": "面識無し"
+        },
+        {
+          "index": 35,
+          "start": 5680,
+          "original": "良好",
+          "modified": "良好"
+        },
+        {
+          "index": 36,
+          "start": 5840,
+          "original": "荒木又右衛門",
+          "modified": "荒木又右衛門"
+        },
+        {
+          "index": 37,
+          "start": 6000,
+          "original": "面識無し",
+          "modified": "面識無し"
+        },
+        {
+          "index": 38,
+          "start": 6160,
+          "original": "良好",
+          "modified": "良好"
+        },
+        {
+          "index": 39,
+          "start": 6320,
+          "original": "剣豪名順",
+          "modified": "剣豪名順"
+        },
+        {
+          "index": 40,
+          "start": 6480,
+          "original": "状態順",
+          "modified": "状態順"
+        },
+        {
+          "index": 41,
+          "start": 6640,
+          "original": "友好度順 ",
+          "modified": "友好度順 "
+        }
+      ]
+    }
+  ]
+}

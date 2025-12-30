@@ -1,0 +1,85 @@
+{
+  "file_info": {
+    "filename": "00000714.bin",
+    "index": 714,
+    "file_size": 4992,
+    "block_count": 3
+  },
+  "blocks": [
+    {
+      "block_index": 1,
+      "type": 1,
+      "size": 140,
+      "count": 11,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 3216,
+          "original": "連続技 %-12s",
+          "modified": "連続技 %-12s"
+        },
+        {
+          "index": 1,
+          "start": 3356,
+          "original": "抜刀技 %-12s",
+          "modified": "抜刀技 %-12s"
+        },
+        {
+          "index": 2,
+          "start": 3496,
+          "original": "待　↓ %-12s",
+          "modified": "待　↓ %-12s"
+        },
+        {
+          "index": 3,
+          "start": 3636,
+          "original": "　　↑ %-12s",
+          "modified": "　　↑ %-12s"
+        },
+        {
+          "index": 4,
+          "start": 3776,
+          "original": "　　→ %-12s",
+          "modified": "　　→ %-12s"
+        },
+        {
+          "index": 5,
+          "start": 3916,
+          "original": "　　・ %-12s",
+          "modified": "　　・ %-12s"
+        },
+        {
+          "index": 6,
+          "start": 4056,
+          "original": "懸　上 %-12s",
+          "modified": "懸　上 %-12s"
+        },
+        {
+          "index": 7,
+          "start": 4196,
+          "original": "　　下 %-12s",
+          "modified": "　　下 %-12s"
+        },
+        {
+          "index": 8,
+          "start": 4336,
+          "original": "　　八 %-12s",
+          "modified": "　　八 %-12s"
+        },
+        {
+          "index": 9,
+          "start": 4476,
+          "original": "　　正 %-12s",
+          "modified": "　　正 %-12s"
+        },
+        {
+          "index": 10,
+          "start": 4616,
+          "original": "　　防 %-12s",
+          "modified": "　　防 %-12s"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "file_info": {
+    "filename": "00000652.bin",
+    "index": 652,
+    "file_size": 8256,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 14,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "最大値八文字之助",
+          "modified": "最大値八文字之助"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "服装変更",
+          "modified": "服装変更"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "帯刀 %s",
+          "modified": "帯刀 %s"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "形1  %s",
+          "modified": "形1  %s"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "形2  %s",
+          "modified": "形2  %s"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "形3  %s",
+          "modified": "形3  %s"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "使用武器 %s",
+          "modified": "使用武器 %s"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "決定",
+          "modified": "決定"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "最大値八文字之助",
+          "modified": "最大値八文字之助"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "帯刀 %s",
+          "modified": "帯刀 %s"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "形1  %s",
+          "modified": "形1  %s"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "形2  %s",
+          "modified": "形2  %s"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "使用武器 %s",
+          "modified": "使用武器 %s"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "決定",
+          "modified": "決定"
+        }
+      ]
+    }
+  ]
+}

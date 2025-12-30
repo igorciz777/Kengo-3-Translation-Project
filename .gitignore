@@ -1,0 +1,9 @@
+# game files
+*.bin
+*.tl2
+*.tm2
+isofolder/
+# pycharm
+.idea/
+# built tools
+*.exe

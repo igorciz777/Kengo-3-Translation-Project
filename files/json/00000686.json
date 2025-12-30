@@ -1,0 +1,223 @@
+{
+  "file_info": {
+    "filename": "00000686.bin",
+    "index": 686,
+    "file_size": 9536,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 34,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "名前:%s%s",
+          "modified": "名前:%s%s"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "出身:%s",
+          "modified": "出身:%s"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "体力:%d%%",
+          "modified": "体力:%d%%"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "名声:%.0f",
+          "modified": "名声:%.0f"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "名声[%s]:%.0f",
+          "modified": "名声[%s]:%.0f"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "評判[%s]:%s",
+          "modified": "評判[%s]:%s"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "服装:%s/%s",
+          "modified": "服装:%s/%s"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "面笠:%s",
+          "modified": "面笠:%s"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "帯刀:%s",
+          "modified": "帯刀:%s"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "位列:%s",
+          "modified": "位列:%s"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "切れ味:%d%%",
+          "modified": "切れ味:%d%%"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "耐久度:%d%%",
+          "modified": "耐久度:%d%%"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "豪腕",
+          "modified": "豪腕"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "切れ",
+          "modified": "切れ"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "俊敏",
+          "modified": "俊敏"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "見切",
+          "modified": "見切"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "精神",
+          "modified": "精神"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "頑強",
+          "modified": "頑強"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": "回復",
+          "modified": "回復"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 20,
+          "start": 3280,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 21,
+          "start": 3440,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 22,
+          "start": 3600,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 23,
+          "start": 3760,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 24,
+          "start": 3920,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 25,
+          "start": 4080,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 26,
+          "start": 4240,
+          "original": "%d%%",
+          "modified": "%d%%"
+        },
+        {
+          "index": 27,
+          "start": 4400,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 28,
+          "start": 4560,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 29,
+          "start": 4720,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 30,
+          "start": 4880,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 31,
+          "start": 5040,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 32,
+          "start": 5200,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 33,
+          "start": 5360,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        }
+      ]
+    }
+  ]
+}

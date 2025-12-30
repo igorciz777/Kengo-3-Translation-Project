@@ -1,0 +1,229 @@
+{
+  "file_info": {
+    "filename": "00000683.bin",
+    "index": 683,
+    "file_size": 13888,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 35,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "%-14s",
+          "modified": "%-14s"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "%3d%%",
+          "modified": "%3d%%"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "%3d%%",
+          "modified": "%3d%%"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "%4d両",
+          "modified": "%4d両"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "%04d文",
+          "modified": "%04d文"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "%-14s",
+          "modified": "%-14s"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "%3d%%",
+          "modified": "%3d%%"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "%3d%%",
+          "modified": "%3d%%"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "%4d両",
+          "modified": "%4d両"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "%04d文",
+          "modified": "%04d文"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "%-14s",
+          "modified": "%-14s"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "%3d%%",
+          "modified": "%3d%%"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "%3d%%",
+          "modified": "%3d%%"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "%4d両",
+          "modified": "%4d両"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "%04d文",
+          "modified": "%04d文"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "%-14s",
+          "modified": "%-14s"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "%3d%%",
+          "modified": "%3d%%"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "%3d%%",
+          "modified": "%3d%%"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": "%4d両",
+          "modified": "%4d両"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "%04d文",
+          "modified": "%04d文"
+        },
+        {
+          "index": 20,
+          "start": 3280,
+          "original": "%-14s",
+          "modified": "%-14s"
+        },
+        {
+          "index": 21,
+          "start": 3440,
+          "original": "%3d%%",
+          "modified": "%3d%%"
+        },
+        {
+          "index": 22,
+          "start": 3600,
+          "original": "%3d%%",
+          "modified": "%3d%%"
+        },
+        {
+          "index": 23,
+          "start": 3760,
+          "original": "%4d両",
+          "modified": "%4d両"
+        },
+        {
+          "index": 24,
+          "start": 3920,
+          "original": "%04d文",
+          "modified": "%04d文"
+        },
+        {
+          "index": 25,
+          "start": 4080,
+          "original": "%-14s",
+          "modified": "%-14s"
+        },
+        {
+          "index": 26,
+          "start": 4240,
+          "original": "%3d%%",
+          "modified": "%3d%%"
+        },
+        {
+          "index": 27,
+          "start": 4400,
+          "original": "%3d%%",
+          "modified": "%3d%%"
+        },
+        {
+          "index": 28,
+          "start": 4560,
+          "original": "%4d両",
+          "modified": "%4d両"
+        },
+        {
+          "index": 29,
+          "start": 4720,
+          "original": "%04d文",
+          "modified": "%04d文"
+        },
+        {
+          "index": 30,
+          "start": 4880,
+          "original": "%-14s",
+          "modified": "%-14s"
+        },
+        {
+          "index": 31,
+          "start": 5040,
+          "original": "%3d%%",
+          "modified": "%3d%%"
+        },
+        {
+          "index": 32,
+          "start": 5200,
+          "original": "%3d%%",
+          "modified": "%3d%%"
+        },
+        {
+          "index": 33,
+          "start": 5360,
+          "original": "%4d両",
+          "modified": "%4d両"
+        },
+        {
+          "index": 34,
+          "start": 5520,
+          "original": "%04d文",
+          "modified": "%04d文"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "file_info": {
+    "filename": "00000715.bin",
+    "index": 715,
+    "file_size": 8704,
+    "block_count": 6
+  },
+  "blocks": [
+    {
+      "block_index": 1,
+      "type": 1,
+      "size": 140,
+      "count": 22,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 5200,
+          "original": "連続技",
+          "modified": "連続技"
+        },
+        {
+          "index": 1,
+          "start": 5340,
+          "original": "最大値六文字",
+          "modified": "最大値六文字"
+        },
+        {
+          "index": 2,
+          "start": 5480,
+          "original": "抜刀技",
+          "modified": "抜刀技"
+        },
+        {
+          "index": 3,
+          "start": 5620,
+          "original": "最大値六文字",
+          "modified": "最大値六文字"
+        },
+        {
+          "index": 4,
+          "start": 5760,
+          "original": "待　↓",
+          "modified": "待　↓"
+        },
+        {
+          "index": 5,
+          "start": 5900,
+          "original": "最大値六文字",
+          "modified": "最大値六文字"
+        },
+        {
+          "index": 6,
+          "start": 6040,
+          "original": "　　↑",
+          "modified": "　　↑"
+        },
+        {
+          "index": 7,
+          "start": 6180,
+          "original": "最大値六文字",
+          "modified": "最大値六文字"
+        },
+        {
+          "index": 8,
+          "start": 6320,
+          "original": "　　→",
+          "modified": "　　→"
+        },
+        {
+          "index": 9,
+          "start": 6460,
+          "original": "最大値六文字",
+          "modified": "最大値六文字"
+        },
+        {
+          "index": 10,
+          "start": 6600,
+          "original": "　　・",
+          "modified": "　　・"
+        },
+        {
+          "index": 11,
+          "start": 6740,
+          "original": "最大値六文字",
+          "modified": "最大値六文字"
+        },
+        {
+          "index": 12,
+          "start": 6880,
+          "original": "懸　上",
+          "modified": "懸　上"
+        },
+        {
+          "index": 13,
+          "start": 7020,
+          "original": "最大値六文字",
+          "modified": "最大値六文字"
+        },
+        {
+          "index": 14,
+          "start": 7160,
+          "original": "　　下",
+          "modified": "　　下"
+        },
+        {
+          "index": 15,
+          "start": 7300,
+          "original": "最大値六文字",
+          "modified": "最大値六文字"
+        },
+        {
+          "index": 16,
+          "start": 7440,
+          "original": "　　八",
+          "modified": "　　八"
+        },
+        {
+          "index": 17,
+          "start": 7580,
+          "original": "最大値六文字",
+          "modified": "最大値六文字"
+        },
+        {
+          "index": 18,
+          "start": 7720,
+          "original": "　　正",
+          "modified": "　　正"
+        },
+        {
+          "index": 19,
+          "start": 7860,
+          "original": "最大値六文字",
+          "modified": "最大値六文字"
+        },
+        {
+          "index": 20,
+          "start": 8000,
+          "original": "　　防",
+          "modified": "　　防"
+        },
+        {
+          "index": 21,
+          "start": 8140,
+          "original": "最大値六文字",
+          "modified": "最大値六文字"
+        }
+      ]
+    }
+  ]
+}

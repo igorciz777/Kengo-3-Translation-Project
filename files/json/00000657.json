@@ -1,0 +1,247 @@
+{
+  "file_info": {
+    "filename": "00000657.bin",
+    "index": 657,
+    "file_size": 11072,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 38,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "豪腕 %4d/%4d",
+          "modified": "豪腕 %4d/%4d"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "切れ %4d/%4d",
+          "modified": "切れ %4d/%4d"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "俊敏 %4d/%4d",
+          "modified": "俊敏 %4d/%4d"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "見切 %4d/%4d",
+          "modified": "見切 %4d/%4d"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "精神 %4d/%4d",
+          "modified": "精神 %4d/%4d"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "頑強 %4d/%4d",
+          "modified": "頑強 %4d/%4d"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "回復 %4d/%4d",
+          "modified": "回復 %4d/%4d"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "%4d/%4d",
+          "modified": "%4d/%4d"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "帯刀",
+          "modified": "帯刀"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": ":",
+          "modified": ":"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "位列",
+          "modified": "位列"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": ":",
+          "modified": ":"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 20,
+          "start": 3280,
+          "original": "切れ味",
+          "modified": "切れ味"
+        },
+        {
+          "index": 21,
+          "start": 3440,
+          "original": ":",
+          "modified": ":"
+        },
+        {
+          "index": 22,
+          "start": 3600,
+          "original": "%3d%%",
+          "modified": "%3d%%"
+        },
+        {
+          "index": 23,
+          "start": 3760,
+          "original": "耐久度",
+          "modified": "耐久度"
+        },
+        {
+          "index": 24,
+          "start": 3920,
+          "original": ":",
+          "modified": ":"
+        },
+        {
+          "index": 25,
+          "start": 4080,
+          "original": "%3d%%",
+          "modified": "%3d%%"
+        },
+        {
+          "index": 26,
+          "start": 4240,
+          "original": "帯刀",
+          "modified": "帯刀"
+        },
+        {
+          "index": 27,
+          "start": 4400,
+          "original": ":",
+          "modified": ":"
+        },
+        {
+          "index": 28,
+          "start": 4560,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 29,
+          "start": 4720,
+          "original": "位列",
+          "modified": "位列"
+        },
+        {
+          "index": 30,
+          "start": 4880,
+          "original": ":",
+          "modified": ":"
+        },
+        {
+          "index": 31,
+          "start": 5040,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 32,
+          "start": 5200,
+          "original": "切れ味",
+          "modified": "切れ味"
+        },
+        {
+          "index": 33,
+          "start": 5360,
+          "original": ":",
+          "modified": ":"
+        },
+        {
+          "index": 34,
+          "start": 5520,
+          "original": "%3d%%",
+          "modified": "%3d%%"
+        },
+        {
+          "index": 35,
+          "start": 5680,
+          "original": "耐久度",
+          "modified": "耐久度"
+        },
+        {
+          "index": 36,
+          "start": 5840,
+          "original": ":",
+          "modified": ":"
+        },
+        {
+          "index": 37,
+          "start": 6000,
+          "original": "%3d%%",
+          "modified": "%3d%%"
+        }
+      ]
+    }
+  ]
+}

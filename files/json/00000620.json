@@ -1,0 +1,139 @@
+{
+  "file_info": {
+    "filename": "00000620.bin",
+    "index": 620,
+    "file_size": 10496,
+    "block_count": 5
+  },
+  "blocks": [
+    {
+      "block_index": 1,
+      "type": 1,
+      "size": 160,
+      "count": 20,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 144,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 1,
+          "start": 304,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 2,
+          "start": 464,
+          "original": ":RANKING表示切替",
+          "modified": ":RANKING表示切替"
+        },
+        {
+          "index": 3,
+          "start": 624,
+          "original": "リスト切替え",
+          "modified": "リスト切替え"
+        },
+        {
+          "index": 4,
+          "start": 784,
+          "original": "前項 項送り 次項",
+          "modified": "前項 項送り 次項"
+        },
+        {
+          "index": 5,
+          "start": 944,
+          "original": "100人斬り(初級)",
+          "modified": "100人斬り(初級)"
+        },
+        {
+          "index": 6,
+          "start": 1104,
+          "original": "1000人斬り(上級)",
+          "modified": "1000人斬り(上級)"
+        },
+        {
+          "index": 7,
+          "start": 1264,
+          "original": "煩悩斬り(108人斬り)",
+          "modified": "煩悩斬り(108人斬り)"
+        },
+        {
+          "index": 8,
+          "start": 1424,
+          "original": "1.%-s",
+          "modified": "1.%-s"
+        },
+        {
+          "index": 9,
+          "start": 1584,
+          "original": "2.%-s",
+          "modified": "2.%-s"
+        },
+        {
+          "index": 10,
+          "start": 1744,
+          "original": "3.%-s",
+          "modified": "3.%-s"
+        },
+        {
+          "index": 11,
+          "start": 1904,
+          "original": "4.%-s",
+          "modified": "4.%-s"
+        },
+        {
+          "index": 12,
+          "start": 2064,
+          "original": "5.%-s",
+          "modified": "5.%-s"
+        },
+        {
+          "index": 13,
+          "start": 2224,
+          "original": "%-s",
+          "modified": "%-s"
+        },
+        {
+          "index": 14,
+          "start": 2384,
+          "original": "%-s",
+          "modified": "%-s"
+        },
+        {
+          "index": 15,
+          "start": 2544,
+          "original": "%-s",
+          "modified": "%-s"
+        },
+        {
+          "index": 16,
+          "start": 2704,
+          "original": "%-s",
+          "modified": "%-s"
+        },
+        {
+          "index": 17,
+          "start": 2864,
+          "original": "%-s",
+          "modified": "%-s"
+        },
+        {
+          "index": 18,
+          "start": 3024,
+          "original": "殺陣記録",
+          "modified": "殺陣記録"
+        },
+        {
+          "index": 19,
+          "start": 3184,
+          "original": "ネットRANKINGパスワード",
+          "modified": "ネットRANKINGパスワード"
+        }
+      ]
+    }
+  ]
+}

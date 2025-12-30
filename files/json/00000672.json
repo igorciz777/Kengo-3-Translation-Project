@@ -1,0 +1,79 @@
+{
+  "file_info": {
+    "filename": "00000672.bin",
+    "index": 672,
+    "file_size": 12096,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 10,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "所要日数",
+          "modified": "所要日数"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "：%2d日",
+          "modified": "：%2d日"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "：-",
+          "modified": "：-"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "旅費",
+          "modified": "旅費"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "：%4d文",
+          "modified": "：%4d文"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "：-",
+          "modified": "：-"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "名声",
+          "modified": "名声"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "：%.0f",
+          "modified": "：%.0f"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "評判",
+          "modified": "評判"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "：%s",
+          "modified": "：%s"
+        }
+      ]
+    }
+  ]
+}

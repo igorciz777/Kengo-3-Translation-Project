@@ -1,0 +1,181 @@
+{
+  "file_info": {
+    "filename": "00000680.bin",
+    "index": 680,
+    "file_size": 6528,
+    "block_count": 3
+  },
+  "blocks": [
+    {
+      "block_index": 1,
+      "type": 1,
+      "size": 140,
+      "count": 27,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 3152,
+          "original": "豪腕",
+          "modified": "豪腕"
+        },
+        {
+          "index": 1,
+          "start": 3292,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 2,
+          "start": 3432,
+          "original": "切れ",
+          "modified": "切れ"
+        },
+        {
+          "index": 3,
+          "start": 3572,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 4,
+          "start": 3712,
+          "original": "見切",
+          "modified": "見切"
+        },
+        {
+          "index": 5,
+          "start": 3852,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 6,
+          "start": 3992,
+          "original": "俊敏",
+          "modified": "俊敏"
+        },
+        {
+          "index": 7,
+          "start": 4132,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 8,
+          "start": 4272,
+          "original": "精神",
+          "modified": "精神"
+        },
+        {
+          "index": 9,
+          "start": 4412,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 10,
+          "start": 4552,
+          "original": "頑強",
+          "modified": "頑強"
+        },
+        {
+          "index": 11,
+          "start": 4692,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 12,
+          "start": 4832,
+          "original": "回復",
+          "modified": "回復"
+        },
+        {
+          "index": 13,
+          "start": 4972,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 14,
+          "start": 5112,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 15,
+          "start": 5252,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 16,
+          "start": 5392,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 17,
+          "start": 5532,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 18,
+          "start": 5672,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 19,
+          "start": 5812,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 20,
+          "start": 5952,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 21,
+          "start": 6092,
+          "original": "",
+          "modified": ""
+        },
+        {
+          "index": 22,
+          "start": 6232,
+          "original": "",
+          "modified": ""
+        },
+        {
+          "index": 23,
+          "start": 6372,
+          "original": "",
+          "modified": ""
+        },
+        {
+          "index": 24,
+          "start": 6512,
+          "original": "",
+          "modified": ""
+        },
+        {
+          "index": 25,
+          "start": 6528,
+          "original": "",
+          "modified": ""
+        },
+        {
+          "index": 26,
+          "start": 6528,
+          "original": "",
+          "modified": ""
+        }
+      ]
+    }
+  ]
+}

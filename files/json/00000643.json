@@ -1,0 +1,25 @@
+{
+  "file_info": {
+    "filename": "00000643.bin",
+    "index": 643,
+    "file_size": 896,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 1,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "銘刀取得情報",
+          "modified": "銘刀取得情報"
+        }
+      ]
+    }
+  ]
+}

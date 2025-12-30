@@ -1,0 +1,73 @@
+{
+  "file_info": {
+    "filename": "00000716.bin",
+    "index": 716,
+    "file_size": 6528,
+    "block_count": 3
+  },
+  "blocks": [
+    {
+      "block_index": 1,
+      "type": 1,
+      "size": 140,
+      "count": 9,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 5008,
+          "original": "1 %-12s   %4s    %2d",
+          "modified": "1 %-12s   %4s    %2d"
+        },
+        {
+          "index": 1,
+          "start": 5148,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 2,
+          "start": 5288,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 3,
+          "start": 5428,
+          "original": "2 %-12s   %4s    %2d",
+          "modified": "2 %-12s   %4s    %2d"
+        },
+        {
+          "index": 4,
+          "start": 5568,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 5,
+          "start": 5708,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 6,
+          "start": 5848,
+          "original": "3 %-12s   %4s    %2d",
+          "modified": "3 %-12s   %4s    %2d"
+        },
+        {
+          "index": 7,
+          "start": 5988,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 8,
+          "start": 6128,
+          "original": "%s",
+          "modified": "%s"
+        }
+      ]
+    }
+  ]
+}

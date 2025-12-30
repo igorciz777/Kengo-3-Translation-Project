@@ -1,0 +1,175 @@
+{
+  "file_info": {
+    "filename": "00000673.bin",
+    "index": 673,
+    "file_size": 11584,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 26,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "銘刀取得状況　　%d/%d",
+          "modified": "銘刀取得状況　　%d/%d"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "未鑑定",
+          "modified": "未鑑定"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "未取得",
+          "modified": "未取得"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": "%d/%d",
+          "modified": "%d/%d"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "%d/%d",
+          "modified": "%d/%d"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "%d/%d",
+          "modified": "%d/%d"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "%d/%d",
+          "modified": "%d/%d"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "%d/%d",
+          "modified": "%d/%d"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "%d/%d",
+          "modified": "%d/%d"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "%d/%d",
+          "modified": "%d/%d"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "%s",
+          "modified": "%s"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": "%d/%d",
+          "modified": "%d/%d"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "前項",
+          "modified": "前項"
+        },
+        {
+          "index": 20,
+          "start": 3280,
+          "original": "現在2/3項",
+          "modified": "現在2/3項"
+        },
+        {
+          "index": 21,
+          "start": 3440,
+          "original": "次項",
+          "modified": "次項"
+        },
+        {
+          "index": 22,
+          "start": 3600,
+          "original": "銘刀名",
+          "modified": "銘刀名"
+        },
+        {
+          "index": 23,
+          "start": 3760,
+          "original": "本数",
+          "modified": "本数"
+        },
+        {
+          "index": 24,
+          "start": 3920,
+          "original": "位列",
+          "modified": "位列"
+        },
+        {
+          "index": 25,
+          "start": 4080,
+          "original": "-",
+          "modified": "-"
+        }
+      ]
+    }
+  ]
+}

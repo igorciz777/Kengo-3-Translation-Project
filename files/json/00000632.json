@@ -1,0 +1,127 @@
+{
+  "file_info": {
+    "filename": "00000632.bin",
+    "index": 632,
+    "file_size": 9536,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 18,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "赤穂の浪士編",
+          "modified": "赤穂の浪士編"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "達成状況　　%2d/%2d",
+          "modified": "達成状況　　%2d/%2d"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "シナリオ切替え",
+          "modified": "シナリオ切替え"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "敵討ち談話",
+          "modified": "敵討ち談話"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "中山安兵衛",
+          "modified": "中山安兵衛"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "安兵衛・身の上話",
+          "modified": "安兵衛・身の上話"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "仕官話",
+          "modified": "仕官話"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "刃傷事件",
+          "modified": "刃傷事件"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "再会・堀部安兵衛",
+          "modified": "再会・堀部安兵衛"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "赤穂浪士の灯",
+          "modified": "赤穂浪士の灯"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "安兵衛の決意",
+          "modified": "安兵衛の決意"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "吉良邸警護・弐",
+          "modified": "吉良邸警護・弐"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "吉良邸警護・壱",
+          "modified": "吉良邸警護・壱"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "討ち入り前日",
+          "modified": "討ち入り前日"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "対決・堀部安兵衛",
+          "modified": "対決・堀部安兵衛"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "残り火",
+          "modified": "残り火"
+        }
+      ]
+    }
+  ]
+}

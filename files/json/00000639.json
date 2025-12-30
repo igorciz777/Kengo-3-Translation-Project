@@ -1,0 +1,121 @@
+{
+  "file_info": {
+    "filename": "00000639.bin",
+    "index": 639,
+    "file_size": 9088,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 17,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "薩摩の豪傑編",
+          "modified": "薩摩の豪傑編"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "達成状況　　%2d/%2d",
+          "modified": "達成状況　　%2d/%2d"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "シナリオ切替え",
+          "modified": "シナリオ切替え"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "薩摩の豪傑",
+          "modified": "薩摩の豪傑"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "薩摩との別れ",
+          "modified": "薩摩との別れ"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "半次郎・腕比べ",
+          "modified": "半次郎・腕比べ"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "再会・中村半次郎",
+          "modified": "再会・中村半次郎"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "西郷の言葉",
+          "modified": "西郷の言葉"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "蛤御門の変",
+          "modified": "蛤御門の変"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "西郷と勝海舟",
+          "modified": "西郷と勝海舟"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "坂本龍馬来たる",
+          "modified": "坂本龍馬来たる"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "薩摩の決断",
+          "modified": "薩摩の決断"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "西郷の真意・壱",
+          "modified": "西郷の真意・壱"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "西郷の真意・弐",
+          "modified": "西郷の真意・弐"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "西郷の真意・参",
+          "modified": "西郷の真意・参"
+        }
+      ]
+    }
+  ]
+}

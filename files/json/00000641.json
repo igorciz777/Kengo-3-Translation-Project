@@ -1,0 +1,337 @@
+{
+  "file_info": {
+    "filename": "00000641.bin",
+    "index": 641,
+    "file_size": 27520,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 53,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "新選組隊士編",
+          "modified": "新選組隊士編"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "達成状況　　%2d/%2d",
+          "modified": "達成状況　　%2d/%2d"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "シナリオ切替え",
+          "modified": "シナリオ切替え"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": ":決定",
+          "modified": ":決定"
+        },
+        {
+          "index": 4,
+          "start": 720,
+          "original": ":戻る",
+          "modified": ":戻る"
+        },
+        {
+          "index": 5,
+          "start": 880,
+          "original": "試衛館助太刀",
+          "modified": "試衛館助太刀"
+        },
+        {
+          "index": 6,
+          "start": 1040,
+          "original": "出会い・試衛館",
+          "modified": "出会い・試衛館"
+        },
+        {
+          "index": 7,
+          "start": 1200,
+          "original": "出会い・試衛館",
+          "modified": "出会い・試衛館"
+        },
+        {
+          "index": 8,
+          "start": 1360,
+          "original": "試衛館の面々",
+          "modified": "試衛館の面々"
+        },
+        {
+          "index": 9,
+          "start": 1520,
+          "original": "永倉新八来る",
+          "modified": "永倉新八来る"
+        },
+        {
+          "index": 10,
+          "start": 1680,
+          "original": "喧嘩屋",
+          "modified": "喧嘩屋"
+        },
+        {
+          "index": 11,
+          "start": 1840,
+          "original": "餅と歳三",
+          "modified": "餅と歳三"
+        },
+        {
+          "index": 12,
+          "start": 2000,
+          "original": "浪士組勧誘",
+          "modified": "浪士組勧誘"
+        },
+        {
+          "index": 13,
+          "start": 2160,
+          "original": "本庄宿事件",
+          "modified": "本庄宿事件"
+        },
+        {
+          "index": 14,
+          "start": 2320,
+          "original": "新選組誕生",
+          "modified": "新選組誕生"
+        },
+        {
+          "index": 15,
+          "start": 2480,
+          "original": "旗の下に",
+          "modified": "旗の下に"
+        },
+        {
+          "index": 16,
+          "start": 2640,
+          "original": "芹沢と新八",
+          "modified": "芹沢と新八"
+        },
+        {
+          "index": 17,
+          "start": 2800,
+          "original": "芹沢の噂・壱",
+          "modified": "芹沢の噂・壱"
+        },
+        {
+          "index": 18,
+          "start": 2960,
+          "original": "芹沢の噂・弐",
+          "modified": "芹沢の噂・弐"
+        },
+        {
+          "index": 19,
+          "start": 3120,
+          "original": "表裏",
+          "modified": "表裏"
+        },
+        {
+          "index": 20,
+          "start": 3280,
+          "original": "忠告",
+          "modified": "忠告"
+        },
+        {
+          "index": 21,
+          "start": 3440,
+          "original": "密計",
+          "modified": "密計"
+        },
+        {
+          "index": 22,
+          "start": 3600,
+          "original": "粛清の夜",
+          "modified": "粛清の夜"
+        },
+        {
+          "index": 23,
+          "start": 3760,
+          "original": "誠の明暗",
+          "modified": "誠の明暗"
+        },
+        {
+          "index": 24,
+          "start": 3920,
+          "original": "誠の明暗",
+          "modified": "誠の明暗"
+        },
+        {
+          "index": 25,
+          "start": 4080,
+          "original": "再会・新選組",
+          "modified": "再会・新選組"
+        },
+        {
+          "index": 26,
+          "start": 4240,
+          "original": "出会い・新選組",
+          "modified": "出会い・新選組"
+        },
+        {
+          "index": 27,
+          "start": 4400,
+          "original": "新選組入隊",
+          "modified": "新選組入隊"
+        },
+        {
+          "index": 28,
+          "start": 4560,
+          "original": "新選組入隊",
+          "modified": "新選組入隊"
+        },
+        {
+          "index": 29,
+          "start": 4720,
+          "original": "暗殺・芹沢鴨",
+          "modified": "暗殺・芹沢鴨"
+        },
+        {
+          "index": 30,
+          "start": 4880,
+          "original": "龍馬遭遇",
+          "modified": "龍馬遭遇"
+        },
+        {
+          "index": 31,
+          "start": 5040,
+          "original": "暗殺・武市半平太",
+          "modified": "暗殺・武市半平太"
+        },
+        {
+          "index": 32,
+          "start": 5200,
+          "original": "怨念",
+          "modified": "怨念"
+        },
+        {
+          "index": 33,
+          "start": 5360,
+          "original": "対決・岡田以蔵",
+          "modified": "対決・岡田以蔵"
+        },
+        {
+          "index": 34,
+          "start": 5520,
+          "original": "暗殺・土佐勤王党",
+          "modified": "暗殺・土佐勤王党"
+        },
+        {
+          "index": 35,
+          "start": 5680,
+          "original": "池田屋血闘",
+          "modified": "池田屋血闘"
+        },
+        {
+          "index": 36,
+          "start": 5840,
+          "original": "幾松",
+          "modified": "幾松"
+        },
+        {
+          "index": 37,
+          "start": 6000,
+          "original": "暗殺・桂小五郎",
+          "modified": "暗殺・桂小五郎"
+        },
+        {
+          "index": 38,
+          "start": 6160,
+          "original": "それぞれの旗",
+          "modified": "それぞれの旗"
+        },
+        {
+          "index": 39,
+          "start": 6320,
+          "original": "薩摩の暗殺剣",
+          "modified": "薩摩の暗殺剣"
+        },
+        {
+          "index": 40,
+          "start": 6480,
+          "original": "決戦・中村半次郎",
+          "modified": "決戦・中村半次郎"
+        },
+        {
+          "index": 41,
+          "start": 6640,
+          "original": "病",
+          "modified": "病"
+        },
+        {
+          "index": 42,
+          "start": 6800,
+          "original": "燃える決意",
+          "modified": "燃える決意"
+        },
+        {
+          "index": 43,
+          "start": 6960,
+          "original": "暗殺・坂本龍馬",
+          "modified": "暗殺・坂本龍馬"
+        },
+        {
+          "index": 44,
+          "start": 7120,
+          "original": "暗殺・中村半次郎",
+          "modified": "暗殺・中村半次郎"
+        },
+        {
+          "index": 45,
+          "start": 7280,
+          "original": "総司死す",
+          "modified": "総司死す"
+        },
+        {
+          "index": 46,
+          "start": 7440,
+          "original": "帰還",
+          "modified": "帰還"
+        },
+        {
+          "index": 47,
+          "start": 7600,
+          "original": "最後の夜",
+          "modified": "最後の夜"
+        },
+        {
+          "index": 48,
+          "start": 7760,
+          "original": "炎の中へ",
+          "modified": "炎の中へ"
+        },
+        {
+          "index": 49,
+          "start": 7920,
+          "original": "池田屋護衛",
+          "modified": "池田屋護衛"
+        },
+        {
+          "index": 50,
+          "start": 8080,
+          "original": "暗殺・沖田総司",
+          "modified": "暗殺・沖田総司"
+        },
+        {
+          "index": 51,
+          "start": 8240,
+          "original": "暗殺・新選組局長",
+          "modified": "暗殺・新選組局長"
+        },
+        {
+          "index": 52,
+          "start": 8400,
+          "original": "最後の鬼",
+          "modified": "最後の鬼"
+        }
+      ]
+    }
+  ]
+}

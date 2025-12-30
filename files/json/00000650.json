@@ -1,0 +1,37 @@
+{
+  "file_info": {
+    "filename": "00000650.bin",
+    "index": 650,
+    "file_size": 2176,
+    "block_count": 5
+  },
+  "blocks": [
+    {
+      "block_index": 1,
+      "type": 1,
+      "size": 160,
+      "count": 3,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 144,
+          "original": "対戦相手選択",
+          "modified": "対戦相手選択"
+        },
+        {
+          "index": 1,
+          "start": 304,
+          "original": "対CPU",
+          "modified": "対CPU"
+        },
+        {
+          "index": 2,
+          "start": 464,
+          "original": "対PLAYER",
+          "modified": "対PLAYER"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "file_info": {
+    "filename": "00000656.bin",
+    "index": 656,
+    "file_size": 1472,
+    "block_count": 4
+  },
+  "blocks": [
+    {
+      "block_index": 0,
+      "type": 1,
+      "size": 160,
+      "count": 4,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 80,
+          "original": "連続技 /",
+          "modified": "連続技 /"
+        },
+        {
+          "index": 1,
+          "start": 240,
+          "original": "飛龍刀",
+          "modified": "飛龍刀"
+        },
+        {
+          "index": 2,
+          "start": 400,
+          "original": "取得状況　%3d/%3d",
+          "modified": "取得状況　%3d/%3d"
+        },
+        {
+          "index": 3,
+          "start": 560,
+          "original": "（所有数/総数）",
+          "modified": "（所有数/総数）"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "file_info": {
+    "filename": "00000679.bin",
+    "index": 679,
+    "file_size": 9408,
+    "block_count": 3
+  },
+  "blocks": [
+    {
+      "block_index": 1,
+      "type": 1,
+      "size": 140,
+      "count": 33,
+      "padding": 16,
+      "texts": [
+        {
+          "index": 0,
+          "start": 4624,
+          "original": "名前：最大文字数八文字",
+          "modified": "名前：最大文字数八文字"
+        },
+        {
+          "index": 1,
+          "start": 4764,
+          "original": "出身：江戸",
+          "modified": "出身：江戸"
+        },
+        {
+          "index": 2,
+          "start": 4904,
+          "original": "体力：100%　　100%",
+          "modified": "体力：100%　　100%"
+        },
+        {
+          "index": 3,
+          "start": 5044,
+          "original": "名声：123456",
+          "modified": "名声：123456"
+        },
+        {
+          "index": 4,
+          "start": 5184,
+          "original": "名声[江戸]：99999",
+          "modified": "名声[江戸]：99999"
+        },
+        {
+          "index": 5,
+          "start": 5324,
+          "original": "評判[江戸]：極悪人",
+          "modified": "評判[江戸]：極悪人"
+        },
+        {
+          "index": 6,
+          "start": 5464,
+          "original": "服装：最大文字数八文字",
+          "modified": "服装：最大文字数八文字"
+        },
+        {
+          "index": 7,
+          "start": 5604,
+          "original": "面　：最大文字数八文字",
+          "modified": "面　：最大文字数八文字"
+        },
+        {
+          "index": 8,
+          "start": 5744,
+          "original": "帯刀：最大文字数八文字",
+          "modified": "帯刀：最大文字数八文字"
+        },
+        {
+          "index": 9,
+          "start": 5884,
+          "original": "位列：極上業物",
+          "modified": "位列：極上業物"
+        },
+        {
+          "index": 10,
+          "start": 6024,
+          "original": "切れ味：100%",
+          "modified": "切れ味：100%"
+        },
+        {
+          "index": 11,
+          "start": 6164,
+          "original": "耐久度：100%",
+          "modified": "耐久度：100%"
+        },
+        {
+          "index": 12,
+          "start": 6304,
+          "original": "豪腕",
+          "modified": "豪腕"
+        },
+        {
+          "index": 13,
+          "start": 6444,
+          "original": "切れ",
+          "modified": "切れ"
+        },
+        {
+          "index": 14,
+          "start": 6584,
+          "original": "見切",
+          "modified": "見切"
+        },
+        {
+          "index": 15,
+          "start": 6724,
+          "original": "俊敏",
+          "modified": "俊敏"
+        },
+        {
+          "index": 16,
+          "start": 6864,
+          "original": "精神",
+          "modified": "精神"
+        },
+        {
+          "index": 17,
+          "start": 7004,
+          "original": "頑強",
+          "modified": "頑強"
+        },
+        {
+          "index": 18,
+          "start": 7144,
+          "original": "回復",
+          "modified": "回復"
+        },
+        {
+          "index": 19,
+          "start": 7284,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 20,
+          "start": 7424,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 21,
+          "start": 7564,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 22,
+          "start": 7704,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 23,
+          "start": 7844,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 24,
+          "start": 7984,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 25,
+          "start": 8124,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 26,
+          "start": 8264,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 27,
+          "start": 8404,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 28,
+          "start": 8544,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 29,
+          "start": 8684,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 30,
+          "start": 8824,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 31,
+          "start": 8964,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        },
+        {
+          "index": 32,
+          "start": 9104,
+          "original": "9999/9999",
+          "modified": "9999/9999"
+        }
+      ]
+    }
+  ]
+}
