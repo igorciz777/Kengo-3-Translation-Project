@@ -1,0 +1,3 @@
+[submodule "tools/KengoPS2Tools"]
+	path = tools/KengoPS2Tools
+	url = https://github.com/igorciz777/KengoPS2Tools.git
