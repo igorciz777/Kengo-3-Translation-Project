@@ -16,127 +16,127 @@
         {
           "index": 0,
           "start": 336,
-          "original": "General",
+          "original": "全般",
           "modified": "General"
         },
         {
           "index": 1,
           "start": 496,
-          "original": "Health ",
+          "original": "体力表示",
           "modified": "Health "
         },
         {
           "index": 2,
           "start": 656,
-          "original": "Show",
+          "original": "表示",
           "modified": "Show"
         },
         {
           "index": 3,
           "start": 816,
-          "original": "Hide",
+          "original": "非表示",
           "modified": "Hide"
         },
         {
           "index": 4,
           "start": 976,
-          "original": "Form ",
+          "original": "形表示",
           "modified": "Form "
         },
         {
           "index": 5,
           "start": 1136,
-          "original": "Show",
+          "original": "表示",
           "modified": "Show"
         },
         {
           "index": 6,
           "start": 1296,
-          "original": "Hide",
+          "original": "非表示",
           "modified": "Hide"
         },
         {
           "index": 7,
           "start": 1456,
-          "original": "Blood ",
+          "original": "血飛沫",
           "modified": "Blood "
         },
         {
           "index": 8,
           "start": 1616,
-          "original": "On",
+          "original": "有り",
           "modified": "On"
         },
         {
           "index": 9,
           "start": 1776,
-          "original": "Off",
+          "original": "無し",
           "modified": "Off"
         },
         {
           "index": 10,
           "start": 1936,
-          "original": "Audio ",
+          "original": "音声出力",
           "modified": "Audio "
         },
         {
           "index": 11,
           "start": 2096,
-          "original": "Stereo ",
+          "original": "ステレオ",
           "modified": "Stereo "
         },
         {
           "index": 12,
           "start": 2256,
-          "original": "Mono   ",
+          "original": "モノラル",
           "modified": "Mono   "
         },
         {
           "index": 13,
           "start": 2416,
-          "original": "BGM ",
+          "original": "楽曲再生",
           "modified": "BGM "
         },
         {
           "index": 14,
           "start": 2576,
-          "original": "On",
+          "original": "有り",
           "modified": "On"
         },
         {
           "index": 15,
           "start": 2736,
-          "original": "Off",
+          "original": "無し",
           "modified": "Off"
         },
         {
           "index": 16,
           "start": 2896,
-          "original": "Vibration ",
+          "original": "振動機能",
           "modified": "Vibration "
         },
         {
           "index": 17,
           "start": 3056,
-          "original": "On",
+          "original": "有り",
           "modified": "On"
         },
         {
           "index": 18,
           "start": 3216,
-          "original": "Off",
+          "original": "無し",
           "modified": "Off"
         },
         {
           "index": 19,
           "start": 3376,
-          "original": "Versus",
+          "original": "対決編",
           "modified": "Versus"
         },
         {
           "index": 20,
           "start": 3536,
-          "original": "Rounds",
+          "original": "勝利数",
           "modified": "Rounds"
         },
         {
@@ -172,13 +172,13 @@
         {
           "index": 26,
           "start": 4496,
-          "original": "Confirm",
+          "original": "決定",
           "modified": "Confirm"
         },
         {
           "index": 27,
           "start": 4656,
-          "original": "Return",
+          "original": "戻る",
           "modified": "Return"
         }
       ]

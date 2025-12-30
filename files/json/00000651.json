@@ -16,25 +16,25 @@
         {
           "index": 0,
           "start": 80,
-          "original": "Accept",
+          "original": ":決定",
           "modified": "Accept"
         },
         {
           "index": 1,
           "start": 240,
-          "original": "Return",
+          "original": ":戻る",
           "modified": "Return"
         },
         {
           "index": 2,
           "start": 400,
-          "original": "Switch lists",
+          "original": "リスト切替え",
           "modified": "Switch lists"
         },
         {
           "index": 3,
           "start": 560,
-          "original": "Previous    Next",
+          "original": "前項 項送り 次項",
           "modified": "Previous    Next"
         }
       ]

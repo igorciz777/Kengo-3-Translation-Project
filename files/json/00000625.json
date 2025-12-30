@@ -16,13 +16,13 @@
         {
           "index": 0,
           "start": 80,
-          "original": "Save ",
+          "original": "セーブ",
           "modified": "Save "
         },
         {
           "index": 1,
           "start": 240,
-          "original": "Load ",
+          "original": "ロード",
           "modified": "Load "
         },
         {
@@ -34,13 +34,13 @@
         {
           "index": 3,
           "start": 560,
-          "original": "Confirm",
+          "original": ":決定",
           "modified": "Confirm"
         },
         {
           "index": 4,
           "start": 720,
-          "original": "Return",
+          "original": ":戻る",
           "modified": "Return"
         },
         {
@@ -106,61 +106,61 @@
         {
           "index": 15,
           "start": 2480,
-          "original": "%02dY %02dM %02dD ",
+          "original": "%02d年%02d月%02d日",
           "modified": "%02dY %02dM %02dD "
         },
         {
           "index": 16,
           "start": 2640,
-          "original": "%02dY %02dM %02dD ",
+          "original": "%02d年%02d月%02d日",
           "modified": "%02dY %02dM %02dD "
         },
         {
           "index": 17,
           "start": 2800,
-          "original": "%02dY %02dM %02dD ",
+          "original": "%02d年%02d月%02d日",
           "modified": "%02dY %02dM %02dD "
         },
         {
           "index": 18,
           "start": 2960,
-          "original": "%02dY %02dM %02dD ",
+          "original": "%02d年%02d月%02d日",
           "modified": "%02dY %02dM %02dD "
         },
         {
           "index": 19,
           "start": 3120,
-          "original": "%02dY %02dM %02dD ",
+          "original": "%02d年%02d月%02d日",
           "modified": "%02dY %02dM %02dD "
         },
         {
           "index": 20,
           "start": 3280,
-          "original": "%02dY %02dM %02dD ",
+          "original": "%02d年%02d月%02d日",
           "modified": "%02dY %02dM %02dD "
         },
         {
           "index": 21,
           "start": 3440,
-          "original": "%02dY %02dM %02dD ",
+          "original": "%02d年%02d月%02d日",
           "modified": "%02dY %02dM %02dD "
         },
         {
           "index": 22,
           "start": 3600,
-          "original": "%02dY %02dM %02dD ",
+          "original": "%02d年%02d月%02d日",
           "modified": "%02dY %02dM %02dD "
         },
         {
           "index": 23,
           "start": 3760,
-          "original": "%02dY %02dM %02dD ",
+          "original": "%02d年%02d月%02d日",
           "modified": "%02dY %02dM %02dD "
         },
         {
           "index": 24,
           "start": 3920,
-          "original": "%02dY %02dM %02dD ",
+          "original": "%02d年%02d月%02d日",
           "modified": "%02dY %02dM %02dD "
         },
         {
@@ -226,31 +226,31 @@
         {
           "index": 35,
           "start": 5680,
-          "original": "New save file",
+          "original": "新規保存",
           "modified": "New save file"
         },
         {
           "index": 36,
           "start": 5840,
-          "original": "The file is corrupted",
+          "original": "ファイルが壊れています",
           "modified": "The file is corrupted"
         },
         {
           "index": 37,
           "start": 6000,
-          "original": "No game data available",
+          "original": "ゲームデータがありません",
           "modified": "No game data available"
         },
         {
           "index": 38,
           "start": 6160,
-          "original": "No completed game data",
+          "original": "クリアデータがありません",
           "modified": "No completed game data"
         },
         {
           "index": 39,
           "start": 6320,
-          "original": "Save No.%02d",
+          "original": "データNo.%02d",
           "modified": "Save No.%02d"
         },
         {
@@ -262,25 +262,25 @@
         {
           "index": 41,
           "start": 6640,
-          "original": "Birth:%-s",
+          "original": "出身地:%-s",
           "modified": "Birth:%-s"
         },
         {
           "index": 42,
           "start": 6800,
-          "original": "Current:%-s",
+          "original": "現在地:%-s",
           "modified": "Current:%-s"
         },
         {
           "index": 43,
           "start": 6960,
-          "original": "%-s School",
+          "original": "%-s流",
           "modified": "%-s School"
         },
         {
           "index": 44,
           "start": 7120,
-          "original": "Day %4d",
+          "original": "%4d日",
           "modified": "Day %4d"
         },
         {
@@ -292,13 +292,13 @@
         {
           "index": 46,
           "start": 7440,
-          "original": "Play time",
+          "original": "プレイ時間",
           "modified": "Play time"
         },
         {
           "index": 47,
           "start": 7600,
-          "original": "%4dH %02dMin",
+          "original": "%4d時間%02d分",
           "modified": "%4dH %02dMin"
         }
       ]

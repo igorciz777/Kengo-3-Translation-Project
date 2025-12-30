@@ -16,49 +16,49 @@
         {
           "index": 0,
           "start": 144,
-          "original": "Accept",
+          "original": ":決定",
           "modified": "Accept"
         },
         {
           "index": 1,
           "start": 304,
-          "original": "Return",
+          "original": ":戻る",
           "modified": "Return"
         },
         {
           "index": 2,
           "start": 464,
-          "original": "Switch RANKING Display",
+          "original": ":RANKING表示切替",
           "modified": "Switch RANKING Display"
         },
         {
           "index": 3,
           "start": 624,
-          "original": "Switch lists",
+          "original": "リスト切替え",
           "modified": "Switch lists"
         },
         {
           "index": 4,
           "start": 784,
-          "original": "Previous    Next",
+          "original": "前項 項送り 次項",
           "modified": "Previous    Next"
         },
         {
           "index": 5,
           "start": 944,
-          "original": "100 Kills (Beginner)",
+          "original": "100人斬り(初級)",
           "modified": "100 Kills (Beginner)"
         },
         {
           "index": 6,
           "start": 1104,
-          "original": "1000 Kills (Advanced)",
+          "original": "1000人斬り(上級)",
           "modified": "1000 Kills (Advanced)"
         },
         {
           "index": 7,
           "start": 1264,
-          "original": " Slash of Earthly\nDesire (108 Kills)",
+          "original": "煩悩斬り(108人斬り)",
           "modified": " Slash of Earthly\nDesire (108 Kills)"
         },
         {
@@ -124,13 +124,13 @@
         {
           "index": 18,
           "start": 3024,
-          "original": "Fight Records",
+          "original": "殺陣記録",
           "modified": "Fight Records"
         },
         {
           "index": 19,
           "start": 3184,
-          "original": "Net RANKING Password",
+          "original": "ネットRANKINGパスワード",
           "modified": "Net RANKING Password"
         }
       ]

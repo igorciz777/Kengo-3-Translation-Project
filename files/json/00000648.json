@@ -16,43 +16,43 @@
         {
           "index": 0,
           "start": 80,
-          "original": "Main Story",
+          "original": "本編",
           "modified": "Main Story"
         },
         {
           "index": 1,
           "start": 240,
-          "original": "Versus",
+          "original": "対決編",
           "modified": "Versus"
         },
         {
           "index": 2,
           "start": 400,
-          "original": "Extra Modes",
+          "original": "番外編",
           "modified": "Extra Modes"
         },
         {
           "index": 3,
           "start": 560,
-          "original": "View Mode",
+          "original": "達成録",
           "modified": "View Mode"
         },
         {
           "index": 4,
           "start": 720,
-          "original": "Options",
+          "original": "設定",
           "modified": "Options"
         },
         {
           "index": 5,
           "start": 880,
-          "original": "Start New",
+          "original": "始めから",
           "modified": "Start New"
         },
         {
           "index": 6,
           "start": 1040,
-          "original": "Continue",
+          "original": "続きから",
           "modified": "Continue"
         }
       ]
