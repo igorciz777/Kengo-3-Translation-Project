@@ -16,14 +16,14 @@
         {
           "index": 0,
           "start": 80,
-          "original": "はい",
-          "modified": "はい"
+          "original": "Yes",
+          "modified": "Yes"
         },
         {
           "index": 1,
           "start": 240,
-          "original": "いいえ",
-          "modified": "いいえ"
+          "original": "No",
+          "modified": "No"
         },
         {
           "index": 2,
@@ -34,128 +34,128 @@
         {
           "index": 3,
           "start": 560,
-          "original": "メモリーカード(PS2)がメモリーカード",
-          "modified": "メモリーカード(PS2)がメモリーカード"
+          "original": "No memory card(PS2)",
+          "modified": "No memory card(PS2)"
         },
         {
           "index": 4,
           "start": 720,
-          "original": "差込口%dに差されていません。",
-          "modified": "差込口%dに差されていません。"
+          "original": "inserted in MEMORY CARD slot %d",
+          "modified": "inserted in MEMORY CARD slot %d"
         },
         {
           "index": 5,
           "start": 880,
-          "original": "このゲームのデータをセーブするには%dKB",
-          "modified": "このゲームのデータをセーブするには%dKB"
+          "original": "Game Data requires at least %dKB of free space.",
+          "modified": "Game Data requires at least %dKB of free space."
         },
         {
           "index": 6,
           "start": 1040,
-          "original": "以上必要です。このままで開始しますか？",
-          "modified": "以上必要です。このままで開始しますか？"
+          "original": "Proceed anyway?",
+          "modified": "Proceed anyway?"
         },
         {
           "index": 7,
           "start": 1200,
-          "original": "メモリーカード差込口%dのメモリーカード(PS2)が",
-          "modified": "メモリーカード差込口%dのメモリーカード(PS2)が"
+          "original": "Memory card(PS2)",
+          "modified": "Memory card(PS2)"
         },
         {
           "index": 8,
           "start": 1360,
-          "original": "フォーマットされていません。",
-          "modified": "フォーマットされていません。"
+          "original": "is unformatted.",
+          "modified": "is unformatted."
         },
         {
           "index": 9,
           "start": 1520,
-          "original": "このままで開始しますか？",
-          "modified": "このままで開始しますか？"
+          "original": "Proceed anyway?",
+          "modified": "Proceed anyway?"
         },
         {
           "index": 10,
           "start": 1680,
-          "original": "メモリーカード差込口%dのメモリーカード(PS2)の",
-          "modified": "メモリーカード差込口%dのメモリーカード(PS2)の"
+          "original": "Memory card(PS2)",
+          "modified": "Memory card(PS2)"
         },
         {
           "index": 11,
           "start": 1840,
-          "original": "空き容量が不足しています。",
-          "modified": "空き容量が不足しています。"
+          "original": "has insufficient free space.",
+          "modified": "has insufficient free space."
         },
         {
           "index": 12,
           "start": 2000,
-          "original": "剣豪３のゲームデータをセーブするには",
-          "modified": "剣豪３のゲームデータをセーブするには"
+          "original": "Kengou 3 Game Data requires at least",
+          "modified": "Kengou 3 Game Data requires at least"
         },
         {
           "index": 13,
           "start": 2160,
-          "original": "%dKB以上の空き容量が必要です。",
-          "modified": "%dKB以上の空き容量が必要です。"
+          "original": "%dKB of free space to save data.",
+          "modified": "%dKB of free space to save data."
         },
         {
           "index": 14,
           "start": 2320,
-          "original": "このままで開始しますか？",
-          "modified": "このままで開始しますか？"
+          "original": "Proceed anyway?",
+          "modified": "Proceed anyway?"
         },
         {
           "index": 15,
           "start": 2480,
-          "original": "メモリーカード差込口%dのメモリーカード(PS2)の",
-          "modified": "メモリーカード差込口%dのメモリーカード(PS2)の"
+          "original": "Memory card(PS2)",
+          "modified": "Memory card(PS2)"
         },
         {
           "index": 16,
           "start": 2640,
-          "original": "剣豪３のファイルが壊れています。",
-          "modified": "剣豪３のファイルが壊れています。"
+          "original": "has corrupted Kengou 3 Game Data.",
+          "modified": "has corrupted Kengou 3 Game Data."
         },
         {
           "index": 17,
           "start": 2800,
-          "original": "このままで開始しますか？",
-          "modified": "このままで開始しますか？"
+          "original": "Proceed anyway?",
+          "modified": "Proceed anyway?"
         },
         {
           "index": 18,
           "start": 2960,
-          "original": "メモリーカード差込口%dの",
-          "modified": "メモリーカード差込口%dの"
+          "original": "MEMORY CARD slot %d",
+          "modified": "MEMORY CARD slot %d"
         },
         {
           "index": 19,
           "start": 3120,
-          "original": "メモリーカード(PS2)をチェックしています。",
-          "modified": "メモリーカード(PS2)をチェックしています。"
+          "original": "Checking memory card(PS2).",
+          "modified": "Checking memory card(PS2)."
         },
         {
           "index": 20,
           "start": 3280,
-          "original": "メモリーカード(PS2)を抜かないでください。",
-          "modified": "メモリーカード(PS2)を抜かないでください。"
+          "original": "Do not remove memory card (PS2).",
+          "modified": "Do not remove memory card (PS2)."
         },
         {
           "index": 21,
           "start": 3440,
-          "original": "メモリーカード差込口%dの",
-          "modified": "メモリーカード差込口%dの"
+          "original": "MEMORY CARD slot %d",
+          "modified": "MEMORY CARD slot %d"
         },
         {
           "index": 22,
           "start": 3600,
-          "original": "剣豪３のゲームデータをロード中です。",
-          "modified": "剣豪３のゲームデータをロード中です。"
+          "original": "Loading Kengou 3 Game Data.",
+          "modified": "Loading Kengou 3 Game Data."
         },
         {
           "index": 23,
           "start": 3760,
-          "original": "メモリーカード(PS2)を抜かないでください。",
-          "modified": "メモリーカード(PS2)を抜かないでください。"
+          "original": "Do not remove memory card (PS2).",
+          "modified": "Do not remove memory card (PS2)."
         },
         {
           "index": 24,
@@ -226,8 +226,8 @@
         {
           "index": 35,
           "start": 5680,
-          "original": "メモリーカード差込口%dのメモリーカード(PS2)を",
-          "modified": "メモリーカード差込口%dのメモリーカード(PS2)を"
+          "original": "Memory card(PS2)",
+          "modified": "Memory card(PS2)"
         },
         {
           "index": 36,
@@ -352,20 +352,20 @@
         {
           "index": 56,
           "start": 9040,
-          "original": "メモリーカード差込口%dのメモリーカード(PS2)から",
-          "modified": "メモリーカード差込口%dのメモリーカード(PS2)から"
+          "original": "Memory card(PS2) in MEMORY CARD slot %d",
+          "modified": "Memory card(PS2) in MEMORY CARD slot %d"
         },
         {
           "index": 57,
           "start": 9200,
-          "original": "剣豪３のゲームデータをロードします。",
-          "modified": "剣豪３のゲームデータをロードします。"
+          "original": "Loading Kengo 3 Game Data.",
+          "modified": "Loading Kengo 3 Game Data."
         },
         {
           "index": 58,
           "start": 9360,
-          "original": "よろしいですか？",
-          "modified": "よろしいですか？"
+          "original": "Proceed?",
+          "modified": "Proceed?"
         },
         {
           "index": 59,
@@ -388,8 +388,8 @@
         {
           "index": 62,
           "start": 10000,
-          "original": "ロードが終了しました。",
-          "modified": "ロードが終了しました。"
+          "original": "Loading complete.",
+          "modified": "Loading complete."
         },
         {
           "index": 63,

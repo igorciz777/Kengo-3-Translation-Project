@@ -16,20 +16,20 @@
         {
           "index": 0,
           "start": 144,
-          "original": "対戦相手選択",
-          "modified": "対戦相手選択"
+          "original": "Select Opponent",
+          "modified": "Select Opponent"
         },
         {
           "index": 1,
           "start": 304,
-          "original": "対CPU",
-          "modified": "対CPU"
+          "original": "VS CPU",
+          "modified": "VS CPU"
         },
         {
           "index": 2,
           "start": 464,
-          "original": "対PLAYER",
-          "modified": "対PLAYER"
+          "original": "VS PLAYER",
+          "modified": "VS PLAYER"
         }
       ]
     }

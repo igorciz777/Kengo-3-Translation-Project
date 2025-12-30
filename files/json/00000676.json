@@ -16,128 +16,128 @@
         {
           "index": 0,
           "start": 336,
-          "original": "全般",
-          "modified": "全般"
+          "original": "General",
+          "modified": "General"
         },
         {
           "index": 1,
           "start": 496,
-          "original": "体力表示",
-          "modified": "体力表示"
+          "original": "Health ",
+          "modified": "Health "
         },
         {
           "index": 2,
           "start": 656,
-          "original": "表示",
-          "modified": "表示"
+          "original": "Show",
+          "modified": "Show"
         },
         {
           "index": 3,
           "start": 816,
-          "original": "非表示",
-          "modified": "非表示"
+          "original": "Hide",
+          "modified": "Hide"
         },
         {
           "index": 4,
           "start": 976,
-          "original": "形表示",
-          "modified": "形表示"
+          "original": "Form ",
+          "modified": "Form "
         },
         {
           "index": 5,
           "start": 1136,
-          "original": "表示",
-          "modified": "表示"
+          "original": "Show",
+          "modified": "Show"
         },
         {
           "index": 6,
           "start": 1296,
-          "original": "非表示",
-          "modified": "非表示"
+          "original": "Hide",
+          "modified": "Hide"
         },
         {
           "index": 7,
           "start": 1456,
-          "original": "血飛沫",
-          "modified": "血飛沫"
+          "original": "Blood ",
+          "modified": "Blood "
         },
         {
           "index": 8,
           "start": 1616,
-          "original": "有り",
-          "modified": "有り"
+          "original": "On",
+          "modified": "On"
         },
         {
           "index": 9,
           "start": 1776,
-          "original": "無し",
-          "modified": "無し"
+          "original": "Off",
+          "modified": "Off"
         },
         {
           "index": 10,
           "start": 1936,
-          "original": "音声出力",
-          "modified": "音声出力"
+          "original": "Audio ",
+          "modified": "Audio "
         },
         {
           "index": 11,
           "start": 2096,
-          "original": "ステレオ",
-          "modified": "ステレオ"
+          "original": "Stereo ",
+          "modified": "Stereo "
         },
         {
           "index": 12,
           "start": 2256,
-          "original": "モノラル",
-          "modified": "モノラル"
+          "original": "Mono   ",
+          "modified": "Mono   "
         },
         {
           "index": 13,
           "start": 2416,
-          "original": "楽曲再生",
-          "modified": "楽曲再生"
+          "original": "BGM ",
+          "modified": "BGM "
         },
         {
           "index": 14,
           "start": 2576,
-          "original": "有り",
-          "modified": "有り"
+          "original": "On",
+          "modified": "On"
         },
         {
           "index": 15,
           "start": 2736,
-          "original": "無し",
-          "modified": "無し"
+          "original": "Off",
+          "modified": "Off"
         },
         {
           "index": 16,
           "start": 2896,
-          "original": "振動機能",
-          "modified": "振動機能"
+          "original": "Vibration ",
+          "modified": "Vibration "
         },
         {
           "index": 17,
           "start": 3056,
-          "original": "有り",
-          "modified": "有り"
+          "original": "On",
+          "modified": "On"
         },
         {
           "index": 18,
           "start": 3216,
-          "original": "無し",
-          "modified": "無し"
+          "original": "Off",
+          "modified": "Off"
         },
         {
           "index": 19,
           "start": 3376,
-          "original": "対決編",
-          "modified": "対決編"
+          "original": "Versus",
+          "modified": "Versus"
         },
         {
           "index": 20,
           "start": 3536,
-          "original": "勝利数",
-          "modified": "勝利数"
+          "original": "Rounds",
+          "modified": "Rounds"
         },
         {
           "index": 21,
@@ -172,14 +172,14 @@
         {
           "index": 26,
           "start": 4496,
-          "original": "決定",
-          "modified": "決定"
+          "original": "Confirm",
+          "modified": "Confirm"
         },
         {
           "index": 27,
           "start": 4656,
-          "original": "戻る",
-          "modified": "戻る"
+          "original": "Return",
+          "modified": "Return"
         }
       ]
     }
