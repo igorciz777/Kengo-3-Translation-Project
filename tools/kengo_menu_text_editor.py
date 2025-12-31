@@ -59,6 +59,7 @@ def encode_shiftjis_with_escape(text: str) -> bytes:
         else:
             out.append(0x3F)
             i += 1
+    out.extend(b'\x00\x00')
     return bytes(out)
 
 
