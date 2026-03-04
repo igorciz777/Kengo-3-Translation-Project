@@ -12,6 +12,8 @@ import sys
 from pathlib import Path
 from typing import Dict, Any, Optional
 
+g_file04_text_types = {0, 1, 3, 5, 7, 11, 13, 16, 18, 19, 20, 21, 22, 23, 24, 25, 28, 30, 31, 32, 33, 34, 36, 37}
+
 
 def decode_shiftjis_with_escape(data: bytes) -> str:
     result = []
@@ -73,7 +75,7 @@ class BinaryTextEditor:
             self.index = 0
         self.data = None
 
-    def parse_binary(self) -> Dict[str, Any]:
+    def parse_binary(self, ignore_type: bool = False) -> Dict[str, Any]:
         with open(self.filepath, 'rb') as f:
             file_size, = struct.unpack('<I', f.read(4))
             block_count, = struct.unpack('<I', f.read(4))
@@ -92,7 +94,7 @@ class BinaryTextEditor:
                     raise ValueError(f"Block {entry_idx} header truncated")
                 block_type, size_field, count, padding = struct.unpack('<IIII', header)
 
-                if block_type == 1:
+                if (self.index == 4 and block_type in g_file04_text_types) or block_type == 1 or ignore_type:
                     block_data = {
                         'block_index': entry_idx,
                         'type': block_type,
@@ -128,7 +130,7 @@ class BinaryTextEditor:
                 'blocks': blocks
             }
 
-    def export_to_json(self, output_path: Optional[str] = None) -> str:
+    def export_to_json(self, output_path: Optional[str] = None, ignore_type: bool = False) -> str:
         def _strip_trailing_nulls(s: str) -> str | None | Any:
             if s is None:
                 return s
@@ -140,7 +142,7 @@ class BinaryTextEditor:
         out_path = Path(output_path) if output_path else Path(self.filepath).with_suffix('.json')
 
         try:
-            data = self.parse_binary()
+            data = self.parse_binary(ignore_type=ignore_type)
         except Exception:
             data = None
 
@@ -185,7 +187,10 @@ class BinaryTextEditor:
 
         with open(output_bin_path, 'r+b') as bin_file:
             for block in data['blocks']:
-                if block['type'] != 1:
+                if self.index == 4:
+                    if block['type'] not in g_file04_text_types:
+                        continue
+                elif block['type'] != 1:
                     continue
 
                 for text_entry in block['texts']:
@@ -254,7 +259,7 @@ class BinaryTextEditor:
 
 def export_command(args):
     editor = BinaryTextEditor(args.input_file)
-    path = editor.export_to_json(args.output_file)
+    path = editor.export_to_json(args.output_file, ignore_type=args.ignore_type)
     if args.validate:
         ok = editor.validate_json(path)
         print(f"Validated: {ok}")
@@ -294,6 +299,17 @@ def import_to_folder(folder_path: str, input_folder: Optional[str] = None):
         print(f"Imported: {src_bin}")
 
 
+def convert_to_hex_command(args):
+    """
+    Converts a Shift-JIS string to its hexadecimal representation.
+    """
+    try:
+        encoded = encode_shiftjis_with_escape(args.text)
+        hex_output = ' '.join(f'{byte:02X}' for byte in encoded)
+        print(f"Hexadecimal representation: {hex_output}")
+    except Exception as e:
+        print(f"Error: {e}")
+
 def main():
     parser = argparse.ArgumentParser(description='Kengo 3 Menu Shift-JIS Text Editor CLI')
     sub = parser.add_subparsers(dest='cmd')
@@ -303,6 +319,7 @@ def main():
     p_export.add_argument('input_file')
     p_export.add_argument('-o', '--output-file', default=None)
     p_export.add_argument('--validate', action='store_true')
+    p_export.add_argument('--ignore-type', action='store_true')
     p_export.set_defaults(func=export_command)
 
     # Import single file
@@ -323,6 +340,11 @@ def main():
     p_import_folder.add_argument('folder_path', help='Path to the folder containing .bin files')
     p_import_folder.add_argument('-i', '--input-folder', default=None, help='Path to the folder containing JSON files')
     p_import_folder.set_defaults(func=lambda args: import_to_folder(args.folder_path, args.input_folder))
+
+    # Convert Shift-JIS text to hex
+    p_convert_to_hex = sub.add_parser('hex', help='Convert Shift-JIS text to hexadecimal representation')
+    p_convert_to_hex.add_argument('text', help='The Shift-JIS text to convert')
+    p_convert_to_hex.set_defaults(func=convert_to_hex_command)
 
     args = parser.parse_args()
     if not hasattr(args, 'func'):
