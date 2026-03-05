@@ -17,55 +17,55 @@
           "index": 0,
           "start": 80,
           "original": "名前入力",
-          "modified": "名前入力"
+          "modified": "Name Input "
         },
         {
           "index": 1,
           "start": 240,
           "original": "自流派名入力",
-          "modified": "自流派名入力"
+          "modified": "School Name Input"
         },
         {
           "index": 2,
           "start": 400,
           "original": ":戻る",
-          "modified": ":戻る"
+          "modified": "Return"
         },
         {
           "index": 3,
           "start": 560,
           "original": ":入力",
-          "modified": ":入力"
+          "modified": "Input"
         },
         {
           "index": 4,
           "start": 720,
           "original": ":削除",
-          "modified": ":削除"
+          "modified": "Delete"
         },
         {
           "index": 5,
           "start": 880,
           "original": "前項",
-          "modified": "前項"
+          "modified": "Previous"
         },
         {
           "index": 6,
           "start": 1040,
           "original": "項送り",
-          "modified": "項送り"
+          "modified": " "
         },
         {
           "index": 7,
           "start": 1200,
           "original": "次項",
-          "modified": "次項"
+          "modified": "Next"
         },
         {
           "index": 8,
           "start": 1360,
           "original": "入力位置移動",
-          "modified": "入力位置移動"
+          "modified": "Input Cursor"
         },
         {
           "index": 9,

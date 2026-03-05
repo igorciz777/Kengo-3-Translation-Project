@@ -161,79 +161,79 @@
           "index": 24,
           "start": 3920,
           "original": "メモリーカード差込口%dのメモリーカード(PS2)が",
-          "modified": "メモリーカード差込口%dのメモリーカード(PS2)が"
+          "modified": "Memory card(PS2) in slot %d"
         },
         {
           "index": 25,
           "start": 4080,
           "original": "フォーマットされていません。",
-          "modified": "フォーマットされていません。"
+          "modified": "is unformatted."
         },
         {
           "index": 26,
           "start": 4240,
           "original": "フォーマットしてから剣豪３のゲームデータを",
-          "modified": "フォーマットしてから剣豪３のゲームデータを"
+          "modified": "Format it and create"
         },
         {
           "index": 27,
           "start": 4400,
           "original": "作成してよろしいですか？",
-          "modified": "作成してよろしいですか？"
+          "modified": "Kengo 3 save data?"
         },
         {
           "index": 28,
           "start": 4560,
           "original": "フォーマット中です。メモリーカード差込口%dの",
-          "modified": "フォーマット中です。メモリーカード差込口%dの"
+          "modified": "Formatting. Memory card slot %d"
         },
         {
           "index": 29,
           "start": 4720,
           "original": "メモリーカード(PS2)を抜かないでください。",
-          "modified": "メモリーカード(PS2)を抜かないでください。"
+          "modified": "Do not remove memory card (PS2)."
         },
         {
           "index": 30,
           "start": 4880,
           "original": "フォーマットに失敗しました。",
-          "modified": "フォーマットに失敗しました。"
+          "modified": "Formatting failed."
         },
         {
           "index": 31,
           "start": 5040,
           "original": "剣豪３のゲームデータをセーブ中です。",
-          "modified": "剣豪３のゲームデータをセーブ中です。"
+          "modified": "Saving Kengou 3 Game Data."
         },
         {
           "index": 32,
           "start": 5200,
           "original": "メモリーカード差込口%dのメモリーカード(PS2)を",
-          "modified": "メモリーカード差込口%dのメモリーカード(PS2)を"
+          "modified": "Memory card(PS2) in slot %d"
         },
         {
           "index": 33,
           "start": 5360,
           "original": "抜かないでください。",
-          "modified": "抜かないでください。"
+          "modified": "Do not remove memory card (PS2)."
         },
         {
           "index": 34,
           "start": 5520,
           "original": "剣豪３のゲームデータを作成しています。",
-          "modified": "剣豪３のゲームデータを作成しています。"
+          "modified": "Creating Kengou 3 Game Data."
         },
         {
           "index": 35,
           "start": 5680,
           "original": "メモリーカード差込口%dのメモリーカード(PS2)を",
-          "modified": "Memory card(PS2)"
+          "modified": "Memory card(PS2) in slot %d"
         },
         {
           "index": 36,
           "start": 5840,
           "original": "抜かないでください。",
-          "modified": "抜かないでください。"
+          "modified": "Do not remove memory card (PS2)."
         },
         {
           "index": 37,

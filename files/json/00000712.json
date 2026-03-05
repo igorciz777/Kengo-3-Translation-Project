@@ -131,19 +131,19 @@
           "index": 19,
           "start": 10996,
           "original": "前項",
-          "modified": "前項"
+          "modified": "Previous"
         },
         {
           "index": 20,
           "start": 11136,
           "original": "現在2/3項",
-          "modified": "現在2/3項"
+          "modified": "Set 2/3"
         },
         {
           "index": 21,
           "start": 11276,
           "original": "次項",
-          "modified": "次項"
+          "modified": "Next"
         }
       ]
     }

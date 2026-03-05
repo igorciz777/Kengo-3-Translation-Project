@@ -17,121 +17,121 @@
           "index": 0,
           "start": 144,
           "original": "剣士確認",
-          "modified": "剣士確認"
+          "modified": "Swordsman"
         },
         {
           "index": 1,
           "start": 304,
           "original": "育ての親選択",
-          "modified": "育ての親選択"
+          "modified": "Parent "
         },
         {
           "index": 2,
           "start": 464,
           "original": ":決定",
-          "modified": ":決定"
+          "modified": "Accept"
         },
         {
           "index": 3,
           "start": 624,
           "original": ":戻る",
-          "modified": ":戻る"
+          "modified": "Return"
         },
         {
           "index": 4,
           "start": 784,
           "original": "名前：%s",
-          "modified": "名前：%s"
+          "modified": "Name：%s"
         },
         {
           "index": 5,
           "start": 944,
           "original": "出身地　：%s",
-          "modified": "出身地　：%s"
+          "modified": "Birthplace：%s"
         },
         {
           "index": 6,
           "start": 1104,
           "original": "育ての親：%s",
-          "modified": "育ての親：%s"
+          "modified": "Foster Parent：%s"
         },
         {
           "index": 7,
           "start": 1264,
           "original": "豪腕：%4d/%4d",
-          "modified": "豪腕：%4d/%4d"
+          "modified": "Might：%4d/%4d"
         },
         {
           "index": 8,
           "start": 1424,
           "original": "切れ：%4d/%4d",
-          "modified": "切れ：%4d/%4d"
+          "modified": "Edge：%4d/%4d"
         },
         {
           "index": 9,
           "start": 1584,
           "original": "俊敏：%4d/%4d",
-          "modified": "俊敏：%4d/%4d"
+          "modified": "Agility：%4d/%4d"
         },
         {
           "index": 10,
           "start": 1744,
           "original": "見切：%4d/%4d",
-          "modified": "見切：%4d/%4d"
+          "modified": "Insight：%4d/%4d"
         },
         {
           "index": 11,
           "start": 1904,
           "original": "精神：%4d/%4d",
-          "modified": "精神：%4d/%4d"
+          "modified": "Spirit：%4d/%4d"
         },
         {
           "index": 12,
           "start": 2064,
           "original": "頑強：%4d/%4d",
-          "modified": "頑強：%4d/%4d"
+          "modified": "Stamina：%4d/%4d"
         },
         {
           "index": 13,
           "start": 2224,
           "original": "回復：%4d/%4d",
-          "modified": "回復：%4d/%4d"
+          "modified": "Recovery：%4d/%4d"
         },
         {
           "index": 14,
           "start": 2384,
           "original": "育ての親を",
-          "modified": "育ての親を"
+          "modified": "Select"
         },
         {
           "index": 15,
           "start": 2544,
           "original": "選択しますか？",
-          "modified": "選択しますか？"
+          "modified": "a foster parent?"
         },
         {
           "index": 16,
           "start": 2704,
           "original": "この主人公剣士で",
-          "modified": "この主人公剣士で"
+          "modified": "Start the game with"
         },
         {
           "index": 17,
           "start": 2864,
           "original": "ゲームを始めますか？",
-          "modified": "ゲームを始めますか？"
+          "modified": "created swordsman?"
         },
         {
           "index": 18,
           "start": 3024,
           "original": "はい",
-          "modified": "はい"
+          "modified": "Yes"
         },
         {
           "index": 19,
           "start": 3184,
           "original": "いいえ",
-          "modified": "いいえ"
+          "modified": "No"
         }
       ]
     }

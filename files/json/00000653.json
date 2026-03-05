@@ -23,7 +23,7 @@
           "index": 1,
           "start": 496,
           "original": ":決定",
-          "modified": ":決定"
+          "modified": "Accept"
         },
         {
           "index": 2,
@@ -41,13 +41,13 @@
           "index": 4,
           "start": 976,
           "original": ":戻る",
-          "modified": ":戻る"
+          "modified": "Return"
         },
         {
           "index": 5,
           "start": 1136,
           "original": ":国選択",
-          "modified": ":国選択"
+          "modified": ":Region"
         },
         {
           "index": 6,
@@ -89,13 +89,13 @@
           "index": 12,
           "start": 2256,
           "original": "前項",
-          "modified": "前項"
+          "modified": "Previous"
         },
         {
           "index": 13,
           "start": 2416,
           "original": "次項",
-          "modified": "次項"
+          "modified": "Next"
         },
         {
           "index": 14,

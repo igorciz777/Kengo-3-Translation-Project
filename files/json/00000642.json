@@ -17,13 +17,13 @@
           "index": 0,
           "start": 80,
           "original": ":決定",
-          "modified": ":決定"
+          "modified": "Accept"
         },
         {
           "index": 1,
           "start": 240,
           "original": ":戻る",
-          "modified": ":戻る"
+          "modified": "Return"
         },
         {
           "index": 2,
@@ -41,19 +41,19 @@
           "index": 4,
           "start": 720,
           "original": "前項",
-          "modified": "前項"
+          "modified": "Previous"
         },
         {
           "index": 5,
           "start": 880,
           "original": "項送り",
-          "modified": "項送り"
+          "modified": " "
         },
         {
           "index": 6,
           "start": 1040,
           "original": "次項",
-          "modified": "次項"
+          "modified": "Next"
         },
         {
           "index": 7,

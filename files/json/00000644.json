@@ -17,7 +17,7 @@
           "index": 0,
           "start": 80,
           "original": ":戻る",
-          "modified": ":戻る"
+          "modified": "Return"
         },
         {
           "index": 1,
@@ -35,19 +35,19 @@
           "index": 3,
           "start": 560,
           "original": "前項",
-          "modified": "前項"
+          "modified": "Previous"
         },
         {
           "index": 4,
           "start": 720,
           "original": "項送り",
-          "modified": "項送り"
+          "modified": " "
         },
         {
           "index": 5,
           "start": 880,
           "original": "次項",
-          "modified": "次項"
+          "modified": "Next"
         },
         {
           "index": 6,

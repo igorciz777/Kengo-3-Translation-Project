@@ -35,13 +35,13 @@
           "index": 3,
           "start": 560,
           "original": ":決定",
-          "modified": ":決定"
+          "modified": "Accept"
         },
         {
           "index": 4,
           "start": 720,
           "original": ":戻る",
-          "modified": ":戻る"
+          "modified": "Return"
         },
         {
           "index": 5,

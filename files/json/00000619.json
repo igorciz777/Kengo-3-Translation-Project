@@ -17,7 +17,7 @@
           "index": 0,
           "start": 144,
           "original": ":決定",
-          "modified": ":決定"
+          "modified": "Accept"
         },
         {
           "index": 1,
@@ -59,7 +59,7 @@
           "index": 7,
           "start": 1264,
           "original": "ネットRANKINGパスワード",
-          "modified": "ネットRANKINGパスワード"
+          "modified": "Net RANKING Password"
         },
         {
           "index": 8,
@@ -161,31 +161,31 @@
           "index": 24,
           "start": 3984,
           "original": "スコアを保存しますか？",
-          "modified": "スコアを保存しますか？"
+          "modified": "Save score?"
         },
         {
           "index": 25,
           "start": 4144,
           "original": "はい",
-          "modified": "はい"
+          "modified": "Yes"
         },
         {
           "index": 26,
           "start": 4304,
           "original": "いいえ",
-          "modified": "いいえ"
+          "modified": "No"
         },
         {
           "index": 27,
           "start": 4464,
           "original": "記録無し",
-          "modified": "記録無し"
+          "modified": "No record"
         },
         {
           "index": 28,
           "start": 4624,
           "original": "再挑戦しますか？",
-          "modified": "再挑戦しますか？"
+          "modified": "Play again?"
         }
       ]
     }

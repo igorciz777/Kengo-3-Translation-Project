@@ -17,13 +17,13 @@
           "index": 0,
           "start": 80,
           "original": ":決定",
-          "modified": ":決定"
+          "modified": "Accept"
         },
         {
           "index": 1,
           "start": 240,
           "original": ":戻る",
-          "modified": ":戻る"
+          "modified": "Return"
         },
         {
           "index": 2,

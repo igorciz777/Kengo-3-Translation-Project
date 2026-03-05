@@ -23,31 +23,31 @@
           "index": 1,
           "start": 240,
           "original": ":決定",
-          "modified": ":決定"
+          "modified": "Accept"
         },
         {
           "index": 2,
           "start": 400,
           "original": ":戻る",
-          "modified": ":戻る"
+          "modified": "Return"
         },
         {
           "index": 3,
           "start": 560,
           "original": "ノーマル",
-          "modified": "ノーマル"
+          "modified": "Normal"
         },
         {
           "index": 4,
           "start": 720,
           "original": "イベント",
-          "modified": "イベント"
+          "modified": "Event"
         },
         {
           "index": 5,
           "start": 880,
           "original": "道場",
-          "modified": "道場"
+          "modified": "Dojo"
         }
       ]
     }
