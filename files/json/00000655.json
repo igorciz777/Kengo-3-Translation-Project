@@ -17,19 +17,19 @@
           "index": 0,
           "start": 80,
           "original": "報酬",
-          "modified": "報酬"
+          "modified": "Reward"
         },
         {
           "index": 1,
           "start": 240,
           "original": "999両",
-          "modified": "999両"
+          "modified": "999 Ryo"
         },
         {
           "index": 2,
           "start": 400,
           "original": "危険度",
-          "modified": "危険度"
+          "modified": "Danger"
         }
       ]
     }

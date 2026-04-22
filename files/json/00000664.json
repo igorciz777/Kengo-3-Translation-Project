@@ -17,67 +17,67 @@
           "index": 0,
           "start": 80,
           "original": "剣豪名",
-          "modified": "剣豪名"
+          "modified": "Name"
         },
         {
           "index": 1,
           "start": 240,
           "original": "一行目",
-          "modified": "一行目"
+          "modified": "Line 1"
         },
         {
           "index": 2,
           "start": 400,
           "original": "二行目",
-          "modified": "二行目"
+          "modified": "Line 2"
         },
         {
           "index": 3,
           "start": 560,
           "original": "三行目",
-          "modified": "三行目"
+          "modified": "Line 3"
         },
         {
           "index": 4,
           "start": 720,
           "original": "四行目",
-          "modified": "四行目"
+          "modified": "Line 4"
         },
         {
           "index": 5,
           "start": 880,
           "original": "五行目",
-          "modified": "五行目"
+          "modified": "Line 5"
         },
         {
           "index": 6,
           "start": 1040,
           "original": "六行目",
-          "modified": "六行目"
+          "modified": "Line 6"
         },
         {
           "index": 7,
           "start": 1200,
           "original": "七行目",
-          "modified": "七行目"
+          "modified": "Line 7"
         },
         {
           "index": 8,
           "start": 1360,
           "original": "八行目",
-          "modified": "八行目"
+          "modified": "Line 8"
         },
         {
           "index": 9,
           "start": 1520,
           "original": "九行目",
-          "modified": "九行目"
+          "modified": "Line 9"
         },
         {
           "index": 10,
           "start": 1680,
           "original": "十行目",
-          "modified": "十行目"
+          "modified": "Line 10"
         }
       ]
     }

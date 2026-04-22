@@ -17,31 +17,31 @@
           "index": 0,
           "start": 144,
           "original": "質問１行目",
-          "modified": "質問１行目"
+          "modified": "Question Line 1"
         },
         {
           "index": 1,
           "start": 304,
           "original": "質問２行目",
-          "modified": "質問２行目"
+          "modified": "Question Line 2"
         },
         {
           "index": 2,
           "start": 464,
           "original": "解答１つ目",
-          "modified": "解答１つ目"
+          "modified": "Answer 1"
         },
         {
           "index": 3,
           "start": 624,
           "original": "解答２つ目",
-          "modified": "解答２つ目"
+          "modified": "Answer 2"
         },
         {
           "index": 4,
           "start": 784,
           "original": "解答３つ目",
-          "modified": "解答３つ目"
+          "modified": "Answer 3"
         }
       ]
     }

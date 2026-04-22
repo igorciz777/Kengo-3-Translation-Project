@@ -239,103 +239,103 @@
           "index": 37,
           "start": 6000,
           "original": "剣豪３のゲームデータの作成に失敗しました。",
-          "modified": "剣豪３のゲームデータの作成に失敗しました。"
+          "modified": "Failed to create Kengou 3 Game Data."
         },
         {
           "index": 38,
           "start": 6160,
           "original": "剣豪３のゲームデータのセーブに失敗しました。",
-          "modified": "剣豪３のゲームデータのセーブに失敗しました。"
+          "modified": "Failed to save Kengou 3 Game Data."
         },
         {
           "index": 39,
           "start": 6320,
           "original": "セーブが終了しました。",
-          "modified": "セーブが終了しました。"
+          "modified": "Save complete."
         },
         {
           "index": 40,
           "start": 6480,
           "original": "メモリーカード差込口%dのメモリーカード(PS2)の",
-          "modified": "メモリーカード差込口%dのメモリーカード(PS2)の"
+          "modified": "Memory card(PS2) in slot %d"
         },
         {
           "index": 41,
           "start": 6640,
           "original": "空き容量が不足しています。",
-          "modified": "空き容量が不足しています。"
+          "modified": "has insufficient free space."
         },
         {
           "index": 42,
           "start": 6800,
           "original": "剣豪３のゲームデータをセーブするには",
-          "modified": "剣豪３のゲームデータをセーブするには"
+          "modified": "Kengou 3 Game Data requires"
         },
         {
           "index": 43,
           "start": 6960,
           "original": "%dKB以上の空き容量が必要です。",
-          "modified": "%dKB以上の空き容量が必要です。"
+          "modified": "%dKB free space."
         },
         {
           "index": 44,
           "start": 7120,
           "original": "メモリーカード差込口%dのメモリーカード(PS2)に",
-          "modified": "メモリーカード差込口%dのメモリーカード(PS2)に"
+          "modified": "Memory card(PS2) in slot %d"
         },
         {
           "index": 45,
           "start": 7280,
           "original": "新しく剣豪３のゲームデータを作成します。",
-          "modified": "新しく剣豪３のゲームデータを作成します。"
+          "modified": "will create new Kengou 3 Game Data."
         },
         {
           "index": 46,
           "start": 7440,
           "original": "よろしいですか？",
-          "modified": "よろしいですか？"
+          "modified": "Proceed?"
         },
         {
           "index": 47,
           "start": 7600,
           "original": "メモリーカード差込口%dのメモリーカード(PS2)",
-          "modified": "メモリーカード差込口%dのメモリーカード(PS2)"
+          "modified": "Memory card(PS2) in slot %d"
         },
         {
           "index": 48,
           "start": 7760,
           "original": "には、剣豪３のゲームデータが既に存在します。",
-          "modified": "には、剣豪３のゲームデータが既に存在します。"
+          "modified": "has existing Kengou 3 Game Data."
         },
         {
           "index": 49,
           "start": 7920,
           "original": "上書きしてよろしいですか？",
-          "modified": "上書きしてよろしいですか？"
+          "modified": "Overwrite?"
         },
         {
           "index": 50,
           "start": 8080,
           "original": "メモリーカード差込口%dのメモリーカード(PS2)の",
-          "modified": "メモリーカード差込口%dのメモリーカード(PS2)の"
+          "modified": "Memory card(PS2) in slot %d"
         },
         {
           "index": 51,
           "start": 8240,
           "original": "剣豪３のファイルが壊れています。",
-          "modified": "剣豪３のファイルが壊れています。"
+          "modified": "has corrupted Kengou 3 file."
         },
         {
           "index": 52,
           "start": 8400,
           "original": "上書きしてよろしいですか？",
-          "modified": "上書きしてよろしいですか？"
+          "modified": "Overwrite?"
         },
         {
           "index": 53,
           "start": 8560,
           "original": "メモリーカード差込口%dのメモリーカード(PS2)の",
-          "modified": "メモリーカード差込口%dのメモリーカード(PS2)の"
+          "modified": "Memory card(PS2) in slot %d"
         },
         {
           "index": 54,
@@ -371,19 +371,19 @@
           "index": 59,
           "start": 9520,
           "original": "剣豪３のゲームデータをロード中です。",
-          "modified": "剣豪３のゲームデータをロード中です。"
+          "modified": "Loading Kengou 3 Game Data."
         },
         {
           "index": 60,
           "start": 9680,
           "original": "メモリーカード差込口%dのメモリーカード(PS2)を",
-          "modified": "メモリーカード差込口%dのメモリーカード(PS2)を"
+          "modified": "Memory card(PS2) in slot %d"
         },
         {
           "index": 61,
           "start": 9840,
           "original": "抜かないでください。",
-          "modified": "抜かないでください。"
+          "modified": "Do not remove memory card."
         },
         {
           "index": 62,
@@ -395,37 +395,37 @@
           "index": 63,
           "start": 10160,
           "original": "メモリーカード差込口%dの",
-          "modified": "メモリーカード差込口%dの"
+          "modified": "Memory card slot %d"
         },
         {
           "index": 64,
           "start": 10320,
           "original": "ロードに失敗しました。",
-          "modified": "ロードに失敗しました。"
+          "modified": "Loading failed."
         },
         {
           "index": 65,
           "start": 10480,
           "original": "このファイルは壊れています。",
-          "modified": "このファイルは壊れています。"
+          "modified": "This file is corrupted."
         },
         {
           "index": 66,
           "start": 10640,
           "original": "アナログコントローラ(DUALSHOCK 2)が接続されていません。",
-          "modified": "アナログコントローラ(DUALSHOCK 2)が接続されていません。"
+          "modified": "Analog controller (DUALSHOCK 2) not connected."
         },
         {
           "index": 67,
           "start": 10800,
           "original": "コントローラー端子%dにアナログコントローラ(DUALSHOCK 2)",
-          "modified": "コントローラー端子%dにアナログコントローラ(DUALSHOCK 2)"
+          "modified": "Connect Analog Controller (DUALSHOCK 2)"
         },
         {
           "index": 68,
           "start": 10960,
           "original": "を正しく接続しなおしてから○ボタンを押してください。",
-          "modified": "を正しく接続しなおしてから○ボタンを押してください。"
+          "modified": "to controller port %d and press O."
         }
       ]
     }

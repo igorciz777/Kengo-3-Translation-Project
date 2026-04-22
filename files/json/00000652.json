@@ -23,43 +23,43 @@
           "index": 1,
           "start": 240,
           "original": "服装変更",
-          "modified": "服装変更"
+          "modified": "Change Outfit"
         },
         {
           "index": 2,
           "start": 400,
           "original": "帯刀 %s",
-          "modified": "帯刀 %s"
+          "modified": "Sword %s"
         },
         {
           "index": 3,
           "start": 560,
           "original": "形1  %s",
-          "modified": "形1  %s"
+          "modified": "Form 1 %s"
         },
         {
           "index": 4,
           "start": 720,
           "original": "形2  %s",
-          "modified": "形2  %s"
+          "modified": "Form 2 %s"
         },
         {
           "index": 5,
           "start": 880,
           "original": "形3  %s",
-          "modified": "形3  %s"
+          "modified": "Form 3 %s"
         },
         {
           "index": 6,
           "start": 1040,
           "original": "使用武器 %s",
-          "modified": "使用武器 %s"
+          "modified": "Weapon %s"
         },
         {
           "index": 7,
           "start": 1200,
           "original": "決定",
-          "modified": "決定"
+          "modified": "Confirm"
         },
         {
           "index": 8,
@@ -71,31 +71,31 @@
           "index": 9,
           "start": 1520,
           "original": "帯刀 %s",
-          "modified": "帯刀 %s"
+          "modified": "Sword %s"
         },
         {
           "index": 10,
           "start": 1680,
           "original": "形1  %s",
-          "modified": "形1  %s"
+          "modified": "Form 1 %s"
         },
         {
           "index": 11,
           "start": 1840,
           "original": "形2  %s",
-          "modified": "形2  %s"
+          "modified": "Form 2 %s"
         },
         {
           "index": 12,
           "start": 2000,
           "original": "使用武器 %s",
-          "modified": "使用武器 %s"
+          "modified": "Weapon %s"
         },
         {
           "index": 13,
           "start": 2160,
           "original": "決定",
-          "modified": "決定"
+          "modified": "Confirm"
         }
       ]
     }

@@ -17,25 +17,25 @@
           "index": 0,
           "start": 80,
           "original": "連続技 /",
-          "modified": "連続技 /"
+          "modified": "Combo /"
         },
         {
           "index": 1,
           "start": 240,
           "original": "飛龍刀",
-          "modified": "飛龍刀"
+          "modified": "Flying Dragon"
         },
         {
           "index": 2,
           "start": 400,
           "original": "取得状況　%3d/%3d",
-          "modified": "取得状況　%3d/%3d"
+          "modified": "Learned %3d/%3d"
         },
         {
           "index": 3,
           "start": 560,
           "original": "（所有数/総数）",
-          "modified": "（所有数/総数）"
+          "modified": "(Owned/Total)"
         }
       ]
     }

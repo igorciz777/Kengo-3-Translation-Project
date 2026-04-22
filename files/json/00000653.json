@@ -17,7 +17,7 @@
           "index": 0,
           "start": 336,
           "original": "ヘルプ文字",
-          "modified": "ヘルプ文字"
+          "modified": "Help Text"
         },
         {
           "index": 1,
@@ -29,13 +29,13 @@
           "index": 2,
           "start": 656,
           "original": ":確認",
-          "modified": ":確認"
+          "modified": ":Confirm"
         },
         {
           "index": 3,
           "start": 816,
           "original": ":再生",
-          "modified": ":再生"
+          "modified": "Replay"
         },
         {
           "index": 4,
@@ -53,31 +53,31 @@
           "index": 6,
           "start": 1296,
           "original": ":変更",
-          "modified": ":変更"
+          "modified": ":Change"
         },
         {
           "index": 7,
           "start": 1456,
           "original": ":選択",
-          "modified": ":選択"
+          "modified": ":Select"
         },
         {
           "index": 8,
           "start": 1616,
           "original": ":確認",
-          "modified": ":確認"
+          "modified": ":Confirm"
         },
         {
           "index": 9,
           "start": 1776,
           "original": ":頁戻し",
-          "modified": ":頁戻し"
+          "modified": ":Prev Page"
         },
         {
           "index": 10,
           "start": 1936,
           "original": ":頁送り",
-          "modified": ":頁送り"
+          "modified": ":Next Page"
         },
         {
           "index": 11,

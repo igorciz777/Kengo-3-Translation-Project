@@ -89,25 +89,25 @@
           "index": 12,
           "start": 2000,
           "original": "熟練度 : %2s",
-          "modified": "熟練度 : %2s"
+          "modified": "Mastery : %2s"
         },
         {
           "index": 13,
           "start": 2160,
           "original": "形１",
-          "modified": "形１"
+          "modified": "Form 1"
         },
         {
           "index": 14,
           "start": 2320,
           "original": "形２",
-          "modified": "形２"
+          "modified": "Form 2"
         },
         {
           "index": 15,
           "start": 2480,
           "original": "形３",
-          "modified": "形３"
+          "modified": "Form 3"
         },
         {
           "index": 16,
