@@ -23,7 +23,7 @@
           "index": 1,
           "start": 2972,
           "original": "最大八文字右衛門",
-          "modified": "最大八文字右衛門"
+          "modified": "Max 8 Characters"
         },
         {
           "index": 2,
@@ -35,25 +35,25 @@
           "index": 3,
           "start": 3252,
           "original": "江戸",
-          "modified": "江戸"
+          "modified": "Edo"
         },
         {
           "index": 4,
           "start": 3392,
           "original": "出身",
-          "modified": "出身"
+          "modified": "Origin"
         },
         {
           "index": 5,
           "start": 3532,
           "original": "尾張",
-          "modified": "尾張"
+          "modified": "Owari"
         },
         {
           "index": 6,
           "start": 3672,
           "original": "最大六字道場",
-          "modified": "最大六字道場"
+          "modified": "Max 6 Char Dojo"
         },
         {
           "index": 7,
@@ -65,19 +65,19 @@
           "index": 8,
           "start": 3952,
           "original": "日目",
-          "modified": "日目"
+          "modified": "Day"
         },
         {
           "index": 9,
           "start": 4092,
           "original": "朝",
-          "modified": "朝"
+          "modified": "Morning"
         },
         {
           "index": 10,
           "start": 4232,
           "original": "保存時間：",
-          "modified": "保存時間："
+          "modified": "Save Time:"
         },
         {
           "index": 11,
@@ -89,7 +89,7 @@
           "index": 12,
           "start": 4512,
           "original": "年",
-          "modified": "年"
+          "modified": "/"
         },
         {
           "index": 13,
@@ -101,7 +101,7 @@
           "index": 14,
           "start": 4792,
           "original": "月",
-          "modified": "月"
+          "modified": "/"
         },
         {
           "index": 15,
@@ -113,7 +113,7 @@
           "index": 16,
           "start": 5072,
           "original": "日　",
-          "modified": "日　"
+          "modified": " " 
         },
         {
           "index": 17,
@@ -125,7 +125,7 @@
           "index": 18,
           "start": 5352,
           "original": "時",
-          "modified": "時"
+          "modified": ":"
         },
         {
           "index": 19,
@@ -137,19 +137,19 @@
           "index": 20,
           "start": 5632,
           "original": "分",
-          "modified": "分"
+          "modified": ""
         },
         {
           "index": 21,
           "start": 5772,
           "original": "新規保存",
-          "modified": "新規保存"
+          "modified": "New Save"
         },
         {
           "index": 22,
           "start": 5912,
           "original": "新規にデータを作成します。",
-          "modified": "新規にデータを作成します。"
+          "modified": "Create new save data."
         }
       ]
     }

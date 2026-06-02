@@ -23,19 +23,19 @@
           "index": 1,
           "start": 304,
           "original": "100人斬り(初級)結果",
-          "modified": "100人斬り(初級)結果"
+          "modified": "100 Kills (Beginner) Results"
         },
         {
           "index": 2,
           "start": 464,
           "original": "1000人斬り(上級)結果",
-          "modified": "1000人斬り(上級)結果"
+          "modified": "1000 Kills (Advanced) Results"
         },
         {
           "index": 3,
           "start": 624,
           "original": "煩悩斬り(108人斬り)結果",
-          "modified": "煩悩斬り(108人斬り)結果"
+          "modified": "108 Kills (Desires) Results"
         },
         {
           "index": 4,
@@ -47,13 +47,13 @@
           "index": 5,
           "start": 944,
           "original": "%4d人斬り達成",
-          "modified": "%4d人斬り達成"
+          "modified": "%4d Kills Achieved"
         },
         {
           "index": 6,
           "start": 1104,
           "original": "経過時間%02d分%02d秒%02d",
-          "modified": "経過時間%02d分%02d秒%02d"
+          "modified": "Time %02dM %02dS %02d"
         },
         {
           "index": 7,
@@ -101,61 +101,61 @@
           "index": 14,
           "start": 2384,
           "original": "%4d人",
-          "modified": "%4d人"
+          "modified": "%4d Kills"
         },
         {
           "index": 15,
           "start": 2544,
           "original": "%4d人",
-          "modified": "%4d人"
+          "modified": "%4d Kills"
         },
         {
           "index": 16,
           "start": 2704,
           "original": "%4d人",
-          "modified": "%4d人"
+          "modified": "%4d Kills"
         },
         {
           "index": 17,
           "start": 2864,
           "original": "%4d人",
-          "modified": "%4d人"
+          "modified": "%4d Kills"
         },
         {
           "index": 18,
           "start": 3024,
           "original": "%4d人",
-          "modified": "%4d人"
+          "modified": "%4d Kills"
         },
         {
           "index": 19,
           "start": 3184,
           "original": "%02d分%02d秒%02d",
-          "modified": "%02d分%02d秒%02d"
+          "modified": "%02dM %02dS %02d"
         },
         {
           "index": 20,
           "start": 3344,
           "original": "%02d分%02d秒%02d",
-          "modified": "%02d分%02d秒%02d"
+          "modified": "%02dM %02dS %02d"
         },
         {
           "index": 21,
           "start": 3504,
           "original": "%02d分%02d秒%02d",
-          "modified": "%02d分%02d秒%02d"
+          "modified": "%02dM %02dS %02d"
         },
         {
           "index": 22,
           "start": 3664,
           "original": "%02d分%02d秒%02d",
-          "modified": "%02d分%02d秒%02d"
+          "modified": "%02dM %02dS %02d"
         },
         {
           "index": 23,
           "start": 3824,
           "original": "%02d分%02d秒%02d",
-          "modified": "%02d分%02d秒%02d"
+          "modified": "%02dM %02dS %02d"
         },
         {
           "index": 24,

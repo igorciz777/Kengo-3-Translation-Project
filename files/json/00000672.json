@@ -17,13 +17,13 @@
           "index": 0,
           "start": 80,
           "original": "所要日数",
-          "modified": "所要日数"
+          "modified": "Travel Days"
         },
         {
           "index": 1,
           "start": 240,
           "original": "：%2d日",
-          "modified": "：%2d日"
+          "modified": ": %2d Days"
         },
         {
           "index": 2,
@@ -35,13 +35,13 @@
           "index": 3,
           "start": 560,
           "original": "旅費",
-          "modified": "旅費"
+          "modified": "Travel Cost"
         },
         {
           "index": 4,
           "start": 720,
           "original": "：%4d文",
-          "modified": "：%4d文"
+          "modified": ": %4d Mon"
         },
         {
           "index": 5,
@@ -53,7 +53,7 @@
           "index": 6,
           "start": 1040,
           "original": "名声",
-          "modified": "名声"
+          "modified": "Fame"
         },
         {
           "index": 7,
@@ -65,7 +65,7 @@
           "index": 8,
           "start": 1360,
           "original": "評判",
-          "modified": "評判"
+          "modified": "Reputation"
         },
         {
           "index": 9,

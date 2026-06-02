@@ -17,19 +17,19 @@
           "index": 0,
           "start": 80,
           "original": "倒幕志士編",
-          "modified": "倒幕志士編"
+          "modified": "The Anti-Shogunate Patriots"
         },
         {
           "index": 1,
           "start": 240,
           "original": "達成状況　　%2d/%2d",
-          "modified": "達成状況　　%2d/%2d"
+          "modified": "Completion %2d/%2d"
         },
         {
           "index": 2,
           "start": 400,
           "original": "シナリオ切替え",
-          "modified": "シナリオ切替え"
+          "modified": "Switch Scenario"
         },
         {
           "index": 3,
@@ -47,121 +47,121 @@
           "index": 5,
           "start": 880,
           "original": "薩長同盟締結",
-          "modified": "薩長同盟締結"
+          "modified": "Conclusion of the Satsuma-Choshu Alliance"
         },
         {
           "index": 6,
           "start": 1040,
           "original": "安堵の直後に",
-          "modified": "安堵の直後に"
+          "modified": "Right After Relief"
         },
         {
           "index": 7,
           "start": 1200,
           "original": "海援隊結成",
-          "modified": "海援隊結成"
+          "modified": "Formation of the Kaientai"
         },
         {
           "index": 8,
           "start": 1360,
           "original": "大政奉還",
-          "modified": "大政奉還"
+          "modified": "Return of Sovereignty to the Emperor"
         },
         {
           "index": 9,
           "start": 1520,
           "original": "龍馬死す",
-          "modified": "龍馬死す"
+          "modified": "Ryoma Dies"
         },
         {
           "index": 10,
           "start": 1680,
           "original": "龍馬の仇",
-          "modified": "龍馬の仇"
+          "modified": "Ryoma's Avenger"
         },
         {
           "index": 11,
           "start": 1840,
           "original": "新選組掃討",
-          "modified": "新選組掃討"
+          "modified": "Crushing the Shinsengumi"
         },
         {
           "index": 12,
           "start": 2000,
           "original": "決死・沖田総司",
-          "modified": "決死・沖田総司"
+          "modified": "Desperate Struggle: Okita Soji"
         },
         {
           "index": 13,
           "start": 2160,
           "original": "最後の戦い",
-          "modified": "最後の戦い"
+          "modified": "The Final Battle"
         },
         {
           "index": 14,
           "start": 2320,
           "original": "龍馬死す",
-          "modified": "龍馬死す"
+          "modified": "Ryoma Dies"
         },
         {
           "index": 15,
           "start": 2480,
           "original": "龍馬の仇",
-          "modified": "龍馬の仇"
+          "modified": "Ryoma's Avenger"
         },
         {
           "index": 16,
           "start": 2640,
           "original": "新選組掃討",
-          "modified": "新選組掃討"
+          "modified": "Crushing the Shinsengumi"
         },
         {
           "index": 17,
           "start": 2800,
           "original": "決死・沖田総司",
-          "modified": "決死・沖田総司"
+          "modified": "Desperate Struggle: Okita Soji"
         },
         {
           "index": 18,
           "start": 2960,
           "original": "最後の戦い",
-          "modified": "最後の戦い"
+          "modified": "The Final Battle"
         },
         {
           "index": 19,
           "start": 3120,
           "original": "龍馬死す",
-          "modified": "龍馬死す"
+          "modified": "Ryoma Dies"
         },
         {
           "index": 20,
           "start": 3280,
           "original": "龍馬の仇",
-          "modified": "龍馬の仇"
+          "modified": "Ryoma's Avenger"
         },
         {
           "index": 21,
           "start": 3440,
           "original": "新選組掃討",
-          "modified": "新選組掃討"
+          "modified": "Crushing the Shinsengumi"
         },
         {
           "index": 22,
           "start": 3600,
           "original": "決死・沖田総司",
-          "modified": "決死・沖田総司"
+          "modified": "Desperate Struggle: Okita Soji"
         },
         {
           "index": 23,
           "start": 3760,
           "original": "最後の戦い",
-          "modified": "最後の戦い"
+          "modified": "The Final Battle"
         },
         {
           "index": 24,
           "start": 3920,
           "original": "新しい時代へ",
-          "modified": "新しい時代へ"
+          "modified": "Toward a New Era"
         }
       ]
     }

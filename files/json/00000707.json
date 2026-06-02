@@ -17,43 +17,43 @@
           "index": 0,
           "start": 80,
           "original": ":試合開始",
-          "modified": ":試合開始"
+          "modified": ":Begin Match"
         },
         {
           "index": 1,
           "start": 240,
           "original": "主人公",
-          "modified": "主人公"
+          "modified": "Protagonist"
         },
         {
           "index": 2,
           "start": 400,
           "original": "敵１",
-          "modified": "敵１"
+          "modified": "Enemy 1"
         },
         {
           "index": 3,
           "start": 560,
           "original": "敵２",
-          "modified": "敵２"
+          "modified": "Enemy 2"
         },
         {
           "index": 4,
           "start": 720,
           "original": "敵３",
-          "modified": "敵３"
+          "modified": "Enemy 3"
         },
         {
           "index": 5,
           "start": 880,
           "original": "敵４",
-          "modified": "敵４"
+          "modified": "Enemy 4"
         },
         {
           "index": 6,
           "start": 1040,
           "original": "敵５",
-          "modified": "敵５"
+          "modified": "Enemy 5"
         }
       ]
     }

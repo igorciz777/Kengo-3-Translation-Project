@@ -17,19 +17,19 @@
           "index": 0,
           "start": 80,
           "original": "海援隊編",
-          "modified": "海援隊編"
+          "modified": "The Kaientai"
         },
         {
           "index": 1,
           "start": 240,
           "original": "達成状況　　%2d/%2d",
-          "modified": "達成状況　　%2d/%2d"
+          "modified": "Completion %2d/%2d"
         },
         {
           "index": 2,
           "start": 400,
           "original": "シナリオ切替え",
-          "modified": "シナリオ切替え"
+          "modified": "Switch Scenario"
         },
         {
           "index": 3,
@@ -47,121 +47,121 @@
           "index": 5,
           "start": 880,
           "original": "土佐の朋友",
-          "modified": "土佐の朋友"
+          "modified": "Friends from Tosa"
         },
         {
           "index": 6,
           "start": 1040,
           "original": "龍馬と小五郎",
-          "modified": "龍馬と小五郎"
+          "modified": "Ryoma and Kogoro"
         },
         {
           "index": 7,
           "start": 1200,
           "original": "明星の誓い",
-          "modified": "明星の誓い"
+          "modified": "Oath of the Morning Star"
         },
         {
           "index": 8,
           "start": 1360,
           "original": "志士の盟約",
-          "modified": "志士の盟約"
+          "modified": "Pact of the Patriots"
         },
         {
           "index": 9,
           "start": 1520,
           "original": "龍馬合流",
-          "modified": "龍馬合流"
+          "modified": "Ryoma Joins Up"
         },
         {
           "index": 10,
           "start": 1680,
           "original": "土佐勤王党結成",
-          "modified": "土佐勤王党結成"
+          "modified": "Formation of the Tosa Loyalist Party"
         },
         {
           "index": 11,
           "start": 1840,
           "original": "久坂玄瑞の手紙",
-          "modified": "久坂玄瑞の手紙"
+          "modified": "Letter from Kusaka Genzui"
         },
         {
           "index": 12,
           "start": 2000,
           "original": "分たれる標",
-          "modified": "分たれる標"
+          "modified": "Diverging Paths"
         },
         {
           "index": 13,
           "start": 2160,
           "original": "龍馬脱藩",
-          "modified": "龍馬脱藩"
+          "modified": "Ryoma's Domain Defection"
         },
         {
           "index": 14,
           "start": 2320,
           "original": "勝海舟との出会い",
-          "modified": "勝海舟との出会い"
+          "modified": "Meeting with Katsu Kaishu"
         },
         {
           "index": 15,
           "start": 2480,
           "original": "龍馬心服",
-          "modified": "龍馬心服"
+          "modified": "Ryoma's Admiration"
         },
         {
           "index": 16,
           "start": 2640,
           "original": "海軍塾設立",
-          "modified": "海軍塾設立"
+          "modified": "Establishment of the Naval Academy"
         },
         {
           "index": 17,
           "start": 2800,
           "original": "勝海舟護衛",
-          "modified": "勝海舟護衛"
+          "modified": "Escort for Katsu Kaishu"
         },
         {
           "index": 18,
           "start": 2960,
           "original": "希望と不安と",
-          "modified": "希望と不安と"
+          "modified": "Hope and Anxiety"
         },
         {
           "index": 19,
           "start": 3120,
           "original": "武市切腹の報せ",
-          "modified": "武市切腹の報せ"
+          "modified": "News of Takechi's Seppuku"
         },
         {
           "index": 20,
           "start": 3280,
           "original": "計画頓挫",
-          "modified": "計画頓挫"
+          "modified": "Plan Thwarted"
         },
         {
           "index": 21,
           "start": 3440,
           "original": "西郷と龍馬",
-          "modified": "西郷と龍馬"
+          "modified": "Saigo and Ryoma"
         },
         {
           "index": 22,
           "start": 3600,
           "original": "薩長連合構想",
-          "modified": "薩長連合構想"
+          "modified": "The Satsuma-Choshu Alliance Plan"
         },
         {
           "index": 23,
           "start": 3760,
           "original": "桂小五郎の説得",
-          "modified": "桂小五郎の説得"
+          "modified": "Persuading Katsura Kogoro"
         },
         {
           "index": 24,
           "start": 3920,
           "original": "決裂の危機",
-          "modified": "決裂の危機"
+          "modified": "Crisis of Collapse"
         }
       ]
     }

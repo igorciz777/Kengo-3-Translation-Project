@@ -17,115 +17,115 @@
           "index": 0,
           "start": 80,
           "original": "名前:%s%s",
-          "modified": "名前:%s%s"
+          "modified": "Name:%s%s"
         },
         {
           "index": 1,
           "start": 240,
           "original": "出身:%s",
-          "modified": "出身:%s"
+          "modified": "Origin:%s"
         },
         {
           "index": 2,
           "start": 400,
           "original": "体力:%d%%",
-          "modified": "体力:%d%%"
+          "modified": "HP:%d%%"
         },
         {
           "index": 3,
           "start": 560,
           "original": "名声:%.0f",
-          "modified": "名声:%.0f"
+          "modified": "Fame:%.0f"
         },
         {
           "index": 4,
           "start": 720,
           "original": "名声[%s]:%.0f",
-          "modified": "名声[%s]:%.0f"
+          "modified": "Fame[%s]:%.0f"
         },
         {
           "index": 5,
           "start": 880,
           "original": "評判[%s]:%s",
-          "modified": "評判[%s]:%s"
+          "modified": "Rep[%s]:%s"
         },
         {
           "index": 6,
           "start": 1040,
           "original": "服装:%s/%s",
-          "modified": "服装:%s/%s"
+          "modified": "Outfit:%s/%s"
         },
         {
           "index": 7,
           "start": 1200,
           "original": "面笠:%s",
-          "modified": "面笠:%s"
+          "modified": "Mask:%s"
         },
         {
           "index": 8,
           "start": 1360,
           "original": "帯刀:%s",
-          "modified": "帯刀:%s"
+          "modified": "Sword:%s"
         },
         {
           "index": 9,
           "start": 1520,
           "original": "位列:%s",
-          "modified": "位列:%s"
+          "modified": "Rank:%s"
         },
         {
           "index": 10,
           "start": 1680,
           "original": "切れ味:%d%%",
-          "modified": "切れ味:%d%%"
+          "modified": "Sharpness:%d%%"
         },
         {
           "index": 11,
           "start": 1840,
           "original": "耐久度:%d%%",
-          "modified": "耐久度:%d%%"
+          "modified": "Durability:%d%%"
         },
         {
           "index": 12,
           "start": 2000,
           "original": "豪腕",
-          "modified": "豪腕"
+          "modified": "Might"
         },
         {
           "index": 13,
           "start": 2160,
           "original": "切れ",
-          "modified": "切れ"
+          "modified": "Edge"
         },
         {
           "index": 14,
           "start": 2320,
           "original": "俊敏",
-          "modified": "俊敏"
+          "modified": "Agility"
         },
         {
           "index": 15,
           "start": 2480,
           "original": "見切",
-          "modified": "見切"
+          "modified": "Insight"
         },
         {
           "index": 16,
           "start": 2640,
           "original": "精神",
-          "modified": "精神"
+          "modified": "Spirit"
         },
         {
           "index": 17,
           "start": 2800,
           "original": "頑強",
-          "modified": "頑強"
+          "modified": "Stamina"
         },
         {
           "index": 18,
           "start": 2960,
           "original": "回復",
-          "modified": "回復"
+          "modified": "Recovery"
         },
         {
           "index": 19,

@@ -71,25 +71,25 @@
           "index": 9,
           "start": 1520,
           "original": "出身地　江戸",
-          "modified": "出身地　江戸"
+          "modified": "Birthplace: Edo"
         },
         {
           "index": 10,
           "start": 1680,
           "original": "命名",
-          "modified": "命名"
+          "modified": "Naming"
         },
         {
           "index": 11,
           "start": 1840,
           "original": "姓:",
-          "modified": "姓:"
+          "modified": "Surname:"
         },
         {
           "index": 12,
           "start": 2000,
           "original": "名:",
-          "modified": "名:"
+          "modified": "Name:"
         },
         {
           "index": 13,
@@ -1133,13 +1133,13 @@
           "index": 186,
           "start": 29840,
           "original": "記号",
-          "modified": "記号"
+          "modified": "Symbols"
         },
         {
           "index": 187,
           "start": 30000,
           "original": "決定",
-          "modified": "決定"
+          "modified": "Confirm"
         },
         {
           "index": 188,

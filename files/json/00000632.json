@@ -17,19 +17,19 @@
           "index": 0,
           "start": 80,
           "original": "赤穂の浪士編",
-          "modified": "赤穂の浪士編"
+          "modified": "The Ako Ronin"
         },
         {
           "index": 1,
           "start": 240,
           "original": "達成状況　　%2d/%2d",
-          "modified": "達成状況　　%2d/%2d"
+          "modified": "Completion %2d/%2d"
         },
         {
           "index": 2,
           "start": 400,
           "original": "シナリオ切替え",
-          "modified": "シナリオ切替え"
+          "modified": "Switch Scenario"
         },
         {
           "index": 3,
@@ -47,79 +47,79 @@
           "index": 5,
           "start": 880,
           "original": "敵討ち談話",
-          "modified": "敵討ち談話"
+          "modified": "Talk of Vendetta"
         },
         {
           "index": 6,
           "start": 1040,
           "original": "中山安兵衛",
-          "modified": "中山安兵衛"
+          "modified": "Nakayama Yasubei"
         },
         {
           "index": 7,
           "start": 1200,
           "original": "安兵衛・身の上話",
-          "modified": "安兵衛・身の上話"
+          "modified": "Yasubei's Life Story"
         },
         {
           "index": 8,
           "start": 1360,
           "original": "仕官話",
-          "modified": "仕官話"
+          "modified": "Talk of Service"
         },
         {
           "index": 9,
           "start": 1520,
           "original": "刃傷事件",
-          "modified": "刃傷事件"
+          "modified": "The Sword Incident"
         },
         {
           "index": 10,
           "start": 1680,
           "original": "再会・堀部安兵衛",
-          "modified": "再会・堀部安兵衛"
+          "modified": "Reunion with Horibe Yasubei"
         },
         {
           "index": 11,
           "start": 1840,
           "original": "赤穂浪士の灯",
-          "modified": "赤穂浪士の灯"
+          "modified": "Light of the Ako Ronin"
         },
         {
           "index": 12,
           "start": 2000,
           "original": "安兵衛の決意",
-          "modified": "安兵衛の決意"
+          "modified": "Yasubei's Resolve"
         },
         {
           "index": 13,
           "start": 2160,
           "original": "吉良邸警護・弐",
-          "modified": "吉良邸警護・弐"
+          "modified": "Kira Estate Guard, Vol. 2"
         },
         {
           "index": 14,
           "start": 2320,
           "original": "吉良邸警護・壱",
-          "modified": "吉良邸警護・壱"
+          "modified": "Kira Estate Guard, Vol. 1"
         },
         {
           "index": 15,
           "start": 2480,
           "original": "討ち入り前日",
-          "modified": "討ち入り前日"
+          "modified": "The Day Before the Raid"
         },
         {
           "index": 16,
           "start": 2640,
           "original": "対決・堀部安兵衛",
-          "modified": "対決・堀部安兵衛"
+          "modified": "Confrontation with Horibe Yasubei"
         },
         {
           "index": 17,
           "start": 2800,
           "original": "残り火",
-          "modified": "残り火"
+          "modified": "Embers"
         }
       ]
     }

@@ -35,13 +35,13 @@
           "index": 3,
           "start": 560,
           "original": "%4d両",
-          "modified": "%4d両"
+          "modified": "%4d Ryo"
         },
         {
           "index": 4,
           "start": 720,
           "original": "%04d文",
-          "modified": "%04d文"
+          "modified": "%04d Mon"
         },
         {
           "index": 5,
@@ -65,13 +65,13 @@
           "index": 8,
           "start": 1360,
           "original": "%4d両",
-          "modified": "%4d両"
+          "modified": "%4d Ryo"
         },
         {
           "index": 9,
           "start": 1520,
           "original": "%04d文",
-          "modified": "%04d文"
+          "modified": "%04d Mon"
         },
         {
           "index": 10,
@@ -95,13 +95,13 @@
           "index": 13,
           "start": 2160,
           "original": "%4d両",
-          "modified": "%4d両"
+          "modified": "%4d Ryo"
         },
         {
           "index": 14,
           "start": 2320,
           "original": "%04d文",
-          "modified": "%04d文"
+          "modified": "%04d Mon"
         },
         {
           "index": 15,
@@ -125,13 +125,13 @@
           "index": 18,
           "start": 2960,
           "original": "%4d両",
-          "modified": "%4d両"
+          "modified": "%4d Ryo"
         },
         {
           "index": 19,
           "start": 3120,
           "original": "%04d文",
-          "modified": "%04d文"
+          "modified": "%04d Mon"
         },
         {
           "index": 20,
@@ -155,13 +155,13 @@
           "index": 23,
           "start": 3760,
           "original": "%4d両",
-          "modified": "%4d両"
+          "modified": "%4d Ryo"
         },
         {
           "index": 24,
           "start": 3920,
           "original": "%04d文",
-          "modified": "%04d文"
+          "modified": "%04d Mon"
         },
         {
           "index": 25,
@@ -185,13 +185,13 @@
           "index": 28,
           "start": 4560,
           "original": "%4d両",
-          "modified": "%4d両"
+          "modified": "%4d Ryo"
         },
         {
           "index": 29,
           "start": 4720,
           "original": "%04d文",
-          "modified": "%04d文"
+          "modified": "%04d Mon"
         },
         {
           "index": 30,
@@ -215,13 +215,13 @@
           "index": 33,
           "start": 5360,
           "original": "%4d両",
-          "modified": "%4d両"
+          "modified": "%4d Ryo"
         },
         {
           "index": 34,
           "start": 5520,
           "original": "%04d文",
-          "modified": "%04d文"
+          "modified": "%04d Mon"
         }
       ]
     }

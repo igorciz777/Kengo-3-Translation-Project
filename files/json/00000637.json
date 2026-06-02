@@ -17,19 +17,19 @@
           "index": 0,
           "start": 80,
           "original": "土佐勤王党編",
-          "modified": "土佐勤王党編"
+          "modified": "The Tosa Loyalist Party"
         },
         {
           "index": 1,
           "start": 240,
           "original": "達成状況　　%2d/%2d",
-          "modified": "達成状況　　%2d/%2d"
+          "modified": "Completion %2d/%2d"
         },
         {
           "index": 2,
           "start": 400,
           "original": "シナリオ切替え",
-          "modified": "シナリオ切替え"
+          "modified": "Switch Scenario"
         },
         {
           "index": 3,
@@ -47,13 +47,13 @@
           "index": 5,
           "start": 880,
           "original": "土佐の剣客たち",
-          "modified": "土佐の剣客たち"
+          "modified": "Swordsmen of Tosa"
         },
         {
           "index": 6,
           "start": 1040,
           "original": "二人の俊才",
-          "modified": "二人の俊才"
+          "modified": "Two Prodigies"
         },
         {
           "index": 7,
@@ -71,7 +71,7 @@
           "index": 9,
           "start": 1520,
           "original": "武市合流",
-          "modified": "武市合流"
+          "modified": "Takechi Joins Up"
         },
         {
           "index": 10,
@@ -83,73 +83,73 @@
           "index": 11,
           "start": 1840,
           "original": "土佐藩の障壁",
-          "modified": "土佐藩の障壁"
+          "modified": "Barriers of the Tosa Domain"
         },
         {
           "index": 12,
           "start": 2000,
           "original": "暗殺・吉田東洋",
-          "modified": "暗殺・吉田東洋"
+          "modified": "Assassination of Yoshida Toyo"
         },
         {
           "index": 13,
           "start": 2160,
           "original": "土佐にあだたぬ者",
-          "modified": "土佐にあだたぬ者"
+          "modified": "One Who Defies Tosa"
         },
         {
           "index": 14,
           "start": 2320,
           "original": "岡田以蔵再び",
-          "modified": "岡田以蔵再び"
+          "modified": "Okada Izo Again"
         },
         {
           "index": 15,
           "start": 2480,
           "original": "返り討ち",
-          "modified": "返り討ち"
+          "modified": "Counterattack"
         },
         {
           "index": 16,
           "start": 2640,
           "original": "昏い忠誠心",
-          "modified": "昏い忠誠心"
+          "modified": "Dark Loyalty"
         },
         {
           "index": 17,
           "start": 2800,
           "original": "天誅隊",
-          "modified": "天誅隊"
+          "modified": "The Tenchugumi"
         },
         {
           "index": 18,
           "start": 2960,
           "original": "狂犬の最期",
-          "modified": "狂犬の最期"
+          "modified": "End of the Mad Dog"
         },
         {
           "index": 19,
           "start": 3120,
           "original": "土佐勤王党解散",
-          "modified": "土佐勤王党解散"
+          "modified": "Dissolution of the Tosa Loyalist Party"
         },
         {
           "index": 20,
           "start": 3280,
           "original": "武市との別れ",
-          "modified": "武市との別れ"
+          "modified": "Farewell to Takechi"
         },
         {
           "index": 21,
           "start": 3440,
           "original": "土佐脱出",
-          "modified": "土佐脱出"
+          "modified": "Escape from Tosa"
         },
         {
           "index": 22,
           "start": 3600,
           "original": "武市半平太切腹",
-          "modified": "武市半平太切腹"
+          "modified": "Takechi Hanpeita's Seppuku"
         }
       ]
     }

@@ -17,19 +17,19 @@
           "index": 0,
           "start": 80,
           "original": "最強の剣豪編",
-          "modified": "最強の剣豪編"
+          "modified": "The Mightiest Swordsman"
         },
         {
           "index": 1,
           "start": 240,
           "original": "達成状況　　%2d/%2d",
-          "modified": "達成状況　　%2d/%2d"
+          "modified": "Completion %2d/%2d"
         },
         {
           "index": 2,
           "start": 400,
           "original": "シナリオ切替え",
-          "modified": "シナリオ切替え"
+          "modified": "Switch Scenario"
         },
         {
           "index": 3,
@@ -47,283 +47,283 @@
           "index": 5,
           "start": 880,
           "original": "吉岡道場訪問",
-          "modified": "吉岡道場訪問"
+          "modified": "Visit to the Yoshioka Dojo"
         },
         {
           "index": 6,
           "start": 1040,
           "original": "吉岡清十郎",
-          "modified": "吉岡清十郎"
+          "modified": "Yoshioka Seijuro"
         },
         {
           "index": 7,
           "start": 1200,
           "original": "武蔵邂逅",
-          "modified": "武蔵邂逅"
+          "modified": "Encounter with Musashi"
         },
         {
           "index": 8,
           "start": 1360,
           "original": "出会い・沢庵禅師",
-          "modified": "出会い・沢庵禅師"
+          "modified": "Meeting with Priest Takuan"
         },
         {
           "index": 9,
           "start": 1520,
           "original": "吉岡伝七郎",
-          "modified": "吉岡伝七郎"
+          "modified": "Yoshioka Denshichiro"
         },
         {
           "index": 10,
           "start": 1680,
           "original": "兄の剣、弟の剣",
-          "modified": "兄の剣、弟の剣"
+          "modified": "The Elder's Sword, The Younger's Sword"
         },
         {
           "index": 11,
           "start": 1840,
           "original": "父の因縁",
-          "modified": "父の因縁"
+          "modified": "Father's Grudge"
         },
         {
           "index": 12,
           "start": 2000,
           "original": "武蔵の噂・壱",
-          "modified": "武蔵の噂・壱"
+          "modified": "Rumors of Musashi, Vol. 1"
         },
         {
           "index": 13,
           "start": 2160,
           "original": "清十郎敗北",
-          "modified": "清十郎敗北"
+          "modified": "Seijuro's Defeat"
         },
         {
           "index": 14,
           "start": 2320,
           "original": "宝蔵院訪問",
-          "modified": "宝蔵院訪問"
+          "modified": "Visit to Hozoin"
         },
         {
           "index": 15,
           "start": 2480,
           "original": "宝蔵院胤瞬",
-          "modified": "宝蔵院胤瞬"
+          "modified": "Hozoin Inshun"
         },
         {
           "index": 16,
           "start": 2640,
           "original": "死闘・宝蔵院",
-          "modified": "死闘・宝蔵院"
+          "modified": "Deadly Battle at Hozoin"
         },
         {
           "index": 17,
           "start": 2800,
           "original": "槍の報復",
-          "modified": "槍の報復"
+          "modified": "Spear's Revenge"
         },
         {
           "index": 18,
           "start": 2960,
           "original": "武蔵の噂・弐",
-          "modified": "武蔵の噂・弐"
+          "modified": "Rumors of Musashi, Vol. 2"
         },
         {
           "index": 19,
           "start": 3120,
           "original": "遭遇、鎖鎌",
-          "modified": "遭遇、鎖鎌"
+          "modified": "Encounter, Kusarigama"
         },
         {
           "index": 20,
           "start": 3280,
           "original": "鎖鎌の脅威",
-          "modified": "鎖鎌の脅威"
+          "modified": "Threat of the Kusarigama"
         },
         {
           "index": 21,
           "start": 3440,
           "original": "宍戸某",
-          "modified": "宍戸某"
+          "modified": "Shishido Baiken"
         },
         {
           "index": 22,
           "start": 3600,
           "original": "宍戸某と武蔵",
-          "modified": "宍戸某と武蔵"
+          "modified": "Shishido and Musashi"
         },
         {
           "index": 23,
           "start": 3760,
           "original": "鎖鎌の誘惑",
-          "modified": "鎖鎌の誘惑"
+          "modified": "Temptation of the Kusarigama"
         },
         {
           "index": 24,
           "start": 3920,
           "original": "対決・宍戸某",
-          "modified": "対決・宍戸某"
+          "modified": "Confrontation with Shishido"
         },
         {
           "index": 25,
           "start": 4080,
           "original": "宍戸某の仇",
-          "modified": "宍戸某の仇"
+          "modified": "Revenge for Shishido"
         },
         {
           "index": 26,
           "start": 4240,
           "original": "武蔵の噂・参",
-          "modified": "武蔵の噂・参"
+          "modified": "Rumors of Musashi, Vol. 3"
         },
         {
           "index": 27,
           "start": 4400,
           "original": "武蔵の噂・四",
-          "modified": "武蔵の噂・四"
+          "modified": "Rumors of Musashi, Vol. 4"
         },
         {
           "index": 28,
           "start": 4560,
           "original": "仇討ち伝七郎",
-          "modified": "仇討ち伝七郎"
+          "modified": "Denshichiro's Vendetta"
         },
         {
           "index": 29,
           "start": 4720,
           "original": "再会・伝七郎",
-          "modified": "再会・伝七郎"
+          "modified": "Reunion with Denshichiro"
         },
         {
           "index": 30,
           "start": 4880,
           "original": "返り討ち伝七郎",
-          "modified": "返り討ち伝七郎"
+          "modified": "Denshichiro Avenged"
         },
         {
           "index": 31,
           "start": 5040,
           "original": "消えた清十郎",
-          "modified": "消えた清十郎"
+          "modified": "The Disappearance of Seijuro"
         },
         {
           "index": 32,
           "start": 5200,
           "original": "対決・伝七郎",
-          "modified": "対決・伝七郎"
+          "modified": "Confrontation with Denshichiro"
         },
         {
           "index": 33,
           "start": 5360,
           "original": "清十郎の噂",
-          "modified": "清十郎の噂"
+          "modified": "Rumors of Seijuro"
         },
         {
           "index": 34,
           "start": 5520,
           "original": "対決・清十郎",
-          "modified": "対決・清十郎"
+          "modified": "Confrontation with Seijuro"
         },
         {
           "index": 35,
           "start": 5680,
           "original": "武蔵の噂・五",
-          "modified": "武蔵の噂・五"
+          "modified": "Rumors of Musashi, Vol. 5"
         },
         {
           "index": 36,
           "start": 5840,
           "original": "武蔵ふたたび",
-          "modified": "武蔵ふたたび"
+          "modified": "Musashi Returns"
         },
         {
           "index": 37,
           "start": 6000,
           "original": "沢庵がたり",
-          "modified": "沢庵がたり"
+          "modified": "Takuan's Tale"
         },
         {
           "index": 38,
           "start": 6160,
           "original": "佐々木小次郎",
-          "modified": "佐々木小次郎"
+          "modified": "Sasaki Kojiro"
         },
         {
           "index": 39,
           "start": 6320,
           "original": "小次郎との再会",
-          "modified": "小次郎との再会"
+          "modified": "Reunion with Kojiro"
         },
         {
           "index": 40,
           "start": 6480,
           "original": "小次郎の技",
-          "modified": "小次郎の技"
+          "modified": "Kojiro's Technique"
         },
         {
           "index": 41,
           "start": 6640,
           "original": "仕官の噂",
-          "modified": "仕官の噂"
+          "modified": "Rumors of Service"
         },
         {
           "index": 42,
           "start": 6800,
           "original": "決戦の報せ",
-          "modified": "決戦の報せ"
+          "modified": "News of the Decisive Battle"
         },
         {
           "index": 43,
           "start": 6960,
           "original": "往くか、斬るか",
-          "modified": "往くか、斬るか"
+          "modified": "Go or Strike"
         },
         {
           "index": 44,
           "start": 7120,
           "original": "武蔵対小次郎",
-          "modified": "武蔵対小次郎"
+          "modified": "Musashi vs. Kojiro"
         },
         {
           "index": 45,
           "start": 7280,
           "original": "小次郎の残り香",
-          "modified": "小次郎の残り香"
+          "modified": "Kojiro's Lingering Scent"
         },
         {
           "index": 46,
           "start": 7440,
           "original": "対決・宮本武蔵",
-          "modified": "対決・宮本武蔵"
+          "modified": "Confrontation with Miyamoto Musashi"
         },
         {
           "index": 47,
           "start": 7600,
           "original": "大山を越えて",
-          "modified": "大山を越えて"
+          "modified": "Across the Great Mountain"
         },
         {
           "index": 48,
           "start": 7760,
           "original": "遺志",
-          "modified": "遺志"
+          "modified": "Unfulfilled Will"
         },
         {
           "index": 49,
           "start": 7920,
           "original": "異説・巌流島",
-          "modified": "異説・巌流島"
+          "modified": "Alternate Tale of Ganryujima"
         },
         {
           "index": 50,
           "start": 8080,
           "original": "決戦の跡",
-          "modified": "決戦の跡"
+          "modified": "Aftermath of the Decisive Battle"
         },
         {
           "index": 51,
           "start": 8240,
           "original": "武蔵の噂・六",
-          "modified": "武蔵の噂・六"
+          "modified": "Rumors of Musashi, Vol. 6"
         }
       ]
     }

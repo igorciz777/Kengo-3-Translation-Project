@@ -17,19 +17,19 @@
           "index": 0,
           "start": 80,
           "original": "柳生一族の確執編",
-          "modified": "柳生一族の確執編"
+          "modified": "The Yagyu Clan Rivalry"
         },
         {
           "index": 1,
           "start": 240,
           "original": "達成状況　　%2d/%2d",
-          "modified": "達成状況　　%2d/%2d"
+          "modified": "Completion %2d/%2d"
         },
         {
           "index": 2,
           "start": 400,
           "original": "シナリオ切替え",
-          "modified": "シナリオ切替え"
+          "modified": "Switch Scenario"
         },
         {
           "index": 3,
@@ -47,187 +47,187 @@
           "index": 5,
           "start": 880,
           "original": "門前払い",
-          "modified": "門前払い"
+          "modified": "Turned Away at the Gate"
         },
         {
           "index": 6,
           "start": 1040,
           "original": "柳生の森",
-          "modified": "柳生の森"
+          "modified": "Yagyu Forest"
         },
         {
           "index": 7,
           "start": 1200,
           "original": "柳生道場再び",
-          "modified": "柳生道場再び"
+          "modified": "Yagyu Dojo Again"
         },
         {
           "index": 8,
           "start": 1360,
           "original": "柳生道場訪問",
-          "modified": "柳生道場訪問"
+          "modified": "Visit to the Yagyu Dojo"
         },
         {
           "index": 9,
           "start": 1520,
           "original": "出会い・兵庫助",
-          "modified": "出会い・兵庫助"
+          "modified": "Meeting with Hyogonosuke"
         },
         {
           "index": 10,
           "start": 1680,
           "original": "隻眼の放浪者",
-          "modified": "隻眼の放浪者"
+          "modified": "The One-Eyed Wanderer"
         },
         {
           "index": 11,
           "start": 1840,
           "original": "十兵衛再会",
-          "modified": "十兵衛再会"
+          "modified": "Reunion with Jubei"
         },
         {
           "index": 12,
           "start": 2000,
           "original": "似たもの",
-          "modified": "似たもの"
+          "modified": "Two of a Kind"
         },
         {
           "index": 13,
           "start": 2160,
           "original": "十兵衛帰参",
-          "modified": "十兵衛帰参"
+          "modified": "Jubei's Return"
         },
         {
           "index": 14,
           "start": 2320,
           "original": "十兵衛試し打ち",
-          "modified": "十兵衛試し打ち"
+          "modified": "Jubei's Test Strike"
         },
         {
           "index": 15,
           "start": 2480,
           "original": "荒木又右衛門",
-          "modified": "荒木又右衛門"
+          "modified": "Araki Mataemon"
         },
         {
           "index": 16,
           "start": 2640,
           "original": "又右衛門再び",
-          "modified": "又右衛門再び"
+          "modified": "Mataemon Again"
         },
         {
           "index": 17,
           "start": 2800,
           "original": "助太刀の人",
-          "modified": "助太刀の人"
+          "modified": "The Supporting Sword"
         },
         {
           "index": 18,
           "start": 2960,
           "original": "友との因縁",
-          "modified": "友との因縁"
+          "modified": "Karma with a Friend"
         },
         {
           "index": 19,
           "start": 3120,
           "original": "鍵屋の辻",
-          "modified": "鍵屋の辻"
+          "modified": "Kagiya Crossroads"
         },
         {
           "index": 20,
           "start": 3280,
           "original": "いつの日か",
-          "modified": "いつの日か"
+          "modified": "Someday"
         },
         {
           "index": 21,
           "start": 3440,
           "original": "隻眼の挑戦者",
-          "modified": "隻眼の挑戦者"
+          "modified": "The One-Eyed Challenger"
         },
         {
           "index": 22,
           "start": 3600,
           "original": "十兵衛弟子入り",
-          "modified": "十兵衛弟子入り"
+          "modified": "Jubei Becomes a Disciple"
         },
         {
           "index": 23,
           "start": 3760,
           "original": "修行の成果",
-          "modified": "修行の成果"
+          "modified": "Fruits of Training"
         },
         {
           "index": 24,
           "start": 3920,
           "original": "又右衛門の噂",
-          "modified": "又右衛門の噂"
+          "modified": "Rumors of Mataemon"
         },
         {
           "index": 25,
           "start": 4080,
           "original": "再会・又右衛門",
-          "modified": "再会・又右衛門"
+          "modified": "Reunion with Mataemon"
         },
         {
           "index": 26,
           "start": 4240,
           "original": "待ち望んだ対決",
-          "modified": "待ち望んだ対決"
+          "modified": "The Long-Awaited Duel"
         },
         {
           "index": 27,
           "start": 4400,
           "original": "旗本の遺恨",
-          "modified": "旗本の遺恨"
+          "modified": "Hatamoto's Grudge"
         },
         {
           "index": 28,
           "start": 4560,
           "original": "荒木又右衛門暗殺",
-          "modified": "荒木又右衛門暗殺"
+          "modified": "Assassination of Araki Mataemon"
         },
         {
           "index": 29,
           "start": 4720,
           "original": "仇討ち十兵衛",
-          "modified": "仇討ち十兵衛"
+          "modified": "Jubei's Vendetta"
         },
         {
           "index": 30,
           "start": 4880,
           "original": "不穏の兆し",
-          "modified": "不穏の兆し"
+          "modified": "Signs of Unrest"
         },
         {
           "index": 31,
           "start": 5040,
           "original": "尾張の謀反者",
-          "modified": "尾張の謀反者"
+          "modified": "Rebel of Owari"
         },
         {
           "index": 32,
           "start": 5200,
           "original": "父子の確執",
-          "modified": "父子の確執"
+          "modified": "Father-Son Conflict"
         },
         {
           "index": 33,
           "start": 5360,
           "original": "疑惑",
-          "modified": "疑惑"
+          "modified": "Suspicion"
         },
         {
           "index": 34,
           "start": 5520,
           "original": "新たなる対立",
-          "modified": "新たなる対立"
+          "modified": "A New Conflict"
         },
         {
           "index": 35,
           "start": 5680,
           "original": "兵庫助の決意",
-          "modified": "兵庫助の決意"
+          "modified": "Hyogonosuke's Resolve"
         },
         {
           "index": 36,
@@ -239,73 +239,73 @@
           "index": 37,
           "start": 6000,
           "original": "静寂再び",
-          "modified": "静寂再び"
+          "modified": "Silence Again"
         },
         {
           "index": 38,
           "start": 6160,
           "original": "宗矩との謁見",
-          "modified": "宗矩との謁見"
+          "modified": "Audience with Munenori"
         },
         {
           "index": 39,
           "start": 6320,
           "original": "十兵衛の真意",
-          "modified": "十兵衛の真意"
+          "modified": "Jubei's True Intent"
         },
         {
           "index": 40,
           "start": 6480,
           "original": "夜明けと共に",
-          "modified": "夜明けと共に"
+          "modified": "With the Dawn"
         },
         {
           "index": 41,
           "start": 6640,
           "original": "決戦・裏柳生",
-          "modified": "決戦・裏柳生"
+          "modified": "Decisive Battle: Ura-Yagyu"
         },
         {
           "index": 42,
           "start": 6800,
           "original": "執念",
-          "modified": "執念"
+          "modified": "Obsession"
         },
         {
           "index": 43,
           "start": 6960,
           "original": "兵庫助の苦悩",
-          "modified": "兵庫助の苦悩"
+          "modified": "Hyogonosuke's Anguish"
         },
         {
           "index": 44,
           "start": 7120,
           "original": "兵庫助との対決",
-          "modified": "兵庫助との対決"
+          "modified": "Confrontation with Hyogonosuke"
         },
         {
           "index": 45,
           "start": 7280,
           "original": "謎の刺客",
-          "modified": "謎の刺客"
+          "modified": "The Mysterious Assassin"
         },
         {
           "index": 46,
           "start": 7440,
           "original": "宗矩の陰謀",
-          "modified": "宗矩の陰謀"
+          "modified": "Munenori's Conspiracy"
         },
         {
           "index": 47,
           "start": 7600,
           "original": "江戸柳生の刺客",
-          "modified": "江戸柳生の刺客"
+          "modified": "Edo Yagyu's Assassin"
         },
         {
           "index": 48,
           "start": 7760,
           "original": "宗矩との決着",
-          "modified": "宗矩との決着"
+          "modified": "Resolution with Munenori"
         }
       ]
     }

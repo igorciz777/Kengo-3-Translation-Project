@@ -17,79 +17,79 @@
           "index": 0,
           "start": 336,
           "original": "なし",
-          "modified": "なし"
+          "modified": "None"
         },
         {
           "index": 1,
           "start": 376,
           "original": "小べし見",
-          "modified": "小べし見"
+          "modified": "Kobeshimi"
         },
         {
           "index": 2,
           "start": 416,
           "original": "小面",
-          "modified": "小面"
+          "modified": "Young Face"
         },
         {
           "index": 3,
           "start": 456,
           "original": "般若",
-          "modified": "般若"
+          "modified": "Hannya"
         },
         {
           "index": 4,
           "start": 496,
           "original": "平田",
-          "modified": "平田"
+          "modified": "Hirata"
         },
         {
           "index": 5,
           "start": 536,
           "original": "野干",
-          "modified": "野干"
+          "modified": "Fox"
         },
         {
           "index": 6,
           "start": 576,
           "original": "老婆",
-          "modified": "老婆"
+          "modified": "Old Woman"
         },
         {
           "index": 7,
           "start": 616,
           "original": "岡目",
-          "modified": "岡目"
+          "modified": "Okame"
         },
         {
           "index": 8,
           "start": 656,
           "original": "火男",
-          "modified": "火男"
+          "modified": "Hyottoko"
         },
         {
           "index": 9,
           "start": 696,
           "original": "猿",
-          "modified": "猿"
+          "modified": "Monkey"
         },
         {
           "index": 10,
           "start": 736,
           "original": "狐",
-          "modified": "狐"
+          "modified": "Fox"
         },
         {
           "index": 11,
           "start": 776,
           "original": "浪人笠",
-          "modified": "浪人笠"
+          "modified": "Ronin Hat"
         },
         {
           "index": 12,
           "start": 816,
           "original": "編笠",
-          "modified": "編笠"
+          "modified": "Woven Hat"
         }
       ]
     },
@@ -788,601 +788,601 @@
           "index": 114,
           "start": 5928,
           "original": "鶯茶染",
-          "modified": "鶯茶染"
+          "modified": "Nightingale Brown"
         },
         {
           "index": 115,
           "start": 5972,
           "original": "潤朱染",
-          "modified": "潤朱染"
+          "modified": "Crimson Red"
         },
         {
           "index": 116,
           "start": 6016,
           "original": "紺藍染",
-          "modified": "紺藍染"
+          "modified": "Navy Blue"
         },
         {
           "index": 117,
           "start": 6060,
           "original": "白練染",
-          "modified": "白練染"
+          "modified": "White"
         },
         {
           "index": 118,
           "start": 6104,
           "original": "黒曜染",
-          "modified": "黒曜染"
+          "modified": "Obsidian Black"
         },
         {
           "index": 119,
           "start": 6148,
           "original": "桧皮染",
-          "modified": "桧皮染"
+          "modified": "Cypress Bark"
         },
         {
           "index": 120,
           "start": 6192,
           "original": "青藍染",
-          "modified": "青藍染"
+          "modified": "Indigo Blue"
         },
         {
           "index": 121,
           "start": 6236,
           "original": "滅紫染",
-          "modified": "滅紫染"
+          "modified": "Dark Purple"
         },
         {
           "index": 122,
           "start": 6280,
           "original": "茶鼠染",
-          "modified": "茶鼠染"
+          "modified": "Brown Gray"
         },
         {
           "index": 123,
           "start": 6324,
           "original": "白茶染",
-          "modified": "白茶染"
+          "modified": "Light Brown"
         },
         {
           "index": 124,
           "start": 6368,
           "original": "紅梅檜染",
-          "modified": "紅梅檜染"
+          "modified": "Red Plum Cypress"
         },
         {
           "index": 125,
           "start": 6412,
           "original": "紺桔梗染",
-          "modified": "紺桔梗染"
+          "modified": "Dark Bellflower"
         },
         {
           "index": 126,
           "start": 6456,
           "original": "伽羅豹染",
-          "modified": "伽羅豹染"
+          "modified": "Incense Leopard"
         },
         {
           "index": 127,
           "start": 6500,
           "original": "香群青染",
-          "modified": "香群青染"
+          "modified": "Fragrant Ultramarine"
         },
         {
           "index": 128,
           "start": 6544,
           "original": "紫桔梗染",
-          "modified": "紫桔梗染"
+          "modified": "Purple Bellflower"
         },
         {
           "index": 129,
           "start": 6588,
           "original": "唐麹塵染",
-          "modified": "唐麹塵染"
+          "modified": "Tang Koji Dust"
         },
         {
           "index": 130,
           "start": 6632,
           "original": "唐小豆染",
-          "modified": "唐小豆染"
+          "modified": "Tang Red Bean"
         },
         {
           "index": 131,
           "start": 6676,
           "original": "唐枇杷染",
-          "modified": "唐枇杷染"
+          "modified": "Tang Loquat"
         },
         {
           "index": 132,
           "start": 6720,
           "original": "唐葡萄染",
-          "modified": "唐葡萄染"
+          "modified": "Tang Grape"
         },
         {
           "index": 133,
           "start": 6764,
           "original": "唐釈迦染",
-          "modified": "唐釈迦染"
+          "modified": "Tang Shaka"
         },
         {
           "index": 134,
           "start": 6808,
           "original": "唐瑪瑙染",
-          "modified": "唐瑪瑙染"
+          "modified": "Tang Agate"
         },
         {
           "index": 135,
           "start": 6852,
           "original": "唐金剛染",
-          "modified": "唐金剛染"
+          "modified": "Tang Diamond"
         },
         {
           "index": 136,
           "start": 6896,
           "original": "蛇牡丹染",
-          "modified": "蛇牡丹染"
+          "modified": "Serpent Peony"
         },
         {
           "index": 137,
           "start": 6940,
           "original": "紺瑠璃染",
-          "modified": "紺瑠璃染"
+          "modified": "Dark Lapis"
         },
         {
           "index": 138,
           "start": 6984,
           "original": "蛇琥珀染",
-          "modified": "蛇琥珀染"
+          "modified": "Serpent Amber"
         },
         {
           "index": 139,
           "start": 7028,
           "original": "草藍地",
-          "modified": "草藍地"
+          "modified": "Grass Indigo"
         },
         {
           "index": 140,
           "start": 7072,
           "original": "緋麻地",
-          "modified": "緋麻地"
+          "modified": "Scarlet Hemp"
         },
         {
           "index": 141,
           "start": 7116,
           "original": "紺晶地",
-          "modified": "紺晶地"
+          "modified": "Navy Crystal"
         },
         {
           "index": 142,
           "start": 7160,
           "original": "紫焔地",
-          "modified": "紫焔地"
+          "modified": "Purple Flame"
         },
         {
           "index": 143,
           "start": 7204,
           "original": "白磐地",
-          "modified": "白磐地"
+          "modified": "White Rock"
         },
         {
           "index": 144,
           "start": 7248,
           "original": "輝樟地",
-          "modified": "輝樟地"
+          "modified": "Shining Camphor"
         },
         {
           "index": 145,
           "start": 7292,
           "original": "暁麻地",
-          "modified": "暁麻地"
+          "modified": "Dawn Hemp"
         },
         {
           "index": 146,
           "start": 7336,
           "original": "琉紋地",
-          "modified": "琉紋地"
+          "modified": "Ryukyu Pattern"
         },
         {
           "index": 147,
           "start": 7380,
           "original": "芭銀地",
-          "modified": "芭銀地"
+          "modified": "Basho Silver"
         },
         {
           "index": 148,
           "start": 7424,
           "original": "武麻地",
-          "modified": "武麻地"
+          "modified": "Warrior Hemp"
         },
         {
           "index": 149,
           "start": 7468,
           "original": "孤浪織",
-          "modified": "孤浪織"
+          "modified": "Solitary Wave"
         },
         {
           "index": 150,
           "start": 7512,
           "original": "紅陣織",
-          "modified": "紅陣織"
+          "modified": "Crimson阵 Weave"
         },
         {
           "index": 151,
           "start": 7556,
           "original": "翠藍織",
-          "modified": "翠藍織"
+          "modified": "Jade Blue Weave"
         },
         {
           "index": 152,
           "start": 7600,
           "original": "呉梅織",
-          "modified": "呉梅織"
+          "modified": "Wu Plum Weave"
         },
         {
           "index": 153,
           "start": 7644,
           "original": "緑珀織",
-          "modified": "緑珀織"
+          "modified": "Green Amber Weave"
         },
         {
           "index": 154,
           "start": 7688,
           "original": "七宝霧織",
-          "modified": "七宝霧織"
+          "modified": "Treasure Mist Weave"
         },
         {
           "index": 155,
           "start": 7732,
           "original": "七宝松織",
-          "modified": "七宝松織"
+          "modified": "Treasure Pine Weave"
         },
         {
           "index": 156,
           "start": 7776,
           "original": "獅子錦織",
-          "modified": "獅子錦織"
+          "modified": "Lion Brocade"
         },
         {
           "index": 157,
           "start": 7820,
           "original": "緋柳煎織",
-          "modified": "緋柳煎織"
+          "modified": "Scarlet Willow"
         },
         {
           "index": 158,
           "start": 7864,
           "original": "鬼時雨織",
-          "modified": "鬼時雨織"
+          "modified": "Demon Rain Weave"
         },
         {
           "index": 159,
           "start": 7908,
           "original": "涼風磐織",
-          "modified": "涼風磐織"
+          "modified": "Cool Breeze Rock"
         },
         {
           "index": 160,
           "start": 7952,
           "original": "炬琵琶織",
-          "modified": "炬琵琶織"
+          "modified": "Torch Biwa"
         },
         {
           "index": 161,
           "start": 7996,
           "original": "蒼飛翔織",
-          "modified": "蒼飛翔織"
+          "modified": "Blue Soaring"
         },
         {
           "index": 162,
           "start": 8040,
           "original": "柑麒麟織",
-          "modified": "柑麒麟織"
+          "modified": "Citrus Kirin"
         },
         {
           "index": 163,
           "start": 8084,
           "original": "藍瑠璃織",
-          "modified": "藍瑠璃織"
+          "modified": "Indigo Lapis"
         },
         {
           "index": 164,
           "start": 8128,
           "original": "漆黒染",
-          "modified": "漆黒染"
+          "modified": "Jet Black"
         },
         {
           "index": 165,
           "start": 8172,
           "original": "胡桃染",
-          "modified": "胡桃染"
+          "modified": "Walnut Brown"
         },
         {
           "index": 166,
           "start": 8216,
           "original": "紫黒染",
-          "modified": "紫黒染"
+          "modified": "Purple Black"
         },
         {
           "index": 167,
           "start": 8260,
           "original": "伽羅染",
-          "modified": "伽羅染"
+          "modified": "Incense Brown"
         },
         {
           "index": 168,
           "start": 8304,
           "original": "藍市染",
-          "modified": "藍市染"
+          "modified": "Indigo Market"
         },
         {
           "index": 169,
           "start": 8348,
           "original": "向鶴菱",
-          "modified": "向鶴菱"
+          "modified": "Facing Crane Diamond"
         },
         {
           "index": 170,
           "start": 8392,
           "original": "菊華紋",
-          "modified": "菊華紋"
+          "modified": "Chrysanthemum Crest"
         },
         {
           "index": 171,
           "start": 8436,
           "original": "亀甲紋",
-          "modified": "亀甲紋"
+          "modified": "Tortoise Shell Crest"
         },
         {
           "index": 172,
           "start": 8480,
           "original": "琥水紋",
-          "modified": "琥水紋"
+          "modified": "Amber Water Crest"
         },
         {
           "index": 173,
           "start": 8524,
           "original": "蒼紅葉",
-          "modified": "蒼紅葉"
+          "modified": "Blue Maple"
         },
         {
           "index": 174,
           "start": 8568,
           "original": "菊麗紋",
-          "modified": "菊麗紋"
+          "modified": "Chrysanthemum Beauty"
         },
         {
           "index": 175,
           "start": 8612,
           "original": "狂巴紋",
-          "modified": "狂巴紋"
+          "modified": "Furious Tomoe"
         },
         {
           "index": 176,
           "start": 8656,
           "original": "翠格子",
-          "modified": "翠格子"
+          "modified": "Jade Lattice"
         },
         {
           "index": 177,
           "start": 8700,
           "original": "水輪紋",
-          "modified": "水輪紋"
+          "modified": "Water Wheel Crest"
         },
         {
           "index": 178,
           "start": 8744,
           "original": "紅椿紋",
-          "modified": "紅椿紋"
+          "modified": "Red Camellia Crest"
         },
         {
           "index": 179,
           "start": 8788,
           "original": "梅麻紬",
-          "modified": "梅麻紬"
+          "modified": "Plum Hemp Pongee"
         },
         {
           "index": 180,
           "start": 8832,
           "original": "褐鼠紬",
-          "modified": "褐鼠紬"
+          "modified": "Brown Gray Pongee"
         },
         {
           "index": 181,
           "start": 8876,
           "original": "韓樺紬",
-          "modified": "韓樺紬"
+          "modified": "Korean Birch Pongee"
         },
         {
           "index": 182,
           "start": 8920,
           "original": "旭藍紬",
-          "modified": "旭藍紬"
+          "modified": "Rising Sun Indigo"
         },
         {
           "index": 183,
           "start": 8964,
           "original": "暁菱紬",
-          "modified": "暁菱紬"
+          "modified": "Dawn Diamond Pongee"
         },
         {
           "index": 184,
           "start": 9008,
           "original": "蒼菱紬",
-          "modified": "蒼菱紬"
+          "modified": "Blue Diamond Pongee"
         },
         {
           "index": 185,
           "start": 9052,
           "original": "焔菱紬",
-          "modified": "焔菱紬"
+          "modified": "Flame Diamond Pongee"
         },
         {
           "index": 186,
           "start": 9096,
           "original": "虎菱紬",
-          "modified": "虎菱紬"
+          "modified": "Tiger Diamond Pongee"
         },
         {
           "index": 187,
           "start": 9140,
           "original": "巴曜紬",
-          "modified": "巴曜紬"
+          "modified": "Tomoe Shine Pongee"
         },
         {
           "index": 188,
           "start": 9184,
           "original": "錦雀紬",
-          "modified": "錦雀紬"
+          "modified": "Brocade Sparrow Pongee"
         },
         {
           "index": 189,
           "start": 9228,
           "original": "浅葱染",
-          "modified": "浅葱染"
+          "modified": "Pale Blue"
         },
         {
           "index": 190,
           "start": 9272,
           "original": "緋藍染",
-          "modified": "緋藍染"
+          "modified": "Scarlet Indigo"
         },
         {
           "index": 191,
           "start": 9316,
           "original": "琥墨染",
-          "modified": "琥墨染"
+          "modified": "Amber Ink"
         },
         {
           "index": 192,
           "start": 9360,
           "original": "亜麻染",
-          "modified": "亜麻染"
+          "modified": "Linen"
         },
         {
           "index": 193,
           "start": 9404,
           "original": "鳶松染",
-          "modified": "鳶松染"
+          "modified": "Black Kite Pine"
         },
         {
           "index": 194,
           "start": 9448,
           "original": "鶯茶染",
-          "modified": "鶯茶染"
+          "modified": "Nightingale Brown"
         },
         {
           "index": 195,
           "start": 9492,
           "original": "紅桜染",
-          "modified": "紅桜染"
+          "modified": "Cherry Blossom"
         },
         {
           "index": 196,
           "start": 9536,
           "original": "琥珀染",
-          "modified": "琥珀染"
+          "modified": "Amber"
         },
         {
           "index": 197,
           "start": 9580,
           "original": "桧皮染",
-          "modified": "桧皮染"
+          "modified": "Cypress Bark"
         },
         {
           "index": 198,
           "start": 9624,
           "original": "茶鼠染",
-          "modified": "茶鼠染"
+          "modified": "Brown Gray"
         },
         {
           "index": 199,
           "start": 9668,
           "original": "梅軒弟子専用",
-          "modified": "梅軒弟子専用"
+          "modified": "Baiken Disciple Only"
         },
         {
           "index": 200,
           "start": 9712,
           "original": "白浪織",
-          "modified": "白浪織"
+          "modified": "White Wave Weave"
         },
         {
           "index": 201,
           "start": 9756,
           "original": "空藍織",
-          "modified": "空藍織"
+          "modified": "Sky Indigo Weave"
         },
         {
           "index": 202,
           "start": 9800,
           "original": "桃露織",
-          "modified": "桃露織"
+          "modified": "Peach Dew Weave"
         },
         {
           "index": 203,
           "start": 9844,
           "original": "漆黒染",
-          "modified": "漆黒染"
+          "modified": "Jet Black"
         },
         {
           "index": 204,
           "start": 9888,
           "original": "緋市染",
-          "modified": "緋市染"
+          "modified": "Scarlet Town"
         },
         {
           "index": 205,
           "start": 9932,
           "original": "向鶴菱",
-          "modified": "向鶴菱"
+          "modified": "Facing Crane Diamond"
         },
         {
           "index": 206,
           "start": 9976,
           "original": "紅椿紋",
-          "modified": "紅椿紋"
+          "modified": "Red Camellia Crest"
         },
         {
           "index": 207,
           "start": 10020,
           "original": "水輪紋",
-          "modified": "水輪紋"
+          "modified": "Water Wheel Crest"
         },
         {
           "index": 208,
           "start": 10064,
           "original": "狂巴紋",
-          "modified": "狂巴紋"
+          "modified": "Furious Tomoe"
         },
         {
           "index": 209,
           "start": 10108,
           "original": "菊麗紋",
-          "modified": "菊麗紋"
+          "modified": "Chrysanthemum Beauty"
         },
         {
           "index": 210,
           "start": 10152,
           "original": "亀甲紋",
-          "modified": "亀甲紋"
+          "modified": "Tortoise Shell Crest"
         },
         {
           "index": 211,
           "start": 10196,
           "original": "菊華紋",
-          "modified": "菊華紋"
+          "modified": "Chrysanthemum Crest"
         },
         {
           "index": 212,
           "start": 10240,
           "original": "浅葱染",
-          "modified": "浅葱染"
+          "modified": "Pale Blue"
         },
         {
           "index": 213,
           "start": 10284,
           "original": "呉藍染",
-          "modified": "呉藍染"
+          "modified": "Wu Indigo"
         },
         {
           "index": 214,
@@ -2615,91 +2615,91 @@
           "index": 0,
           "start": 19408,
           "original": "野袴 壱",
-          "modified": "野袴 壱"
+          "modified": "Field Hakama 1"
         },
         {
           "index": 1,
           "start": 19440,
           "original": "野袴 弐",
-          "modified": "野袴 弐"
+          "modified": "Field Hakama 2"
         },
         {
           "index": 2,
           "start": 19472,
           "original": "平袴 壱",
-          "modified": "平袴 壱"
+          "modified": "Plain Hakama 1"
         },
         {
           "index": 3,
           "start": 19504,
           "original": "平袴 弐",
-          "modified": "平袴 弐"
+          "modified": "Plain Hakama 2"
         },
         {
           "index": 4,
           "start": 19536,
           "original": "道場着",
-          "modified": "道場着"
+          "modified": "Dojo Wear"
         },
         {
           "index": 5,
           "start": 19568,
           "original": "裃",
-          "modified": "裃"
+          "modified": "Kamishimo"
         },
         {
           "index": 6,
           "start": 19600,
           "original": "特注 壱",
-          "modified": "特注 壱"
+          "modified": "Special Order 1"
         },
         {
           "index": 7,
           "start": 19632,
           "original": "特注 弐",
-          "modified": "特注 弐"
+          "modified": "Special Order 2"
         },
         {
           "index": 8,
           "start": 19664,
           "original": "段だら羽織",
-          "modified": "段だら羽織"
+          "modified": "Striped Haori"
         },
         {
           "index": 9,
           "start": 19696,
           "original": "野袴",
-          "modified": "野袴"
+          "modified": "Field Hakama"
         },
         {
           "index": 10,
           "start": 19728,
           "original": "平袴",
-          "modified": "平袴"
+          "modified": "Plain Hakama"
         },
         {
           "index": 11,
           "start": 19760,
           "original": "裃",
-          "modified": "裃"
+          "modified": "Kamishimo"
         },
         {
           "index": 12,
           "start": 19792,
           "original": "特注",
-          "modified": "特注"
+          "modified": "Special Order"
         },
         {
           "index": 13,
           "start": 19824,
           "original": "段だら羽織",
-          "modified": "段だら羽織"
+          "modified": "Striped Haori"
         },
         {
           "index": 14,
           "start": 19856,
           "original": "面・笠",
-          "modified": "面・笠"
+          "modified": "Mask/Hat"
         }
       ]
     },
@@ -3395,67 +3395,67 @@
           "index": 0,
           "start": 46672,
           "original": "会津",
-          "modified": "会津"
+          "modified": "Aizu"
         },
         {
           "index": 1,
           "start": 46696,
           "original": "上野",
-          "modified": "上野"
+          "modified": "Kozuke"
         },
         {
           "index": 2,
           "start": 46720,
           "original": "江戸",
-          "modified": "江戸"
+          "modified": "Edo"
         },
         {
           "index": 3,
           "start": 46744,
           "original": "尾張",
-          "modified": "尾張"
+          "modified": "Owari"
         },
         {
           "index": 4,
           "start": 46768,
           "original": "伊賀",
-          "modified": "伊賀"
+          "modified": "Iga"
         },
         {
           "index": 5,
           "start": 46792,
           "original": "京",
-          "modified": "京"
+          "modified": "Kyoto"
         },
         {
           "index": 6,
           "start": 46816,
           "original": "大坂",
-          "modified": "大坂"
+          "modified": "Osaka"
         },
         {
           "index": 7,
           "start": 46840,
           "original": "土佐",
-          "modified": "土佐"
+          "modified": "Tosa"
         },
         {
           "index": 8,
           "start": 46864,
           "original": "豊前",
-          "modified": "豊前"
+          "modified": "Buzen"
         },
         {
           "index": 9,
           "start": 46888,
           "original": "筑後",
-          "modified": "筑後"
+          "modified": "Chikugo"
         },
         {
           "index": 10,
           "start": 46912,
           "original": "薩摩",
-          "modified": "薩摩"
+          "modified": "Satsuma"
         }
       ]
     },
@@ -3470,43 +3470,43 @@
           "index": 0,
           "start": 48976,
           "original": "最良",
-          "modified": "最良"
+          "modified": "Best"
         },
         {
           "index": 1,
           "start": 48996,
           "original": "良好",
-          "modified": "良好"
+          "modified": "Good"
         },
         {
           "index": 2,
           "start": 49016,
           "original": "良い",
-          "modified": "良い"
+          "modified": "Fair"
         },
         {
           "index": 3,
           "start": 49036,
           "original": "普通",
-          "modified": "普通"
+          "modified": "Neutral"
         },
         {
           "index": 4,
           "start": 49056,
           "original": "悪い",
-          "modified": "悪い"
+          "modified": "Bad"
         },
         {
           "index": 5,
           "start": 49076,
           "original": "険悪",
-          "modified": "険悪"
+          "modified": "Hostile"
         },
         {
           "index": 6,
           "start": 49096,
           "original": "最悪",
-          "modified": "最悪"
+          "modified": "Worst"
         }
       ]
     },
@@ -3563,7 +3563,7 @@
           "index": 7,
           "start": 51964,
           "original": "柳生",
-          "modified": "柳生"
+          "modified": "Yagyu"
         },
         {
           "index": 8,
@@ -3575,13 +3575,13 @@
           "index": 9,
           "start": 52068,
           "original": "堀部",
-          "modified": "堀部"
+          "modified": "Horibe"
         },
         {
           "index": 10,
           "start": 52120,
           "original": "宝蔵院",
-          "modified": "宝蔵院"
+          "modified": "Hozo-in"
         },
         {
           "index": 11,
@@ -3593,7 +3593,7 @@
           "index": 12,
           "start": 52224,
           "original": "柳生",
-          "modified": "柳生"
+          "modified": "Yagyu"
         },
         {
           "index": 13,
@@ -3605,7 +3605,7 @@
           "index": 14,
           "start": 52328,
           "original": "高柳",
-          "modified": "高柳"
+          "modified": "Takayanagi"
         },
         {
           "index": 15,
@@ -3767,7 +3767,7 @@
           "index": 41,
           "start": 53732,
           "original": "柳生",
-          "modified": "柳生"
+          "modified": "Yagyu"
         },
         {
           "index": 42,
@@ -3785,13 +3785,13 @@
           "index": 44,
           "start": 53888,
           "original": "幻影",
-          "modified": "幻影"
+          "modified": "Phantom"
         },
         {
           "index": 45,
           "start": 53940,
           "original": "幻影",
-          "modified": "幻影"
+          "modified": "Phantom"
         },
         {
           "index": 46,
@@ -3815,25 +3815,25 @@
           "index": 49,
           "start": 54148,
           "original": "口入れ屋",
-          "modified": "口入れ屋"
+          "modified": "Employment Agency"
         },
         {
           "index": 50,
           "start": 54200,
           "original": "宿屋",
-          "modified": "宿屋"
+          "modified": "Inn"
         },
         {
           "index": 51,
           "start": 54252,
           "original": "刀屋",
-          "modified": "刀屋"
+          "modified": "Sword Shop"
         },
         {
           "index": 52,
           "start": 54304,
           "original": "鍛冶屋",
-          "modified": "鍛冶屋"
+          "modified": "Blacksmith"
         },
         {
           "index": 53,
@@ -4619,211 +4619,211 @@
           "index": 183,
           "start": 61116,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 184,
           "start": 61168,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 185,
           "start": 61220,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 186,
           "start": 61272,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 187,
           "start": 61324,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 188,
           "start": 61376,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 189,
           "start": 61428,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 190,
           "start": 61480,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 191,
           "start": 61532,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 192,
           "start": 61584,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 193,
           "start": 61636,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 194,
           "start": 61688,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 195,
           "start": 61740,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 196,
           "start": 61792,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 197,
           "start": 61844,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 198,
           "start": 61896,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 199,
           "start": 61948,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 200,
           "start": 62000,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 201,
           "start": 62052,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 202,
           "start": 62104,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 203,
           "start": 62156,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 204,
           "start": 62208,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 205,
           "start": 62260,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 206,
           "start": 62312,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 207,
           "start": 62364,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 208,
           "start": 62416,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 209,
           "start": 62468,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 210,
           "start": 62520,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 211,
           "start": 62572,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 212,
           "start": 62624,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 213,
           "start": 62676,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 214,
           "start": 62728,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 215,
           "start": 62780,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 216,
           "start": 62832,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 217,
           "start": 62884,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 218,
@@ -5183,619 +5183,619 @@
           "index": 277,
           "start": 66004,
           "original": "松林道場",
-          "modified": "松林道場"
+          "modified": "Matsubayashi Dojo"
         },
         {
           "index": 278,
           "start": 66056,
           "original": "松林道場",
-          "modified": "松林道場"
+          "modified": "Matsubayashi Dojo"
         },
         {
           "index": 279,
           "start": 66108,
           "original": "松林道場",
-          "modified": "松林道場"
+          "modified": "Matsubayashi Dojo"
         },
         {
           "index": 280,
           "start": 66160,
           "original": "松林道場",
-          "modified": "松林道場"
+          "modified": "Matsubayashi Dojo"
         },
         {
           "index": 281,
           "start": 66212,
           "original": "樋口道場",
-          "modified": "樋口道場"
+          "modified": "Higuchi Dojo"
         },
         {
           "index": 282,
           "start": 66264,
           "original": "樋口道場",
-          "modified": "樋口道場"
+          "modified": "Higuchi Dojo"
         },
         {
           "index": 283,
           "start": 66316,
           "original": "樋口道場",
-          "modified": "樋口道場"
+          "modified": "Higuchi Dojo"
         },
         {
           "index": 284,
           "start": 66368,
           "original": "樋口道場",
-          "modified": "樋口道場"
+          "modified": "Higuchi Dojo"
         },
         {
           "index": 285,
           "start": 66420,
           "original": "樋口道場",
-          "modified": "樋口道場"
+          "modified": "Higuchi Dojo"
         },
         {
           "index": 286,
           "start": 66472,
           "original": "尾張道場",
-          "modified": "尾張道場"
+          "modified": "Owari Dojo"
         },
         {
           "index": 287,
           "start": 66524,
           "original": "尾張道場",
-          "modified": "尾張道場"
+          "modified": "Owari Dojo"
         },
         {
           "index": 288,
           "start": 66576,
           "original": "尾張道場",
-          "modified": "尾張道場"
+          "modified": "Owari Dojo"
         },
         {
           "index": 289,
           "start": 66628,
           "original": "尾張道場",
-          "modified": "尾張道場"
+          "modified": "Owari Dojo"
         },
         {
           "index": 290,
           "start": 66680,
           "original": "尾張道場",
-          "modified": "尾張道場"
+          "modified": "Owari Dojo"
         },
         {
           "index": 291,
           "start": 66732,
           "original": "伊賀道場",
-          "modified": "伊賀道場"
+          "modified": "Iga Dojo"
         },
         {
           "index": 292,
           "start": 66784,
           "original": "伊賀道場",
-          "modified": "伊賀道場"
+          "modified": "Iga Dojo"
         },
         {
           "index": 293,
           "start": 66836,
           "original": "伊賀道場",
-          "modified": "伊賀道場"
+          "modified": "Iga Dojo"
         },
         {
           "index": 294,
           "start": 66888,
           "original": "伊賀道場",
-          "modified": "伊賀道場"
+          "modified": "Iga Dojo"
         },
         {
           "index": 295,
           "start": 66940,
           "original": "伊賀道場",
-          "modified": "伊賀道場"
+          "modified": "Iga Dojo"
         },
         {
           "index": 296,
           "start": 66992,
           "original": "京道場",
-          "modified": "京道場"
+          "modified": "Kyoto Dojo"
         },
         {
           "index": 297,
           "start": 67044,
           "original": "京道場",
-          "modified": "京道場"
+          "modified": "Kyoto Dojo"
         },
         {
           "index": 298,
           "start": 67096,
           "original": "京道場",
-          "modified": "京道場"
+          "modified": "Kyoto Dojo"
         },
         {
           "index": 299,
           "start": 67148,
           "original": "京道場",
-          "modified": "京道場"
+          "modified": "Kyoto Dojo"
         },
         {
           "index": 300,
           "start": 67200,
           "original": "京道場",
-          "modified": "京道場"
+          "modified": "Kyoto Dojo"
         },
         {
           "index": 301,
           "start": 67252,
           "original": "辻道場",
-          "modified": "辻道場"
+          "modified": "Street Dojo"
         },
         {
           "index": 302,
           "start": 67304,
           "original": "辻道場",
-          "modified": "辻道場"
+          "modified": "Street Dojo"
         },
         {
           "index": 303,
           "start": 67356,
           "original": "辻道場",
-          "modified": "辻道場"
+          "modified": "Street Dojo"
         },
         {
           "index": 304,
           "start": 67408,
           "original": "辻道場",
-          "modified": "辻道場"
+          "modified": "Street Dojo"
         },
         {
           "index": 305,
           "start": 67460,
           "original": "辻道場",
-          "modified": "辻道場"
+          "modified": "Street Dojo"
         },
         {
           "index": 306,
           "start": 67512,
           "original": "豊前道場",
-          "modified": "豊前道場"
+          "modified": "Buzen Dojo"
         },
         {
           "index": 307,
           "start": 67564,
           "original": "豊前道場",
-          "modified": "豊前道場"
+          "modified": "Buzen Dojo"
         },
         {
           "index": 308,
           "start": 67616,
           "original": "豊前道場",
-          "modified": "豊前道場"
+          "modified": "Buzen Dojo"
         },
         {
           "index": 309,
           "start": 67668,
           "original": "豊前道場",
-          "modified": "豊前道場"
+          "modified": "Buzen Dojo"
         },
         {
           "index": 310,
           "start": 67720,
           "original": "豊前道場",
-          "modified": "豊前道場"
+          "modified": "Buzen Dojo"
         },
         {
           "index": 311,
           "start": 67772,
           "original": "土佐道場",
-          "modified": "土佐道場"
+          "modified": "Tosa Dojo"
         },
         {
           "index": 312,
           "start": 67824,
           "original": "土佐道場",
-          "modified": "土佐道場"
+          "modified": "Tosa Dojo"
         },
         {
           "index": 313,
           "start": 67876,
           "original": "土佐道場",
-          "modified": "土佐道場"
+          "modified": "Tosa Dojo"
         },
         {
           "index": 314,
           "start": 67928,
           "original": "土佐道場",
-          "modified": "土佐道場"
+          "modified": "Tosa Dojo"
         },
         {
           "index": 315,
           "start": 67980,
           "original": "土佐道場",
-          "modified": "土佐道場"
+          "modified": "Tosa Dojo"
         },
         {
           "index": 316,
           "start": 68032,
           "original": "筑後道場",
-          "modified": "筑後道場"
+          "modified": "Chikugo Dojo"
         },
         {
           "index": 317,
           "start": 68084,
           "original": "筑後道場",
-          "modified": "筑後道場"
+          "modified": "Chikugo Dojo"
         },
         {
           "index": 318,
           "start": 68136,
           "original": "筑後道場",
-          "modified": "筑後道場"
+          "modified": "Chikugo Dojo"
         },
         {
           "index": 319,
           "start": 68188,
           "original": "筑後道場",
-          "modified": "筑後道場"
+          "modified": "Chikugo Dojo"
         },
         {
           "index": 320,
           "start": 68240,
           "original": "筑後道場",
-          "modified": "筑後道場"
+          "modified": "Chikugo Dojo"
         },
         {
           "index": 321,
           "start": 68292,
           "original": "東郷道場",
-          "modified": "東郷道場"
+          "modified": "Togo Dojo"
         },
         {
           "index": 322,
           "start": 68344,
           "original": "東郷道場",
-          "modified": "東郷道場"
+          "modified": "Togo Dojo"
         },
         {
           "index": 323,
           "start": 68396,
           "original": "東郷道場",
-          "modified": "東郷道場"
+          "modified": "Togo Dojo"
         },
         {
           "index": 324,
           "start": 68448,
           "original": "東郷道場",
-          "modified": "東郷道場"
+          "modified": "Togo Dojo"
         },
         {
           "index": 325,
           "start": 68500,
           "original": "東郷道場",
-          "modified": "東郷道場"
+          "modified": "Togo Dojo"
         },
         {
           "index": 326,
           "start": 68552,
           "original": "江戸柳生道場",
-          "modified": "江戸柳生道場"
+          "modified": "Edo Yagyu Dojo"
         },
         {
           "index": 327,
           "start": 68604,
           "original": "江戸柳生道場",
-          "modified": "江戸柳生道場"
+          "modified": "Edo Yagyu Dojo"
         },
         {
           "index": 328,
           "start": 68656,
           "original": "江戸柳生道場",
-          "modified": "江戸柳生道場"
+          "modified": "Edo Yagyu Dojo"
         },
         {
           "index": 329,
           "start": 68708,
           "original": "江戸柳生道場",
-          "modified": "江戸柳生道場"
+          "modified": "Edo Yagyu Dojo"
         },
         {
           "index": 330,
           "start": 68760,
           "original": "江戸柳生道場",
-          "modified": "江戸柳生道場"
+          "modified": "Edo Yagyu Dojo"
         },
         {
           "index": 331,
           "start": 68812,
           "original": "小野道場",
-          "modified": "小野道場"
+          "modified": "Ono Dojo"
         },
         {
           "index": 332,
           "start": 68864,
           "original": "小野道場",
-          "modified": "小野道場"
+          "modified": "Ono Dojo"
         },
         {
           "index": 333,
           "start": 68916,
           "original": "小野道場",
-          "modified": "小野道場"
+          "modified": "Ono Dojo"
         },
         {
           "index": 334,
           "start": 68968,
           "original": "小野道場",
-          "modified": "小野道場"
+          "modified": "Ono Dojo"
         },
         {
           "index": 335,
           "start": 69020,
           "original": "小野道場",
-          "modified": "小野道場"
+          "modified": "Ono Dojo"
         },
         {
           "index": 336,
           "start": 69072,
           "original": "試衛館",
-          "modified": "試衛館"
+          "modified": "Shieikan Dojo"
         },
         {
           "index": 337,
           "start": 69124,
           "original": "試衛館",
-          "modified": "試衛館"
+          "modified": "Shieikan Dojo"
         },
         {
           "index": 338,
           "start": 69176,
           "original": "試衛館",
-          "modified": "試衛館"
+          "modified": "Shieikan Dojo"
         },
         {
           "index": 339,
           "start": 69228,
           "original": "試衛館",
-          "modified": "試衛館"
+          "modified": "Shieikan Dojo"
         },
         {
           "index": 340,
           "start": 69280,
           "original": "試衛館",
-          "modified": "試衛館"
+          "modified": "Shieikan Dojo"
         },
         {
           "index": 341,
           "start": 69332,
           "original": "千葉道場",
-          "modified": "千葉道場"
+          "modified": "Chiba Dojo"
         },
         {
           "index": 342,
           "start": 69384,
           "original": "千葉道場",
-          "modified": "千葉道場"
+          "modified": "Chiba Dojo"
         },
         {
           "index": 343,
           "start": 69436,
           "original": "千葉道場",
-          "modified": "千葉道場"
+          "modified": "Chiba Dojo"
         },
         {
           "index": 344,
           "start": 69488,
           "original": "千葉道場",
-          "modified": "千葉道場"
+          "modified": "Chiba Dojo"
         },
         {
           "index": 345,
           "start": 69540,
           "original": "千葉道場",
-          "modified": "千葉道場"
+          "modified": "Chiba Dojo"
         },
         {
           "index": 346,
           "start": 69592,
           "original": "斎藤道場",
-          "modified": "斎藤道場"
+          "modified": "Saito Dojo"
         },
         {
           "index": 347,
           "start": 69644,
           "original": "斎藤道場",
-          "modified": "斎藤道場"
+          "modified": "Saito Dojo"
         },
         {
           "index": 348,
           "start": 69696,
           "original": "斎藤道場",
-          "modified": "斎藤道場"
+          "modified": "Saito Dojo"
         },
         {
           "index": 349,
           "start": 69748,
           "original": "斎藤道場",
-          "modified": "斎藤道場"
+          "modified": "Saito Dojo"
         },
         {
           "index": 350,
           "start": 69800,
           "original": "斎藤道場",
-          "modified": "斎藤道場"
+          "modified": "Saito Dojo"
         },
         {
           "index": 351,
           "start": 69852,
           "original": "桃井道場",
-          "modified": "桃井道場"
+          "modified": "Momoi Dojo"
         },
         {
           "index": 352,
           "start": 69904,
           "original": "桃井道場",
-          "modified": "桃井道場"
+          "modified": "Momoi Dojo"
         },
         {
           "index": 353,
           "start": 69956,
           "original": "桃井道場",
-          "modified": "桃井道場"
+          "modified": "Momoi Dojo"
         },
         {
           "index": 354,
           "start": 70008,
           "original": "桃井道場",
-          "modified": "桃井道場"
+          "modified": "Momoi Dojo"
         },
         {
           "index": 355,
           "start": 70060,
           "original": "桃井道場",
-          "modified": "桃井道場"
+          "modified": "Momoi Dojo"
         },
         {
           "index": 356,
           "start": 70112,
           "original": "尾張柳生道場",
-          "modified": "尾張柳生道場"
+          "modified": "Owari Yagyu Dojo"
         },
         {
           "index": 357,
           "start": 70164,
           "original": "尾張柳生道場",
-          "modified": "尾張柳生道場"
+          "modified": "Owari Yagyu Dojo"
         },
         {
           "index": 358,
           "start": 70216,
           "original": "尾張柳生道場",
-          "modified": "尾張柳生道場"
+          "modified": "Owari Yagyu Dojo"
         },
         {
           "index": 359,
           "start": 70268,
           "original": "尾張柳生道場",
-          "modified": "尾張柳生道場"
+          "modified": "Owari Yagyu Dojo"
         },
         {
           "index": 360,
           "start": 70320,
           "original": "尾張柳生道場",
-          "modified": "尾張柳生道場"
+          "modified": "Owari Yagyu Dojo"
         },
         {
           "index": 361,
           "start": 70372,
           "original": "尾張柳生道場",
-          "modified": "尾張柳生道場"
+          "modified": "Owari Yagyu Dojo"
         },
         {
           "index": 362,
           "start": 70424,
           "original": "尾張柳生道場",
-          "modified": "尾張柳生道場"
+          "modified": "Owari Yagyu Dojo"
         },
         {
           "index": 363,
           "start": 70476,
           "original": "尾張柳生道場",
-          "modified": "尾張柳生道場"
+          "modified": "Owari Yagyu Dojo"
         },
         {
           "index": 364,
           "start": 70528,
           "original": "尾張柳生道場",
-          "modified": "尾張柳生道場"
+          "modified": "Owari Yagyu Dojo"
         },
         {
           "index": 365,
           "start": 70580,
           "original": "尾張柳生道場",
-          "modified": "尾張柳生道場"
+          "modified": "Owari Yagyu Dojo"
         },
         {
           "index": 366,
           "start": 70632,
           "original": "吉岡道場",
-          "modified": "吉岡道場"
+          "modified": "Yoshioka Dojo"
         },
         {
           "index": 367,
           "start": 70684,
           "original": "吉岡道場",
-          "modified": "吉岡道場"
+          "modified": "Yoshioka Dojo"
         },
         {
           "index": 368,
           "start": 70736,
           "original": "吉岡道場",
-          "modified": "吉岡道場"
+          "modified": "Yoshioka Dojo"
         },
         {
           "index": 369,
           "start": 70788,
           "original": "吉岡道場",
-          "modified": "吉岡道場"
+          "modified": "Yoshioka Dojo"
         },
         {
           "index": 370,
           "start": 70840,
           "original": "吉岡道場",
-          "modified": "吉岡道場"
+          "modified": "Yoshioka Dojo"
         },
         {
           "index": 371,
           "start": 70892,
           "original": "大石道場",
-          "modified": "大石道場"
+          "modified": "Oishi Dojo"
         },
         {
           "index": 372,
           "start": 70944,
           "original": "大石道場",
-          "modified": "大石道場"
+          "modified": "Oishi Dojo"
         },
         {
           "index": 373,
           "start": 70996,
           "original": "大石道場",
-          "modified": "大石道場"
+          "modified": "Oishi Dojo"
         },
         {
           "index": 374,
           "start": 71048,
           "original": "大石道場",
-          "modified": "大石道場"
+          "modified": "Oishi Dojo"
         },
         {
           "index": 375,
           "start": 71100,
           "original": "大石道場",
-          "modified": "大石道場"
+          "modified": "Oishi Dojo"
         },
         {
           "index": 376,
           "start": 71152,
           "original": "宝蔵院",
-          "modified": "宝蔵院"
+          "modified": "Hozo-in"
         },
         {
           "index": 377,
           "start": 71204,
           "original": "宝蔵院",
-          "modified": "宝蔵院"
+          "modified": "Hozo-in"
         },
         {
           "index": 378,
           "start": 71256,
           "original": "宝蔵院",
-          "modified": "宝蔵院"
+          "modified": "Hozo-in"
         },
         {
           "index": 379,
           "start": 71308,
           "original": "宝蔵院",
-          "modified": "宝蔵院"
+          "modified": "Hozo-in"
         },
         {
           "index": 380,
@@ -6167,211 +6167,211 @@
           "index": 441,
           "start": 74532,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 442,
           "start": 74584,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 443,
           "start": 74636,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 444,
           "start": 74688,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 445,
           "start": 74740,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 446,
           "start": 74792,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 447,
           "start": 74844,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 448,
           "start": 74896,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 449,
           "start": 74948,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 450,
           "start": 75000,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 451,
           "start": 75052,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 452,
           "start": 75104,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 453,
           "start": 75156,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 454,
           "start": 75208,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 455,
           "start": 75260,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 456,
           "start": 75312,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 457,
           "start": 75364,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 458,
           "start": 75416,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 459,
           "start": 75468,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 460,
           "start": 75520,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 461,
           "start": 75572,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 462,
           "start": 75624,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 463,
           "start": 75676,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 464,
           "start": 75728,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 465,
           "start": 75780,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 466,
           "start": 75832,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 467,
           "start": 75884,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 468,
           "start": 75936,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 469,
           "start": 75988,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 470,
           "start": 76040,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 471,
           "start": 76092,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 472,
           "start": 76144,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 473,
           "start": 76196,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 474,
           "start": 76248,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         },
         {
           "index": 475,
           "start": 76300,
           "original": "ザコ",
-          "modified": "ザコ"
+          "modified": "Zako"
         }
       ]
     },
@@ -6386,289 +6386,289 @@
           "index": 0,
           "start": 77392,
           "original": "要人道中護衛",
-          "modified": "要人道中護衛"
+          "modified": "VIP Road Escort"
         },
         {
           "index": 1,
           "start": 77436,
           "original": "要人道中暗殺",
-          "modified": "要人道中暗殺"
+          "modified": "VIP Road Assassinate"
         },
         {
           "index": 2,
           "start": 77480,
           "original": "屋敷内要人護衛",
-          "modified": "屋敷内要人護衛"
+          "modified": "Mansion VIP Escort"
         },
         {
           "index": 3,
           "start": 77524,
           "original": "屋敷内警備",
-          "modified": "屋敷内警備"
+          "modified": "Mansion Security"
         },
         {
           "index": 4,
           "start": 77568,
           "original": "屋敷蔵警備",
-          "modified": "屋敷蔵警備"
+          "modified": "Mansion Vault Guard"
         },
         {
           "index": 5,
           "start": 77612,
           "original": "豪商邸警備",
-          "modified": "豪商邸警備"
+          "modified": "Wealthy Merchant Guard"
         },
         {
           "index": 6,
           "start": 77656,
           "original": "幽閉町娘救出",
-          "modified": "幽閉町娘救出"
+          "modified": "Rescue Captive Girl"
         },
         {
           "index": 7,
           "start": 77700,
           "original": "幽閉町娘奪還",
-          "modified": "幽閉町娘奪還"
+          "modified": "Retrieve Captive Girl"
         },
         {
           "index": 8,
           "start": 77744,
           "original": "幽閉町娘救出",
-          "modified": "幽閉町娘救出"
+          "modified": "Rescue Captive Girl"
         },
         {
           "index": 9,
           "start": 77788,
           "original": "幽閉町娘奪還",
-          "modified": "幽閉町娘奪還"
+          "modified": "Retrieve Captive Girl"
         },
         {
           "index": 10,
           "start": 77832,
           "original": "幽閉町娘救出",
-          "modified": "幽閉町娘救出"
+          "modified": "Rescue Captive Girl"
         },
         {
           "index": 11,
           "start": 77876,
           "original": "幽閉町娘奪還",
-          "modified": "幽閉町娘奪還"
+          "modified": "Retrieve Captive Girl"
         },
         {
           "index": 12,
           "start": 77920,
           "original": "賊軟禁要人救出",
-          "modified": "賊軟禁要人救出"
+          "modified": "Rescue VIP from Bandits"
         },
         {
           "index": 13,
           "start": 77964,
           "original": "賊軟禁要人奪還",
-          "modified": "賊軟禁要人奪還"
+          "modified": "Retrieve VIP from Bandits"
         },
         {
           "index": 14,
           "start": 78008,
           "original": "屋敷潜入暗殺",
-          "modified": "屋敷潜入暗殺"
+          "modified": "Estate Infiltration Assassinate"
         },
         {
           "index": 15,
           "start": 78052,
           "original": "屋敷潜入暗殺退避",
-          "modified": "屋敷潜入暗殺退避"
+          "modified": "Estate Infiltrate Assassinate (Escape)"
         },
         {
           "index": 16,
           "start": 78096,
           "original": "屋敷潜入暗殺",
-          "modified": "屋敷潜入暗殺"
+          "modified": "Estate Infiltration Assassinate"
         },
         {
           "index": 17,
           "start": 78140,
           "original": "屋敷潜入暗殺退避",
-          "modified": "屋敷潜入暗殺退避"
+          "modified": "Estate Infiltrate Assassinate (Escape)"
         },
         {
           "index": 18,
           "start": 78184,
           "original": "屋敷潜入暗殺",
-          "modified": "屋敷潜入暗殺"
+          "modified": "Estate Infiltration Assassinate"
         },
         {
           "index": 19,
           "start": 78228,
           "original": "屋敷潜入暗殺退避",
-          "modified": "屋敷潜入暗殺退避"
+          "modified": "Estate Infiltrate Assassinate (Escape)"
         },
         {
           "index": 20,
           "start": 78272,
           "original": "賊退治",
-          "modified": "賊退治"
+          "modified": "Eliminate Bandits"
         },
         {
           "index": 21,
           "start": 78316,
           "original": "城主護衛",
-          "modified": "城主護衛"
+          "modified": "Castle Lord Guard"
         },
         {
           "index": 22,
           "start": 78360,
           "original": "罪人救出阻止",
-          "modified": "罪人救出阻止"
+          "modified": "Prevent Prisoner Rescue"
         },
         {
           "index": 23,
           "start": 78404,
           "original": "城中庭警備",
-          "modified": "城中庭警備"
+          "modified": "Castle Courtyard Guard"
         },
         {
           "index": 24,
           "start": 78448,
           "original": "領主城警備",
-          "modified": "領主城警備"
+          "modified": "Lord's Castle Guard"
         },
         {
           "index": 25,
           "start": 78492,
           "original": "幽閉要人救出",
-          "modified": "幽閉要人救出"
+          "modified": "Rescue Imprisoned VIP"
         },
         {
           "index": 26,
           "start": 78536,
           "original": "幽閉要人奪還",
-          "modified": "幽閉要人奪還"
+          "modified": "Retrieve Imprisoned VIP"
         },
         {
           "index": 27,
           "start": 78580,
           "original": "幽閉要人救出",
-          "modified": "幽閉要人救出"
+          "modified": "Rescue Imprisoned VIP"
         },
         {
           "index": 28,
           "start": 78624,
           "original": "幽閉要人奪還",
-          "modified": "幽閉要人奪還"
+          "modified": "Retrieve Imprisoned VIP"
         },
         {
           "index": 29,
           "start": 78668,
           "original": "幽閉要人救出",
-          "modified": "幽閉要人救出"
+          "modified": "Rescue Imprisoned VIP"
         },
         {
           "index": 30,
           "start": 78712,
           "original": "幽閉要人奪還",
-          "modified": "幽閉要人奪還"
+          "modified": "Retrieve Imprisoned VIP"
         },
         {
           "index": 31,
           "start": 78756,
           "original": "城潜入暗殺",
-          "modified": "城潜入暗殺"
+          "modified": "Castle Infiltration Assassinate"
         },
         {
           "index": 32,
           "start": 78800,
           "original": "城潜入暗殺退避",
-          "modified": "城潜入暗殺退避"
+          "modified": "Castle Infiltrate Assassinate (Escape)"
         },
         {
           "index": 33,
           "start": 78844,
           "original": "城牢罪人暗殺",
-          "modified": "城牢罪人暗殺"
+          "modified": "Dungeon Prisoner Assassinate"
         },
         {
           "index": 34,
           "start": 78888,
           "original": "城牢罪人暗殺退避",
-          "modified": "城牢罪人暗殺退避"
+          "modified": "Dungeon Prisoner Assassinate (Escape)"
         },
         {
           "index": 35,
           "start": 78932,
           "original": "隠伏要人暗殺",
-          "modified": "隠伏要人暗殺"
+          "modified": "Hidden VIP Assassinate"
         },
         {
           "index": 36,
           "start": 78976,
           "original": "隠伏要人暗殺退避",
-          "modified": "隠伏要人暗殺退避"
+          "modified": "Hidden VIP Assassinate (Escape)"
         },
         {
           "index": 37,
           "start": 79020,
           "original": "賊討伐",
-          "modified": "賊討伐"
+          "modified": "Bandit Suppression"
         },
         {
           "index": 38,
           "start": 79064,
           "original": "賊討伐　弐",
-          "modified": "賊討伐　弐"
+          "modified": "Bandit Suppression 2"
         },
         {
           "index": 39,
           "start": 79108,
           "original": "荒木又右衛門暗殺",
-          "modified": "荒木又右衛門暗殺"
+          "modified": "Assassinate Araki Mataemon"
         },
         {
           "index": 40,
           "start": 79152,
           "original": "芹沢鴨暗殺",
-          "modified": "芹沢鴨暗殺"
+          "modified": "Assassinate Serizawa Kamo"
         },
         {
           "index": 41,
           "start": 79196,
           "original": "武市半平太暗殺",
-          "modified": "武市半平太暗殺"
+          "modified": "Assassinate Takeichi Hanpeita"
         },
         {
           "index": 42,
           "start": 79240,
           "original": "桂小五郎暗殺",
-          "modified": "桂小五郎暗殺"
+          "modified": "Assassinate Katsura Kogoro"
         },
         {
           "index": 43,
           "start": 79284,
           "original": "坂本竜馬暗殺",
-          "modified": "坂本竜馬暗殺"
+          "modified": "Sakamoto Ryoma Assassinate"
         },
         {
           "index": 44,
           "start": 79328,
           "original": "中村半次郎暗殺",
-          "modified": "中村半次郎暗殺"
+          "modified": "Nakamura Hanjiro Assassinate"
         },
         {
           "index": 45,
           "start": 79372,
           "original": "池田屋護衛",
-          "modified": "池田屋護衛"
+          "modified": "Ikedaya Escort"
         },
         {
           "index": 46,
           "start": 79416,
           "original": "吉良邸警備",
-          "modified": "吉良邸警備"
+          "modified": "Kira Estate Guard"
         },
         {
           "index": 47,
           "start": 79460,
           "original": "沖田総司暗殺",
-          "modified": "沖田総司暗殺"
+          "modified": "Okita Soji Assassinate"
         }
       ]
     },
@@ -6908,79 +6908,79 @@
           "index": 1,
           "start": 93280,
           "original": "面識なし",
-          "modified": "面識なし"
+          "modified": "Not Met"
         },
         {
           "index": 2,
           "start": 93296,
           "original": "死亡？",
-          "modified": "死亡？"
+          "modified": "Dead?"
         },
         {
           "index": 3,
           "start": 93312,
           "original": "面識あり",
-          "modified": "面識あり"
+          "modified": "Met"
         },
         {
           "index": 4,
           "start": 93328,
           "original": "面識あり",
-          "modified": "面識あり"
+          "modified": "Met"
         },
         {
           "index": 5,
           "start": 93344,
           "original": "手合せ可",
-          "modified": "手合せ可"
+          "modified": "Sparrable"
         },
         {
           "index": 6,
           "start": 93360,
           "original": "勝利済",
-          "modified": "勝利済"
+          "modified": "Defeated"
         },
         {
           "index": 7,
           "start": 93376,
           "original": "死亡",
-          "modified": "死亡"
+          "modified": "Dead"
         },
         {
           "index": 8,
           "start": 93392,
           "original": "殺害",
-          "modified": "殺害"
+          "modified": "Killed"
         },
         {
           "index": 9,
           "start": 93408,
           "original": "再起不能",
-          "modified": "再起不能"
+          "modified": "Incapacitated"
         },
         {
           "index": 10,
           "start": 93424,
           "original": "未取得",
-          "modified": "未取得"
+          "modified": "Not Owned"
         },
         {
           "index": 11,
           "start": 93440,
           "original": "一部取得",
-          "modified": "一部取得"
+          "modified": "Partial"
         },
         {
           "index": 12,
           "start": 93456,
           "original": "全形取得",
-          "modified": "全形取得"
+          "modified": "All Forms"
         },
         {
           "index": 13,
           "start": 93472,
           "original": "取得不可",
-          "modified": "取得不可"
+          "modified": "Unobtainable"
         }
       ]
     },
@@ -6995,235 +6995,235 @@
           "index": 0,
           "start": 93520,
           "original": "移動",
-          "modified": "移動"
+          "modified": "Move"
         },
         {
           "index": 1,
           "start": 93568,
           "original": "状態",
-          "modified": "状態"
+          "modified": "Status"
         },
         {
           "index": 2,
           "start": 93616,
           "original": "情報",
-          "modified": "情報"
+          "modified": "Info"
         },
         {
           "index": 3,
           "start": 93664,
           "original": "休息",
-          "modified": "休息"
+          "modified": "Rest"
         },
         {
           "index": 4,
           "start": 93712,
           "original": "休息",
-          "modified": "休息"
+          "modified": "Rest"
         },
         {
           "index": 5,
           "start": 93760,
           "original": "休息",
-          "modified": "休息"
+          "modified": "Rest"
         },
         {
           "index": 6,
           "start": 93808,
           "original": "休息",
-          "modified": "休息"
+          "modified": "Rest"
         },
         {
           "index": 7,
           "start": 93856,
           "original": "休息",
-          "modified": "休息"
+          "modified": "Rest"
         },
         {
           "index": 8,
           "start": 93904,
           "original": "機能",
-          "modified": "機能"
+          "modified": "Functions"
         },
         {
           "index": 9,
           "start": 93952,
           "original": "形選択",
-          "modified": "形選択"
+          "modified": "Select Form"
         },
         {
           "index": 10,
           "start": 94000,
           "original": "剣豪詳細",
-          "modified": "剣豪詳細"
+          "modified": "Swordsman Details"
         },
         {
           "index": 11,
           "start": 94048,
           "original": "基本/習得技",
-          "modified": "基本/習得技"
+          "modified": "Basic/Learned Techs"
         },
         {
           "index": 12,
           "start": 94096,
           "original": "組躱/習得技",
-          "modified": "組躱/習得技"
+          "modified": "Combo/Learned Techs"
         },
         {
           "index": 13,
           "start": 94144,
           "original": "進行状況",
-          "modified": "進行状況"
+          "modified": "Progress"
         },
         {
           "index": 14,
           "start": 94192,
           "original": "稽古",
-          "modified": "稽古"
+          "modified": "Practice"
         },
         {
           "index": 15,
           "start": 94240,
           "original": "口入れ屋",
-          "modified": "口入れ屋"
+          "modified": "Employment Agency"
         },
         {
           "index": 16,
           "start": 94288,
           "original": "刀屋",
-          "modified": "刀屋"
+          "modified": "Sword Shop"
         },
         {
           "index": 17,
           "start": 94336,
           "original": "仕立屋",
-          "modified": "仕立屋"
+          "modified": "Tailor"
         },
         {
           "index": 18,
           "start": 94384,
           "original": "鍛冶屋",
-          "modified": "鍛冶屋"
+          "modified": "Blacksmith"
         },
         {
           "index": 19,
           "start": 94432,
           "original": "寺",
-          "modified": "寺"
+          "modified": "Temple"
         },
         {
           "index": 20,
           "start": 94480,
           "original": "次へ",
-          "modified": "次へ"
+          "modified": "Next"
         },
         {
           "index": 21,
           "start": 94528,
           "original": "行動",
-          "modified": "行動"
+          "modified": "Action"
         },
         {
           "index": 22,
           "start": 94576,
           "original": "虫取り",
-          "modified": "虫取り"
+          "modified": "Bug Catching"
         },
         {
           "index": 23,
           "start": 94624,
           "original": "中に入る",
-          "modified": "中に入る"
+          "modified": "Enter"
         },
         {
           "index": 24,
           "start": 94672,
           "original": "旅に出る",
-          "modified": "旅に出る"
+          "modified": "Depart on Journey"
         },
         {
           "index": 25,
           "start": 94720,
           "original": "宅",
-          "modified": "宅"
+          "modified": "Home"
         },
         {
           "index": 26,
           "start": 94768,
           "original": "自宅",
-          "modified": "自宅"
+          "modified": "Own Home"
         },
         {
           "index": 27,
           "start": 94816,
           "original": "自宅内部",
-          "modified": "自宅内部"
+          "modified": "Inside Home"
         },
         {
           "index": 28,
           "start": 94864,
           "original": "宿屋",
-          "modified": "宿屋"
+          "modified": "Inn"
         },
         {
           "index": 29,
           "start": 94912,
           "original": "宿屋内部",
-          "modified": "宿屋内部"
+          "modified": "Inside Inn"
         },
         {
           "index": 30,
           "start": 94960,
           "original": "藩邸",
-          "modified": "藩邸"
+          "modified": "Clan Mansion"
         },
         {
           "index": 31,
           "start": 95008,
           "original": "江戸城",
-          "modified": "江戸城"
+          "modified": "Edo Castle"
         },
         {
           "index": 32,
           "start": 95056,
           "original": "口入れ屋",
-          "modified": "口入れ屋"
+          "modified": "Employment Agency"
         },
         {
           "index": 33,
           "start": 95104,
           "original": "茶屋",
-          "modified": "茶屋"
+          "modified": "Tea House"
         },
         {
           "index": 34,
           "start": 95152,
           "original": "鍛冶屋",
-          "modified": "鍛冶屋"
+          "modified": "Blacksmith"
         },
         {
           "index": 35,
           "start": 95200,
           "original": "刀屋",
-          "modified": "刀屋"
+          "modified": "Sword Shop"
         },
         {
           "index": 36,
           "start": 95248,
           "original": "仕立屋",
-          "modified": "仕立屋"
+          "modified": "Tailor"
         },
         {
           "index": 37,
           "start": 95296,
           "original": "寺",
-          "modified": "寺"
+          "modified": "Temple"
         },
         {
           "index": 38,
           "start": 95344,
           "original": "東海寺",
-          "modified": "東海寺"
+          "modified": "Tokai Temple"
         },
         {
           "index": 39,
@@ -7235,109 +7235,109 @@
           "index": 40,
           "start": 95440,
           "original": "尾張道場",
-          "modified": "尾張道場"
+          "modified": "Owari Dojo"
         },
         {
           "index": 41,
           "start": 95488,
           "original": "伊賀道場",
-          "modified": "伊賀道場"
+          "modified": "Iga Dojo"
         },
         {
           "index": 42,
           "start": 95536,
           "original": "京道場",
-          "modified": "京道場"
+          "modified": "Kyoto Dojo"
         },
         {
           "index": 43,
           "start": 95584,
           "original": "辻道場",
-          "modified": "辻道場"
+          "modified": "Street Dojo"
         },
         {
           "index": 44,
           "start": 95632,
           "original": "豊前道場",
-          "modified": "豊前道場"
+          "modified": "Buzen Dojo"
         },
         {
           "index": 45,
           "start": 95680,
           "original": "土佐道場",
-          "modified": "土佐道場"
+          "modified": "Tosa Dojo"
         },
         {
           "index": 46,
           "start": 95728,
           "original": "筑後道場",
-          "modified": "筑後道場"
+          "modified": "Chikugo Dojo"
         },
         {
           "index": 47,
           "start": 95776,
           "original": "東郷道場",
-          "modified": "東郷道場"
+          "modified": "Togo Dojo"
         },
         {
           "index": 48,
           "start": 95824,
           "original": "松林道場",
-          "modified": "松林道場"
+          "modified": "Matsubayashi Dojo"
         },
         {
           "index": 49,
           "start": 95872,
           "original": "樋口道場",
-          "modified": "樋口道場"
+          "modified": "Higuchi Dojo"
         },
         {
           "index": 50,
           "start": 95920,
           "original": "小野道場",
-          "modified": "小野道場"
+          "modified": "Ono Dojo"
         },
         {
           "index": 51,
           "start": 95968,
           "original": "千葉道場",
-          "modified": "千葉道場"
+          "modified": "Chiba Dojo"
         },
         {
           "index": 52,
           "start": 96016,
           "original": "斎藤道場",
-          "modified": "斎藤道場"
+          "modified": "Saito Dojo"
         },
         {
           "index": 53,
           "start": 96064,
           "original": "桃井道場",
-          "modified": "桃井道場"
+          "modified": "Momoi Dojo"
         },
         {
           "index": 54,
           "start": 96112,
           "original": "大石道場",
-          "modified": "大石道場"
+          "modified": "Oishi Dojo"
         },
         {
           "index": 55,
           "start": 96160,
           "original": "吉岡道場",
-          "modified": "吉岡道場"
+          "modified": "Yoshioka Dojo"
         },
         {
           "index": 56,
           "start": 96208,
           "original": "試衛館",
-          "modified": "試衛館"
+          "modified": "Shieikan Dojo"
         },
         {
           "index": 57,
           "start": 96256,
           "original": "宝蔵院",
-          "modified": "宝蔵院"
+          "modified": "Hozo-in"
         },
         {
           "index": 58,
@@ -7349,31 +7349,31 @@
           "index": 59,
           "start": 96352,
           "original": "尾張柳生道場",
-          "modified": "尾張柳生道場"
+          "modified": "Owari Yagyu Dojo"
         },
         {
           "index": 60,
           "start": 96400,
           "original": "江戸柳生道場",
-          "modified": "江戸柳生道場"
+          "modified": "Edo Yagyu Dojo"
         },
         {
           "index": 61,
           "start": 96448,
           "original": "巌流島",
-          "modified": "巌流島"
+          "modified": "Ganryujima"
         },
         {
           "index": 62,
           "start": 96496,
           "original": "柳生下屋敷",
-          "modified": "柳生下屋敷"
+          "modified": "Yagyu Villa"
         },
         {
           "index": 63,
           "start": 96544,
           "original": "海岸",
-          "modified": "海岸"
+          "modified": "Coast"
         },
         {
           "index": 64,
@@ -7385,61 +7385,61 @@
           "index": 65,
           "start": 96640,
           "original": "武家屋敷",
-          "modified": "武家屋敷"
+          "modified": "Samurai Estate"
         },
         {
           "index": 66,
           "start": 96688,
           "original": "新選組屯所",
-          "modified": "新選組屯所"
+          "modified": "Shinsengumi HQ"
         },
         {
           "index": 67,
           "start": 96736,
           "original": "山門",
-          "modified": "山門"
+          "modified": "Mountain Gate"
         },
         {
           "index": 68,
           "start": 96784,
           "original": "神社",
-          "modified": "神社"
+          "modified": "Shrine"
         },
         {
           "index": 69,
           "start": 96832,
           "original": "上総の山寺",
-          "modified": "上総の山寺"
+          "modified": "Kazusa Mountain Temple"
         },
         {
           "index": 70,
           "start": 96880,
           "original": "長州藩邸",
-          "modified": "長州藩邸"
+          "modified": "Choshu Clan Mansion"
         },
         {
           "index": 71,
           "start": 96928,
           "original": "坂本龍馬実家",
-          "modified": "坂本龍馬実家"
+          "modified": "Sakamoto Ryoma's Home"
         },
         {
           "index": 72,
           "start": 96976,
           "original": "薩摩藩邸",
-          "modified": "薩摩藩邸"
+          "modified": "Satsuma Clan Mansion"
         },
         {
           "index": 73,
           "start": 97024,
           "original": "西郷隆盛邸",
-          "modified": "西郷隆盛邸"
+          "modified": "Saigo Takamori's Residence"
         },
         {
           "index": 74,
           "start": 97072,
           "original": "武市半平太邸",
-          "modified": "武市半平太邸"
+          "modified": "Takeichi Hanpeita's Residence"
         },
         {
           "index": 75,
@@ -7451,577 +7451,577 @@
           "index": 76,
           "start": 97168,
           "original": "次へ",
-          "modified": "次へ"
+          "modified": "Next"
         },
         {
           "index": 77,
           "start": 97216,
           "original": "稽古",
-          "modified": "稽古"
+          "modified": "Practice"
         },
         {
           "index": 78,
           "start": 97264,
           "original": "市中巡察",
-          "modified": "市中巡察"
+          "modified": "Town Patrol"
         },
         {
           "index": 79,
           "start": 97312,
           "original": "形選択",
-          "modified": "形選択"
+          "modified": "Select Form"
         },
         {
           "index": 80,
           "start": 97360,
           "original": "刀選択",
-          "modified": "刀選択"
+          "modified": "Select Sword"
         },
         {
           "index": 81,
           "start": 97408,
           "original": "服装選択",
-          "modified": "服装選択"
+          "modified": "Select Outfit"
         },
         {
           "index": 82,
           "start": 97456,
           "original": "服装選択",
-          "modified": "服装選択"
+          "modified": "Select Outfit"
         },
         {
           "index": 83,
           "start": 97504,
           "original": "形変更",
-          "modified": "形変更"
+          "modified": "Change Form"
         },
         {
           "index": 84,
           "start": 97552,
           "original": "形確認",
-          "modified": "形確認"
+          "modified": "Confirm Form"
         },
         {
           "index": 85,
           "start": 97600,
           "original": "形外す",
-          "modified": "形外す"
+          "modified": "Remove Form"
         },
         {
           "index": 86,
           "start": 97648,
           "original": "剣豪情報",
-          "modified": "剣豪情報"
+          "modified": "Swordsman Info"
         },
         {
           "index": 87,
           "start": 97696,
           "original": "銘刀情報",
-          "modified": "銘刀情報"
+          "modified": "Masterwork Sword Info"
         },
         {
           "index": 88,
           "start": 97744,
           "original": "技取得情報",
-          "modified": "技取得情報"
+          "modified": "Tech Acquisition Info"
         },
         {
           "index": 89,
           "start": 97792,
           "original": "組躱技情報",
-          "modified": "組躱技情報"
+          "modified": "Combo Tech Info"
         },
         {
           "index": 90,
           "start": 97840,
           "original": "進行状況",
-          "modified": "進行状況"
+          "modified": "Progress"
         },
         {
           "index": 91,
           "start": 97888,
           "original": "心像対決",
-          "modified": "心像対決"
+          "modified": "Mental Showdown"
         },
         {
           "index": 92,
           "start": 97936,
           "original": "所有形",
-          "modified": "所有形"
+          "modified": "Owned Forms"
         },
         {
           "index": 93,
           "start": 97984,
           "original": "連続技",
-          "modified": "連続技"
+          "modified": "Combo"
         },
         {
           "index": 94,
           "start": 98032,
           "original": "抜刀技",
-          "modified": "抜刀技"
+          "modified": "Quickdraw"
         },
         {
           "index": 95,
           "start": 98080,
           "original": "待 下",
-          "modified": "待 下"
+          "modified": "Wait Down"
         },
         {
           "index": 96,
           "start": 98128,
           "original": "待 上",
-          "modified": "待 上"
+          "modified": "Wait Up"
         },
         {
           "index": 97,
           "start": 98176,
           "original": "待 横",
-          "modified": "待 横"
+          "modified": "Wait Side"
         },
         {
           "index": 98,
           "start": 98224,
           "original": "待 突",
-          "modified": "待 突"
+          "modified": "Wait Thrust"
         },
         {
           "index": 99,
           "start": 98272,
           "original": "懸 上段",
-          "modified": "懸 上段"
+          "modified": "Hang Upper"
         },
         {
           "index": 100,
           "start": 98320,
           "original": "懸 下段",
-          "modified": "懸 下段"
+          "modified": "Hang Lower"
         },
         {
           "index": 101,
           "start": 98368,
           "original": "懸 正眼",
-          "modified": "懸 正眼"
+          "modified": "Hang Seigan"
         },
         {
           "index": 102,
           "start": 98416,
           "original": "懸 八相",
-          "modified": "懸 八相"
+          "modified": "Hang Hasso"
         },
         {
           "index": 103,
           "start": 98464,
           "original": "一般",
-          "modified": "一般"
+          "modified": "General"
         },
         {
           "index": 104,
           "start": 98512,
           "original": "武蔵",
-          "modified": "武蔵"
+          "modified": "Musashi"
         },
         {
           "index": 105,
           "start": 98560,
           "original": "柳生",
-          "modified": "柳生"
+          "modified": "Yagyu"
         },
         {
           "index": 106,
           "start": 98608,
           "original": "一刀流",
-          "modified": "一刀流"
+          "modified": "Ittoryu"
         },
         {
           "index": 107,
           "start": 98656,
           "original": "新選組",
-          "modified": "新選組"
+          "modified": "Shinsengumi"
         },
         {
           "index": 108,
           "start": 98704,
           "original": "倒幕（龍馬）",
-          "modified": "倒幕（龍馬）"
+          "modified": "Anti-Shogunate (Ryoma)"
         },
         {
           "index": 109,
           "start": 98752,
           "original": "倒幕（武市）",
-          "modified": "倒幕（武市）"
+          "modified": "Anti-Shogunate (Takeichi)"
         },
         {
           "index": 110,
           "start": 98800,
           "original": "倒幕（桂）",
-          "modified": "倒幕（桂）"
+          "modified": "Anti-Shogunate (Katsura)"
         },
         {
           "index": 111,
           "start": 98848,
           "original": "倒幕（中村）",
-          "modified": "倒幕（中村）"
+          "modified": "Anti-Shogunate (Nakamura)"
         },
         {
           "index": 112,
           "start": 98896,
           "original": "江戸三大道場",
-          "modified": "江戸三大道場"
+          "modified": "Three Great Edo Dojos"
         },
         {
           "index": 113,
           "start": 98944,
           "original": "千葉道場",
-          "modified": "千葉道場"
+          "modified": "Chiba Dojo"
         },
         {
           "index": 114,
           "start": 98992,
           "original": "斎藤道場",
-          "modified": "斎藤道場"
+          "modified": "Saito Dojo"
         },
         {
           "index": 115,
           "start": 99040,
           "original": "桃井道場",
-          "modified": "桃井道場"
+          "modified": "Momoi Dojo"
         },
         {
           "index": 116,
           "start": 99088,
           "original": "大石道場",
-          "modified": "大石道場"
+          "modified": "Oishi Dojo"
         },
         {
           "index": 117,
           "start": 99136,
           "original": "堀部",
-          "modified": "堀部"
+          "modified": "Horibe"
         },
         {
           "index": 118,
           "start": 99184,
           "original": "高柳",
-          "modified": "高柳"
+          "modified": "Takayanagi"
         },
         {
           "index": 119,
           "start": 99232,
           "original": "昼まで",
-          "modified": "昼まで"
+          "modified": "Until Noon"
         },
         {
           "index": 120,
           "start": 99280,
           "original": "夕まで",
-          "modified": "夕まで"
+          "modified": "Until Evening"
         },
         {
           "index": 121,
           "start": 99328,
           "original": "夜まで",
-          "modified": "夜まで"
+          "modified": "Until Night"
         },
         {
           "index": 122,
           "start": 99376,
           "original": "朝まで",
-          "modified": "朝まで"
+          "modified": "Until Morning"
         },
         {
           "index": 123,
           "start": 99424,
           "original": "昼まで",
-          "modified": "昼まで"
+          "modified": "Until Noon"
         },
         {
           "index": 124,
           "start": 99472,
           "original": "夕まで",
-          "modified": "夕まで"
+          "modified": "Until Evening"
         },
         {
           "index": 125,
           "start": 99520,
           "original": "夜まで",
-          "modified": "夜まで"
+          "modified": "Until Night"
         },
         {
           "index": 126,
           "start": 99568,
           "original": "朝まで",
-          "modified": "朝まで"
+          "modified": "Until Morning"
         },
         {
           "index": 127,
           "start": 99616,
           "original": "昼まで",
-          "modified": "昼まで"
+          "modified": "Until Noon"
         },
         {
           "index": 128,
           "start": 99664,
           "original": "夕まで",
-          "modified": "夕まで"
+          "modified": "Until Evening"
         },
         {
           "index": 129,
           "start": 99712,
           "original": "夜まで",
-          "modified": "夜まで"
+          "modified": "Until Night"
         },
         {
           "index": 130,
           "start": 99760,
           "original": "朝まで",
-          "modified": "朝まで"
+          "modified": "Until Morning"
         },
         {
           "index": 131,
           "start": 99808,
           "original": "昼まで",
-          "modified": "昼まで"
+          "modified": "Until Noon"
         },
         {
           "index": 132,
           "start": 99856,
           "original": "夕まで",
-          "modified": "夕まで"
+          "modified": "Until Evening"
         },
         {
           "index": 133,
           "start": 99904,
           "original": "夜まで",
-          "modified": "夜まで"
+          "modified": "Until Night"
         },
         {
           "index": 134,
           "start": 99952,
           "original": "朝まで",
-          "modified": "朝まで"
+          "modified": "Until Morning"
         },
         {
           "index": 135,
           "start": 100000,
           "original": "昼まで",
-          "modified": "昼まで"
+          "modified": "Until Noon"
         },
         {
           "index": 136,
           "start": 100048,
           "original": "夕まで",
-          "modified": "夕まで"
+          "modified": "Until Evening"
         },
         {
           "index": 137,
           "start": 100096,
           "original": "夜まで",
-          "modified": "夜まで"
+          "modified": "Until Night"
         },
         {
           "index": 138,
           "start": 100144,
           "original": "朝まで",
-          "modified": "朝まで"
+          "modified": "Until Morning"
         },
         {
           "index": 139,
           "start": 100192,
           "original": "保存",
-          "modified": "保存"
+          "modified": "Save"
         },
         {
           "index": 140,
           "start": 100240,
           "original": "設定",
-          "modified": "設定"
+          "modified": "Settings"
         },
         {
           "index": 141,
           "start": 100288,
           "original": "本編終了",
-          "modified": "本編終了"
+          "modified": "End Main Story"
         },
         {
           "index": 142,
           "start": 100336,
           "original": "やめる",
-          "modified": "やめる"
+          "modified": "Quit"
         },
         {
           "index": 143,
           "start": 100384,
           "original": "店を出る",
-          "modified": "店を出る"
+          "modified": "Leave Shop"
         },
         {
           "index": 144,
           "start": 100432,
           "original": "攻撃技",
-          "modified": "攻撃技"
+          "modified": "Attack Tech"
         },
         {
           "index": 145,
           "start": 100480,
           "original": "防御",
-          "modified": "防御"
+          "modified": "Guard"
         },
         {
           "index": 146,
           "start": 100528,
           "original": "かわし",
-          "modified": "かわし"
+          "modified": "Dodge"
         },
         {
           "index": 147,
           "start": 100576,
           "original": "抜刀技",
-          "modified": "抜刀技"
+          "modified": "Quickdraw"
         },
         {
           "index": 148,
           "start": 100624,
           "original": "組太刀・待",
-          "modified": "組太刀・待"
+          "modified": "Combo Katate-Wait"
         },
         {
           "index": 149,
           "start": 100672,
           "original": "組太刀・懸",
-          "modified": "組太刀・懸"
+          "modified": "Combo Katate-Hang"
         },
         {
           "index": 150,
           "start": 100720,
           "original": "組がわし技",
-          "modified": "組がわし技"
+          "modified": "Combo Dodge Tech"
         },
         {
           "index": 151,
           "start": 100768,
           "original": "実戦稽古",
-          "modified": "実戦稽古"
+          "modified": "Live Practice"
         },
         {
           "index": 152,
           "start": 100816,
           "original": "稽古をする",
-          "modified": "稽古をする"
+          "modified": "Practice"
         },
         {
           "index": 153,
           "start": 100864,
           "original": "話をする",
-          "modified": "話をする"
+          "modified": "Talk"
         },
         {
           "index": 154,
           "start": 100912,
           "original": "仕事を見る",
-          "modified": "仕事を見る"
+          "modified": "Browse Jobs"
         },
         {
           "index": 155,
           "start": 100960,
           "original": "服装選択",
-          "modified": "服装選択"
+          "modified": "Select Outfit"
         },
         {
           "index": 156,
           "start": 101008,
           "original": "刀を見る",
-          "modified": "刀を見る"
+          "modified": "Browse Swords"
         },
         {
           "index": 157,
           "start": 101056,
           "original": "品物を見る",
-          "modified": "品物を見る"
+          "modified": "Browse Goods"
         },
         {
           "index": 158,
           "start": 101104,
           "original": "鑑定",
-          "modified": "鑑定"
+          "modified": "Appraise"
         },
         {
           "index": 159,
           "start": 101152,
           "original": "打ち",
-          "modified": "打ち"
+          "modified": "Forge"
         },
         {
           "index": 160,
           "start": 101200,
           "original": "刀の受け取り",
-          "modified": "刀の受け取り"
+          "modified": "Receive Sword"
         },
         {
           "index": 161,
           "start": 101248,
           "original": "幻影",
-          "modified": "幻影"
+          "modified": "Phantom"
         },
         {
           "index": 162,
           "start": 101296,
           "original": "研究",
-          "modified": "研究"
+          "modified": "Research"
         },
         {
           "index": 163,
           "start": 101344,
           "original": "幻影説明",
-          "modified": "幻影説明"
+          "modified": "Phantom Explanation"
         },
         {
           "index": 164,
           "start": 101392,
           "original": "研究説明",
-          "modified": "研究説明"
+          "modified": "Research Explanation"
         },
         {
           "index": 165,
           "start": 101440,
           "original": "場面選択",
-          "modified": "場面選択"
+          "modified": "Scene Select"
         },
         {
           "index": 166,
           "start": 101488,
           "original": "進行確認",
-          "modified": "進行確認"
+          "modified": "Progress Check"
         },
         {
           "index": 167,
           "start": 101536,
           "original": "模擬対戦",
-          "modified": "模擬対戦"
+          "modified": "Practice Match"
         },
         {
           "index": 168,
           "start": 101584,
           "original": "劇確認",
-          "modified": "劇確認"
+          "modified": "Scene Check"
         },
         {
           "index": 169,
           "start": 101632,
           "original": "舞台選択",
-          "modified": "舞台選択"
+          "modified": "Stage Select"
         },
         {
           "index": 170,
           "start": 101680,
           "original": "配役編集",
-          "modified": "配役編集"
+          "modified": "Cast Edit"
         },
         {
           "index": 171,
           "start": 101728,
           "original": "乱戦三昧",
-          "modified": "乱戦三昧"
+          "modified": "Free for All"
         }
       ]
     },
@@ -8036,331 +8036,331 @@
           "index": 0,
           "start": 101840,
           "original": "いいえ",
-          "modified": "いいえ"
+          "modified": "No"
         },
         {
           "index": 1,
           "start": 101904,
           "original": "はい",
-          "modified": "はい"
+          "modified": "Yes"
         },
         {
           "index": 2,
           "start": 101968,
           "original": "仕事一覧",
-          "modified": "仕事一覧"
+          "modified": "Job List"
         },
         {
           "index": 3,
           "start": 102032,
           "original": "商品一覧",
-          "modified": "商品一覧"
+          "modified": "Product List"
         },
         {
           "index": 4,
           "start": 102096,
           "original": "対戦者一覧",
-          "modified": "対戦者一覧"
+          "modified": "Opponent List"
         },
         {
           "index": 5,
           "start": 102160,
           "original": "賞品一覧",
-          "modified": "賞品一覧"
+          "modified": "Prize List"
         },
         {
           "index": 6,
           "start": 102224,
           "original": "未鑑定刀一覧",
-          "modified": "未鑑定刀一覧"
+          "modified": "Unappraised Sword List"
         },
         {
           "index": 7,
           "start": 102288,
           "original": "所持刀一覧",
-          "modified": "所持刀一覧"
+          "modified": "Owned Sword List"
         },
         {
           "index": 8,
           "start": 102352,
           "original": "格納場所選択",
-          "modified": "格納場所選択"
+          "modified": "Select Storage"
         },
         {
           "index": 9,
           "start": 102416,
           "original": "新形練成",
-          "modified": "新形練成"
+          "modified": "New Form Creation"
         },
         {
           "index": 10,
           "start": 102480,
           "original": "本編を終了しますか？",
-          "modified": "本編を終了しますか？"
+          "modified": "End main story?"
         },
         {
           "index": 11,
           "start": 102544,
           "original": "\"%sに移動します。\",arg_string_0",
-          "modified": "\"%sに移動します。\",arg_string_0"
+          "modified": "\"Moving to %s.\",arg_string_0"
         },
         {
           "index": 12,
           "start": 102608,
           "original": "よろしいですか？",
-          "modified": "よろしいですか？"
+          "modified": "Are you sure?"
         },
         {
           "index": 13,
           "start": 102672,
           "original": "路銀が足りません。",
-          "modified": "路銀が足りません。"
+          "modified": "Not enough travel funds."
         },
         {
           "index": 14,
           "start": 102736,
           "original": "\"自宅で%sまで休息します。\",arg_string_0",
-          "modified": "\"自宅で%sまで休息します。\",arg_string_0"
+          "modified": "\"Rest at home until %s.\",arg_string_0"
         },
         {
           "index": 15,
           "start": 102800,
           "original": "よろしいですか？",
-          "modified": "よろしいですか？"
+          "modified": "Are you sure?"
         },
         {
           "index": 16,
           "start": 102864,
           "original": "\"%d文で%sまで休息します。\",arg_value_0,arg_string_0",
-          "modified": "\"%d文で%sまで休息します。\",arg_value_0,arg_string_0"
+          "modified": "\"Rest until %s for %d mon.\",arg_value_0,arg_string_0"
         },
         {
           "index": 17,
           "start": 102928,
           "original": "よろしいですか？",
-          "modified": "よろしいですか？"
+          "modified": "Are you sure?"
         },
         {
           "index": 18,
           "start": 102992,
           "original": "\"町外れで%sまで休息します。\",arg_string_0",
-          "modified": "\"町外れで%sまで休息します。\",arg_string_0"
+          "modified": "\"Rest on outskirts until %s.\",arg_string_0"
         },
         {
           "index": 19,
           "start": 103056,
           "original": "よろしいですか？",
-          "modified": "よろしいですか？"
+          "modified": "Are you sure?"
         },
         {
           "index": 20,
           "start": 103120,
           "original": "\"屯所で%sまで休息します。\",arg_string_0",
-          "modified": "\"屯所で%sまで休息します。\",arg_string_0"
+          "modified": "\"Rest at HQ until %s.\",arg_string_0"
         },
         {
           "index": 21,
           "start": 103184,
           "original": "よろしいですか？",
-          "modified": "よろしいですか？"
+          "modified": "Are you sure?"
         },
         {
           "index": 22,
           "start": 103248,
           "original": "\"宿屋で%sまで休息します。\",arg_string_0",
-          "modified": "\"宿屋で%sまで休息します。\",arg_string_0"
+          "modified": "\"Rest at inn until %s.\",arg_string_0"
         },
         {
           "index": 23,
           "start": 103312,
           "original": "よろしいですか？",
-          "modified": "よろしいですか？"
+          "modified": "Are you sure?"
         },
         {
           "index": 24,
           "start": 103376,
           "original": "変更された設定を",
-          "modified": "変更された設定を"
+          "modified": "Changed settings"
         },
         {
           "index": 25,
           "start": 103440,
           "original": "保存しますか？",
-          "modified": "保存しますか？"
+          "modified": "Save?"
         },
         {
           "index": 26,
           "start": 103504,
           "original": "クリアデータを",
-          "modified": "クリアデータを"
+          "modified": "Clear data"
         },
         {
           "index": 27,
           "start": 103568,
           "original": "保存しますか？",
-          "modified": "保存しますか？"
+          "modified": "Save?"
         },
         {
           "index": 28,
           "start": 103632,
           "original": "形　其の壱",
-          "modified": "形　其の壱"
+          "modified": "Form No. 1"
         },
         {
           "index": 29,
           "start": 103696,
           "original": "形　其の弐",
-          "modified": "形　其の弐"
+          "modified": "Form No. 2"
         },
         {
           "index": 30,
           "start": 103760,
           "original": "決定",
-          "modified": "決定"
+          "modified": "Confirm"
         },
         {
           "index": 31,
           "start": 103824,
           "original": "自流新形練成開始",
-          "modified": "自流新形練成開始"
+          "modified": "Begin New Self-Style Form"
         },
         {
           "index": 32,
           "start": 103888,
           "original": "形確認",
-          "modified": "形確認"
+          "modified": "Confirm Form"
         },
         {
           "index": 33,
           "start": 103952,
           "original": "形変更",
-          "modified": "形変更"
+          "modified": "Change Form"
         },
         {
           "index": 34,
           "start": 104016,
           "original": "\"この形を%s流として\",arg_string_0",
-          "modified": "\"この形を%s流として\",arg_string_0"
+          "modified": "\"Take this form as %s style\",arg_string_0"
         },
         {
           "index": 35,
           "start": 104080,
           "original": "確立しますか？",
-          "modified": "確立しますか？"
+          "modified": "Establish?"
         },
         {
           "index": 36,
           "start": 104144,
           "original": "確立",
-          "modified": "確立"
+          "modified": "Establish"
         },
         {
           "index": 37,
           "start": 104208,
           "original": "やり直す",
-          "modified": "やり直す"
+          "modified": "Redo"
         },
         {
           "index": 38,
           "start": 104272,
           "original": "剣豪詳細",
-          "modified": "剣豪詳細"
+          "modified": "Swordsman Details"
         },
         {
           "index": 39,
           "start": 104336,
           "original": "心像対決",
-          "modified": "心像対決"
+          "modified": "Mental Showdown"
         },
         {
           "index": 40,
           "start": 104400,
           "original": "所有形",
-          "modified": "所有形"
+          "modified": "Owned Forms"
         },
         {
           "index": 41,
           "start": 104464,
           "original": "形編集",
-          "modified": "形編集"
+          "modified": "Edit Form"
         },
         {
           "index": 42,
           "start": 104528,
           "original": "入れ替え",
-          "modified": "入れ替え"
+          "modified": "Swap"
         },
         {
           "index": 43,
           "start": 104592,
           "original": "形確認",
-          "modified": "形確認"
+          "modified": "Confirm Form"
         },
         {
           "index": 44,
           "start": 104656,
           "original": "形を外す",
-          "modified": "形を外す"
+          "modified": "Remove Form"
         },
         {
           "index": 45,
           "start": 104720,
           "original": "幻影対決を",
-          "modified": "幻影対決を"
+          "modified": "Phantom match"
         },
         {
           "index": 46,
           "start": 104784,
           "original": "行いますか？",
-          "modified": "行いますか？"
+          "modified": "Proceed?"
         },
         {
           "index": 47,
           "start": 104848,
           "original": "幻影対決を",
-          "modified": "幻影対決を"
+          "modified": "Phantom match"
         },
         {
           "index": 48,
           "start": 104912,
           "original": "続けて行いますか？",
-          "modified": "続けて行いますか？"
+          "modified": "Continue?"
         },
         {
           "index": 49,
           "start": 104976,
           "original": "幻影対決を",
-          "modified": "幻影対決を"
+          "modified": "Phantom match"
         },
         {
           "index": 50,
           "start": 105040,
           "original": "終了しますか？",
-          "modified": "終了しますか？"
+          "modified": "Quit?"
         },
         {
           "index": 51,
           "start": 105104,
           "original": "\"%sの耐久度が落ち\",arg_string_0",
-          "modified": "\"%sの耐久度が落ち\",arg_string_0"
+          "modified": "\"%s durability is low\",arg_string_0"
         },
         {
           "index": 52,
           "start": 105168,
           "original": "使用不可になりました",
-          "modified": "使用不可になりました"
+          "modified": "Became unusable."
         },
         {
           "index": 53,
           "start": 105232,
           "original": "形研究を終了しますか？",
-          "modified": "形研究を終了しますか？"
+          "modified": "End form research?"
         },
         {
           "index": 54,
           "start": 105296,
           "original": "形壱と形弐を選択して下さい",
-          "modified": "形壱と形弐を選択して下さい"
+          "modified": "Select Form 1 and Form 2."
         }
       ]
     },
@@ -8375,91 +8375,91 @@
           "index": 0,
           "start": 105424,
           "original": "手形(会津〜上野)",
-          "modified": "手形(会津〜上野)"
+          "modified": "Pass (Aizu-Kozuke)"
         },
         {
           "index": 1,
           "start": 105500,
           "original": "手形(会津〜江戸)",
-          "modified": "手形(会津〜江戸)"
+          "modified": "Pass (Aizu-Edo)"
         },
         {
           "index": 2,
           "start": 105576,
           "original": "手形(上野〜江戸)",
-          "modified": "手形(上野〜江戸)"
+          "modified": "Pass (Kozuke-Edo)"
         },
         {
           "index": 3,
           "start": 105652,
           "original": "手形(上野〜尾張)",
-          "modified": "手形(上野〜尾張)"
+          "modified": "Pass (Kozuke-Owari)"
         },
         {
           "index": 4,
           "start": 105728,
           "original": "手形(江戸〜尾張)",
-          "modified": "手形(江戸〜尾張)"
+          "modified": "Pass (Edo-Owari)"
         },
         {
           "index": 5,
           "start": 105804,
           "original": "手形(尾張〜伊賀)",
-          "modified": "手形(尾張〜伊賀)"
+          "modified": "Pass (Owari-Iga)"
         },
         {
           "index": 6,
           "start": 105880,
           "original": "手形(尾張〜 京 )",
-          "modified": "手形(尾張〜 京 )"
+          "modified": "Pass (Owari-Kyoto)"
         },
         {
           "index": 7,
           "start": 105956,
           "original": "手形(伊賀〜 京 )",
-          "modified": "手形(伊賀〜 京 )"
+          "modified": "Pass (Iga-Kyoto)"
         },
         {
           "index": 8,
           "start": 106032,
           "original": "手形( 京 〜大坂)",
-          "modified": "手形( 京 〜大坂)"
+          "modified": "Pass (Kyoto-Osaka)"
         },
         {
           "index": 9,
           "start": 106108,
           "original": "手形(大坂〜土佐)",
-          "modified": "手形(大坂〜土佐)"
+          "modified": "Pass (Osaka-Tosa)"
         },
         {
           "index": 10,
           "start": 106184,
           "original": "手形(大坂〜豊前)",
-          "modified": "手形(大坂〜豊前)"
+          "modified": "Pass (Osaka-Buzen)"
         },
         {
           "index": 11,
           "start": 106260,
           "original": "手形(土佐〜豊前)",
-          "modified": "手形(土佐〜豊前)"
+          "modified": "Pass (Tosa-Buzen)"
         },
         {
           "index": 12,
           "start": 106336,
           "original": "手形(土佐〜薩摩)",
-          "modified": "手形(土佐〜薩摩)"
+          "modified": "Pass (Tosa-Satsuma)"
         },
         {
           "index": 13,
           "start": 106412,
           "original": "手形(豊前〜筑後)",
-          "modified": "手形(豊前〜筑後)"
+          "modified": "Pass (Buzen-Chikugo)"
         },
         {
           "index": 14,
           "start": 106488,
           "original": "手形(筑後〜薩摩)",
-          "modified": "手形(筑後〜薩摩)"
+          "modified": "Pass (Chikugo-Satsuma)"
         }
       ]
     },
@@ -8507,43 +8507,43 @@
           "index": 0,
           "start": 106704,
           "original": "宅",
-          "modified": "宅"
+          "modified": "Home"
         },
         {
           "index": 1,
           "start": 106720,
           "original": "自宅",
-          "modified": "自宅"
+          "modified": "Own Home"
         },
         {
           "index": 2,
           "start": 106736,
           "original": "自宅",
-          "modified": "自宅"
+          "modified": "Own Home"
         },
         {
           "index": 3,
           "start": 106752,
           "original": "宿屋",
-          "modified": "宿屋"
+          "modified": "Inn"
         },
         {
           "index": 4,
           "start": 106768,
           "original": "宿屋",
-          "modified": "宿屋"
+          "modified": "Inn"
         },
         {
           "index": 5,
           "start": 106784,
           "original": "藩邸",
-          "modified": "藩邸"
+          "modified": "Clan Mansion"
         },
         {
           "index": 6,
           "start": 106800,
           "original": "江戸城",
-          "modified": "江戸城"
+          "modified": "Edo Castle"
         },
         {
           "index": 7,
@@ -8555,7 +8555,7 @@
           "index": 8,
           "start": 106832,
           "original": "茶屋",
-          "modified": "茶屋"
+          "modified": "Tea House"
         },
         {
           "index": 9,
@@ -8567,139 +8567,139 @@
           "index": 10,
           "start": 106864,
           "original": "樋口道場",
-          "modified": "樋口道場"
+          "modified": "Higuchi Dojo"
         },
         {
           "index": 11,
           "start": 106880,
           "original": "尾張道場",
-          "modified": "尾張道場"
+          "modified": "Owari Dojo"
         },
         {
           "index": 12,
           "start": 106896,
           "original": "伊賀道場",
-          "modified": "伊賀道場"
+          "modified": "Iga Dojo"
         },
         {
           "index": 13,
           "start": 106912,
           "original": "京道場",
-          "modified": "京道場"
+          "modified": "Kyoto Dojo"
         },
         {
           "index": 14,
           "start": 106928,
           "original": "辻道場",
-          "modified": "辻道場"
+          "modified": "Street Dojo"
         },
         {
           "index": 15,
           "start": 106944,
           "original": "豊前道場",
-          "modified": "豊前道場"
+          "modified": "Buzen Dojo"
         },
         {
           "index": 16,
           "start": 106960,
           "original": "土佐道場",
-          "modified": "土佐道場"
+          "modified": "Tosa Dojo"
         },
         {
           "index": 17,
           "start": 106976,
           "original": "筑後道場",
-          "modified": "筑後道場"
+          "modified": "Chikugo Dojo"
         },
         {
           "index": 18,
           "start": 106992,
           "original": "東郷道場",
-          "modified": "東郷道場"
+          "modified": "Togo Dojo"
         },
         {
           "index": 19,
           "start": 107008,
           "original": "鍛冶屋",
-          "modified": "鍛冶屋"
+          "modified": "Blacksmith"
         },
         {
           "index": 20,
           "start": 107024,
           "original": "刀屋",
-          "modified": "刀屋"
+          "modified": "Sword Shop"
         },
         {
           "index": 21,
           "start": 107040,
           "original": "仕立屋",
-          "modified": "仕立屋"
+          "modified": "Tailor"
         },
         {
           "index": 22,
           "start": 107056,
           "original": "東海寺",
-          "modified": "東海寺"
+          "modified": "Tokai Temple"
         },
         {
           "index": 23,
           "start": 107072,
           "original": "寺",
-          "modified": "寺"
+          "modified": "Temple"
         },
         {
           "index": 24,
           "start": 107088,
           "original": "町中",
-          "modified": "町中"
+          "modified": "Town Center"
         },
         {
           "index": 25,
           "start": 107104,
           "original": "小野道場",
-          "modified": "小野道場"
+          "modified": "Ono Dojo"
         },
         {
           "index": 26,
           "start": 107120,
           "original": "千葉道場",
-          "modified": "千葉道場"
+          "modified": "Chiba Dojo"
         },
         {
           "index": 27,
           "start": 107136,
           "original": "斎藤道場",
-          "modified": "斎藤道場"
+          "modified": "Saito Dojo"
         },
         {
           "index": 28,
           "start": 107152,
           "original": "桃井道場",
-          "modified": "桃井道場"
+          "modified": "Momoi Dojo"
         },
         {
           "index": 29,
           "start": 107168,
           "original": "大石道場",
-          "modified": "大石道場"
+          "modified": "Oishi Dojo"
         },
         {
           "index": 30,
           "start": 107184,
           "original": "試衛舘",
-          "modified": "試衛舘"
+          "modified": "Shieikan Dojo"
         },
         {
           "index": 31,
           "start": 107200,
           "original": "吉岡道場",
-          "modified": "吉岡道場"
+          "modified": "Yoshioka Dojo"
         },
         {
           "index": 32,
           "start": 107216,
           "original": "宝蔵院",
-          "modified": "宝蔵院"
+          "modified": "Hozo-in"
         },
         {
           "index": 33,
@@ -8711,13 +8711,13 @@
           "index": 34,
           "start": 107248,
           "original": "柳生道場",
-          "modified": "柳生道場"
+          "modified": "Yagyu Dojo"
         },
         {
           "index": 35,
           "start": 107264,
           "original": "柳生道場",
-          "modified": "柳生道場"
+          "modified": "Yagyu Dojo"
         },
         {
           "index": 36,
@@ -8729,13 +8729,13 @@
           "index": 37,
           "start": 107296,
           "original": "柳生下屋敷",
-          "modified": "柳生下屋敷"
+          "modified": "Yagyu Villa"
         },
         {
           "index": 38,
           "start": 107312,
           "original": "海岸",
-          "modified": "海岸"
+          "modified": "Coast"
         },
         {
           "index": 39,
@@ -8747,13 +8747,13 @@
           "index": 40,
           "start": 107344,
           "original": "武家屋敷",
-          "modified": "武家屋敷"
+          "modified": "Samurai Estate"
         },
         {
           "index": 41,
           "start": 107360,
           "original": "新選組屯所",
-          "modified": "新選組屯所"
+          "modified": "Shinsengumi HQ"
         },
         {
           "index": 42,
@@ -8765,7 +8765,7 @@
           "index": 43,
           "start": 107392,
           "original": "新選組屯所",
-          "modified": "新選組屯所"
+          "modified": "Shinsengumi HQ"
         }
       ]
     },
@@ -9065,187 +9065,187 @@
           "index": 0,
           "start": 109712,
           "original": "手形(会津〜上野)",
-          "modified": "手形(会津〜上野)"
+          "modified": "Pass (Aizu-Kozuke)"
         },
         {
           "index": 1,
           "start": 109744,
           "original": "手形(会津〜江戸)",
-          "modified": "手形(会津〜江戸)"
+          "modified": "Pass (Aizu-Edo)"
         },
         {
           "index": 2,
           "start": 109776,
           "original": "手形(上野〜会津)",
-          "modified": "手形(上野〜会津)"
+          "modified": "Pass (Kozuke-Aizu)"
         },
         {
           "index": 3,
           "start": 109808,
           "original": "手形(上野〜江戸)",
-          "modified": "手形(上野〜江戸)"
+          "modified": "Pass (Kozuke-Edo)"
         },
         {
           "index": 4,
           "start": 109840,
           "original": "手形(上野〜尾張)",
-          "modified": "手形(上野〜尾張)"
+          "modified": "Pass (Kozuke-Owari)"
         },
         {
           "index": 5,
           "start": 109872,
           "original": "手形(江戸〜会津)",
-          "modified": "手形(江戸〜会津)"
+          "modified": "Pass (Edo-Aizu)"
         },
         {
           "index": 6,
           "start": 109904,
           "original": "手形(江戸〜上野)",
-          "modified": "手形(江戸〜上野)"
+          "modified": "Pass (Edo-Kozuke)"
         },
         {
           "index": 7,
           "start": 109936,
           "original": "手形(江戸〜尾張)",
-          "modified": "手形(江戸〜尾張)"
+          "modified": "Pass (Edo-Owari)"
         },
         {
           "index": 8,
           "start": 109968,
           "original": "手形(尾張〜上野)",
-          "modified": "手形(尾張〜上野)"
+          "modified": "Pass (Owari-Kozuke)"
         },
         {
           "index": 9,
           "start": 110000,
           "original": "手形(尾張〜江戸)",
-          "modified": "手形(尾張〜江戸)"
+          "modified": "Pass (Owari-Edo)"
         },
         {
           "index": 10,
           "start": 110032,
           "original": "手形(尾張〜伊賀)",
-          "modified": "手形(尾張〜伊賀)"
+          "modified": "Pass (Owari-Iga)"
         },
         {
           "index": 11,
           "start": 110064,
           "original": "手形(尾張〜 京 )",
-          "modified": "手形(尾張〜 京 )"
+          "modified": "Pass (Owari-Kyoto)"
         },
         {
           "index": 12,
           "start": 110096,
           "original": "手形(伊賀〜尾張)",
-          "modified": "手形(伊賀〜尾張)"
+          "modified": "Pass (Iga-Owari)"
         },
         {
           "index": 13,
           "start": 110128,
           "original": "手形(伊賀〜 京 )",
-          "modified": "手形(伊賀〜 京 )"
+          "modified": "Pass (Iga-Kyoto)"
         },
         {
           "index": 14,
           "start": 110160,
           "original": "手形( 京 〜尾張)",
-          "modified": "手形( 京 〜尾張)"
+          "modified": "Pass (Kyoto-Owari)"
         },
         {
           "index": 15,
           "start": 110192,
           "original": "手形( 京 〜伊賀)",
-          "modified": "手形( 京 〜伊賀)"
+          "modified": "Pass (Kyoto-Iga)"
         },
         {
           "index": 16,
           "start": 110224,
           "original": "手形( 京 〜大坂)",
-          "modified": "手形( 京 〜大坂)"
+          "modified": "Pass (Kyoto-Osaka)"
         },
         {
           "index": 17,
           "start": 110256,
           "original": "手形(大坂〜 京 )",
-          "modified": "手形(大坂〜 京 )"
+          "modified": "Pass (Osaka-Kyoto)"
         },
         {
           "index": 18,
           "start": 110288,
           "original": "手形(大坂〜土佐)",
-          "modified": "手形(大坂〜土佐)"
+          "modified": "Pass (Osaka-Tosa)"
         },
         {
           "index": 19,
           "start": 110320,
           "original": "手形(大坂〜豊前)",
-          "modified": "手形(大坂〜豊前)"
+          "modified": "Pass (Osaka-Buzen)"
         },
         {
           "index": 20,
           "start": 110352,
           "original": "手形(土佐〜大坂)",
-          "modified": "手形(土佐〜大坂)"
+          "modified": "Pass (Tosa-Osaka)"
         },
         {
           "index": 21,
           "start": 110384,
           "original": "手形(土佐〜豊前)",
-          "modified": "手形(土佐〜豊前)"
+          "modified": "Pass (Tosa-Buzen)"
         },
         {
           "index": 22,
           "start": 110416,
           "original": "手形(土佐〜薩摩)",
-          "modified": "手形(土佐〜薩摩)"
+          "modified": "Pass (Tosa-Satsuma)"
         },
         {
           "index": 23,
           "start": 110448,
           "original": "手形(豊前〜大坂)",
-          "modified": "手形(豊前〜大坂)"
+          "modified": "Pass (Buzen-Osaka)"
         },
         {
           "index": 24,
           "start": 110480,
           "original": "手形(豊前〜土佐)",
-          "modified": "手形(豊前〜土佐)"
+          "modified": "Pass (Buzen-Tosa)"
         },
         {
           "index": 25,
           "start": 110512,
           "original": "手形(豊前〜筑後)",
-          "modified": "手形(豊前〜筑後)"
+          "modified": "Pass (Buzen-Chikugo)"
         },
         {
           "index": 26,
           "start": 110544,
           "original": "手形(筑後〜豊前)",
-          "modified": "手形(筑後〜豊前)"
+          "modified": "Pass (Chikugo-Buzen)"
         },
         {
           "index": 27,
           "start": 110576,
           "original": "手形(筑後〜薩摩)",
-          "modified": "手形(筑後〜薩摩)"
+          "modified": "Pass (Chikugo-Satsuma)"
         },
         {
           "index": 28,
           "start": 110608,
           "original": "手形(薩摩〜土佐)",
-          "modified": "手形(薩摩〜土佐)"
+          "modified": "Pass (Satsuma-Tosa)"
         },
         {
           "index": 29,
           "start": 110640,
           "original": "手形(薩摩〜筑後)",
-          "modified": "手形(薩摩〜筑後)"
+          "modified": "Pass (Satsuma-Chikugo)"
         },
         {
           "index": 30,
           "start": 110672,
           "original": "銘刀",
-          "modified": "銘刀"
+          "modified": "Masterwork Sword"
         }
       ]
     },
@@ -9260,43 +9260,43 @@
           "index": 0,
           "start": 112848,
           "original": "仏",
-          "modified": "仏"
+          "modified": "Saint"
         },
         {
           "index": 1,
           "start": 112868,
           "original": "善人",
-          "modified": "善人"
+          "modified": "Good Person"
         },
         {
           "index": 2,
           "start": 112888,
           "original": "良人",
-          "modified": "良人"
+          "modified": "Decent"
         },
         {
           "index": 3,
           "start": 112908,
           "original": "普通",
-          "modified": "普通"
+          "modified": "Average"
         },
         {
           "index": 4,
           "start": 112928,
           "original": "悪人",
-          "modified": "悪人"
+          "modified": "Bad Person"
         },
         {
           "index": 5,
           "start": 112948,
           "original": "大悪人",
-          "modified": "大悪人"
+          "modified": "Villain"
         },
         {
           "index": 6,
           "start": 112968,
           "original": "極悪人",
-          "modified": "極悪人"
+          "modified": "Archfiend"
         }
       ]
     },
@@ -9311,85 +9311,85 @@
           "index": 0,
           "start": 113040,
           "original": "天下無双",
-          "modified": "天下無双"
+          "modified": "Unrivaled Under Heaven"
         },
         {
           "index": 1,
           "start": 113104,
           "original": "最強の剣豪",
-          "modified": "最強の剣豪"
+          "modified": "Strongest Swordsman"
         },
         {
           "index": 2,
           "start": 113168,
           "original": "柳生一族の確執",
-          "modified": "柳生一族の確執"
+          "modified": "Yagyu Clan Conflict"
         },
         {
           "index": 3,
           "start": 113232,
           "original": "一刀斎後継者",
-          "modified": "一刀斎後継者"
+          "modified": "Ittosai's Successor"
         },
         {
           "index": 4,
           "start": 113296,
           "original": "赤穂の浪士",
-          "modified": "赤穂の浪士"
+          "modified": "Ako Ronin"
         },
         {
           "index": 5,
           "start": 113360,
           "original": "筑後の巨漢",
-          "modified": "筑後の巨漢"
+          "modified": "Chikugo Giant"
         },
         {
           "index": 6,
           "start": 113424,
           "original": "音無しの剣",
-          "modified": "音無しの剣"
+          "modified": "Silent Sword"
         },
         {
           "index": 7,
           "start": 113488,
           "original": "江戸三大道場",
-          "modified": "江戸三大道場"
+          "modified": "Three Great Edo Dojos"
         },
         {
           "index": 8,
           "start": 113552,
           "original": "海援隊",
-          "modified": "海援隊"
+          "modified": "Kaientai"
         },
         {
           "index": 9,
           "start": 113616,
           "original": "土佐勤王党",
-          "modified": "土佐勤王党"
+          "modified": "Tosa Loyalist"
         },
         {
           "index": 10,
           "start": 113680,
           "original": "逃げの小五郎",
-          "modified": "逃げの小五郎"
+          "modified": "Kogoro the Fleeing"
         },
         {
           "index": 11,
           "start": 113744,
           "original": "薩摩の豪傑",
-          "modified": "薩摩の豪傑"
+          "modified": "Satsuma Hero"
         },
         {
           "index": 12,
           "start": 113808,
           "original": "倒幕志士",
-          "modified": "倒幕志士"
+          "modified": "Anti-Shogunate Patriot"
         },
         {
           "index": 13,
           "start": 113872,
           "original": "新選組隊士",
-          "modified": "新選組隊士"
+          "modified": "Shinsengumi Member"
         }
       ]
     },
@@ -14348,79 +14348,79 @@
           "index": 0,
           "start": 319696,
           "original": "納刀",
-          "modified": "納刀"
+          "modified": "Sheathed"
         },
         {
           "index": 1,
           "start": 319712,
           "original": "正眼",
-          "modified": "正眼"
+          "modified": "Seigan"
         },
         {
           "index": 2,
           "start": 319728,
           "original": "上段",
-          "modified": "上段"
+          "modified": "Upper"
         },
         {
           "index": 3,
           "start": 319744,
           "original": "下段",
-          "modified": "下段"
+          "modified": "Lower"
         },
         {
           "index": 4,
           "start": 319760,
           "original": "八相",
-          "modified": "八相"
+          "modified": "Hasso"
         },
         {
           "index": 5,
           "start": 319776,
           "original": "槍",
-          "modified": "槍"
+          "modified": "Spear"
         },
         {
           "index": 6,
           "start": 319792,
           "original": "弓",
-          "modified": "弓"
+          "modified": "Bow"
         },
         {
           "index": 7,
           "start": 319808,
           "original": "鎖鎌",
-          "modified": "鎖鎌"
+          "modified": "Kusarigama"
         },
         {
           "index": 8,
           "start": 319824,
           "original": "鎖鎌",
-          "modified": "鎖鎌"
+          "modified": "Kusarigama"
         },
         {
           "index": 9,
           "start": 319840,
           "original": "鉄砲",
-          "modified": "鉄砲"
+          "modified": "Gun"
         },
         {
           "index": 10,
           "start": 319856,
           "original": "二刀",
-          "modified": "二刀"
+          "modified": "Dual"
         },
         {
           "index": 11,
           "start": 319872,
           "original": "通常",
-          "modified": "通常"
+          "modified": "Normal"
         },
         {
           "index": 12,
           "start": 319888,
           "original": "木槌",
-          "modified": "木槌"
+          "modified": "Mallet"
         }
       ]
     },
@@ -14435,25 +14435,25 @@
           "index": 0,
           "start": 324944,
           "original": "なまくら",
-          "modified": "なまくら"
+          "modified": "Dull"
         },
         {
           "index": 1,
           "start": 324964,
           "original": "業物",
-          "modified": "業物"
+          "modified": "Fine Blade"
         },
         {
           "index": 2,
           "start": 324984,
           "original": "大業物",
-          "modified": "大業物"
+          "modified": "Great Blade"
         },
         {
           "index": 3,
           "start": 325004,
           "original": "極上業物",
-          "modified": "極上業物"
+          "modified": "Supreme Fine Blade"
         },
         {
           "index": 4,
@@ -14471,7 +14471,7 @@
           "index": 6,
           "start": 325064,
           "original": "不明",
-          "modified": "不明"
+          "modified": "Unknown"
         }
       ]
     },
@@ -14828,7 +14828,7 @@
           "index": 57,
           "start": 331064,
           "original": "鍛冶屋",
-          "modified": "鍛冶屋"
+          "modified": "Blacksmith"
         }
       ]
     }

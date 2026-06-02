@@ -17,19 +17,19 @@
           "index": 0,
           "start": 80,
           "original": "新選組隊士編",
-          "modified": "新選組隊士編"
+          "modified": "The Shinsengumi Member"
         },
         {
           "index": 1,
           "start": 240,
           "original": "達成状況　　%2d/%2d",
-          "modified": "達成状況　　%2d/%2d"
+          "modified": "Completion %2d/%2d"
         },
         {
           "index": 2,
           "start": 400,
           "original": "シナリオ切替え",
-          "modified": "シナリオ切替え"
+          "modified": "Switch Scenario"
         },
         {
           "index": 3,
@@ -47,289 +47,289 @@
           "index": 5,
           "start": 880,
           "original": "試衛館助太刀",
-          "modified": "試衛館助太刀"
+          "modified": "Assist at the Shieikan"
         },
         {
           "index": 6,
           "start": 1040,
           "original": "出会い・試衛館",
-          "modified": "出会い・試衛館"
+          "modified": "Meeting at the Shieikan"
         },
         {
           "index": 7,
           "start": 1200,
           "original": "出会い・試衛館",
-          "modified": "出会い・試衛館"
+          "modified": "Meeting at the Shieikan"
         },
         {
           "index": 8,
           "start": 1360,
           "original": "試衛館の面々",
-          "modified": "試衛館の面々"
+          "modified": "The Shieikan Members"
         },
         {
           "index": 9,
           "start": 1520,
           "original": "永倉新八来る",
-          "modified": "永倉新八来る"
+          "modified": "Nagakura Shinpachi Arrives"
         },
         {
           "index": 10,
           "start": 1680,
           "original": "喧嘩屋",
-          "modified": "喧嘩屋"
+          "modified": "The Brawler"
         },
         {
           "index": 11,
           "start": 1840,
           "original": "餅と歳三",
-          "modified": "餅と歳三"
+          "modified": "Rice Cakes and Toshizo"
         },
         {
           "index": 12,
           "start": 2000,
           "original": "浪士組勧誘",
-          "modified": "浪士組勧誘"
+          "modified": "Recruiting for the Roshigumi"
         },
         {
           "index": 13,
           "start": 2160,
           "original": "本庄宿事件",
-          "modified": "本庄宿事件"
+          "modified": "The Honjo-juku Incident"
         },
         {
           "index": 14,
           "start": 2320,
           "original": "新選組誕生",
-          "modified": "新選組誕生"
+          "modified": "Birth of the Shinsengumi"
         },
         {
           "index": 15,
           "start": 2480,
           "original": "旗の下に",
-          "modified": "旗の下に"
+          "modified": "Under the Banner"
         },
         {
           "index": 16,
           "start": 2640,
           "original": "芹沢と新八",
-          "modified": "芹沢と新八"
+          "modified": "Serizawa and Shinpachi"
         },
         {
           "index": 17,
           "start": 2800,
           "original": "芹沢の噂・壱",
-          "modified": "芹沢の噂・壱"
+          "modified": "Rumors of Serizawa, Vol. 1"
         },
         {
           "index": 18,
           "start": 2960,
           "original": "芹沢の噂・弐",
-          "modified": "芹沢の噂・弐"
+          "modified": "Rumors of Serizawa, Vol. 2"
         },
         {
           "index": 19,
           "start": 3120,
           "original": "表裏",
-          "modified": "表裏"
+          "modified": "Deception"
         },
         {
           "index": 20,
           "start": 3280,
           "original": "忠告",
-          "modified": "忠告"
+          "modified": "Warning"
         },
         {
           "index": 21,
           "start": 3440,
           "original": "密計",
-          "modified": "密計"
+          "modified": "Secret Plot"
         },
         {
           "index": 22,
           "start": 3600,
           "original": "粛清の夜",
-          "modified": "粛清の夜"
+          "modified": "Night of Purge"
         },
         {
           "index": 23,
           "start": 3760,
           "original": "誠の明暗",
-          "modified": "誠の明暗"
+          "modified": "Light and Dark of Sincerity"
         },
         {
           "index": 24,
           "start": 3920,
           "original": "誠の明暗",
-          "modified": "誠の明暗"
+          "modified": "Light and Dark of Sincerity"
         },
         {
           "index": 25,
           "start": 4080,
           "original": "再会・新選組",
-          "modified": "再会・新選組"
+          "modified": "Reunion with the Shinsengumi"
         },
         {
           "index": 26,
           "start": 4240,
           "original": "出会い・新選組",
-          "modified": "出会い・新選組"
+          "modified": "Meeting the Shinsengumi"
         },
         {
           "index": 27,
           "start": 4400,
           "original": "新選組入隊",
-          "modified": "新選組入隊"
+          "modified": "Joining the Shinsengumi"
         },
         {
           "index": 28,
           "start": 4560,
           "original": "新選組入隊",
-          "modified": "新選組入隊"
+          "modified": "Joining the Shinsengumi"
         },
         {
           "index": 29,
           "start": 4720,
           "original": "暗殺・芹沢鴨",
-          "modified": "暗殺・芹沢鴨"
+          "modified": "Assassination of Serizawa Kamo"
         },
         {
           "index": 30,
           "start": 4880,
           "original": "龍馬遭遇",
-          "modified": "龍馬遭遇"
+          "modified": "Encounter with Ryoma"
         },
         {
           "index": 31,
           "start": 5040,
           "original": "暗殺・武市半平太",
-          "modified": "暗殺・武市半平太"
+          "modified": "Assassination of Takechi Hanpeita"
         },
         {
           "index": 32,
           "start": 5200,
           "original": "怨念",
-          "modified": "怨念"
+          "modified": "Grudge"
         },
         {
           "index": 33,
           "start": 5360,
           "original": "対決・岡田以蔵",
-          "modified": "対決・岡田以蔵"
+          "modified": "Confrontation with Okada Izo"
         },
         {
           "index": 34,
           "start": 5520,
           "original": "暗殺・土佐勤王党",
-          "modified": "暗殺・土佐勤王党"
+          "modified": "Assassination of the Tosa Loyalist Party"
         },
         {
           "index": 35,
           "start": 5680,
           "original": "池田屋血闘",
-          "modified": "池田屋血闘"
+          "modified": "Bloody Battle at the Ikedaya"
         },
         {
           "index": 36,
           "start": 5840,
           "original": "幾松",
-          "modified": "幾松"
+          "modified": "Ikumatsu"
         },
         {
           "index": 37,
           "start": 6000,
           "original": "暗殺・桂小五郎",
-          "modified": "暗殺・桂小五郎"
+          "modified": "Assassination of Katsura Kogoro"
         },
         {
           "index": 38,
           "start": 6160,
           "original": "それぞれの旗",
-          "modified": "それぞれの旗"
+          "modified": "Each Their Own Banner"
         },
         {
           "index": 39,
           "start": 6320,
           "original": "薩摩の暗殺剣",
-          "modified": "薩摩の暗殺剣"
+          "modified": "Satsuma's Assassin's Blade"
         },
         {
           "index": 40,
           "start": 6480,
           "original": "決戦・中村半次郎",
-          "modified": "決戦・中村半次郎"
+          "modified": "Decisive Battle: Nakamura Hanjiro"
         },
         {
           "index": 41,
           "start": 6640,
           "original": "病",
-          "modified": "病"
+          "modified": "Illness"
         },
         {
           "index": 42,
           "start": 6800,
           "original": "燃える決意",
-          "modified": "燃える決意"
+          "modified": "Burning Resolve"
         },
         {
           "index": 43,
           "start": 6960,
           "original": "暗殺・坂本龍馬",
-          "modified": "暗殺・坂本龍馬"
+          "modified": "Assassination of Sakamoto Ryoma"
         },
         {
           "index": 44,
           "start": 7120,
           "original": "暗殺・中村半次郎",
-          "modified": "暗殺・中村半次郎"
+          "modified": "Assassination of Nakamura Hanjiro"
         },
         {
           "index": 45,
           "start": 7280,
           "original": "総司死す",
-          "modified": "総司死す"
+          "modified": "Soji Dies"
         },
         {
           "index": 46,
           "start": 7440,
           "original": "帰還",
-          "modified": "帰還"
+          "modified": "Return"
         },
         {
           "index": 47,
           "start": 7600,
           "original": "最後の夜",
-          "modified": "最後の夜"
+          "modified": "The Final Night"
         },
         {
           "index": 48,
           "start": 7760,
           "original": "炎の中へ",
-          "modified": "炎の中へ"
+          "modified": "Into the Flames"
         },
         {
           "index": 49,
           "start": 7920,
           "original": "池田屋護衛",
-          "modified": "池田屋護衛"
+          "modified": "Ikedaya Guard"
         },
         {
           "index": 50,
           "start": 8080,
           "original": "暗殺・沖田総司",
-          "modified": "暗殺・沖田総司"
+          "modified": "Assassination of Okita Soji"
         },
         {
           "index": 51,
           "start": 8240,
           "original": "暗殺・新選組局長",
-          "modified": "暗殺・新選組局長"
+          "modified": "Assassination of the Shinsengumi Commander"
         },
         {
           "index": 52,
           "start": 8400,
           "original": "最後の鬼",
-          "modified": "最後の鬼"
+          "modified": "The Last Demon"
         }
       ]
     }

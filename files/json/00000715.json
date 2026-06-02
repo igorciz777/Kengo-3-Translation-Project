@@ -17,37 +17,37 @@
           "index": 0,
           "start": 5200,
           "original": "連続技",
-          "modified": "連続技"
+          "modified": "Combo"
         },
         {
           "index": 1,
           "start": 5340,
           "original": "最大値六文字",
-          "modified": "最大値六文字"
+          "modified": "Max 6 Char"
         },
         {
           "index": 2,
           "start": 5480,
           "original": "抜刀技",
-          "modified": "抜刀技"
+          "modified": "Quickdraw"
         },
         {
           "index": 3,
           "start": 5620,
           "original": "最大値六文字",
-          "modified": "最大値六文字"
+          "modified": "Max 6 Char"
         },
         {
           "index": 4,
           "start": 5760,
           "original": "待　↓",
-          "modified": "待　↓"
+          "modified": "Wait ↓"
         },
         {
           "index": 5,
           "start": 5900,
           "original": "最大値六文字",
-          "modified": "最大値六文字"
+          "modified": "Max 6 Char"
         },
         {
           "index": 6,
@@ -59,7 +59,7 @@
           "index": 7,
           "start": 6180,
           "original": "最大値六文字",
-          "modified": "最大値六文字"
+          "modified": "Max 6 Char"
         },
         {
           "index": 8,
@@ -71,7 +71,7 @@
           "index": 9,
           "start": 6460,
           "original": "最大値六文字",
-          "modified": "最大値六文字"
+          "modified": "Max 6 Char"
         },
         {
           "index": 10,
@@ -83,19 +83,19 @@
           "index": 11,
           "start": 6740,
           "original": "最大値六文字",
-          "modified": "最大値六文字"
+          "modified": "Max 6 Char"
         },
         {
           "index": 12,
           "start": 6880,
           "original": "懸　上",
-          "modified": "懸　上"
+          "modified": "Hang ↑"
         },
         {
           "index": 13,
           "start": 7020,
           "original": "最大値六文字",
-          "modified": "最大値六文字"
+          "modified": "Max 6 Char"
         },
         {
           "index": 14,
@@ -107,7 +107,7 @@
           "index": 15,
           "start": 7300,
           "original": "最大値六文字",
-          "modified": "最大値六文字"
+          "modified": "Max 6 Char"
         },
         {
           "index": 16,
@@ -119,7 +119,7 @@
           "index": 17,
           "start": 7580,
           "original": "最大値六文字",
-          "modified": "最大値六文字"
+          "modified": "Max 6 Char"
         },
         {
           "index": 18,
@@ -131,7 +131,7 @@
           "index": 19,
           "start": 7860,
           "original": "最大値六文字",
-          "modified": "最大値六文字"
+          "modified": "Max 6 Char"
         },
         {
           "index": 20,
@@ -143,7 +143,7 @@
           "index": 21,
           "start": 8140,
           "original": "最大値六文字",
-          "modified": "最大値六文字"
+          "modified": "Max 6 Char"
         }
       ]
     }

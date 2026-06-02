@@ -17,19 +17,19 @@
           "index": 0,
           "start": 3216,
           "original": "連続技 %-12s",
-          "modified": "連続技 %-12s"
+          "modified": "Combo %-12s"
         },
         {
           "index": 1,
           "start": 3356,
           "original": "抜刀技 %-12s",
-          "modified": "抜刀技 %-12s"
+          "modified": "Quickdraw %-12s"
         },
         {
           "index": 2,
           "start": 3496,
           "original": "待　↓ %-12s",
-          "modified": "待　↓ %-12s"
+          "modified": "Wait ↓ %-12s"
         },
         {
           "index": 3,
@@ -53,7 +53,7 @@
           "index": 6,
           "start": 4056,
           "original": "懸　上 %-12s",
-          "modified": "懸　上 %-12s"
+          "modified": "Hang ↑ %-12s"
         },
         {
           "index": 7,

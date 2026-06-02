@@ -17,25 +17,25 @@
           "index": 0,
           "start": 80,
           "original": "個人名最大八文字",
-          "modified": "個人名最大八文字"
+          "modified": "Max 8 Char Name"
         },
         {
           "index": 1,
           "start": 240,
           "original": "最大文字数二十四文字最大文字数二十四文字でござる",
-          "modified": "最大文字数二十四文字最大文字数二十四文字でござる"
+          "modified": "Max 24 Chars Max 24 Chars, verily."
         },
         {
           "index": 2,
           "start": 400,
           "original": "最大文字数二十四文字最大文字数二十四文字でござる",
-          "modified": "最大文字数二十四文字最大文字数二十四文字でござる"
+          "modified": "Max 24 Chars Max 24 Chars, verily."
         },
         {
           "index": 3,
           "start": 560,
           "original": "最大文字数二十四文字最大文字数二十四文字でござる",
-          "modified": "最大文字数二十四文字最大文字数二十四文字でござる"
+          "modified": "Max 24 Chars Max 24 Chars, verily."
         },
         {
           "index": 4,

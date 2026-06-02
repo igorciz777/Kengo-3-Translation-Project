@@ -17,19 +17,19 @@
           "index": 0,
           "start": 80,
           "original": "江戸三大道場編",
-          "modified": "江戸三大道場編"
+          "modified": "Edo's Three Great Dojos"
         },
         {
           "index": 1,
           "start": 240,
           "original": "達成状況　　%2d/%2d",
-          "modified": "達成状況　　%2d/%2d"
+          "modified": "Completion %2d/%2d"
         },
         {
           "index": 2,
           "start": 400,
           "original": "シナリオ切替え",
-          "modified": "シナリオ切替え"
+          "modified": "Switch Scenario"
         },
         {
           "index": 3,
@@ -47,133 +47,133 @@
           "index": 5,
           "start": 880,
           "original": "三大道場諸流試合",
-          "modified": "三大道場諸流試合"
+          "modified": "Three Dojos: All-Styles Tournament"
         },
         {
           "index": 6,
           "start": 1040,
           "original": "試される天稟",
-          "modified": "試される天稟"
+          "modified": "Talent Put to the Test"
         },
         {
           "index": 7,
           "start": 1200,
           "original": "己が道を",
-          "modified": "己が道を"
+          "modified": "One's Own Path"
         },
         {
           "index": 8,
           "start": 1360,
           "original": "高弟との勝負",
-          "modified": "高弟との勝負"
+          "modified": "Match with the Top Disciple"
         },
         {
           "index": 9,
           "start": 1520,
           "original": "決戦・千葉周作",
-          "modified": "決戦・千葉周作"
+          "modified": "Decisive Battle: Chiba Shusaku"
         },
         {
           "index": 10,
           "start": 1680,
           "original": "『技』を破る",
-          "modified": "『技』を破る"
+          "modified": "Break Through 'Technique'"
         },
         {
           "index": 11,
           "start": 1840,
           "original": "血染めの決意",
-          "modified": "血染めの決意"
+          "modified": "Bloodstained Resolve"
         },
         {
           "index": 12,
           "start": 2000,
           "original": "『技』を斬る",
-          "modified": "『技』を斬る"
+          "modified": "Cut Through 'Technique'"
         },
         {
           "index": 13,
           "start": 2160,
           "original": "試される天稟",
-          "modified": "試される天稟"
+          "modified": "Talent Put to the Test"
         },
         {
           "index": 14,
           "start": 2320,
           "original": "己が道を",
-          "modified": "己が道を"
+          "modified": "One's Own Path"
         },
         {
           "index": 15,
           "start": 2480,
           "original": "高弟との勝負",
-          "modified": "高弟との勝負"
+          "modified": "Match with the Top Disciple"
         },
         {
           "index": 16,
           "start": 2640,
           "original": "決戦・斎藤弥九郎",
-          "modified": "決戦・斎藤弥九郎"
+          "modified": "Decisive Battle: Saito Yakuro"
         },
         {
           "index": 17,
           "start": 2800,
           "original": "『力』を破る",
-          "modified": "『力』を破る"
+          "modified": "Break Through 'Power'"
         },
         {
           "index": 18,
           "start": 2960,
           "original": "血染めの決意",
-          "modified": "血染めの決意"
+          "modified": "Bloodstained Resolve"
         },
         {
           "index": 19,
           "start": 3120,
           "original": "『力』を斬る",
-          "modified": "『力』を斬る"
+          "modified": "Cut Through 'Power'"
         },
         {
           "index": 20,
           "start": 3280,
           "original": "試される天稟",
-          "modified": "試される天稟"
+          "modified": "Talent Put to the Test"
         },
         {
           "index": 21,
           "start": 3440,
           "original": "己が道を",
-          "modified": "己が道を"
+          "modified": "One's Own Path"
         },
         {
           "index": 22,
           "start": 3600,
           "original": "高弟との勝負",
-          "modified": "高弟との勝負"
+          "modified": "Match with the Top Disciple"
         },
         {
           "index": 23,
           "start": 3760,
           "original": "決戦・桃井春蔵",
-          "modified": "決戦・桃井春蔵"
+          "modified": "Decisive Battle: Momoi Shunzo"
         },
         {
           "index": 24,
           "start": 3920,
           "original": "『位』を破る",
-          "modified": "『位』を破る"
+          "modified": "Break Through 'Rank'"
         },
         {
           "index": 25,
           "start": 4080,
           "original": "血染めの決意",
-          "modified": "血染めの決意"
+          "modified": "Bloodstained Resolve"
         },
         {
           "index": 26,
           "start": 4240,
           "original": "『位』を斬る",
-          "modified": "『位』を斬る"
+          "modified": "Cut Through 'Rank'"
         }
       ]
     }

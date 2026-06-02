@@ -29,7 +29,7 @@
           "index": 2,
           "start": 656,
           "original": ":確認",
-          "modified": ":Confirm"
+          "modified": "Confirm"
         },
         {
           "index": 3,
@@ -47,43 +47,43 @@
           "index": 5,
           "start": 1136,
           "original": ":国選択",
-          "modified": ":Region"
+          "modified": "Region"
         },
         {
           "index": 6,
           "start": 1296,
           "original": ":変更",
-          "modified": ":Change"
+          "modified": "Change"
         },
         {
           "index": 7,
           "start": 1456,
           "original": ":選択",
-          "modified": ":Select"
+          "modified": "Select"
         },
         {
           "index": 8,
           "start": 1616,
           "original": ":確認",
-          "modified": ":Confirm"
+          "modified": "Confirm"
         },
         {
           "index": 9,
           "start": 1776,
           "original": ":頁戻し",
-          "modified": ":Prev Page"
+          "modified": "Prev Page"
         },
         {
           "index": 10,
           "start": 1936,
           "original": ":頁送り",
-          "modified": ":Next Page"
+          "modified": "Next Page"
         },
         {
           "index": 11,
           "start": 2096,
           "original": "順送り",
-          "modified": "順送り"
+          "modified": "Advance"
         },
         {
           "index": 12,
@@ -101,13 +101,13 @@
           "index": 14,
           "start": 2576,
           "original": ":確認",
-          "modified": ":確認"
+          "modified": "Confirm"
         },
         {
           "index": 15,
           "start": 2736,
           "original": ":外す",
-          "modified": ":外す"
+          "modified": "Remove"
         }
       ]
     }

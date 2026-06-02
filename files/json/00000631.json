@@ -17,19 +17,19 @@
           "index": 0,
           "start": 80,
           "original": "一刀斎後継者編",
-          "modified": "一刀斎後継者編"
+          "modified": "Ittosai's Successor"
         },
         {
           "index": 1,
           "start": 240,
           "original": "達成状況　　%2d/%2d",
-          "modified": "達成状況　　%2d/%2d"
+          "modified": "Completion %2d/%2d"
         },
         {
           "index": 2,
           "start": 400,
           "original": "シナリオ切替え",
-          "modified": "シナリオ切替え"
+          "modified": "Switch Scenario"
         },
         {
           "index": 3,
@@ -47,121 +47,121 @@
           "index": 5,
           "start": 880,
           "original": "お相手つかまつる",
-          "modified": "お相手つかまつる"
+          "modified": "I Shall Be Your Opponent"
         },
         {
           "index": 6,
           "start": 1040,
           "original": "挑戦者",
-          "modified": "挑戦者"
+          "modified": "The Challenger"
         },
         {
           "index": 7,
           "start": 1200,
           "original": "その名は一刀斎",
-          "modified": "その名は一刀斎"
+          "modified": "His Name Is Ittosai"
         },
         {
           "index": 8,
           "start": 1360,
           "original": "入門",
-          "modified": "入門"
+          "modified": "Initiation"
         },
         {
           "index": 9,
           "start": 1520,
           "original": "兄弟弟子・典膳",
-          "modified": "兄弟弟子・典膳"
+          "modified": "Fellow Disciple: Tenzen"
         },
         {
           "index": 10,
           "start": 1680,
           "original": "一刀斎の教え",
-          "modified": "一刀斎の教え"
+          "modified": "Ittosai's Teachings"
         },
         {
           "index": 11,
           "start": 1840,
           "original": "老いの兆し",
-          "modified": "老いの兆し"
+          "modified": "Signs of Aging"
         },
         {
           "index": 12,
           "start": 2000,
           "original": "一刀を継ぐもの",
-          "modified": "一刀を継ぐもの"
+          "modified": "Heir to the Itto Style"
         },
         {
           "index": 13,
           "start": 2160,
           "original": "袂を分かつ時",
-          "modified": "袂を分かつ時"
+          "modified": "Time to Part Ways"
         },
         {
           "index": 14,
           "start": 2320,
           "original": "迷いの夜",
-          "modified": "迷いの夜"
+          "modified": "Night of Hesitation"
         },
         {
           "index": 15,
           "start": 2480,
           "original": "相弟子対決",
-          "modified": "相弟子対決"
+          "modified": "Fellow Disciples' Duel"
         },
         {
           "index": 16,
           "start": 2640,
           "original": "師の道、我が道",
-          "modified": "師の道、我が道"
+          "modified": "Master's Path, My Path"
         },
         {
           "index": 17,
           "start": 2800,
           "original": "さらば一刀斎",
-          "modified": "さらば一刀斎"
+          "modified": "Farewell, Ittosai"
         },
         {
           "index": 18,
           "start": 2960,
           "original": "対決・一刀斎",
-          "modified": "対決・一刀斎"
+          "modified": "Confrontation with Ittosai"
         },
         {
           "index": 19,
           "start": 3120,
           "original": "典膳との再会",
-          "modified": "典膳との再会"
+          "modified": "Reunion with Tenzen"
         },
         {
           "index": 20,
           "start": 3280,
           "original": "典膳と小野忠明",
-          "modified": "典膳と小野忠明"
+          "modified": "Tenzen and Ono Tadaaki"
         },
         {
           "index": 21,
           "start": 3440,
           "original": "決戦、時を越え",
-          "modified": "決戦、時を越え"
+          "modified": "Decisive Battle, Beyond Time"
         },
         {
           "index": 22,
           "start": 3600,
           "original": "出会い・小野忠明",
-          "modified": "出会い・小野忠明"
+          "modified": "Meeting with Ono Tadaaki"
         },
         {
           "index": 23,
           "start": 3760,
           "original": "一刀、これひとつ",
-          "modified": "一刀、これひとつ"
+          "modified": "The One Sword, This Alone"
         },
         {
           "index": 24,
           "start": 3920,
           "original": "対決・小野忠明",
-          "modified": "対決・小野忠明"
+          "modified": "Confrontation with Ono Tadaaki"
         }
       ]
     }

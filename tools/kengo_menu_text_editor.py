@@ -201,7 +201,7 @@ class BinaryTextEditor:
                     text_size = block['size']
 
                     if len(encoded_text) > text_size:
-                        raise ValueError(f"Modified text at index {text_entry['index']} is too large.")
+                        raise ValueError(f"Modified text at index {text_entry['index']} is too large. File: {json_path} Block: {block['block_index']} Text: {encoded_text} Size: {len(encoded_text)} Max: {text_size}")
 
                     bin_file.seek(entry_start)
                     bin_file.write(encoded_text)

@@ -17,19 +17,19 @@
           "index": 0,
           "start": 80,
           "original": "逃げの小五郎編",
-          "modified": "逃げの小五郎編"
+          "modified": "Kogoro the Elusive"
         },
         {
           "index": 1,
           "start": 240,
           "original": "達成状況　　%2d/%2d",
-          "modified": "達成状況　　%2d/%2d"
+          "modified": "Completion %2d/%2d"
         },
         {
           "index": 2,
           "start": 400,
           "original": "シナリオ切替え",
-          "modified": "シナリオ切替え"
+          "modified": "Switch Scenario"
         },
         {
           "index": 3,
@@ -47,7 +47,7 @@
           "index": 5,
           "start": 880,
           "original": "三道場・揃い踏み",
-          "modified": "三道場・揃い踏み"
+          "modified": "Three Dojos All Together"
         },
         {
           "index": 6,
@@ -65,73 +65,73 @@
           "index": 8,
           "start": 1360,
           "original": "桂合流",
-          "modified": "桂合流"
+          "modified": "Katsura Joins Forces"
         },
         {
           "index": 9,
           "start": 1520,
           "original": "桂の色",
-          "modified": "桂の色"
+          "modified": "Katsura's Colors"
         },
         {
           "index": 10,
           "start": 1680,
           "original": "京の政変",
-          "modified": "京の政変"
+          "modified": "Political Change in Kyoto"
         },
         {
           "index": 11,
           "start": 1840,
           "original": "新選組奇襲",
-          "modified": "新選組奇襲"
+          "modified": "Shinsengumi's Surprise Attack"
         },
         {
           "index": 12,
           "start": 2000,
           "original": "池田屋訪問",
-          "modified": "池田屋訪問"
+          "modified": "Visit to the Ikedaya"
         },
         {
           "index": 13,
           "start": 2160,
           "original": "逃げの小五郎",
-          "modified": "逃げの小五郎"
+          "modified": "Kogoro the Elusive"
         },
         {
           "index": 14,
           "start": 2320,
           "original": "長州敗走",
-          "modified": "長州敗走"
+          "modified": "Flight from Choshu"
         },
         {
           "index": 15,
           "start": 2480,
           "original": "再会・坂本龍馬",
-          "modified": "再会・坂本龍馬"
+          "modified": "Reunion with Sakamoto Ryoma"
         },
         {
           "index": 16,
           "start": 2640,
           "original": "桂小五郎の決断",
-          "modified": "桂小五郎の決断"
+          "modified": "Katsura Kogoro's Decision"
         },
         {
           "index": 17,
           "start": 2800,
           "original": "桂の焦り・壱",
-          "modified": "桂の焦り・壱"
+          "modified": "Katsura's Impatience, Vol. 1"
         },
         {
           "index": 18,
           "start": 2960,
           "original": "桂の焦り・弐",
-          "modified": "桂の焦り・弐"
+          "modified": "Katsura's Impatience, Vol. 2"
         },
         {
           "index": 19,
           "start": 3120,
           "original": "桂の焦り・参",
-          "modified": "桂の焦り・参"
+          "modified": "Katsura's Impatience, Vol. 3"
         }
       ]
     }

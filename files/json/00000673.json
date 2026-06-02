@@ -17,19 +17,19 @@
           "index": 0,
           "start": 80,
           "original": "銘刀取得状況　　%d/%d",
-          "modified": "銘刀取得状況　　%d/%d"
+          "modified": "Masterwork Swords %d/%d"
         },
         {
           "index": 1,
           "start": 240,
           "original": "未鑑定",
-          "modified": "未鑑定"
+          "modified": "Unappraised"
         },
         {
           "index": 2,
           "start": 400,
           "original": "未取得",
-          "modified": "未取得"
+          "modified": "Not Owned"
         },
         {
           "index": 3,
@@ -149,19 +149,19 @@
           "index": 22,
           "start": 3600,
           "original": "銘刀名",
-          "modified": "銘刀名"
+          "modified": "Sword Name"
         },
         {
           "index": 23,
           "start": 3760,
           "original": "本数",
-          "modified": "本数"
+          "modified": "Count"
         },
         {
           "index": 24,
           "start": 3920,
           "original": "位列",
-          "modified": "位列"
+          "modified": "Rank"
         },
         {
           "index": 25,

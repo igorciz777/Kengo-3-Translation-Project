@@ -17,19 +17,19 @@
           "index": 0,
           "start": 8336,
           "original": "銘刀取得状況　　%d/%d",
-          "modified": "銘刀取得状況　　%d/%d"
+          "modified": "Masterwork Swords\t\t%d/%d"
         },
         {
           "index": 1,
           "start": 8476,
           "original": "未鑑定",
-          "modified": "未鑑定"
+          "modified": "Unappraised"
         },
         {
           "index": 2,
           "start": 8616,
           "original": "未取得",
-          "modified": "未取得"
+          "modified": "Not Owned"
         },
         {
           "index": 3,

@@ -35,7 +35,7 @@
           "index": 3,
           "start": 7348,
           "original": "%4d文",
-          "modified": "%4d文"
+          "modified": "%4d Mon"
         },
         {
           "index": 4,
@@ -59,7 +59,7 @@
           "index": 7,
           "start": 7908,
           "original": "%4d文",
-          "modified": "%4d文"
+          "modified": "%4d Mon"
         },
         {
           "index": 8,
@@ -83,7 +83,7 @@
           "index": 11,
           "start": 8468,
           "original": "%4d文",
-          "modified": "%4d文"
+          "modified": "%4d Mon"
         },
         {
           "index": 12,
@@ -107,7 +107,7 @@
           "index": 15,
           "start": 9028,
           "original": "%4d文",
-          "modified": "%4d文"
+          "modified": "%4d Mon"
         },
         {
           "index": 16,
@@ -131,7 +131,7 @@
           "index": 19,
           "start": 9588,
           "original": "%4d文",
-          "modified": "%4d文"
+          "modified": "%4d Mon"
         },
         {
           "index": 20,
@@ -155,7 +155,7 @@
           "index": 23,
           "start": 10148,
           "original": "%4d文",
-          "modified": "%4d文"
+          "modified": "%4d Mon"
         },
         {
           "index": 24,
@@ -179,7 +179,7 @@
           "index": 27,
           "start": 10708,
           "original": "%4d文",
-          "modified": "%4d文"
+          "modified": "%4d Mon"
         }
       ]
     }

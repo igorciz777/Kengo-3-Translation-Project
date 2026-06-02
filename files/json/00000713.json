@@ -17,7 +17,7 @@
           "index": 0,
           "start": 912,
           "original": "所有技数 %d/%d",
-          "modified": "所有技数 %d/%d"
+          "modified": "Techs Owned %d/%d"
         }
       ]
     }

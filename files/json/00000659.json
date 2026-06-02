@@ -17,37 +17,37 @@
           "index": 0,
           "start": 80,
           "original": "性能比較",
-          "modified": "性能比較"
+          "modified": "Performance Comparison"
         },
         {
           "index": 1,
           "start": 240,
           "original": "選択中の刀：",
-          "modified": "選択中の刀："
+          "modified": "Selected Sword:"
         },
         {
           "index": 2,
           "start": 400,
           "original": "和泉守藤原兼定",
-          "modified": "和泉守藤原兼定"
+          "modified": "Izuminokami Kanesada"
         },
         {
           "index": 3,
           "start": 560,
           "original": "現在の帯刀：",
-          "modified": "現在の帯刀："
+          "modified": "Current Sword:"
         },
         {
           "index": 4,
           "start": 720,
           "original": "和泉守藤原兼定",
-          "modified": "和泉守藤原兼定"
+          "modified": "Izuminokami Kanesada"
         },
         {
           "index": 5,
           "start": 880,
           "original": "極上業物",
-          "modified": "極上業物"
+          "modified": "Top-Quality Blade"
         }
       ]
     }

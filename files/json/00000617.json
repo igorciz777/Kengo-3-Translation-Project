@@ -113,19 +113,19 @@
           "index": 16,
           "start": 2640,
           "original": "連続技",
-          "modified": "連続技"
+          "modified": "Combo"
         },
         {
           "index": 17,
           "start": 2800,
           "original": "抜刀技",
-          "modified": "抜刀技"
+          "modified": "Quickdraw"
         },
         {
           "index": 18,
           "start": 2960,
           "original": "待　↓",
-          "modified": "待　↓"
+          "modified": "Wait ↓"
         },
         {
           "index": 19,
@@ -149,31 +149,31 @@
           "index": 22,
           "start": 3600,
           "original": "懸　上",
-          "modified": "懸　上"
+          "modified": "Hang ↑"
         },
         {
           "index": 23,
           "start": 3760,
           "original": "　　下",
-          "modified": "　　下"
+          "modified": "　　↓"
         },
         {
           "index": 24,
           "start": 3920,
           "original": "　　八",
-          "modified": "　　八"
+          "modified": "Figure 8"
         },
         {
           "index": 25,
           "start": 4080,
           "original": "　　正",
-          "modified": "　　正"
+          "modified": "Straight"
         },
         {
           "index": 26,
           "start": 4240,
           "original": "　　防",
-          "modified": "　　防"
+          "modified": "　Guard"
         }
       ]
     }

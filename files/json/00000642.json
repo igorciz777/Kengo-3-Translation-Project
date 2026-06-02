@@ -29,13 +29,13 @@
           "index": 2,
           "start": 400,
           "original": "形取得情報",
-          "modified": "形取得情報"
+          "modified": "Form Acquisition Info"
         },
         {
           "index": 3,
           "start": 560,
           "original": "体得状況 %2d/%2d",
-          "modified": "体得状況 %2d/%2d"
+          "modified": "Mastery %2d/%2d"
         },
         {
           "index": 4,
@@ -59,133 +59,133 @@
           "index": 7,
           "start": 1200,
           "original": "形名",
-          "modified": "形名"
+          "modified": "Form Name"
         },
         {
           "index": 8,
           "start": 1360,
           "original": "：",
-          "modified": "："
+          "modified": ":"
         },
         {
           "index": 9,
           "start": 1520,
           "original": "宮本武蔵",
-          "modified": "宮本武蔵"
+          "modified": "Miyamoto Musashi"
         },
         {
           "index": 10,
           "start": 1680,
           "original": "上段",
-          "modified": "上段"
+          "modified": "Upper"
         },
         {
           "index": 11,
           "start": 1840,
           "original": "佐々木小次郎",
-          "modified": "佐々木小次郎"
+          "modified": "Sasaki Kojiro"
         },
         {
           "index": 12,
           "start": 2000,
           "original": "上段",
-          "modified": "上段"
+          "modified": "Upper"
         },
         {
           "index": 13,
           "start": 2160,
           "original": "吉岡清十郎",
-          "modified": "吉岡清十郎"
+          "modified": "Yoshioka Seijuro"
         },
         {
           "index": 14,
           "start": 2320,
           "original": "正眼",
-          "modified": "正眼"
+          "modified": "Middle"
         },
         {
           "index": 15,
           "start": 2480,
           "original": "？",
-          "modified": "？"
+          "modified": "?"
         },
         {
           "index": 16,
           "start": 2640,
           "original": "？",
-          "modified": "？"
+          "modified": "?"
         },
         {
           "index": 17,
           "start": 2800,
           "original": "柳生宗矩",
-          "modified": "柳生宗矩"
+          "modified": "Yagyu Munenori"
         },
         {
           "index": 18,
           "start": 2960,
           "original": "上段",
-          "modified": "上段"
+          "modified": "Upper"
         },
         {
           "index": 19,
           "start": 3120,
           "original": "柳生十兵衛",
-          "modified": "柳生十兵衛"
+          "modified": "Yagyu Jubei"
         },
         {
           "index": 20,
           "start": 3280,
           "original": "上段",
-          "modified": "上段"
+          "modified": "Upper"
         },
         {
           "index": 21,
           "start": 3440,
           "original": "柳生兵庫助",
-          "modified": "柳生兵庫助"
+          "modified": "Yagyu Hyogonosuke"
         },
         {
           "index": 22,
           "start": 3600,
           "original": "上段",
-          "modified": "上段"
+          "modified": "Upper"
         },
         {
           "index": 23,
           "start": 3760,
           "original": "荒木又右衛門",
-          "modified": "荒木又右衛門"
+          "modified": "Araki Mataemon"
         },
         {
           "index": 24,
           "start": 3920,
           "original": "上段",
-          "modified": "上段"
+          "modified": "Upper"
         },
         {
           "index": 25,
           "start": 4080,
           "original": "伊藤一刀斎",
-          "modified": "伊藤一刀斎"
+          "modified": "Ito Ittosai"
         },
         {
           "index": 26,
           "start": 4240,
           "original": "正眼",
-          "modified": "正眼"
+          "modified": "Middle"
         },
         {
           "index": 27,
           "start": 4400,
           "original": "？",
-          "modified": "？"
+          "modified": "?"
         },
         {
           "index": 28,
           "start": 4560,
           "original": "？",
-          "modified": "？"
+          "modified": "?"
         }
       ]
     }

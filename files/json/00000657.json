@@ -191,7 +191,7 @@
           "index": 29,
           "start": 4720,
           "original": "位列",
-          "modified": "位列"
+          "modified": "Rank"
         },
         {
           "index": 30,
@@ -209,7 +209,7 @@
           "index": 32,
           "start": 5200,
           "original": "切れ味",
-          "modified": "切れ味"
+          "modified": "Sharpness"
         },
         {
           "index": 33,
@@ -227,7 +227,7 @@
           "index": 35,
           "start": 5680,
           "original": "耐久度",
-          "modified": "耐久度"
+          "modified": "Durability"
         },
         {
           "index": 36,

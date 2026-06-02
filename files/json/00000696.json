@@ -29,7 +29,7 @@
           "index": 2,
           "start": 400,
           "original": "野袴　壱",
-          "modified": "野袴　壱"
+          "modified": "Field Hakama 1"
         },
         {
           "index": 3,
@@ -41,7 +41,7 @@
           "index": 4,
           "start": 720,
           "original": "鶯茶染",
-          "modified": "鶯茶染"
+          "modified": "Nightingale Brown"
         },
         {
           "index": 5,
@@ -53,13 +53,13 @@
           "index": 6,
           "start": 1040,
           "original": "文",
-          "modified": "文"
+          "modified": "Mon"
         },
         {
           "index": 7,
           "start": 1200,
           "original": "両",
-          "modified": "両"
+          "modified": "Ryo"
         }
       ]
     }

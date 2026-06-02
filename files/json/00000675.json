@@ -17,19 +17,19 @@
           "index": 0,
           "start": 80,
           "original": "人類絶滅まであと365日。",
-          "modified": "人類絶滅まであと365日。"
+          "modified": "365 days until human extinction."
         },
         {
           "index": 1,
           "start": 240,
           "original": "いざヤマトでイスカンダルへ",
-          "modified": "いざヤマトでイスカンダルへ"
+          "modified": "To Iskandar aboard the Yamato!"
         },
         {
           "index": 2,
           "start": 400,
           "original": "真ん中の行",
-          "modified": "真ん中の行"
+          "modified": "Middle Line"
         }
       ]
     }

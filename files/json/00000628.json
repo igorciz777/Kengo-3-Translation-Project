@@ -17,19 +17,19 @@
           "index": 0,
           "start": 80,
           "original": "天下無双編",
-          "modified": "天下無双編"
+          "modified": "The Peerless Chapter"
         },
         {
           "index": 1,
           "start": 240,
           "original": "達成状況　　%2d/%2d",
-          "modified": "達成状況　　%2d/%2d"
+          "modified": "Completion %2d/%2d"
         },
         {
           "index": 2,
           "start": 400,
           "original": "シナリオ切替え",
-          "modified": "シナリオ切替え"
+          "modified": "Switch Scenario"
         },
         {
           "index": 3,
@@ -47,61 +47,61 @@
           "index": 5,
           "start": 880,
           "original": "始まり",
-          "modified": "始まり"
+          "modified": "The Beginning"
         },
         {
           "index": 6,
           "start": 1040,
           "original": "剣豪の標",
-          "modified": "剣豪の標"
+          "modified": "Mark of the Master"
         },
         {
           "index": 7,
           "start": 1200,
           "original": "武芸試合の誘い",
-          "modified": "武芸試合の誘い"
+          "modified": "Invitation to a Match"
         },
         {
           "index": 8,
           "start": 1360,
           "original": "武芸試合開催",
-          "modified": "武芸試合開催"
+          "modified": "Martial Tournament Held"
         },
         {
           "index": 9,
           "start": 1520,
           "original": "旅立ち",
-          "modified": "旅立ち"
+          "modified": "Departure"
         },
         {
           "index": 10,
           "start": 1680,
           "original": "さらば故郷",
-          "modified": "さらば故郷"
+          "modified": "Farewell, Hometown"
         },
         {
           "index": 11,
           "start": 1840,
           "original": "殺人剣・活人剣",
-          "modified": "殺人剣・活人剣"
+          "modified": "Killing Sword, Living Sword"
         },
         {
           "index": 12,
           "start": 2000,
           "original": "御前試合",
-          "modified": "御前試合"
+          "modified": "Match Before the Lord"
         },
         {
           "index": 13,
           "start": 2160,
           "original": "天下無双",
-          "modified": "天下無双"
+          "modified": "Unrivaled"
         },
         {
           "index": 14,
           "start": 2320,
           "original": "修羅の道へ",
-          "modified": "修羅の道へ"
+          "modified": "Path of Carnage"
         }
       ]
     }

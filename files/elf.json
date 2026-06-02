@@ -1,0 +1,2468 @@
+{
+  "file_info": {
+    "filename": "SLPM_657.00",
+    "file_size": 2012208,
+    "load_vaddr": "0x00100000",
+    "load_filesz": 2011648,
+    "crc": "8FA8F9AD"
+  },
+  "strings": [
+    {
+      "index": 0,
+      "vaddr": "0x002CBF70",
+      "file_offset": 1884144,
+      "original_bytes": 16,
+      "max_allowed_bytes": 24,
+      "original": "最大文字数八文字",
+      "modified": "Max 8 Characters"
+    },
+    {
+      "index": 1,
+      "vaddr": "0x002CBF90",
+      "file_offset": 1884176,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "再開",
+      "modified": "Resume"
+    },
+    {
+      "index": 2,
+      "vaddr": "0x002CBF98",
+      "file_offset": 1884184,
+      "original_bytes": 14,
+      "max_allowed_bytes": 24,
+      "original": "剣士選択に戻る",
+      "modified": "Back to Swordsman Select"
+    },
+    {
+      "index": 3,
+      "vaddr": "0x002CBFB0",
+      "file_offset": 1884208,
+      "original_bytes": 16,
+      "max_allowed_bytes": 24,
+      "original": "対決場選択に戻る",
+      "modified": "Back to Stage Select"
+    },
+    {
+      "index": 4,
+      "vaddr": "0x002CBFC8",
+      "file_offset": 1884232,
+      "original_bytes": 14,
+      "max_allowed_bytes": 16,
+      "original": "タイトルに戻る",
+      "modified": "Back to Title"
+    },
+    {
+      "index": 5,
+      "vaddr": "0x002CBFD8",
+      "file_offset": 1884248,
+      "original_bytes": 8,
+      "max_allowed_bytes": 16,
+      "original": "本編終了",
+      "modified": "End Game"
+    },
+    {
+      "index": 6,
+      "vaddr": "0x002CBFE8",
+      "file_offset": 1884264,
+      "original_bytes": 10,
+      "max_allowed_bytes": 24,
+      "original": "ＰＡＵＳＥ",
+      "modified": "PAUSE"
+    },
+    {
+      "index": 7,
+      "vaddr": "0x002CC000",
+      "file_offset": 1884288,
+      "original_bytes": 20,
+      "max_allowed_bytes": 24,
+      "original": "本編を終了しますか？",
+      "modified": "Quit the game?"
+    },
+    {
+      "index": 8,
+      "vaddr": "0x002CC018",
+      "file_offset": 1884312,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "はい",
+      "modified": "Yes"
+    },
+    {
+      "index": 9,
+      "vaddr": "0x002CC020",
+      "file_offset": 1884320,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "いいえ",
+      "modified": "No"
+    },
+    {
+      "index": 10,
+      "vaddr": "0x002CC028",
+      "file_offset": 1884328,
+      "original_bytes": 8,
+      "max_allowed_bytes": 16,
+      "original": "ＭＥＮＵ",
+      "modified": "MENU"
+    },
+    {
+      "index": 11,
+      "vaddr": "0x002CC038",
+      "file_offset": 1884344,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "再戦",
+      "modified": "Rematch"
+    },
+    {
+      "index": 12,
+      "vaddr": "0x002CC040",
+      "file_offset": 1884352,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "攻撃",
+      "modified": "Attack"
+    },
+    {
+      "index": 13,
+      "vaddr": "0x002CC048",
+      "file_offset": 1884360,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "防御",
+      "modified": "Guard"
+    },
+    {
+      "index": 14,
+      "vaddr": "0x002CC050",
+      "file_offset": 1884368,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "かわし",
+      "modified": "Evade"
+    },
+    {
+      "index": 15,
+      "vaddr": "0x002CC068",
+      "file_offset": 1884392,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "組躱技",
+      "modified": "Grapple"
+    },
+    {
+      "index": 16,
+      "vaddr": "0x002CC070",
+      "file_offset": 1884400,
+      "original_bytes": 8,
+      "max_allowed_bytes": 16,
+      "original": "五本先取",
+      "modified": "First to 5"
+    },
+    {
+      "index": 17,
+      "vaddr": "0x002CC080",
+      "file_offset": 1884416,
+      "original_bytes": 4,
+      "max_allowed_bytes": 16,
+      "original": "四勝",
+      "modified": "4 Wins"
+    },
+    {
+      "index": 18,
+      "vaddr": "0x002D0550",
+      "file_offset": 1902032,
+      "original_bytes": 6,
+      "max_allowed_bytes": 64,
+      "original": "野試合",
+      "modified": "Informal Match"
+    },
+    {
+      "index": 19,
+      "vaddr": "0x002D05A8",
+      "file_offset": 1902120,
+      "original_bytes": 6,
+      "max_allowed_bytes": 64,
+      "original": "賭試合",
+      "modified": "Bet Match"
+    },
+    {
+      "index": 20,
+      "vaddr": "0x002D0600",
+      "file_offset": 1902208,
+      "original_bytes": 6,
+      "max_allowed_bytes": 72,
+      "original": "闇試合",
+      "modified": "Dark Match"
+    },
+    {
+      "index": 21,
+      "vaddr": "0x002D0658",
+      "file_offset": 1902296,
+      "original_bytes": 16,
+      "max_allowed_bytes": 64,
+      "original": "剣豪対戦（木刀）",
+      "modified": "Kengo Match (Wood)"
+    },
+    {
+      "index": 22,
+      "vaddr": "0x002D06B0",
+      "file_offset": 1902384,
+      "original_bytes": 30,
+      "max_allowed_bytes": 64,
+      "original": "剣豪対戦（木刀）取得リストなし",
+      "modified": "Kengo Match (Wood) - No List"
+    },
+    {
+      "index": 23,
+      "vaddr": "0x002D0708",
+      "file_offset": 1902472,
+      "original_bytes": 16,
+      "max_allowed_bytes": 74,
+      "original": "剣豪対戦（真剣）",
+      "modified": "Kengo Match (Real)"
+    },
+    {
+      "index": 24,
+      "vaddr": "0x002D0760",
+      "file_offset": 1902560,
+      "original_bytes": 12,
+      "max_allowed_bytes": 74,
+      "original": "口入れ屋ボス",
+      "modified": "Employment Boss"
+    },
+    {
+      "index": 25,
+      "vaddr": "0x002D07B8",
+      "file_offset": 1902648,
+      "original_bytes": 28,
+      "max_allowed_bytes": 64,
+      "original": "武芸試合・諸流試合・御前試合",
+      "modified": "Martial Arts / Various / Imperial"
+    },
+    {
+      "index": 26,
+      "vaddr": "0x002D0810",
+      "file_offset": 1902736,
+      "original_bytes": 4,
+      "max_allowed_bytes": 74,
+      "original": "幻影",
+      "modified": "Phantom"
+    },
+    {
+      "index": 27,
+      "vaddr": "0x002D0868",
+      "file_offset": 1902824,
+      "original_bytes": 9,
+      "max_allowed_bytes": 84,
+      "original": "心像-対決",
+      "modified": "Mind's Eye - Duel"
+    },
+    {
+      "index": 28,
+      "vaddr": "0x002D08C0",
+      "file_offset": 1902912,
+      "original_bytes": 9,
+      "max_allowed_bytes": 64,
+      "original": "木刀-木刀",
+      "modified": "Wood-Wood"
+    },
+    {
+      "index": 29,
+      "vaddr": "0x002D0918",
+      "file_offset": 1903000,
+      "original_bytes": 9,
+      "max_allowed_bytes": 65,
+      "original": "真剣-木刀",
+      "modified": "Real-Wood"
+    },
+    {
+      "index": 30,
+      "vaddr": "0x002D0970",
+      "file_offset": 1903088,
+      "original_bytes": 9,
+      "max_allowed_bytes": 64,
+      "original": "木刀-真剣",
+      "modified": "Wood-Real"
+    },
+    {
+      "index": 31,
+      "vaddr": "0x002D09C8",
+      "file_offset": 1903176,
+      "original_bytes": 9,
+      "max_allowed_bytes": 72,
+      "original": "真剣-真剣",
+      "modified": "Real-Real"
+    },
+    {
+      "index": 32,
+      "vaddr": "0x002D4A80",
+      "file_offset": 1919744,
+      "original_bytes": 20,
+      "max_allowed_bytes": 24,
+      "original": "剣豪マリオネーション",
+      "modified": "Kengo Marionette"
+    },
+    {
+      "index": 33,
+      "vaddr": "0x002D4AA8",
+      "file_offset": 1919784,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "形選択",
+      "modified": "FormSl"
+    },
+    {
+      "index": 34,
+      "vaddr": "0x002D4AB0",
+      "file_offset": 1919792,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "自流",
+      "modified": "OwnStyl"
+    },
+    {
+      "index": 35,
+      "vaddr": "0x002D4AB8",
+      "file_offset": 1919800,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "剣豪",
+      "modified": "Kengo"
+    },
+    {
+      "index": 36,
+      "vaddr": "0x002D4AC0",
+      "file_offset": 1919808,
+      "original_bytes": 8,
+      "max_allowed_bytes": 16,
+      "original": "放浪剣士",
+      "modified": "WanderSwrd"
+    },
+    {
+      "index": 37,
+      "vaddr": "0x002D4AD0",
+      "file_offset": 1919824,
+      "original_bytes": 8,
+      "max_allowed_bytes": 16,
+      "original": "剣豪道場",
+      "modified": "Kengo Dojo"
+    },
+    {
+      "index": 38,
+      "vaddr": "0x002D4AE0",
+      "file_offset": 1919840,
+      "original_bytes": 8,
+      "max_allowed_bytes": 16,
+      "original": "地方道場",
+      "modified": "Local Dojo"
+    },
+    {
+      "index": 39,
+      "vaddr": "0x002D4AF0",
+      "file_offset": 1919856,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "特殊",
+      "modified": "Special"
+    },
+    {
+      "index": 40,
+      "vaddr": "0x002D4AF8",
+      "file_offset": 1919864,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "雑魚",
+      "modified": "Fodder"
+    },
+    {
+      "index": 41,
+      "vaddr": "0x002D4B28",
+      "file_offset": 1919912,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "形種類",
+      "modified": "FormTyp"
+    },
+    {
+      "index": 42,
+      "vaddr": "0x002D4B38",
+      "file_offset": 1919928,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "%s編",
+      "modified": "%s Arc"
+    },
+    {
+      "index": 43,
+      "vaddr": "0x002D4B40",
+      "file_offset": 1919936,
+      "original_bytes": 12,
+      "max_allowed_bytes": 16,
+      "original": "シナリオ選択",
+      "modified": "Scenario Select"
+    },
+    {
+      "index": 44,
+      "vaddr": "0x002D4B58",
+      "file_offset": 1919960,
+      "original_bytes": 14,
+      "max_allowed_bytes": 16,
+      "original": "スクリプト選択",
+      "modified": "Script Select"
+    },
+    {
+      "index": 45,
+      "vaddr": "0x002D4B70",
+      "file_offset": 1919984,
+      "original_bytes": 10,
+      "max_allowed_bytes": 16,
+      "original": "カメラ選択",
+      "modified": "Camera Select"
+    },
+    {
+      "index": 46,
+      "vaddr": "0x002D8648",
+      "file_offset": 1935048,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "真剣",
+      "modified": "RealSwd"
+    },
+    {
+      "index": 47,
+      "vaddr": "0x002D8650",
+      "file_offset": 1935056,
+      "original_bytes": 4,
+      "max_allowed_bytes": 16,
+      "original": "木刀",
+      "modified": "WoodSwd"
+    },
+    {
+      "index": 48,
+      "vaddr": "0x002D8680",
+      "file_offset": 1935104,
+      "original_bytes": 10,
+      "max_allowed_bytes": 16,
+      "original": "剣士リスト",
+      "modified": "Swordsman List"
+    },
+    {
+      "index": 49,
+      "vaddr": "0x002D86A0",
+      "file_offset": 1935136,
+      "original_bytes": 14,
+      "max_allowed_bytes": 16,
+      "original": "メモリーカード",
+      "modified": "Memory Card"
+    },
+    {
+      "index": 50,
+      "vaddr": "0x002D86B8",
+      "file_offset": 1935160,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "刀一覧",
+      "modified": "SwdList"
+    },
+    {
+      "index": 51,
+      "vaddr": "0x002D86C8",
+      "file_offset": 1935176,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "着物",
+      "modified": "Kimono"
+    },
+    {
+      "index": 52,
+      "vaddr": "0x002D86D8",
+      "file_offset": 1935192,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "服装",
+      "modified": "Clothing"
+    },
+    {
+      "index": 53,
+      "vaddr": "0x002D86E8",
+      "file_offset": 1935208,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "真剣",
+      "modified": "RealSwd"
+    },
+    {
+      "index": 54,
+      "vaddr": "0x002D86F0",
+      "file_offset": 1935216,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "木刀",
+      "modified": "WoodSwd"
+    },
+    {
+      "index": 55,
+      "vaddr": "0x002D86F8",
+      "file_offset": 1935224,
+      "original_bytes": 8,
+      "max_allowed_bytes": 16,
+      "original": "武器種類",
+      "modified": "Weapon Type"
+    },
+    {
+      "index": 56,
+      "vaddr": "0x002D8770",
+      "file_offset": 1935344,
+      "original_bytes": 6,
+      "max_allowed_bytes": 16,
+      "original": "%s流%s",
+      "modified": "%s Style %s"
+    },
+    {
+      "index": 57,
+      "vaddr": "0x002D8830",
+      "file_offset": 1935536,
+      "original_bytes": 10,
+      "max_allowed_bytes": 16,
+      "original": "？？？？？",
+      "modified": "?????"
+    },
+    {
+      "index": 58,
+      "vaddr": "0x002D8840",
+      "file_offset": 1935552,
+      "original_bytes": 14,
+      "max_allowed_bytes": 16,
+      "original": "達成録情報選択",
+      "modified": "RecInfoSlct"
+    },
+    {
+      "index": 59,
+      "vaddr": "0x002D8850",
+      "file_offset": 1935568,
+      "original_bytes": 12,
+      "max_allowed_bytes": 16,
+      "original": "物語達成状況",
+      "modified": "Story Progress"
+    },
+    {
+      "index": 60,
+      "vaddr": "0x002D8860",
+      "file_offset": 1935584,
+      "original_bytes": 10,
+      "max_allowed_bytes": 16,
+      "original": "形取得情報",
+      "modified": "FormAcqInf"
+    },
+    {
+      "index": 61,
+      "vaddr": "0x002D8870",
+      "file_offset": 1935600,
+      "original_bytes": 12,
+      "max_allowed_bytes": 16,
+      "original": "新技開発状況",
+      "modified": "TechProgrs"
+    },
+    {
+      "index": 62,
+      "vaddr": "0x002D8880",
+      "file_offset": 1935616,
+      "original_bytes": 10,
+      "max_allowed_bytes": 16,
+      "original": "組躱技情報",
+      "modified": "Grapple Info"
+    },
+    {
+      "index": 63,
+      "vaddr": "0x002D8890",
+      "file_offset": 1935632,
+      "original_bytes": 12,
+      "max_allowed_bytes": 16,
+      "original": "銘刀取得情報",
+      "modified": "MstSwdInfo"
+    },
+    {
+      "index": 64,
+      "vaddr": "0x002D88A0",
+      "file_offset": 1935648,
+      "original_bytes": 14,
+      "max_allowed_bytes": 16,
+      "original": "タイトルへ戻る",
+      "modified": "Return to Title"
+    },
+    {
+      "index": 65,
+      "vaddr": "0x002D88C8",
+      "file_offset": 1935688,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "形属性",
+      "modified": "FormAttr"
+    },
+    {
+      "index": 66,
+      "vaddr": "0x002D88D0",
+      "file_offset": 1935696,
+      "original_bytes": 14,
+      "max_allowed_bytes": 16,
+      "original": "剣豪　　　　　",
+      "modified": "Kengo"
+    },
+    {
+      "index": 67,
+      "vaddr": "0x002D88E0",
+      "file_offset": 1935712,
+      "original_bytes": 14,
+      "max_allowed_bytes": 16,
+      "original": "放浪剣士　　　",
+      "modified": "WanderSwrd"
+    },
+    {
+      "index": 68,
+      "vaddr": "0x002D88F0",
+      "file_offset": 1935728,
+      "original_bytes": 14,
+      "max_allowed_bytes": 16,
+      "original": "剣豪道場　　　",
+      "modified": "Kengo Dojo"
+    },
+    {
+      "index": 69,
+      "vaddr": "0x002D8900",
+      "file_offset": 1935744,
+      "original_bytes": 14,
+      "max_allowed_bytes": 16,
+      "original": "地方道場　　　",
+      "modified": "Local Dojo"
+    },
+    {
+      "index": 70,
+      "vaddr": "0x002D8948",
+      "file_offset": 1935816,
+      "original_bytes": 5,
+      "max_allowed_bytes": 8,
+      "original": "　　-",
+      "modified": "    -"
+    },
+    {
+      "index": 71,
+      "vaddr": "0x002D8A98",
+      "file_offset": 1936152,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "形選択",
+      "modified": "FormSl"
+    },
+    {
+      "index": 72,
+      "vaddr": "0x002D8CB0",
+      "file_offset": 1936688,
+      "original_bytes": 17,
+      "max_allowed_bytes": 32,
+      "original": "習得一覧:懸かわし",
+      "modified": "Learn: Kake-evade"
+    },
+    {
+      "index": 73,
+      "vaddr": "0x002D8CD0",
+      "file_offset": 1936720,
+      "original_bytes": 17,
+      "max_allowed_bytes": 24,
+      "original": "習得一覧:待かわし",
+      "modified": "Learn: Machi-evade"
+    },
+    {
+      "index": 74,
+      "vaddr": "0x002D8CF8",
+      "file_offset": 1936760,
+      "original_bytes": 11,
+      "max_allowed_bytes": 16,
+      "original": "習得一覧:形",
+      "modified": "Learn: Form"
+    },
+    {
+      "index": 75,
+      "vaddr": "0x002D8D08",
+      "file_offset": 1936776,
+      "original_bytes": 13,
+      "max_allowed_bytes": 16,
+      "original": "獲得一覧:手形",
+      "modified": "Acquire: Permits"
+    },
+    {
+      "index": 76,
+      "vaddr": "0x002D8D18",
+      "file_offset": 1936792,
+      "original_bytes": 11,
+      "max_allowed_bytes": 16,
+      "original": "獲得一覧:面",
+      "modified": "Acquire: Masks"
+    },
+    {
+      "index": 77,
+      "vaddr": "0x002D8D28",
+      "file_offset": 1936808,
+      "original_bytes": 11,
+      "max_allowed_bytes": 16,
+      "original": "獲得一覧:服",
+      "modified": "Acquire: Clothes"
+    },
+    {
+      "index": 78,
+      "vaddr": "0x002D8D38",
+      "file_offset": 1936824,
+      "original_bytes": 11,
+      "max_allowed_bytes": 16,
+      "original": "喪失一覧:刀",
+      "modified": "Lost: Swords"
+    },
+    {
+      "index": 79,
+      "vaddr": "0x002D8D48",
+      "file_offset": 1936840,
+      "original_bytes": 11,
+      "max_allowed_bytes": 24,
+      "original": "獲得一覧:刀",
+      "modified": "Acquire: Swords"
+    },
+    {
+      "index": 80,
+      "vaddr": "0x002D9110",
+      "file_offset": 1937808,
+      "original_bytes": 10,
+      "max_allowed_bytes": 16,
+      "original": "？？？？？",
+      "modified": "?????"
+    },
+    {
+      "index": 81,
+      "vaddr": "0x002D9128",
+      "file_offset": 1937832,
+      "original_bytes": 8,
+      "max_allowed_bytes": 16,
+      "original": "服装一覧",
+      "modified": "Clothing List"
+    },
+    {
+      "index": 82,
+      "vaddr": "0x002D92A0",
+      "file_offset": 1938208,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "装備",
+      "modified": "Equip"
+    },
+    {
+      "index": 83,
+      "vaddr": "0x002D92A8",
+      "file_offset": 1938216,
+      "original_bytes": 14,
+      "max_allowed_bytes": 16,
+      "original": "購入しますか？",
+      "modified": "Purchase?"
+    },
+    {
+      "index": 84,
+      "vaddr": "0x002D92B8",
+      "file_offset": 1938232,
+      "original_bytes": 14,
+      "max_allowed_bytes": 16,
+      "original": "装備しますか？",
+      "modified": "Equip?"
+    },
+    {
+      "index": 85,
+      "vaddr": "0x002D92C8",
+      "file_offset": 1938248,
+      "original_bytes": 12,
+      "max_allowed_bytes": 16,
+      "original": "外しますか？",
+      "modified": "Remove?"
+    },
+    {
+      "index": 86,
+      "vaddr": "0x002D92D8",
+      "file_offset": 1938264,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "はい",
+      "modified": "Yes"
+    },
+    {
+      "index": 87,
+      "vaddr": "0x002D92E0",
+      "file_offset": 1938272,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "いいえ",
+      "modified": "No"
+    },
+    {
+      "index": 88,
+      "vaddr": "0x002D9368",
+      "file_offset": 1938408,
+      "original_bytes": 8,
+      "max_allowed_bytes": 24,
+      "original": "売り切れ",
+      "modified": "Sold Out"
+    },
+    {
+      "index": 89,
+      "vaddr": "0x002D9570",
+      "file_offset": 1938928,
+      "original_bytes": 10,
+      "max_allowed_bytes": 16,
+      "original": "装飾品一覧",
+      "modified": "Accessory List"
+    },
+    {
+      "index": 90,
+      "vaddr": "0x002D96E8",
+      "file_offset": 1939304,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "%s編",
+      "modified": "%s Arc"
+    },
+    {
+      "index": 91,
+      "vaddr": "0x002DAE10",
+      "file_offset": 1945232,
+      "original_bytes": 12,
+      "max_allowed_bytes": 16,
+      "original": "バトルID選択",
+      "modified": "Battle ID Select"
+    },
+    {
+      "index": 92,
+      "vaddr": "0x002DAE30",
+      "file_offset": 1945264,
+      "original_bytes": 20,
+      "max_allowed_bytes": 32,
+      "original": "九十八随眠 見惑 欲界",
+      "modified": "98 Delusions - View - Desire"
+    },
+    {
+      "index": 93,
+      "vaddr": "0x002DAE50",
+      "file_offset": 1945296,
+      "original_bytes": 20,
+      "max_allowed_bytes": 32,
+      "original": "九十八随眠 見惑 色界",
+      "modified": "98 Delusions - View - Form"
+    },
+    {
+      "index": 94,
+      "vaddr": "0x002DAE70",
+      "file_offset": 1945328,
+      "original_bytes": 22,
+      "max_allowed_bytes": 32,
+      "original": "九十八随眠 見惑 無色界",
+      "modified": "98 Delusions - View - Formless"
+    },
+    {
+      "index": 95,
+      "vaddr": "0x002DAE90",
+      "file_offset": 1945360,
+      "original_bytes": 20,
+      "max_allowed_bytes": 32,
+      "original": "九十八随眠 修惑 欲界",
+      "modified": "98 Delusions - Practice - Desire"
+    },
+    {
+      "index": 96,
+      "vaddr": "0x002DAEB0",
+      "file_offset": 1945392,
+      "original_bytes": 20,
+      "max_allowed_bytes": 32,
+      "original": "九十八随眠 修惑 色界",
+      "modified": "98 Delusions - Practice - Form"
+    },
+    {
+      "index": 97,
+      "vaddr": "0x002DAED0",
+      "file_offset": 1945424,
+      "original_bytes": 22,
+      "max_allowed_bytes": 24,
+      "original": "九十八随眠 修惑 無色界",
+      "modified": "98D-Prac-Frmls"
+    },
+    {
+      "index": 98,
+      "vaddr": "0x002DAEF0",
+      "file_offset": 1945456,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "苦諦 貪",
+      "modified": "Suf:Grd"
+    },
+    {
+      "index": 99,
+      "vaddr": "0x002DAEF8",
+      "file_offset": 1945464,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "苦諦 瞋",
+      "modified": "Suf:Ang"
+    },
+    {
+      "index": 100,
+      "vaddr": "0x002DAF00",
+      "file_offset": 1945472,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "苦諦 癡",
+      "modified": "Suf:Ign"
+    },
+    {
+      "index": 101,
+      "vaddr": "0x002DAF08",
+      "file_offset": 1945480,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "苦諦 慢",
+      "modified": "Suf:Arro"
+    },
+    {
+      "index": 102,
+      "vaddr": "0x002DAF10",
+      "file_offset": 1945488,
+      "original_bytes": 7,
+      "max_allowed_bytes": 16,
+      "original": "苦諦 疑",
+      "modified": "Suf:Dbt"
+    },
+    {
+      "index": 103,
+      "vaddr": "0x002DAF20",
+      "file_offset": 1945504,
+      "original_bytes": 16,
+      "max_allowed_bytes": 32,
+      "original": "苦諦 悪見 有身見",
+      "modified": "WV:Self"
+    },
+    {
+      "index": 104,
+      "vaddr": "0x002DAF40",
+      "file_offset": 1945536,
+      "original_bytes": 16,
+      "max_allowed_bytes": 24,
+      "original": "苦諦 悪見 辺執見",
+      "modified": "WV:Extrm"
+    },
+    {
+      "index": 105,
+      "vaddr": "0x002DAF58",
+      "file_offset": 1945560,
+      "original_bytes": 14,
+      "max_allowed_bytes": 24,
+      "original": "苦諦 悪見 邪見",
+      "modified": "WV:False"
+    },
+    {
+      "index": 106,
+      "vaddr": "0x002DAF70",
+      "file_offset": 1945584,
+      "original_bytes": 16,
+      "max_allowed_bytes": 32,
+      "original": "苦諦 悪見 見取見",
+      "modified": "WV:VwClng"
+    },
+    {
+      "index": 107,
+      "vaddr": "0x002DAF90",
+      "file_offset": 1945616,
+      "original_bytes": 18,
+      "max_allowed_bytes": 24,
+      "original": "苦諦 悪見 戒禁取見",
+      "modified": "WV:RitCln"
+    },
+    {
+      "index": 108,
+      "vaddr": "0x002DAFA8",
+      "file_offset": 1945640,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "集諦 貪",
+      "modified": "Or:Gred"
+    },
+    {
+      "index": 109,
+      "vaddr": "0x002DAFB0",
+      "file_offset": 1945648,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "集諦 瞋",
+      "modified": "Or:Angr"
+    },
+    {
+      "index": 110,
+      "vaddr": "0x002DAFB8",
+      "file_offset": 1945656,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "集諦 癡",
+      "modified": "Or:Ignr"
+    },
+    {
+      "index": 111,
+      "vaddr": "0x002DAFC0",
+      "file_offset": 1945664,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "集諦 慢",
+      "modified": "Or:Arro"
+    },
+    {
+      "index": 112,
+      "vaddr": "0x002DAFC8",
+      "file_offset": 1945672,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "集諦 疑",
+      "modified": "Or:Dbt"
+    },
+    {
+      "index": 113,
+      "vaddr": "0x002DAFD0",
+      "file_offset": 1945680,
+      "original_bytes": 14,
+      "max_allowed_bytes": 16,
+      "original": "集諦 悪見 邪見",
+      "modified": "WV:False"
+    },
+    {
+      "index": 114,
+      "vaddr": "0x002DAFE0",
+      "file_offset": 1945696,
+      "original_bytes": 16,
+      "max_allowed_bytes": 24,
+      "original": "集諦 悪見 見取見",
+      "modified": "WV:VwClng"
+    },
+    {
+      "index": 115,
+      "vaddr": "0x002DAFF8",
+      "file_offset": 1945720,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "滅諦 貪",
+      "modified": "Ces:Gred"
+    },
+    {
+      "index": 116,
+      "vaddr": "0x002DB000",
+      "file_offset": 1945728,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "滅諦 瞋",
+      "modified": "Ces:Angr"
+    },
+    {
+      "index": 117,
+      "vaddr": "0x002DB008",
+      "file_offset": 1945736,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "滅諦 癡",
+      "modified": "Ces:Ignr"
+    },
+    {
+      "index": 118,
+      "vaddr": "0x002DB010",
+      "file_offset": 1945744,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "滅諦 慢",
+      "modified": "Ces:Arro"
+    },
+    {
+      "index": 119,
+      "vaddr": "0x002DB018",
+      "file_offset": 1945752,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "滅諦 疑",
+      "modified": "Ces:Dbt"
+    },
+    {
+      "index": 120,
+      "vaddr": "0x002DB020",
+      "file_offset": 1945760,
+      "original_bytes": 14,
+      "max_allowed_bytes": 16,
+      "original": "滅諦 悪見 邪見",
+      "modified": "WV:False"
+    },
+    {
+      "index": 121,
+      "vaddr": "0x002DB030",
+      "file_offset": 1945776,
+      "original_bytes": 16,
+      "max_allowed_bytes": 24,
+      "original": "滅諦 悪見 見取見",
+      "modified": "WV:VwClng"
+    },
+    {
+      "index": 122,
+      "vaddr": "0x002DB048",
+      "file_offset": 1945800,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "道諦 貪",
+      "modified": "Path:Grd"
+    },
+    {
+      "index": 123,
+      "vaddr": "0x002DB050",
+      "file_offset": 1945808,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "道諦 瞋",
+      "modified": "Path:Ang"
+    },
+    {
+      "index": 124,
+      "vaddr": "0x002DB058",
+      "file_offset": 1945816,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "道諦 癡",
+      "modified": "Path:Ign"
+    },
+    {
+      "index": 125,
+      "vaddr": "0x002DB060",
+      "file_offset": 1945824,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "道諦 慢",
+      "modified": "Path:Arr"
+    },
+    {
+      "index": 126,
+      "vaddr": "0x002DB068",
+      "file_offset": 1945832,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "道諦 疑",
+      "modified": "Path:Dbt"
+    },
+    {
+      "index": 127,
+      "vaddr": "0x002DB070",
+      "file_offset": 1945840,
+      "original_bytes": 14,
+      "max_allowed_bytes": 16,
+      "original": "道諦 悪見 邪見",
+      "modified": "WV:False"
+    },
+    {
+      "index": 128,
+      "vaddr": "0x002DB080",
+      "file_offset": 1945856,
+      "original_bytes": 16,
+      "max_allowed_bytes": 32,
+      "original": "道諦 悪見 見取見",
+      "modified": "WV:VwClng"
+    },
+    {
+      "index": 129,
+      "vaddr": "0x002DB0A0",
+      "file_offset": 1945888,
+      "original_bytes": 18,
+      "max_allowed_bytes": 24,
+      "original": "道諦 悪見 戒禁取見",
+      "modified": "WV:RitCln"
+    },
+    {
+      "index": 130,
+      "vaddr": "0x002DB0D8",
+      "file_offset": 1945944,
+      "original_bytes": 9,
+      "max_allowed_bytes": 16,
+      "original": "十纏 無漸",
+      "modified": "Fet:Shamels"
+    },
+    {
+      "index": 131,
+      "vaddr": "0x002DB0E8",
+      "file_offset": 1945960,
+      "original_bytes": 9,
+      "max_allowed_bytes": 16,
+      "original": "十纏 無愧",
+      "modified": "Fet:Impudnt"
+    },
+    {
+      "index": 132,
+      "vaddr": "0x002DB0F8",
+      "file_offset": 1945976,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "十纏 嫉",
+      "modified": "Fet:Jel"
+    },
+    {
+      "index": 133,
+      "vaddr": "0x002DB100",
+      "file_offset": 1945984,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "十纏 慳",
+      "modified": "Fet:Stng"
+    },
+    {
+      "index": 134,
+      "vaddr": "0x002DB108",
+      "file_offset": 1945992,
+      "original_bytes": 9,
+      "max_allowed_bytes": 16,
+      "original": "十纏 悪作",
+      "modified": "Fetters: Remorse"
+    },
+    {
+      "index": 135,
+      "vaddr": "0x002DB118",
+      "file_offset": 1946008,
+      "original_bytes": 9,
+      "max_allowed_bytes": 16,
+      "original": "十纏 睡眠",
+      "modified": "Fetters: Sloth"
+    },
+    {
+      "index": 136,
+      "vaddr": "0x002DB128",
+      "file_offset": 1946024,
+      "original_bytes": 9,
+      "max_allowed_bytes": 16,
+      "original": "十纏 掉挙",
+      "modified": "Fet:Rstlss"
+    },
+    {
+      "index": 137,
+      "vaddr": "0x002DB138",
+      "file_offset": 1946040,
+      "original_bytes": 9,
+      "max_allowed_bytes": 16,
+      "original": "十纏 弌沈",
+      "modified": "Fet:Drowsy"
+    },
+    {
+      "index": 138,
+      "vaddr": "0x002DB148",
+      "file_offset": 1946056,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "十纏 忿",
+      "modified": "Fet:Wrth"
+    },
+    {
+      "index": 139,
+      "vaddr": "0x002DB150",
+      "file_offset": 1946064,
+      "original_bytes": 7,
+      "max_allowed_bytes": 8,
+      "original": "十纏 覆",
+      "modified": "Fet:Hypo"
+    },
+    {
+      "index": 140,
+      "vaddr": "0x002DB170",
+      "file_offset": 1946096,
+      "original_bytes": 28,
+      "max_allowed_bytes": 32,
+      "original": "−−−−−−−−−−−−−−",
+      "modified": "────────────────"
+    },
+    {
+      "index": 141,
+      "vaddr": "0x002DB1A0",
+      "file_offset": 1946144,
+      "original_bytes": 15,
+      "max_allowed_bytes": 16,
+      "original": "%0d分%02d秒%02d",
+      "modified": "%0d:%02d:%02d"
+    },
+    {
+      "index": 142,
+      "vaddr": "0x002DB1B0",
+      "file_offset": 1946160,
+      "original_bytes": 8,
+      "max_allowed_bytes": 16,
+      "original": "%d人斬り",
+      "modified": "%d Kills"
+    },
+    {
+      "index": 143,
+      "vaddr": "0x002DB1C0",
+      "file_offset": 1946176,
+      "original_bytes": 12,
+      "max_allowed_bytes": 16,
+      "original": "1P剣士リスト",
+      "modified": "1PSwdList"
+    },
+    {
+      "index": 144,
+      "vaddr": "0x002DB1D0",
+      "file_offset": 1946192,
+      "original_bytes": 16,
+      "max_allowed_bytes": 24,
+      "original": "1Pオリジナル剣士",
+      "modified": "1P Original Swordsman"
+    },
+    {
+      "index": 145,
+      "vaddr": "0x002DB1F0",
+      "file_offset": 1946224,
+      "original_bytes": 12,
+      "max_allowed_bytes": 16,
+      "original": "未鑑定刀一覧",
+      "modified": "UnaprSwdL"
+    },
+    {
+      "index": 146,
+      "vaddr": "0x002DB270",
+      "file_offset": 1946352,
+      "original_bytes": 15,
+      "max_allowed_bytes": 16,
+      "original": "基本技 / 連続技",
+      "modified": "Basic / Combo"
+    },
+    {
+      "index": 147,
+      "vaddr": "0x002DB290",
+      "file_offset": 1946384,
+      "original_bytes": 15,
+      "max_allowed_bytes": 16,
+      "original": "基本技 / 待　↓",
+      "modified": "Basic / Wait  ↓"
+    },
+    {
+      "index": 148,
+      "vaddr": "0x002DB2A0",
+      "file_offset": 1946400,
+      "original_bytes": 15,
+      "max_allowed_bytes": 16,
+      "original": "基本技 / 待　↑",
+      "modified": "Basic / Wait  ↑"
+    },
+    {
+      "index": 149,
+      "vaddr": "0x002DB2B0",
+      "file_offset": 1946416,
+      "original_bytes": 15,
+      "max_allowed_bytes": 16,
+      "original": "基本技 / 待　→",
+      "modified": "Basic / Wait  →"
+    },
+    {
+      "index": 150,
+      "vaddr": "0x002DB2C0",
+      "file_offset": 1946432,
+      "original_bytes": 15,
+      "max_allowed_bytes": 16,
+      "original": "基本技 / 待　・",
+      "modified": "Basic / Wait  ･"
+    },
+    {
+      "index": 151,
+      "vaddr": "0x002DB2D0",
+      "file_offset": 1946448,
+      "original_bytes": 11,
+      "max_allowed_bytes": 16,
+      "original": "基本技 / 待",
+      "modified": "Basic / Wait"
+    },
+    {
+      "index": 152,
+      "vaddr": "0x002DB2F0",
+      "file_offset": 1946480,
+      "original_bytes": 15,
+      "max_allowed_bytes": 16,
+      "original": "基本技 / 懸　上",
+      "modified": "Bas/Hang-Up"
+    },
+    {
+      "index": 153,
+      "vaddr": "0x002DB300",
+      "file_offset": 1946496,
+      "original_bytes": 15,
+      "max_allowed_bytes": 16,
+      "original": "基本技 / 懸　下",
+      "modified": "Bas/Hang-Lo"
+    },
+    {
+      "index": 154,
+      "vaddr": "0x002DB310",
+      "file_offset": 1946512,
+      "original_bytes": 15,
+      "max_allowed_bytes": 16,
+      "original": "基本技 / 懸　八",
+      "modified": "Bas/Hang-8"
+    },
+    {
+      "index": 155,
+      "vaddr": "0x002DB320",
+      "file_offset": 1946528,
+      "original_bytes": 15,
+      "max_allowed_bytes": 16,
+      "original": "基本技 / 懸　正",
+      "modified": "Bas/Hang-Fr"
+    },
+    {
+      "index": 156,
+      "vaddr": "0x002DB330",
+      "file_offset": 1946544,
+      "original_bytes": 15,
+      "max_allowed_bytes": 16,
+      "original": "基本技 / 懸　防",
+      "modified": "Bas/Hang-Gd"
+    },
+    {
+      "index": 157,
+      "vaddr": "0x002DB340",
+      "file_offset": 1946560,
+      "original_bytes": 11,
+      "max_allowed_bytes": 16,
+      "original": "基本技 / 懸",
+      "modified": "Basic / Hang"
+    },
+    {
+      "index": 158,
+      "vaddr": "0x002DB350",
+      "file_offset": 1946576,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "連続技",
+      "modified": "Combo"
+    },
+    {
+      "index": 159,
+      "vaddr": "0x002DB358",
+      "file_offset": 1946584,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "抜刀技",
+      "modified": "Batto"
+    },
+    {
+      "index": 160,
+      "vaddr": "0x002DB360",
+      "file_offset": 1946592,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "待　↓",
+      "modified": "Wait  ↓"
+    },
+    {
+      "index": 161,
+      "vaddr": "0x002DB368",
+      "file_offset": 1946600,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "待　↑",
+      "modified": "Wait  ↑"
+    },
+    {
+      "index": 162,
+      "vaddr": "0x002DB370",
+      "file_offset": 1946608,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "待　→",
+      "modified": "Wait  →"
+    },
+    {
+      "index": 163,
+      "vaddr": "0x002DB378",
+      "file_offset": 1946616,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "待　・",
+      "modified": "Wait  ･"
+    },
+    {
+      "index": 164,
+      "vaddr": "0x002DB380",
+      "file_offset": 1946624,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "懸　上",
+      "modified": "Hang-Up"
+    },
+    {
+      "index": 165,
+      "vaddr": "0x002DB388",
+      "file_offset": 1946632,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "懸　下",
+      "modified": "Hang-Lo"
+    },
+    {
+      "index": 166,
+      "vaddr": "0x002DB390",
+      "file_offset": 1946640,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "懸　八",
+      "modified": "Hang-8"
+    },
+    {
+      "index": 167,
+      "vaddr": "0x002DB398",
+      "file_offset": 1946648,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "懸　正",
+      "modified": "Hang-Fr"
+    },
+    {
+      "index": 168,
+      "vaddr": "0x002DB3A0",
+      "file_offset": 1946656,
+      "original_bytes": 6,
+      "max_allowed_bytes": 16,
+      "original": "懸　防",
+      "modified": "Hang-Gd"
+    },
+    {
+      "index": 169,
+      "vaddr": "0x002DB3E8",
+      "file_offset": 1946728,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "基本技",
+      "modified": "BasicTe"
+    },
+    {
+      "index": 170,
+      "vaddr": "0x002DB620",
+      "file_offset": 1947296,
+      "original_bytes": 34,
+      "max_allowed_bytes": 40,
+      "original": "−−−−−−−−−−−−−−−−−",
+      "modified": "───────────────────"
+    },
+    {
+      "index": 171,
+      "vaddr": "0x002DB668",
+      "file_offset": 1947368,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "形選択",
+      "modified": "FormSl"
+    },
+    {
+      "index": 172,
+      "vaddr": "0x002DB690",
+      "file_offset": 1947408,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "豪腕",
+      "modified": "Might"
+    },
+    {
+      "index": 173,
+      "vaddr": "0x002DB698",
+      "file_offset": 1947416,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "切れ",
+      "modified": "Edge"
+    },
+    {
+      "index": 174,
+      "vaddr": "0x002DB6A0",
+      "file_offset": 1947424,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "俊敏",
+      "modified": "Agility"
+    },
+    {
+      "index": 175,
+      "vaddr": "0x002DB6A8",
+      "file_offset": 1947432,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "見切",
+      "modified": "Insight"
+    },
+    {
+      "index": 176,
+      "vaddr": "0x002DB6B0",
+      "file_offset": 1947440,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "精神",
+      "modified": "Spirit"
+    },
+    {
+      "index": 177,
+      "vaddr": "0x002DB6B8",
+      "file_offset": 1947448,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "頑強",
+      "modified": "Stamina"
+    },
+    {
+      "index": 178,
+      "vaddr": "0x002DB6C0",
+      "file_offset": 1947456,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "回復",
+      "modified": "Recovery"
+    },
+    {
+      "index": 179,
+      "vaddr": "0x002DB6C8",
+      "file_offset": 1947464,
+      "original_bytes": 10,
+      "max_allowed_bytes": 16,
+      "original": "　　　　%s",
+      "modified": "        %s"
+    },
+    {
+      "index": 180,
+      "vaddr": "0x002DB6D8",
+      "file_offset": 1947480,
+      "original_bytes": 8,
+      "max_allowed_bytes": 16,
+      "original": "鍛錬能力",
+      "modified": "Training Ability"
+    },
+    {
+      "index": 181,
+      "vaddr": "0x002DB6E8",
+      "file_offset": 1947496,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "豪腕",
+      "modified": "Might"
+    },
+    {
+      "index": 182,
+      "vaddr": "0x002DB6F0",
+      "file_offset": 1947504,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "切れ",
+      "modified": "Edge"
+    },
+    {
+      "index": 183,
+      "vaddr": "0x002DB6F8",
+      "file_offset": 1947512,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "俊敏",
+      "modified": "Agility"
+    },
+    {
+      "index": 184,
+      "vaddr": "0x002DB700",
+      "file_offset": 1947520,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "見切",
+      "modified": "Insight"
+    },
+    {
+      "index": 185,
+      "vaddr": "0x002DB708",
+      "file_offset": 1947528,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "精神",
+      "modified": "Spirit"
+    },
+    {
+      "index": 186,
+      "vaddr": "0x002DB710",
+      "file_offset": 1947536,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "頑強",
+      "modified": "Stamina"
+    },
+    {
+      "index": 187,
+      "vaddr": "0x002DB718",
+      "file_offset": 1947544,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "回復",
+      "modified": "Recovery"
+    },
+    {
+      "index": 188,
+      "vaddr": "0x002DB720",
+      "file_offset": 1947552,
+      "original_bytes": 10,
+      "max_allowed_bytes": 16,
+      "original": "　　　　%s",
+      "modified": "        %s"
+    },
+    {
+      "index": 189,
+      "vaddr": "0x002DB730",
+      "file_offset": 1947568,
+      "original_bytes": 8,
+      "max_allowed_bytes": 16,
+      "original": "代償能力",
+      "modified": "Exchange Ability"
+    },
+    {
+      "index": 190,
+      "vaddr": "0x002DB758",
+      "file_offset": 1947608,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "連続技",
+      "modified": "Combo"
+    },
+    {
+      "index": 191,
+      "vaddr": "0x002DB760",
+      "file_offset": 1947616,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "抜刀技",
+      "modified": "Batto"
+    },
+    {
+      "index": 192,
+      "vaddr": "0x002DB768",
+      "file_offset": 1947624,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "待　↓",
+      "modified": "Wait  ↓"
+    },
+    {
+      "index": 193,
+      "vaddr": "0x002DB770",
+      "file_offset": 1947632,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "待　↑",
+      "modified": "Wait  ↑"
+    },
+    {
+      "index": 194,
+      "vaddr": "0x002DB778",
+      "file_offset": 1947640,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "待　→",
+      "modified": "Wait  →"
+    },
+    {
+      "index": 195,
+      "vaddr": "0x002DB780",
+      "file_offset": 1947648,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "待　・",
+      "modified": "Wait  ･"
+    },
+    {
+      "index": 196,
+      "vaddr": "0x002DB788",
+      "file_offset": 1947656,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "懸　上",
+      "modified": "Hang-Up"
+    },
+    {
+      "index": 197,
+      "vaddr": "0x002DB790",
+      "file_offset": 1947664,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "懸　下",
+      "modified": "Hang-Lo"
+    },
+    {
+      "index": 198,
+      "vaddr": "0x002DB798",
+      "file_offset": 1947672,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "懸　八",
+      "modified": "Hang-8"
+    },
+    {
+      "index": 199,
+      "vaddr": "0x002DB7A0",
+      "file_offset": 1947680,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "懸　正",
+      "modified": "Hang-Fr"
+    },
+    {
+      "index": 200,
+      "vaddr": "0x002DB7A8",
+      "file_offset": 1947688,
+      "original_bytes": 6,
+      "max_allowed_bytes": 8,
+      "original": "懸　防",
+      "modified": "Hang-Gd"
+    },
+    {
+      "index": 201,
+      "vaddr": "0x002DB918",
+      "file_offset": 1948056,
+      "original_bytes": 13,
+      "max_allowed_bytes": 16,
+      "original": "　　　　　　-",
+      "modified": "            -"
+    },
+    {
+      "index": 202,
+      "vaddr": "0x002A6E00",
+      "file_offset": 1732224,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "雷剛",
+      "modified": "Thunderclap"
+    },
+    {
+      "index": 203,
+      "vaddr": "0x002A6E40",
+      "file_offset": 1732288,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "斬返",
+      "modified": "Counter Slash"
+    },
+    {
+      "index": 204,
+      "vaddr": "0x002A6E80",
+      "file_offset": 1732352,
+      "original_bytes": 6,
+      "max_allowed_bytes": 24,
+      "original": "五月雨",
+      "modified": "Samidare"
+    },
+    {
+      "index": 205,
+      "vaddr": "0x002A6EC0",
+      "file_offset": 1732416,
+      "original_bytes": 6,
+      "max_allowed_bytes": 24,
+      "original": "腰兜斬",
+      "modified": "Waist Helm Slash"
+    },
+    {
+      "index": 206,
+      "vaddr": "0x002A6F00",
+      "file_offset": 1732480,
+      "original_bytes": 6,
+      "max_allowed_bytes": 24,
+      "original": "心之位",
+      "modified": "Heart Stance"
+    },
+    {
+      "index": 207,
+      "vaddr": "0x002A6F40",
+      "file_offset": 1732544,
+      "original_bytes": 10,
+      "max_allowed_bytes": 24,
+      "original": "回打下引胴",
+      "modified": "Spin Low Torso"
+    },
+    {
+      "index": 208,
+      "vaddr": "0x002A6F80",
+      "file_offset": 1732608,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "発指",
+      "modified": "Finger Strike"
+    },
+    {
+      "index": 209,
+      "vaddr": "0x002A6FC0",
+      "file_offset": 1732672,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "山崩",
+      "modified": "Mountain Breaker"
+    },
+    {
+      "index": 210,
+      "vaddr": "0x002A7000",
+      "file_offset": 1732736,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "鳥飛",
+      "modified": "Bird Flight"
+    },
+    {
+      "index": 211,
+      "vaddr": "0x002A7040",
+      "file_offset": 1732800,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "十勢",
+      "modified": "Ten Forces"
+    },
+    {
+      "index": 212,
+      "vaddr": "0x002A7080",
+      "file_offset": 1732864,
+      "original_bytes": 8,
+      "max_allowed_bytes": 24,
+      "original": "一刀両断",
+      "modified": "One Sword Cut"
+    },
+    {
+      "index": 213,
+      "vaddr": "0x002A70C0",
+      "file_offset": 1732928,
+      "original_bytes": 6,
+      "max_allowed_bytes": 24,
+      "original": "一之詰",
+      "modified": "First Press"
+    },
+    {
+      "index": 214,
+      "vaddr": "0x002A7140",
+      "file_offset": 1733056,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "滑落",
+      "modified": "Slip Fall"
+    },
+    {
+      "index": 215,
+      "vaddr": "0x002A7180",
+      "file_offset": 1733120,
+      "original_bytes": 10,
+      "max_allowed_bytes": 24,
+      "original": "五月雨四連",
+      "modified": "Samidare Quad"
+    },
+    {
+      "index": 216,
+      "vaddr": "0x002A71C0",
+      "file_offset": 1733184,
+      "original_bytes": 6,
+      "max_allowed_bytes": 24,
+      "original": "腰兜突",
+      "modified": "Waist Helm Thrust"
+    },
+    {
+      "index": 217,
+      "vaddr": "0x002A7200",
+      "file_offset": 1733248,
+      "original_bytes": 10,
+      "max_allowed_bytes": 24,
+      "original": "心之位三連",
+      "modified": "Heart Stance Triple"
+    },
+    {
+      "index": 218,
+      "vaddr": "0x002A7240",
+      "file_offset": 1733312,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "張構",
+      "modified": "Brace"
+    },
+    {
+      "index": 219,
+      "vaddr": "0x002A7280",
+      "file_offset": 1733376,
+      "original_bytes": 8,
+      "max_allowed_bytes": 24,
+      "original": "鳥飛四連",
+      "modified": "Bird Flight Quad"
+    },
+    {
+      "index": 220,
+      "vaddr": "0x002A72C0",
+      "file_offset": 1733440,
+      "original_bytes": 6,
+      "max_allowed_bytes": 24,
+      "original": "表打ち",
+      "modified": "Surface Strike"
+    },
+    {
+      "index": 221,
+      "vaddr": "0x002A7300",
+      "file_offset": 1733504,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "乱打",
+      "modified": "Wild Barrage"
+    },
+    {
+      "index": 222,
+      "vaddr": "0x002A7340",
+      "file_offset": 1733568,
+      "original_bytes": 8,
+      "max_allowed_bytes": 24,
+      "original": "腰兜一勝",
+      "modified": "Waist Helm Victory"
+    },
+    {
+      "index": 223,
+      "vaddr": "0x002A7380",
+      "file_offset": 1733632,
+      "original_bytes": 8,
+      "max_allowed_bytes": 24,
+      "original": "心之浮返",
+      "modified": "Heart Float Return"
+    },
+    {
+      "index": 224,
+      "vaddr": "0x002A73C0",
+      "file_offset": 1733696,
+      "original_bytes": 12,
+      "max_allowed_bytes": 24,
+      "original": "回打引胴双返",
+      "modified": "Spin Torso Double"
+    },
+    {
+      "index": 225,
+      "vaddr": "0x002A7400",
+      "file_offset": 1733760,
+      "original_bytes": 10,
+      "max_allowed_bytes": 24,
+      "original": "鳥飛回打下",
+      "modified": "Bird Flight Spin"
+    },
+    {
+      "index": 226,
+      "vaddr": "0x002A7440",
+      "file_offset": 1733824,
+      "original_bytes": 8,
+      "max_allowed_bytes": 24,
+      "original": "神集乃舞",
+      "modified": "Divine Gathering Dance"
+    },
+    {
+      "index": 227,
+      "vaddr": "0x002A7480",
+      "file_offset": 1733888,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "双角",
+      "modified": "Dual Horns"
+    },
+    {
+      "index": 228,
+      "vaddr": "0x002A74C0",
+      "file_offset": 1733952,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "牙討",
+      "modified": "Fang Strike"
+    },
+    {
+      "index": 229,
+      "vaddr": "0x002A7500",
+      "file_offset": 1734016,
+      "original_bytes": 4,
+      "max_allowed_bytes": 25,
+      "original": "幻攻",
+      "modified": "Phantom Strike"
+    },
+    {
+      "index": 230,
+      "vaddr": "0x002A7540",
+      "file_offset": 1734080,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "鋒剣",
+      "modified": "Sharp Blade"
+    },
+    {
+      "index": 231,
+      "vaddr": "0x002A7580",
+      "file_offset": 1734144,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "幻葉",
+      "modified": "Phantom Leaf"
+    },
+    {
+      "index": 232,
+      "vaddr": "0x002A75C0",
+      "file_offset": 1734208,
+      "original_bytes": 10,
+      "max_allowed_bytes": 24,
+      "original": "砲身乱打　",
+      "modified": "Cannon Barrage"
+    },
+    {
+      "index": 233,
+      "vaddr": "0x002A7600",
+      "file_offset": 1734272,
+      "original_bytes": 4,
+      "max_allowed_bytes": 28,
+      "original": "妙真",
+      "modified": "Mystic Truth"
+    },
+    {
+      "index": 234,
+      "vaddr": "0x002A7640",
+      "file_offset": 1734336,
+      "original_bytes": 6,
+      "max_allowed_bytes": 24,
+      "original": "天狗割",
+      "modified": "Tengu Split"
+    },
+    {
+      "index": 235,
+      "vaddr": "0x002A7680",
+      "file_offset": 1734400,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "向剣",
+      "modified": "Opposing Blade"
+    },
+    {
+      "index": 236,
+      "vaddr": "0x002A76C0",
+      "file_offset": 1734464,
+      "original_bytes": 10,
+      "max_allowed_bytes": 24,
+      "original": "五行之太刀",
+      "modified": "Five Elements Blade"
+    },
+    {
+      "index": 237,
+      "vaddr": "0x002A7700",
+      "file_offset": 1734528,
+      "original_bytes": 6,
+      "max_allowed_bytes": 24,
+      "original": "斜鏡剣",
+      "modified": "Angled Mirror Sword"
+    },
+    {
+      "index": 238,
+      "vaddr": "0x002A7740",
+      "file_offset": 1734592,
+      "original_bytes": 10,
+      "max_allowed_bytes": 24,
+      "original": "双返之太刀",
+      "modified": "Double Return Blade"
+    },
+    {
+      "index": 239,
+      "vaddr": "0x002A7780",
+      "file_offset": 1734656,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "稲妻",
+      "modified": "Lightning"
+    },
+    {
+      "index": 240,
+      "vaddr": "0x002A77C0",
+      "file_offset": 1734720,
+      "original_bytes": 6,
+      "max_allowed_bytes": 24,
+      "original": "乱晴眼",
+      "modified": "Wild Clear Eye"
+    },
+    {
+      "index": 241,
+      "vaddr": "0x002A7800",
+      "file_offset": 1734784,
+      "original_bytes": 6,
+      "max_allowed_bytes": 24,
+      "original": "燕返し",
+      "modified": "Swallow Reversal"
+    },
+    {
+      "index": 242,
+      "vaddr": "0x002A7840",
+      "file_offset": 1734848,
+      "original_bytes": 6,
+      "max_allowed_bytes": 24,
+      "original": "一ノ勝",
+      "modified": "First Victory"
+    },
+    {
+      "index": 243,
+      "vaddr": "0x002A7880",
+      "file_offset": 1734912,
+      "original_bytes": 6,
+      "max_allowed_bytes": 24,
+      "original": "飛龍刀",
+      "modified": "Flying Dragon Sword"
+    },
+    {
+      "index": 244,
+      "vaddr": "0x002A78C0",
+      "file_offset": 1734976,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "必勝",
+      "modified": "Certain Victory"
+    },
+    {
+      "index": 245,
+      "vaddr": "0x002A7900",
+      "file_offset": 1735040,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "浮返",
+      "modified": "Float Return"
+    },
+    {
+      "index": 246,
+      "vaddr": "0x002A7940",
+      "file_offset": 1735104,
+      "original_bytes": 12,
+      "max_allowed_bytes": 24,
+      "original": "三連廻一文字",
+      "modified": "Triple Spin Arc"
+    },
+    {
+      "index": 247,
+      "vaddr": "0x002A7980",
+      "file_offset": 1735168,
+      "original_bytes": 6,
+      "max_allowed_bytes": 24,
+      "original": "双晴眼",
+      "modified": "Twin Clear Eye"
+    },
+    {
+      "index": 248,
+      "vaddr": "0x002A79C0",
+      "file_offset": 1735232,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "明牙",
+      "modified": "Bright Fang"
+    },
+    {
+      "index": 249,
+      "vaddr": "0x002A7A00",
+      "file_offset": 1735296,
+      "original_bytes": 10,
+      "max_allowed_bytes": 24,
+      "original": "諸手上跳斬",
+      "modified": "Overhead Leap Slash"
+    },
+    {
+      "index": 250,
+      "vaddr": "0x002A7A40",
+      "file_offset": 1735360,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "刈引",
+      "modified": "Reaper Pull"
+    },
+    {
+      "index": 251,
+      "vaddr": "0x002A7A80",
+      "file_offset": 1735424,
+      "original_bytes": 6,
+      "max_allowed_bytes": 24,
+      "original": "仏真刀",
+      "modified": "Buddha's True Sword"
+    },
+    {
+      "index": 252,
+      "vaddr": "0x002A7AC0",
+      "file_offset": 1735488,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "逆風",
+      "modified": "Headwind"
+    },
+    {
+      "index": 253,
+      "vaddr": "0x002A7B00",
+      "file_offset": 1735552,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "蜻蛉",
+      "modified": "Dragonfly"
+    },
+    {
+      "index": 254,
+      "vaddr": "0x002A7B40",
+      "file_offset": 1735616,
+      "original_bytes": 8,
+      "max_allowed_bytes": 24,
+      "original": "斬釘半旋",
+      "modified": "Nail Cut Half Spin"
+    },
+    {
+      "index": 255,
+      "vaddr": "0x002A7B80",
+      "file_offset": 1735680,
+      "original_bytes": 8,
+      "max_allowed_bytes": 24,
+      "original": "一針指先",
+      "modified": "Needle Point"
+    },
+    {
+      "index": 256,
+      "vaddr": "0x002A7BC0",
+      "file_offset": 1735744,
+      "original_bytes": 4,
+      "max_allowed_bytes": 24,
+      "original": "斜爪",
+      "modified": "Angled Claw"
+    },
+    {
+      "index": 257,
+      "vaddr": "0x002AA400",
+      "file_offset": 1746048,
+      "original_bytes": 4,
+      "max_allowed_bytes": 20,
+      "original": "弾上",
+      "modified": "Deflect Up"
+    },
+    {
+      "index": 258,
+      "vaddr": "0x002AA7C0",
+      "file_offset": 1747008,
+      "original_bytes": 4,
+      "max_allowed_bytes": 20,
+      "original": "刃絡",
+      "modified": "Blade Bind"
+    },
+    {
+      "index": 259,
+      "vaddr": "0x002AAB80",
+      "file_offset": 1747968,
+      "original_bytes": 4,
+      "max_allowed_bytes": 20,
+      "original": "打落",
+      "modified": "Knock Down"
+    },
+    {
+      "index": 260,
+      "vaddr": "0x002AAF40",
+      "file_offset": 1748928,
+      "original_bytes": 4,
+      "max_allowed_bytes": 20,
+      "original": "迫上",
+      "modified": "Press Forward"
+    },
+    {
+      "index": 261,
+      "vaddr": "0x002AB300",
+      "file_offset": 1749888,
+      "original_bytes": 4,
+      "max_allowed_bytes": 20,
+      "original": "腰車",
+      "modified": "Waist Wheel"
+    },
+    {
+      "index": 262,
+      "vaddr": "0x002AB6C0",
+      "file_offset": 1750848,
+      "original_bytes": 4,
+      "max_allowed_bytes": 20,
+      "original": "巻込",
+      "modified": "Roll In"
+    },
+    {
+      "index": 263,
+      "vaddr": "0x002ABA80",
+      "file_offset": 1751808,
+      "original_bytes": 4,
+      "max_allowed_bytes": 20,
+      "original": "寄身",
+      "modified": "Body Close"
+    },
+    {
+      "index": 264,
+      "vaddr": "0x002ABE40",
+      "file_offset": 1752768,
+      "original_bytes": 6,
+      "max_allowed_bytes": 20,
+      "original": "上段絡",
+      "modified": "High Bind"
+    },
+    {
+      "index": 265,
+      "vaddr": "0x002AC200",
+      "file_offset": 1753728,
+      "original_bytes": 4,
+      "max_allowed_bytes": 20,
+      "original": "払腰",
+      "modified": "Hip Sweep"
+    },
+    {
+      "index": 266,
+      "vaddr": "0x002AC5C0",
+      "file_offset": 1754688,
+      "original_bytes": 4,
+      "max_allowed_bytes": 20,
+      "original": "前蹴",
+      "modified": "Front Kick"
+    },
+    {
+      "index": 267,
+      "vaddr": "0x002DB190",
+      "file_offset": 1946128,
+      "original_bytes": 4,
+      "max_allowed_bytes": 16,
+      "original": "%s%s",
+      "modified": "%s%s"
+    },
+    {
+      "index": 268,
+      "vaddr": "0x002DB1AA",
+      "file_offset": 1946154,
+      "original_bytes": 5,
+      "max_allowed_bytes": 6,
+      "original": "b%02d",
+      "modified": "b%02d"
+    },
+    {
+      "index": 269,
+      "vaddr": "0x002DB1E8",
+      "file_offset": 1946216,
+      "original_bytes": 5,
+      "max_allowed_bytes": 8,
+      "original": "%-14s",
+      "modified": "%-14s"
+    },
+    {
+      "index": 270,
+      "vaddr": "0x002DB258",
+      "file_offset": 1946328,
+      "original_bytes": 8,
+      "max_allowed_bytes": 24,
+      "original": "%-14s/%s",
+      "modified": "%-14s/%s"
+    },
+    {
+      "index": 271,
+      "vaddr": "0x002DB618",
+      "file_offset": 1947288,
+      "original_bytes": 4,
+      "max_allowed_bytes": 8,
+      "original": "%s%s",
+      "modified": "%s%s"
+    },
+    {
+      "index": 272,
+      "vaddr": "0x002DB658",
+      "file_offset": 1947352,
+      "original_bytes": 8,
+      "max_allowed_bytes": 16,
+      "original": "%-14s/%s",
+      "modified": "%-14s/%s"
+    }
+  ]
+}
