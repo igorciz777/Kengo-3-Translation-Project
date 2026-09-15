@@ -270,6 +270,43 @@ def import_command(args):
     print(f"Imported -> {out}")
 
 
+def validate_dialog_text_file(filepath: str) -> bool:
+    try:
+        with open(filepath, 'rb') as f:
+            entry_count, magic = struct.unpack('<II', f.read(8))
+            return magic == 8 and entry_count > 0
+    except Exception:
+        return False
+
+
+def export_from_folder(folder_path: str, output_folder: Optional[str] = None):
+    folder = Path(folder_path)
+    out_folder = Path(output_folder) if output_folder else folder / 'exported_json'
+    out_folder.mkdir(parents=True, exist_ok=True)
+
+    for bin_file in sorted(folder.glob('*.bin')):
+        if validate_dialog_text_file(str(bin_file)):
+            extractor = DialogTextExtractor(str(bin_file))
+            out_path = out_folder / (bin_file.stem + '.json')
+            try:
+                extractor.export_to_json(str(out_path))
+                print(f"Exported: {out_path}")
+            except Exception as e:
+                print(f"Error: {bin_file.name}: {e}")
+
+
+def import_to_folder(folder_path: str, input_folder: Optional[str] = None):
+    folder = Path(folder_path)
+    in_folder = Path(input_folder) if input_folder else folder / 'exported_json'
+
+    for json_file in in_folder.glob('*.json'):
+        src_bin = folder / (json_file.stem + '.bin')
+        if src_bin.exists():
+            extractor = DialogTextExtractor(str(src_bin))
+            extractor.import_from_json(str(json_file), str(src_bin))
+            print(f"Imported: {src_bin}")
+
+
 def main():
     parser = argparse.ArgumentParser(description='Kengo 3 Dialog Text Extractor')
     sub = parser.add_subparsers(dest='cmd')
@@ -284,6 +321,16 @@ def main():
     p_import.add_argument('json_file', help='JSON file with translations')
     p_import.add_argument('-o', '--output-file', default=None)
     p_import.set_defaults(func=import_command)
+
+    p_export_folder = sub.add_parser('export-folder')
+    p_export_folder.add_argument('folder_path', help='Path to the folder containing .bin files')
+    p_export_folder.add_argument('-o', '--output-folder', default=None, help='Path to save exported JSON files')
+    p_export_folder.set_defaults(func=lambda args: export_from_folder(args.folder_path, args.output_folder))
+
+    p_import_folder = sub.add_parser('import-folder')
+    p_import_folder.add_argument('folder_path', help='Path to the folder containing .bin files')
+    p_import_folder.add_argument('-i', '--input-folder', default=None, help='Path to the folder containing JSON files')
+    p_import_folder.set_defaults(func=lambda args: import_to_folder(args.folder_path, args.input_folder))
 
     args = parser.parse_args()
     if not hasattr(args, 'func'):

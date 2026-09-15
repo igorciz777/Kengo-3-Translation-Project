@@ -32,7 +32,7 @@
       "original_bytes": 14,
       "max_allowed_bytes": 24,
       "original": "剣士選択に戻る",
-      "modified": "Back to Swordsman Select"
+      "modified": "Swordsman Select"
     },
     {
       "index": 3,
@@ -41,7 +41,7 @@
       "original_bytes": 16,
       "max_allowed_bytes": 24,
       "original": "対決場選択に戻る",
-      "modified": "Back to Stage Select"
+      "modified": "Stage Select"
     },
     {
       "index": 4,
@@ -1537,7 +1537,7 @@
       "original": "基本技",
       "modified": "BasicTe"
     },
-    {
+    {     
       "index": 170,
       "vaddr": "0x002DB620",
       "file_offset": 1947296,
