@@ -1,26 +1,25 @@
-struct txt<auto size>
-{
-	char data[size];
+// Kengo 3 Menu Text File Format
+struct sjis_string<auto max_len> {
+    char data[max_len];
 };
 
-struct txt_block{
-	u32 type;
-	u32 size;
-	u32 count;
-	u32 unk;
-	txt<size> text[count];
+struct MenuTextBlock {
+    u32 type;
+    u32 size;               // For type 1: bytes per text entry. Others: varies.
+    u32 count;              // Number of entries
+    u32 padding;            // Always 0x10
+    sjis_string<size> entries[count];
 };
 
-struct txt_entry{
-	u32 start;
-	u32 size;
-	txt_block block @ start;
+struct FileEntry {
+    u32 offset;             // Absolute offset to MenuTextBlock
+    u32 size;               // Total block data size (including 16-byte header)
 };
 
-struct txt_file{
-	u32 file_size;
-	u32 block_count;
-	txt_entry entries[block_count];
+struct FileHeader {
+    u32 file_size;          // Total file size in bytes
+    u32 block_count;        // Number of blocks
+    FileEntry entries[block_count];
 };
 
-txt_file file @ 0x0;
+FileHeader file @ 0x0;

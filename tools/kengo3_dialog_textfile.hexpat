@@ -1,57 +1,57 @@
 // Kengo 3 Dialog Text File
-struct TextEntry{
-    u16 lineFlags;
-    u16 slotSize;
-    u32 relOffset;
+struct TextEntry {
+    u16 line_flags;
+    u16 slot_size;
+    u32 rel_offset;
 };
 
 struct DataBlock {
     u16 marker;
-    u16 blockSize;
-    if(marker == 0x0b){
+    u16 block_size;
+    if(marker == 0x000B) {
         u32 type;
-        u32 pad;
-        u16 windowStyle;
-        u16 pad2;
-        u16 textCount;
-        u16 textSize;
-        u16 subBlockIdx;
-        u16 unk2;
-        u16 unk3;
-        u16 unk4;
-        u16 formatFlag;
-        u16 messageId;
-        u16 dataFlag;
-        u16 dataSize;
-        TextEntry texts[textCount];
-        u8 textData[blockSize - 36 - (8*textCount)];
-    }else{
-        u8 data[blockSize - 4];
+        u32 padding;
+        u16 window_style;
+        u16 padding2;
+        u16 text_count;
+        u16 text_size;
+        u16 sub_block_idx;
+        u16 unk5;
+        u16 unk6;
+        u16 unk7;
+        u16 format_flag;
+        u16 message_id;
+        u16 data_flag;
+        u16 data_size;
+        TextEntry texts[text_count];
+        u8 text_data[block_size - 36 - (text_count * 8)];
+    } else {
+        u8 data[block_size - 4];
     }
 };
 
 struct EntryHeader {
     u32 unk0;
-    u32 blockCount;
+    u32 block_count;
     u32 unk2;
     u32 unk3;
     u32 unk4;
-    DataBlock blocks[blockCount];
+    DataBlock blocks[block_count];
 };
 
-struct Entry {
+struct DialogEntry {
     u32 unk0;
     u32 unk1;
     u32 unk2;
-    u32 entryIdx;
+    u32 entry_idx;
     u32 offset;
     EntryHeader entry @ offset;
 };
 
 struct FileHeader {
-    u32 entryCount;
+    u32 entry_count;
     u32 magic;
-    Entry entries[entryCount];
+    DialogEntry entries[entry_count];
 };
 
 FileHeader file @ 0x0;
